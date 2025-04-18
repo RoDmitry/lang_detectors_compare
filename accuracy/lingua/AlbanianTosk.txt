@@ -1,0 +1,16 @@
+##### AlbanianTosk #####
+
+>>> Accuracy on average: 83.25%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 64.9%
+Erroneously classified as Dutch: 4.99%, Lithuanian: 3.69%, Maori: 2.04%, Danish: 1.66%, Portuguese: 1.45%, Tswana: 1.38%, Slovene: 1.23%, Esperanto: 1.1%, Croatian: 0.92%, Italian: 0.89%, Bosnian: 0.87%, Turkish: 0.85%, Somali: 0.79%, Finnish: 0.77%, Ganda: 0.75%, NorwegianBokmal: 0.73%, Basque: 0.67%, Romanian: 0.67%, Swahili: 0.66%, Sesotho: 0.65%, Irish: 0.6%, Tagalog: 0.6%, German: 0.58%, Shona: 0.58%, Catalan: 0.54%, Spanish: 0.53%, Malay: 0.49%, Estonian: 0.43%, French: 0.39%, Tsonga: 0.37%, Welsh: 0.37%, Latvian: 0.34%, Zulu: 0.31%, English: 0.25%, Xhosa: 0.24%, Indonesian: 0.23%, AzerbaijaniNorth: 0.22%, Icelandic: 0.22%, Afrikaans: 0.21%, Slovak: 0.19%, Polish: 0.17%, NorwegianNynorsk: 0.13%, Yoruba: 0.13%, Swedish: 0.1%, Hungarian: 0.07%, Czech: 0.05%
+
+>> Detection of 9999 word pairs (average length: 11 chars)
+Accuracy: 86.1%
+Erroneously classified as Esperanto: 0.91%, Bosnian: 0.66%, Portuguese: 0.64%, Sesotho: 0.62%, Swahili: 0.54%, Slovene: 0.49%, Italian: 0.48%, Turkish: 0.48%, Malay: 0.47%, Romanian: 0.47%, German: 0.42%, Indonesian: 0.4%, Lithuanian: 0.4%, Maori: 0.4%, NorwegianBokmal: 0.39%, Croatian: 0.38%, Finnish: 0.38%, Basque: 0.35%, English: 0.34%, Estonian: 0.32%, Shona: 0.3%, Spanish: 0.3%, Irish: 0.28%, Catalan: 0.27%, Dutch: 0.26%, Tagalog: 0.25%, Zulu: 0.25%, Danish: 0.23%, Tsonga: 0.21%, Xhosa: 0.21%, Tswana: 0.17%, Ganda: 0.16%, Latvian: 0.15%, Welsh: 0.14%, Afrikaans: 0.13%, French: 0.13%, Slovak: 0.13%, Swedish: 0.12%, Somali: 0.11%, Yoruba: 0.11%, AzerbaijaniNorth: 0.09%, NorwegianNynorsk: 0.09%, Polish: 0.09%, Hungarian: 0.07%, Icelandic: 0.06%, Czech: 0.04%
+
+>> Detection of 2000 sentences (average length: 127 chars)
+Accuracy: 98.75%
+Erroneously classified as German: 0.25%, English: 0.2%, Bosnian: 0.15%, Croatian: 0.1%, Shona: 0.1%, Tsonga: 0.1%, NorwegianBokmal: 0.05%, Sesotho: 0.05%, Spanish: 0.05%, Swahili: 0.05%, Tswana: 0.05%, Xhosa: 0.05%, Yoruba: 0.05%
+

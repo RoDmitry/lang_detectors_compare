@@ -1,0 +1,16 @@
+##### Slovak #####
+
+>>> Accuracy on average: 76.12%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 55.68%
+Erroneously classified as Czech: 9.31%, Tagalog: 4.83%, Somali: 4.07%, Polish: 2.18%, Slovene: 2.02%, Croatian: 1.73%, Portuguese: 1.64%, Estonian: 1.42%, Lithuanian: 1.05%, Welsh: 1.03%, Bosnian: 0.91%, Maori: 0.9%, Basque: 0.88%, Romanian: 0.76%, Swahili: 0.76%, Ganda: 0.71%, Hungarian: 0.7%, Sesotho: 0.68%, Danish: 0.66%, Yoruba: 0.66%, German: 0.59%, Esperanto: 0.56%, Catalan: 0.49%, Italian: 0.49%, Tswana: 0.49%, Turkish: 0.38%, French: 0.36%, Shona: 0.35%, Finnish: 0.33%, Dutch: 0.3%, Zulu: 0.3%, Afrikaans: 0.27%, Malay: 0.26%, Icelandic: 0.24%, Spanish: 0.24%, Vietnamese: 0.24%, AlbanianTosk: 0.22%, English: 0.2%, Latvian: 0.19%, Swedish: 0.17%, NorwegianBokmal: 0.16%, Irish: 0.14%, Tsonga: 0.12%, AzerbaijaniNorth: 0.11%, Indonesian: 0.11%, Xhosa: 0.07%, NorwegianNynorsk: 0.04%
+
+>> Detection of 9999 word pairs (average length: 13 chars)
+Accuracy: 78.4%
+Erroneously classified as Czech: 7.8%, Slovene: 1.49%, Bosnian: 1.02%, Polish: 1.01%, Croatian: 0.79%, Ganda: 0.64%, Shona: 0.6%, Romanian: 0.52%, Hungarian: 0.4%, Lithuanian: 0.39%, Swahili: 0.36%, Yoruba: 0.35%, Turkish: 0.34%, Portuguese: 0.28%, German: 0.27%, Dutch: 0.26%, Tagalog: 0.26%, French: 0.25%, Somali: 0.25%, Spanish: 0.25%, Tswana: 0.25%, English: 0.24%, Basque: 0.23%, Welsh: 0.23%, Esperanto: 0.22%, Sesotho: 0.22%, Danish: 0.21%, Irish: 0.21%, Italian: 0.21%, Indonesian: 0.18%, Latvian: 0.18%, Estonian: 0.17%, Icelandic: 0.16%, Catalan: 0.14%, Malay: 0.14%, Afrikaans: 0.13%, AlbanianTosk: 0.12%, Finnish: 0.12%, Tsonga: 0.12%, NorwegianBokmal: 0.11%, Swedish: 0.1%, Zulu: 0.1%, NorwegianNynorsk: 0.07%, Maori: 0.06%, Xhosa: 0.06%, AzerbaijaniNorth: 0.05%, Vietnamese: 0.03%
+
+>> Detection of 2000 sentences (average length: 137 chars)
+Accuracy: 94.3%
+Erroneously classified as Czech: 1.1%, Yoruba: 0.55%, English: 0.25%, Slovene: 0.25%, Welsh: 0.25%, Catalan: 0.2%, Tagalog: 0.2%, Bosnian: 0.15%, Esperanto: 0.15%, French: 0.15%, Ganda: 0.15%, Malay: 0.15%, Sesotho: 0.15%, Swahili: 0.15%, Tswana: 0.15%, Afrikaans: 0.1%, AlbanianTosk: 0.1%, AzerbaijaniNorth: 0.1%, Estonian: 0.1%, Hungarian: 0.1%, Italian: 0.1%, Lithuanian: 0.1%, Polish: 0.1%, Portuguese: 0.1%, Romanian: 0.1%, Shona: 0.1%, Swedish: 0.1%, Xhosa: 0.1%, Croatian: 0.05%, Danish: 0.05%, Dutch: 0.05%, Finnish: 0.05%, German: 0.05%, Icelandic: 0.05%, Indonesian: 0.05%, Tsonga: 0.05%
+

@@ -1,0 +1,16 @@
+##### Shona #####
+
+>>> Accuracy on average: 76.16%
+
+>> Detection of 10000 single words (average length: 7 chars)
+Accuracy: 57.53%
+Erroneously classified as Zulu: 5.28%, Tagalog: 3.59%, Javanese: 3.53%, Croatian: 2.86%, Lithuanian: 2.07%, UzbekNorthern: 2.05%, Indonesian: 1.93%, Turkish: 1.92%, Latin: 1.54%, Estonian: 1.5%, Akan: 1.41%, Italian: 1.26%, Slovak: 1.23%, Spanish: 1.22%, German: 0.92%, AzerbaijaniNorth: 0.87%, Turkmen: 0.87%, Slovene: 0.83%, English: 0.79%, Esperanto: 0.63%, Romanian: 0.6%, Portuguese: 0.59%, Finnish: 0.56%, Hungarian: 0.54%, Catalan: 0.52%, NorwegianBokmal: 0.48%, Czech: 0.45%, Polish: 0.42%, Latvian: 0.41%, Dutch: 0.38%, Afrikaans: 0.35%, Swedish: 0.29%, French: 0.22%, Danish: 0.18%, Vietnamese: 0.18%
+
+>> Detection of 9999 word pairs (average length: 16 chars)
+Accuracy: 74.9%
+Erroneously classified as Zulu: 3.58%, Javanese: 3.07%, Tagalog: 2.56%, Croatian: 1.38%, Indonesian: 1.33%, Italian: 1.3%, Turkish: 1.02%, UzbekNorthern: 0.96%, Lithuanian: 0.95%, Akan: 0.92%, Estonian: 0.81%, Slovene: 0.71%, English: 0.7%, Slovak: 0.61%, Latin: 0.59%, Finnish: 0.39%, Romanian: 0.36%, Afrikaans: 0.35%, Esperanto: 0.32%, Turkmen: 0.32%, Spanish: 0.3%, Dutch: 0.29%, Portuguese: 0.29%, German: 0.24%, Czech: 0.22%, French: 0.22%, Hungarian: 0.21%, Latvian: 0.2%, Polish: 0.18%, Catalan: 0.17%, NorwegianBokmal: 0.17%, Swedish: 0.17%, Danish: 0.13%, AzerbaijaniNorth: 0.06%, Vietnamese: 0.01%
+
+>> Detection of 2000 sentences (average length: 97 chars)
+Accuracy: 96.05%
+Erroneously classified as Zulu: 0.55%, Javanese: 0.5%, Estonian: 0.35%, Tagalog: 0.35%, English: 0.3%, Turkish: 0.2%, Croatian: 0.15%, Dutch: 0.15%, Hungarian: 0.15%, Italian: 0.15%, Swedish: 0.15%, UzbekNorthern: 0.15%, Catalan: 0.1%, Lithuanian: 0.1%, Slovene: 0.1%, Akan: 0.05%, Finnish: 0.05%, German: 0.05%, Indonesian: 0.05%, Portuguese: 0.05%, Romanian: 0.05%, Slovak: 0.05%, Spanish: 0.05%, Turkmen: 0.05%, Vietnamese: 0.05%
+

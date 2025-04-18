@@ -1,0 +1,16 @@
+##### Kashmiri #####
+
+>>> Accuracy on average: 84.81%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 66.11%
+Erroneously classified as Urdu: 8.4%, AzerbaijaniSouth: 5.74%, PersianDari: 5.68%, PersianWestern: 2.77%, Arabic: 1.65%, PashtoSouthern: 1.47%, KanuriCentralAjami: 1.24%, BanjarJawi: 1.21%, AcehneseJawi: 1.15%, KurdishCentral: 0.9%, ArabicMoroccan: 0.77%, Sindhi: 0.72%, ArabicSouthernYemeni: 0.55%, ArabicEgyptian: 0.46%, ArabicNorthLevantine: 0.39%, ArabicSouthLevantine: 0.18%, ArabicTunisian: 0.18%, ArabicMesopotamian: 0.17%, ArabicNajdi: 0.14%, Uyghur: 0.12%
+
+>> Detection of 9999 word pairs (average length: 9 chars)
+Accuracy: 88.53%
+Erroneously classified as Urdu: 3.81%, PersianDari: 3.14%, AzerbaijaniSouth: 1.73%, PersianWestern: 1.08%, PashtoSouthern: 0.33%, Arabic: 0.22%, KurdishCentral: 0.22%, BanjarJawi: 0.21%, Sindhi: 0.12%, AcehneseJawi: 0.11%, KanuriCentralAjami: 0.1%, ArabicEgyptian: 0.09%, ArabicMesopotamian: 0.07%, ArabicNajdi: 0.07%, ArabicMoroccan: 0.05%, ArabicSouthernYemeni: 0.05%, ArabicNorthLevantine: 0.04%, ArabicSouthLevantine: 0.02%
+
+>> Detection of 2000 sentences (average length: 133 chars)
+Accuracy: 99.8%
+Erroneously classified as Buginese: 0.1%, Banjar: 0.05%, German: 0.05%
+

@@ -1,0 +1,16 @@
+##### ArabicSouthernYemeni #####
+
+>>> Accuracy on average: 63.18%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 40.83%
+Erroneously classified as Arabic: 9.67%, ArabicMesopotamian: 8.66%, ArabicMoroccan: 5.52%, BanjarJawi: 5.19%, ArabicSouthLevantine: 4.88%, AcehneseJawi: 3.74%, ArabicEgyptian: 3%, PashtoSouthern: 2.81%, ArabicNorthLevantine: 2.68%, AzerbaijaniSouth: 1.91%, ArabicTunisian: 1.85%, PersianWestern: 1.76%, ArabicNajdi: 1.73%, KanuriCentralAjami: 1.71%, Kashmiri: 1.59%, Sindhi: 1.34%, PersianDari: 0.91%, Uyghur: 0.14%, KurdishCentral: 0.07%, Urdu: 0.01%
+
+>> Detection of 9999 word pairs (average length: 9 chars)
+Accuracy: 62.53%
+Erroneously classified as ArabicMesopotamian: 8.42%, Arabic: 5.59%, ArabicSouthLevantine: 4.2%, ArabicMoroccan: 3.76%, ArabicEgyptian: 3.5%, ArabicNorthLevantine: 2.86%, ArabicNajdi: 2.33%, BanjarJawi: 2.13%, AcehneseJawi: 1.42%, ArabicTunisian: 1.38%, PersianWestern: 0.54%, PersianDari: 0.38%, AzerbaijaniSouth: 0.31%, Sindhi: 0.27%, KanuriCentralAjami: 0.22%, PashtoSouthern: 0.09%, Kashmiri: 0.04%, Uyghur: 0.02%
+
+>> Detection of 2000 sentences (average length: 30 chars)
+Accuracy: 86.2%
+Erroneously classified as ArabicMesopotamian: 2.75%, Arabic: 1.8%, ArabicSouthLevantine: 1.8%, ArabicEgyptian: 1.6%, ArabicNajdi: 1.35%, ArabicNorthLevantine: 1.35%, ArabicMoroccan: 1.3%, ArabicTunisian: 0.8%, BanjarJawi: 0.4%, KanuriCentralAjami: 0.35%, PersianWestern: 0.25%, AcehneseJawi: 0.05%
+

@@ -1,0 +1,16 @@
+##### AzerbaijaniSouth #####
+
+>>> Accuracy on average: 90.08%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 77.09%
+Erroneously classified as PashtoSouthern: 5.8%, PersianWestern: 2.82%, PersianDari: 2.73%, Uyghur: 1.92%, BanjarJawi: 1.78%, AcehneseJawi: 1.5%, Urdu: 1.11%, Kashmiri: 0.73%, Arabic: 0.69%, KanuriCentralAjami: 0.69%, KurdishCentral: 0.54%, Sindhi: 0.54%, ArabicEgyptian: 0.52%, ArabicSouthLevantine: 0.41%, ArabicSouthernYemeni: 0.29%, ArabicNajdi: 0.26%, ArabicNorthLevantine: 0.21%, ArabicMesopotamian: 0.15%, ArabicMoroccan: 0.12%, ArabicTunisian: 0.1%
+
+>> Detection of 9999 word pairs (average length: 11 chars)
+Accuracy: 94.12%
+Erroneously classified as PersianWestern: 1.54%, PersianDari: 1.35%, PashtoSouthern: 0.5%, BanjarJawi: 0.34%, Arabic: 0.31%, AcehneseJawi: 0.28%, Kashmiri: 0.25%, KurdishCentral: 0.23%, Urdu: 0.16%, ArabicMoroccan: 0.15%, KanuriCentralAjami: 0.13%, ArabicSouthLevantine: 0.1%, Sindhi: 0.09%, ArabicEgyptian: 0.08%, ArabicNajdi: 0.08%, ArabicSouthernYemeni: 0.08%, ArabicNorthLevantine: 0.07%, Uyghur: 0.07%, ArabicMesopotamian: 0.03%, ArabicTunisian: 0.03%
+
+>> Detection of 2000 sentences (average length: 302 chars)
+Accuracy: 99.05%
+Erroneously classified as English: 0.95%
+

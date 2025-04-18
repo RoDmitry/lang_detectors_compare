@@ -1,0 +1,16 @@
+##### German #####
+
+>>> Accuracy on average: 6.79%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 1.06%
+Erroneously classified as Unknown: 98.94%
+
+>> Detection of 9999 word pairs (average length: 13 chars)
+Accuracy: 2.12%
+Erroneously classified as Unknown: 97.87%
+
+>> Detection of 2000 sentences (average length: 141 chars)
+Accuracy: 17.2%
+Erroneously classified as Unknown: 82.8%
+

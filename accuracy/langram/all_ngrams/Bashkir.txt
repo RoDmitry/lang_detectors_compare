@@ -1,0 +1,16 @@
+##### Bashkir #####
+
+>>> Accuracy on average: 87.41%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 71.69%
+Erroneously classified as Tatar: 14.7%, Kazakh: 3.67%, Kyrgyz: 2.12%, Tajik: 1.69%, Russian: 1.38%, Macedonian: 1.14%, Bulgarian: 1.07%, Serbian: 1%, Belarusian: 0.72%, MongolianHalh: 0.55%, Ukrainian: 0.27%
+
+>> Detection of 9999 word pairs (average length: 13 chars)
+Accuracy: 91.75%
+Erroneously classified as Tatar: 5.17%, Kazakh: 1.04%, Kyrgyz: 0.56%, Russian: 0.51%, Tajik: 0.25%, Serbian: 0.19%, Bulgarian: 0.14%, Belarusian: 0.13%, Ukrainian: 0.11%, Macedonian: 0.08%, MongolianHalh: 0.06%
+
+>> Detection of 2000 sentences (average length: 75 chars)
+Accuracy: 98.8%
+Erroneously classified as Russian: 0.4%, Tatar: 0.15%, Belarusian: 0.1%, MongolianHalh: 0.1%, Serbian: 0.1%, Tajik: 0.1%, English: 0.05%, German: 0.05%, Kyrgyz: 0.05%, Nyanja: 0.05%, Ukrainian: 0.05%
+

@@ -1,0 +1,16 @@
+##### Turkish #####
+
+>>> Accuracy on average: 88.76%
+
+>> Detection of 10000 single words (average length: 7 chars)
+Accuracy: 77.08%
+Erroneously classified as English: 5.87%, Swedish: 4.85%, Italian: 4%, Dutch: 2.61%, Spanish: 2.26%, Portuguese: 1.48%, German: 1.07%, French: 0.69%, Vietnamese: 0.06%, Arabic: 0.03%
+
+>> Detection of 9999 word pairs (average length: 14 chars)
+Accuracy: 90.92%
+Erroneously classified as Italian: 1.68%, English: 1.64%, Swedish: 1.43%, Spanish: 1.23%, Dutch: 1.15%, Portuguese: 0.8%, German: 0.65%, French: 0.47%, Vietnamese: 0.02%
+
+>> Detection of 2000 sentences (average length: 108 chars)
+Accuracy: 98.3%
+Erroneously classified as Swedish: 0.45%, English: 0.4%, German: 0.4%, French: 0.2%, Italian: 0.1%, Dutch: 0.05%, Portuguese: 0.05%, Spanish: 0.05%
+

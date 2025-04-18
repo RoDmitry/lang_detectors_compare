@@ -1,0 +1,16 @@
+##### Dzongkha #####
+
+>>> Accuracy on average: 97.11%
+
+>> Detection of 10000 single words (average length: 24 chars)
+Accuracy: 95.6%
+Erroneously classified as Tibetan: 4.4%
+
+>> Detection of 9999 word pairs (average length: 49 chars)
+Accuracy: 97.53%
+Erroneously classified as Tibetan: 2.46%
+
+>> Detection of 2000 sentences (average length: 175 chars)
+Accuracy: 98.2%
+Erroneously classified as Tibetan: 1.6%, English: 0.1%, KanuriCentral: 0.05%, Minangkabau: 0.05%
+

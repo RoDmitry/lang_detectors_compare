@@ -1,0 +1,16 @@
+##### Czech #####
+
+>>> Accuracy on average: 77.39%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 55.85%
+Erroneously classified as Slovak: 9.36%, Somali: 3.67%, Tswana: 2.31%, Croatian: 2.26%, Polish: 2.12%, Portuguese: 1.66%, Tagalog: 1.66%, Lithuanian: 1.38%, Italian: 1.24%, Sesotho: 1.24%, Slovene: 1.2%, Estonian: 1.03%, Bosnian: 1.02%, Welsh: 1.02%, Ganda: 1.01%, Maori: 0.99%, Swahili: 0.93%, Hungarian: 0.8%, Yoruba: 0.74%, Dutch: 0.72%, English: 0.64%, NorwegianBokmal: 0.64%, Basque: 0.52%, German: 0.52%, Romanian: 0.52%, Esperanto: 0.48%, Zulu: 0.48%, Finnish: 0.44%, French: 0.39%, Indonesian: 0.32%, Shona: 0.3%, Spanish: 0.24%, Turkish: 0.24%, Catalan: 0.22%, Danish: 0.22%, Tsonga: 0.21%, Malay: 0.2%, AzerbaijaniNorth: 0.18%, Latvian: 0.18%, Afrikaans: 0.17%, Xhosa: 0.13%, Icelandic: 0.11%, NorwegianNynorsk: 0.11%, AlbanianTosk: 0.1%, Swedish: 0.09%, Vietnamese: 0.09%, Irish: 0.05%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 78.69%
+Erroneously classified as Slovak: 6.37%, Bosnian: 1.27%, Croatian: 0.97%, Slovene: 0.96%, Yoruba: 0.88%, Polish: 0.72%, Ganda: 0.63%, Swahili: 0.48%, Italian: 0.44%, Lithuanian: 0.43%, Shona: 0.42%, Hungarian: 0.39%, Turkish: 0.38%, English: 0.37%, German: 0.34%, Romanian: 0.34%, Sesotho: 0.34%, Esperanto: 0.33%, Spanish: 0.31%, Catalan: 0.28%, NorwegianBokmal: 0.28%, Tswana: 0.28%, Tagalog: 0.27%, Portuguese: 0.26%, Danish: 0.24%, Indonesian: 0.24%, French: 0.23%, NorwegianNynorsk: 0.22%, Tsonga: 0.22%, Zulu: 0.22%, Estonian: 0.21%, Basque: 0.19%, Finnish: 0.18%, Xhosa: 0.17%, Malay: 0.15%, Maori: 0.15%, Swedish: 0.15%, Welsh: 0.14%, Dutch: 0.13%, Icelandic: 0.13%, Latvian: 0.13%, Afrikaans: 0.1%, AzerbaijaniNorth: 0.09%, Somali: 0.08%, Irish: 0.07%, Vietnamese: 0.07%, AlbanianTosk: 0.05%
+
+>> Detection of 2000 sentences (average length: 111 chars)
+Accuracy: 97.65%
+Erroneously classified as Slovak: 0.8%, Yoruba: 0.75%, Vietnamese: 0.2%, Shona: 0.1%, Bosnian: 0.05%, Catalan: 0.05%, Danish: 0.05%, Esperanto: 0.05%, Estonian: 0.05%, Irish: 0.05%, Lithuanian: 0.05%, Maori: 0.05%, Swedish: 0.05%, Welsh: 0.05%
+

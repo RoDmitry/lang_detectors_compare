@@ -1,0 +1,16 @@
+##### Czech #####
+
+>>> Accuracy on average: 35.23%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 6.36%
+Erroneously classified as Unknown: 93.64%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 16.74%
+Erroneously classified as Unknown: 83.25%
+
+>> Detection of 2000 sentences (average length: 111 chars)
+Accuracy: 82.6%
+Erroneously classified as Unknown: 17.35%, Mizo: 0.05%
+

@@ -1,0 +1,16 @@
+##### Portuguese #####
+
+>>> Accuracy on average: 24.09%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 3.09%
+Erroneously classified as Unknown: 96.91%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 6.28%
+Erroneously classified as Unknown: 93.71%
+
+>> Detection of 2000 sentences (average length: 157 chars)
+Accuracy: 62.9%
+Erroneously classified as Unknown: 37%, Afrikaans: 0.05%, Mizo: 0.05%
+

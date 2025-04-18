@@ -1,0 +1,16 @@
+##### MongolianHalh #####
+
+>>> Accuracy on average: 94.64%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 87.47%
+Erroneously classified as Tajik: 2.7%, Tatar: 2.12%, Kyrgyz: 1.54%, Belarusian: 1.42%, Serbian: 1.02%, Kazakh: 1%, Macedonian: 0.99%, Russian: 0.6%, Bulgarian: 0.52%, Ukrainian: 0.42%, Bashkir: 0.2%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 96.91%
+Erroneously classified as Kyrgyz: 0.68%, Tajik: 0.68%, Russian: 0.3%, Macedonian: 0.26%, Belarusian: 0.25%, Kazakh: 0.24%, Tatar: 0.2%, Serbian: 0.19%, Bulgarian: 0.15%, Ukrainian: 0.09%, Bashkir: 0.04%
+
+>> Detection of 2000 sentences (average length: 77 chars)
+Accuracy: 99.55%
+Erroneously classified as Tajik: 0.15%, Kyrgyz: 0.1%, Bulgarian: 0.05%, Kazakh: 0.05%, Macedonian: 0.05%, Ukrainian: 0.05%
+

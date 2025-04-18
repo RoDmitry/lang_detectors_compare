@@ -1,0 +1,21 @@
+[package]
+name = "lang_detectors_compare"
+version = "0.0.0"
+authors = ["Dmitry Rodionov <gh@rdmtr.com>"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+ahash = "0.8"
+alphabet_detector = { path = "../alphabet_detector", features = ["files_read"]}
+fraction = "0.15"
+indoc = "2"
+itertools = "0.14"
+langram = { path = "../langram" }
+lingua = "1"
+rayon = "1"
+strum = "0.27"
+titlecase = "3"
+whatlang = "0.16"
+whichlang = "0.1"

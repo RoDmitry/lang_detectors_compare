@@ -1,0 +1,16 @@
+##### PersianDari #####
+
+>>> Accuracy on average: 75.66%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 52.55%
+Erroneously classified as PersianWestern: 22.99%, AzerbaijaniSouth: 5.7%, PashtoSouthern: 4.52%, Kashmiri: 2.3%, Arabic: 1.86%, BanjarJawi: 1.74%, ArabicSouthernYemeni: 1.36%, Urdu: 1.02%, ArabicMoroccan: 0.99%, AcehneseJawi: 0.89%, KurdishCentral: 0.7%, ArabicEgyptian: 0.57%, ArabicNorthLevantine: 0.56%, KanuriCentralAjami: 0.56%, ArabicSouthLevantine: 0.54%, Sindhi: 0.45%, ArabicNajdi: 0.23%, ArabicMesopotamian: 0.22%, ArabicTunisian: 0.22%, Uyghur: 0.03%
+
+>> Detection of 9999 word pairs (average length: 9 chars)
+Accuracy: 76.58%
+Erroneously classified as PersianWestern: 15.12%, AzerbaijaniSouth: 2.52%, Kashmiri: 0.97%, PashtoSouthern: 0.75%, Arabic: 0.55%, Urdu: 0.54%, ArabicSouthLevantine: 0.49%, ArabicSouthernYemeni: 0.33%, ArabicMoroccan: 0.32%, ArabicEgyptian: 0.31%, KurdishCentral: 0.29%, AcehneseJawi: 0.26%, BanjarJawi: 0.26%, ArabicNorthLevantine: 0.18%, ArabicMesopotamian: 0.12%, KanuriCentralAjami: 0.12%, Sindhi: 0.12%, ArabicNajdi: 0.1%, ArabicTunisian: 0.06%
+
+>> Detection of 2000 sentences (average length: 125 chars)
+Accuracy: 97.85%
+Erroneously classified as PersianWestern: 1.65%, PashtoSouthern: 0.35%, AzerbaijaniSouth: 0.1%, English: 0.05%
+

@@ -1,0 +1,16 @@
+##### Samoan #####
+
+>>> Accuracy on average: 11.14%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 0.08%
+Erroneously classified as Unknown: 99.92%
+
+>> Detection of 9999 word pairs (average length: 8 chars)
+Accuracy: 0.4%
+Erroneously classified as Unknown: 99.59%
+
+>> Detection of 2000 sentences (average length: 104 chars)
+Accuracy: 32.95%
+Erroneously classified as Unknown: 64.65%, UzbekNorthern: 2.05%, Sesotho: 0.15%, Yoruba: 0.1%, Latin: 0.05%, Portuguese: 0.05%
+

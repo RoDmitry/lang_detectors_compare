@@ -1,0 +1,16 @@
+##### French #####
+
+>>> Accuracy on average: 1.73%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 0%
+Erroneously classified as Unknown: 100%
+
+>> Detection of 9999 word pairs (average length: 11 chars)
+Accuracy: 0.01%
+Erroneously classified as Unknown: 99.98%
+
+>> Detection of 2000 sentences (average length: 137 chars)
+Accuracy: 5.2%
+Erroneously classified as Unknown: 94.75%, Portuguese: 0.05%
+

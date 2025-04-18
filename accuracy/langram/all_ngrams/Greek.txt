@@ -1,0 +1,16 @@
+##### Greek #####
+
+>>> Accuracy on average: 99.38%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 100%
+Erroneously classified as 
+
+>> Detection of 9999 word pairs (average length: 13 chars)
+Accuracy: 100%
+Erroneously classified as 
+
+>> Detection of 2000 sentences (average length: 153 chars)
+Accuracy: 98.15%
+Erroneously classified as English: 0.45%, German: 0.35%, Indonesian: 0.2%, Tswana: 0.15%, Bemba: 0.1%, Italian: 0.1%, Swahili: 0.1%, Acehnese: 0.05%, French: 0.05%, Ilocano: 0.05%, Lithuanian: 0.05%, Minangkabau: 0.05%, NorwegianBokmal: 0.05%, Tsonga: 0.05%, Waray: 0.05%
+

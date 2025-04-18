@@ -1,0 +1,16 @@
+##### KurdishCentral #####
+
+>>> Accuracy on average: 94.6%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 87.36%
+Erroneously classified as PashtoSouthern: 5.09%, AzerbaijaniSouth: 1.77%, BanjarJawi: 1.13%, PersianDari: 1.06%, PersianWestern: 1.06%, ArabicSouthLevantine: 0.42%, AcehneseJawi: 0.32%, Kashmiri: 0.32%, Urdu: 0.32%, KanuriCentralAjami: 0.27%, Uyghur: 0.27%, Sindhi: 0.23%, Arabic: 0.12%, ArabicSouthernYemeni: 0.08%, ArabicEgyptian: 0.07%, ArabicNorthLevantine: 0.05%, ArabicTunisian: 0.03%, ArabicNajdi: 0.02%, ArabicMoroccan: 0.01%
+
+>> Detection of 9999 word pairs (average length: 11 chars)
+Accuracy: 96.86%
+Erroneously classified as PersianWestern: 0.81%, PersianDari: 0.5%, AzerbaijaniSouth: 0.45%, PashtoSouthern: 0.29%, BanjarJawi: 0.18%, AcehneseJawi: 0.14%, ArabicSouthLevantine: 0.13%, ArabicNorthLevantine: 0.1%, Urdu: 0.1%, Uyghur: 0.07%, ArabicEgyptian: 0.06%, KanuriCentralAjami: 0.05%, Kashmiri: 0.05%, ArabicSouthernYemeni: 0.04%, Sindhi: 0.04%, ArabicMesopotamian: 0.03%, ArabicTunisian: 0.03%, Arabic: 0.02%, ArabicMoroccan: 0.02%, ArabicNajdi: 0.02%
+
+>> Detection of 2000 sentences (average length: 222 chars)
+Accuracy: 99.6%
+Erroneously classified as English: 0.15%, Acehnese: 0.05%, ArabicEgyptian: 0.05%, BanjarJawi: 0.05%, Swati: 0.05%, Zulu: 0.05%
+

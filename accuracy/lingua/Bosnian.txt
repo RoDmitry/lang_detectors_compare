@@ -1,0 +1,16 @@
+##### Bosnian #####
+
+>>> Accuracy on average: 47.5%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 27.04%
+Erroneously classified as Croatian: 27.98%, Slovene: 4.62%, Ganda: 4.14%, Lithuanian: 3.7%, Somali: 3.3%, Tagalog: 3.14%, Swahili: 2.87%, Estonian: 2.42%, Tswana: 2.03%, Basque: 1.67%, Portuguese: 1.18%, Romanian: 1.08%, Welsh: 0.98%, Turkish: 0.91%, Slovak: 0.86%, Esperanto: 0.74%, Italian: 0.74%, NorwegianBokmal: 0.73%, Maori: 0.72%, Shona: 0.69%, Tsonga: 0.62%, Malay: 0.6%, Catalan: 0.58%, Latvian: 0.54%, AlbanianTosk: 0.53%, Polish: 0.51%, French: 0.5%, Indonesian: 0.42%, Danish: 0.39%, English: 0.38%, Zulu: 0.34%, Czech: 0.33%, NorwegianNynorsk: 0.31%, Finnish: 0.29%, Swedish: 0.29%, Dutch: 0.26%, AzerbaijaniNorth: 0.23%, Sesotho: 0.23%, Spanish: 0.23%, Yoruba: 0.23%, Xhosa: 0.15%, Afrikaans: 0.14%, German: 0.13%, Hungarian: 0.13%, Icelandic: 0.05%, Irish: 0.05%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 45.23%
+Erroneously classified as Croatian: 35.42%, Slovene: 4.23%, Malay: 0.91%, Swahili: 0.91%, Basque: 0.88%, Romanian: 0.88%, Estonian: 0.81%, Somali: 0.57%, English: 0.55%, Portuguese: 0.52%, Slovak: 0.51%, Esperanto: 0.49%, Lithuanian: 0.46%, Turkish: 0.46%, Tagalog: 0.44%, Italian: 0.43%, AlbanianTosk: 0.42%, Shona: 0.4%, Zulu: 0.39%, Indonesian: 0.31%, Latvian: 0.31%, Tswana: 0.31%, Tsonga: 0.3%, Sesotho: 0.27%, Catalan: 0.24%, French: 0.23%, NorwegianBokmal: 0.23%, Spanish: 0.23%, Czech: 0.22%, Finnish: 0.22%, Yoruba: 0.22%, Polish: 0.2%, Ganda: 0.19%, Maori: 0.19%, Swedish: 0.19%, NorwegianNynorsk: 0.17%, Xhosa: 0.17%, AzerbaijaniNorth: 0.16%, German: 0.12%, Welsh: 0.12%, Afrikaans: 0.11%, Dutch: 0.11%, Hungarian: 0.1%, Danish: 0.09%, Icelandic: 0.04%, Irish: 0.03%
+
+>> Detection of 2000 sentences (average length: 124 chars)
+Accuracy: 70.25%
+Erroneously classified as Croatian: 28.25%, English: 0.45%, Slovene: 0.3%, AlbanianTosk: 0.15%, Tagalog: 0.15%, German: 0.1%, Icelandic: 0.1%, Basque: 0.05%, Esperanto: 0.05%, Malay: 0.05%, Shona: 0.05%, Slovak: 0.05%
+

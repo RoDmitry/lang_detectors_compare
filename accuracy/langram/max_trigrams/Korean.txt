@@ -1,0 +1,16 @@
+##### Korean #####
+
+>>> Accuracy on average: 57.66%
+
+>> Detection of 44 single words (average length: 1 chars)
+Accuracy: 47.72%
+Erroneously classified as ChineseTraditional: 20.45%, Japanese: 15.9%, ChineseCantoneseTraditional: 11.36%, ChineseSimplified: 4.54%
+
+>> Detection of 43 word pairs (average length: 2 chars)
+Accuracy: 25.58%
+Erroneously classified as ChineseTraditional: 27.9%, ChineseCantoneseTraditional: 18.6%, Japanese: 18.6%, ChineseSimplified: 9.3%
+
+>> Detection of 2000 sentences (average length: 41 chars)
+Accuracy: 99.7%
+Erroneously classified as English: 0.1%, Dholuo: 0.05%, Kikongo: 0.05%, Nyanja: 0.05%, QuechuaAyacucho: 0.05%
+

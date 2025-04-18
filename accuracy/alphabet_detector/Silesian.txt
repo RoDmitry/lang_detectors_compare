@@ -1,0 +1,16 @@
+##### Silesian #####
+
+>>> Accuracy on average: 32.03%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 6.7%
+Erroneously classified as Unknown: 93.3%
+
+>> Detection of 9999 word pairs (average length: 13 chars)
+Accuracy: 16.96%
+Erroneously classified as Unknown: 83.03%
+
+>> Detection of 2000 sentences (average length: 96 chars)
+Accuracy: 72.45%
+Erroneously classified as Unknown: 25%, Czech: 0.9%, Polish: 0.55%, Sicilian: 0.45%, Venetian: 0.3%, Sesotho: 0.15%, Swedish: 0.15%, Latin: 0.05%
+

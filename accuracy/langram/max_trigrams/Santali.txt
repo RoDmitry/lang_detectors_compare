@@ -1,0 +1,16 @@
+##### Santali #####
+
+>>> Accuracy on average: 99.98%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 100%
+Erroneously classified as 
+
+>> Detection of 9999 word pairs (average length: 10 chars)
+Accuracy: 100%
+Erroneously classified as 
+
+>> Detection of 2000 sentences (average length: 297 chars)
+Accuracy: 99.95%
+Erroneously classified as Odia: 0.05%
+

@@ -1,0 +1,16 @@
+##### Somali #####
+
+>>> Accuracy on average: 88.35%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 76.49%
+Erroneously classified as Ganda: 3.05%, Zulu: 2.57%, Tagalog: 2.44%, Maori: 1.89%, Sesotho: 1.17%, Afrikaans: 0.98%, Finnish: 0.97%, Swahili: 0.97%, Estonian: 0.87%, Malay: 0.68%, Xhosa: 0.65%, Shona: 0.53%, AzerbaijaniNorth: 0.48%, Tswana: 0.45%, English: 0.44%, Tsonga: 0.44%, Italian: 0.43%, Indonesian: 0.41%, Basque: 0.37%, Welsh: 0.36%, Esperanto: 0.31%, Yoruba: 0.27%, Swedish: 0.26%, Romanian: 0.21%, Dutch: 0.2%, Turkish: 0.19%, Irish: 0.18%, Icelandic: 0.17%, Lithuanian: 0.15%, Danish: 0.14%, NorwegianBokmal: 0.14%, Portuguese: 0.14%, French: 0.12%, German: 0.11%, Bosnian: 0.1%, Spanish: 0.1%, Polish: 0.09%, AlbanianTosk: 0.07%, Catalan: 0.07%, Croatian: 0.07%, NorwegianNynorsk: 0.06%, Slovak: 0.05%, Czech: 0.04%, Hungarian: 0.04%, Slovene: 0.04%, Latvian: 0.03%, Vietnamese: 0.01%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 89.28%
+Erroneously classified as Ganda: 1.25%, Finnish: 0.79%, Tagalog: 0.75%, Swahili: 0.71%, Malay: 0.62%, English: 0.54%, Xhosa: 0.52%, Sesotho: 0.5%, Estonian: 0.47%, Tsonga: 0.35%, Shona: 0.31%, Zulu: 0.3%, Yoruba: 0.29%, Tswana: 0.28%, Afrikaans: 0.27%, Dutch: 0.26%, Indonesian: 0.22%, Maori: 0.22%, Basque: 0.21%, Swedish: 0.21%, Turkish: 0.16%, Esperanto: 0.15%, Italian: 0.11%, Welsh: 0.11%, Spanish: 0.1%, AzerbaijaniNorth: 0.09%, German: 0.09%, AlbanianTosk: 0.08%, French: 0.08%, NorwegianNynorsk: 0.08%, Portuguese: 0.07%, NorwegianBokmal: 0.06%, Polish: 0.06%, Romanian: 0.06%, Icelandic: 0.05%, Catalan: 0.04%, Danish: 0.04%, Lithuanian: 0.04%, Slovene: 0.04%, Hungarian: 0.03%, Bosnian: 0.02%, Czech: 0.02%, Irish: 0.02%, Slovak: 0.02%, Croatian: 0.01%, Latvian: 0.01%
+
+>> Detection of 2000 sentences (average length: 136 chars)
+Accuracy: 99.3%
+Erroneously classified as English: 0.15%, Ganda: 0.1%, Basque: 0.05%, Catalan: 0.05%, Dutch: 0.05%, Esperanto: 0.05%, Finnish: 0.05%, Italian: 0.05%, NorwegianBokmal: 0.05%, Swedish: 0.05%, Tagalog: 0.05%
+

@@ -1,0 +1,16 @@
+##### BanjarJawi #####
+
+>>> Accuracy on average: 89.2%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 77.82%
+Erroneously classified as AcehneseJawi: 13.87%, KanuriCentralAjami: 2.32%, KurdishCentral: 1.01%, AzerbaijaniSouth: 0.73%, Arabic: 0.5%, ArabicEgyptian: 0.34%, PersianWestern: 0.34%, ArabicMoroccan: 0.32%, ArabicSouthernYemeni: 0.31%, Uyghur: 0.31%, PashtoSouthern: 0.26%, Sindhi: 0.26%, ArabicNorthLevantine: 0.25%, Kashmiri: 0.25%, PersianDari: 0.25%, Urdu: 0.22%, ArabicNajdi: 0.2%, ArabicSouthLevantine: 0.18%, ArabicMesopotamian: 0.13%, ArabicTunisian: 0.13%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 90.34%
+Erroneously classified as AcehneseJawi: 8.28%, KanuriCentralAjami: 0.27%, KurdishCentral: 0.21%, PersianWestern: 0.16%, Arabic: 0.14%, ArabicNorthLevantine: 0.09%, ArabicEgyptian: 0.08%, ArabicMoroccan: 0.07%, PashtoSouthern: 0.07%, PersianDari: 0.07%, AzerbaijaniSouth: 0.05%, ArabicMesopotamian: 0.04%, Sindhi: 0.03%, ArabicSouthLevantine: 0.02%, Kashmiri: 0.02%, ArabicNajdi: 0.01%, ArabicSouthernYemeni: 0.01%, ArabicTunisian: 0.01%, Urdu: 0.01%, Uyghur: 0.01%
+
+>> Detection of 2000 sentences (average length: 128 chars)
+Accuracy: 99.45%
+Erroneously classified as AcehneseJawi: 0.55%
+

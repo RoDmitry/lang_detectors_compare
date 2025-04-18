@@ -1,0 +1,16 @@
+##### Catalan #####
+
+>>> Accuracy on average: 0.7%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 0%
+Erroneously classified as Unknown: 100%
+
+>> Detection of 9999 word pairs (average length: 10 chars)
+Accuracy: 0%
+Erroneously classified as Unknown: 100%
+
+>> Detection of 2000 sentences (average length: 104 chars)
+Accuracy: 2.1%
+Erroneously classified as Unknown: 97.65%, Occitan: 0.1%, Limburgish: 0.05%, Portuguese: 0.05%, Sardinian: 0.05%
+

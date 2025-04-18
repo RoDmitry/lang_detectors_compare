@@ -1,0 +1,16 @@
+##### Welsh #####
+
+>>> Accuracy on average: 79.29%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 59.12%
+Erroneously classified as Somali: 5.27%, German: 3.04%, Irish: 2.86%, Portuguese: 2.65%, Lithuanian: 2.3%, Basque: 2.17%, Swahili: 1.63%, French: 1.32%, Romanian: 1.28%, Tagalog: 1.25%, Tswana: 1.23%, Polish: 1.2%, Icelandic: 1.15%, Sesotho: 1.1%, Malay: 1.08%, Tsonga: 0.89%, Maori: 0.83%, Zulu: 0.81%, Finnish: 0.8%, Dutch: 0.64%, Shona: 0.59%, English: 0.55%, Italian: 0.53%, Afrikaans: 0.52%, Estonian: 0.52%, Ganda: 0.48%, Spanish: 0.47%, Catalan: 0.46%, Danish: 0.45%, Vietnamese: 0.36%, Esperanto: 0.26%, Swedish: 0.25%, Xhosa: 0.24%, NorwegianBokmal: 0.23%, Turkish: 0.2%, AlbanianTosk: 0.16%, Slovak: 0.16%, Yoruba: 0.15%, Indonesian: 0.14%, Croatian: 0.13%, NorwegianNynorsk: 0.12%, AzerbaijaniNorth: 0.09%, Czech: 0.09%, Slovene: 0.08%, Latvian: 0.07%, Hungarian: 0.06%, Bosnian: 0.02%
+
+>> Detection of 9999 word pairs (average length: 10 chars)
+Accuracy: 79.51%
+Erroneously classified as Irish: 1.43%, Sesotho: 1.04%, Portuguese: 1%, Icelandic: 0.96%, French: 0.82%, Romanian: 0.76%, German: 0.75%, Somali: 0.69%, English: 0.67%, Tsonga: 0.65%, Tswana: 0.63%, Swahili: 0.6%, Polish: 0.59%, Zulu: 0.58%, Finnish: 0.56%, Shona: 0.51%, Lithuanian: 0.48%, Basque: 0.47%, Italian: 0.46%, Malay: 0.46%, Slovak: 0.46%, Tagalog: 0.46%, Afrikaans: 0.44%, Catalan: 0.42%, Spanish: 0.38%, Turkish: 0.36%, Maori: 0.35%, Xhosa: 0.33%, Estonian: 0.32%, NorwegianNynorsk: 0.31%, Ganda: 0.3%, Esperanto: 0.26%, Indonesian: 0.26%, Vietnamese: 0.26%, NorwegianBokmal: 0.25%, Swedish: 0.17%, Danish: 0.16%, AlbanianTosk: 0.15%, Dutch: 0.15%, Yoruba: 0.12%, Croatian: 0.1%, Latvian: 0.1%, AzerbaijaniNorth: 0.08%, Slovene: 0.08%, Bosnian: 0.04%, Czech: 0.04%, Hungarian: 0.02%
+
+>> Detection of 2000 sentences (average length: 102 chars)
+Accuracy: 99.25%
+Erroneously classified as Esperanto: 0.1%, Malay: 0.1%, Sesotho: 0.1%, Basque: 0.05%, Dutch: 0.05%, English: 0.05%, Estonian: 0.05%, German: 0.05%, Irish: 0.05%, Swedish: 0.05%, Tsonga: 0.05%, Yoruba: 0.05%
+

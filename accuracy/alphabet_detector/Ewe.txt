@@ -1,0 +1,16 @@
+##### Ewe #####
+
+>>> Accuracy on average: 32.51%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 6.36%
+Erroneously classified as Unknown: 93.64%
+
+>> Detection of 9999 word pairs (average length: 9 chars)
+Accuracy: 13.54%
+Erroneously classified as Unknown: 86.45%
+
+>> Detection of 2000 sentences (average length: 92 chars)
+Accuracy: 77.65%
+Erroneously classified as Unknown: 21.6%, Kabiye: 0.45%, Fon: 0.3%
+

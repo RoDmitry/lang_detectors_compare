@@ -1,0 +1,16 @@
+##### Swedish #####
+
+>>> Accuracy on average: 62.25%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 36.83%
+Erroneously classified as NorwegianBokmal: 14.68%, Danish: 6.75%, Catalan: 5.68%, Portuguese: 3.56%, Afrikaans: 2.79%, German: 2.42%, Dutch: 2.22%, Spanish: 2.1%, Finnish: 2.09%, Estonian: 1.78%, Javanese: 1.72%, English: 1.62%, Hungarian: 1.59%, French: 1.53%, Latin: 1.45%, UzbekNorthern: 1.09%, Indonesian: 1.03%, Italian: 0.92%, Esperanto: 0.9%, Turkmen: 0.87%, Turkish: 0.75%, Tagalog: 0.68%, Slovene: 0.66%, Romanian: 0.62%, Croatian: 0.51%, Latvian: 0.46%, Akan: 0.42%, Lithuanian: 0.4%, Slovak: 0.39%, Czech: 0.33%, AzerbaijaniNorth: 0.31%, Zulu: 0.29%, Shona: 0.28%, Polish: 0.22%, Vietnamese: 0.06%
+
+>> Detection of 9999 word pairs (average length: 13 chars)
+Accuracy: 61.78%
+Erroneously classified as NorwegianBokmal: 11.53%, Danish: 5.13%, Catalan: 2.77%, German: 2.48%, Afrikaans: 1.31%, Finnish: 1.24%, French: 1.2%, Portuguese: 1.11%, Dutch: 1.02%, English: 0.98%, Estonian: 0.97%, UzbekNorthern: 0.88%, Javanese: 0.71%, Latin: 0.68%, Croatian: 0.61%, Hungarian: 0.57%, Italian: 0.55%, Indonesian: 0.54%, Esperanto: 0.51%, Spanish: 0.51%, Turkmen: 0.38%, Akan: 0.32%, Romanian: 0.28%, Lithuanian: 0.25%, Tagalog: 0.25%, Slovene: 0.24%, Turkish: 0.24%, Polish: 0.2%, Slovak: 0.19%, Czech: 0.15%, Latvian: 0.13%, AzerbaijaniNorth: 0.11%, Shona: 0.08%, Zulu: 0.07%, Vietnamese: 0.02%
+
+>> Detection of 2000 sentences (average length: 136 chars)
+Accuracy: 88.15%
+Erroneously classified as NorwegianBokmal: 1.7%, Danish: 1.3%, French: 1.3%, German: 0.65%, Estonian: 0.6%, Catalan: 0.55%, Hungarian: 0.55%, English: 0.45%, Javanese: 0.45%, Finnish: 0.4%, Latin: 0.4%, Portuguese: 0.4%, UzbekNorthern: 0.35%, Dutch: 0.3%, Afrikaans: 0.25%, Croatian: 0.25%, Tagalog: 0.25%, Esperanto: 0.2%, Romanian: 0.2%, Turkish: 0.2%, Indonesian: 0.15%, Spanish: 0.15%, Akan: 0.1%, Italian: 0.1%, Lithuanian: 0.1%, Polish: 0.1%, Slovak: 0.1%, Slovene: 0.1%, AzerbaijaniNorth: 0.05%, Latvian: 0.05%, Shona: 0.05%, Turkmen: 0.05%
+

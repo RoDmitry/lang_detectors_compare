@@ -1,0 +1,16 @@
+##### Sindhi #####
+
+>>> Accuracy on average: 88.91%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 74.96%
+Erroneously classified as BanjarJawi: 3.85%, AcehneseJawi: 2.47%, PashtoSouthern: 2.36%, PersianWestern: 2.05%, Urdu: 1.75%, Kashmiri: 1.58%, KurdishCentral: 1.31%, Arabic: 1.23%, KanuriCentralAjami: 1.23%, PersianDari: 0.99%, AzerbaijaniSouth: 0.97%, ArabicMesopotamian: 0.86%, ArabicNorthLevantine: 0.85%, ArabicMoroccan: 0.81%, ArabicSouthernYemeni: 0.72%, ArabicNajdi: 0.61%, ArabicSouthLevantine: 0.55%, ArabicEgyptian: 0.42%, Uyghur: 0.24%, ArabicTunisian: 0.19%
+
+>> Detection of 9999 word pairs (average length: 8 chars)
+Accuracy: 91.93%
+Erroneously classified as PersianWestern: 0.99%, BanjarJawi: 0.81%, PersianDari: 0.57%, Arabic: 0.56%, Kashmiri: 0.53%, AcehneseJawi: 0.52%, PashtoSouthern: 0.48%, ArabicSouthLevantine: 0.44%, ArabicMoroccan: 0.41%, ArabicSouthernYemeni: 0.38%, Urdu: 0.38%, ArabicMesopotamian: 0.37%, ArabicEgyptian: 0.33%, ArabicNorthLevantine: 0.31%, AzerbaijaniSouth: 0.24%, ArabicNajdi: 0.22%, KurdishCentral: 0.17%, KanuriCentralAjami: 0.16%, ArabicTunisian: 0.15%, Uyghur: 0.04%
+
+>> Detection of 2000 sentences (average length: 190 chars)
+Accuracy: 99.85%
+Erroneously classified as ArabicNorthLevantine: 0.05%, English: 0.05%, Saraiki: 0.05%
+

@@ -1,0 +1,16 @@
+##### TamasheqLatin #####
+
+>>> Accuracy on average: 28.29%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 3.36%
+Erroneously classified as Unknown: 96.64%
+
+>> Detection of 9999 word pairs (average length: 10 chars)
+Accuracy: 10.07%
+Erroneously classified as Unknown: 89.92%
+
+>> Detection of 2000 sentences (average length: 114 chars)
+Accuracy: 71.45%
+Erroneously classified as Unknown: 25.45%, Kabiye: 2.5%, Romanian: 0.2%, KanuriCentral: 0.15%, Ewe: 0.1%, AzerbaijaniNorth: 0.05%, Lingala: 0.05%, TatarCrimean: 0.05%
+

@@ -1,0 +1,16 @@
+##### Kamba #####
+
+>>> Accuracy on average: 85.12%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 67.03%
+Erroneously classified as Fijian: 7.2%, Swahili: 4.39%, Hausa: 2.38%, Tagalog: 1.95%, AymaraCentral: 1.77%, Samoan: 1.71%, Dholuo: 1.62%, Kikuyu: 1.36%, Mizo: 0.98%, Twi: 0.6%, Dutch: 0.56%, Lingala: 0.56%, Umbundu: 0.48%, OromoWestCentral: 0.42%, Ewe: 0.38%, Chokwe: 0.37%, Shona: 0.35%, Ganda: 0.34%, Tumbuka: 0.33%, Bemba: 0.32%, Ilocano: 0.29%, MalgasyPlateau: 0.29%, Kikongo: 0.28%, LubaKasai: 0.28%, Finnish: 0.24%, Sango: 0.24%, Kimbundu: 0.21%, KurdishNorthern: 0.21%, TokPisin: 0.2%, Wolof: 0.17%, Acehnese: 0.14%, Pangasinan: 0.14%, Rundi: 0.14%, QuechuaAyacucho: 0.13%, Estonian: 0.11%, CreoleHaitian: 0.09%, Nyanja: 0.09%, Banjar: 0.08%, Indonesian: 0.08%, Minangkabau: 0.08%, NorwegianBokmal: 0.08%, Tswana: 0.08%, Basque: 0.07%, Catalan: 0.07%, Maori: 0.07%, Zulu: 0.07%, Cebuano: 0.06%, GaelicScottish: 0.06%, Somali: 0.06%, Jingpho: 0.05%, Latgalian: 0.05%, Swati: 0.05%, Balinese: 0.04%, Sesotho: 0.04%, Tsonga: 0.04%, Xhosa: 0.04%, Faroese: 0.03%, FulfuldeNigerian: 0.03%, Hungarian: 0.03%, Polish: 0.03%, Sepedi: 0.03%, Afrikaans: 0.02%, Kinyarwanda: 0.02%, Limburgish: 0.02%, Lithuanian: 0.02%, Malay: 0.02%, Mossi: 0.02%, Sicilian: 0.02%, Bambara: 0.01%, Croatian: 0.01%, DinkaSouthwestern: 0.01%, English: 0.01%, Fon: 0.01%, Friulian: 0.01%, German: 0.01%, Guarani: 0.01%, Igbo: 0.01%, Irish: 0.01%, Italian: 0.01%, Kabyle: 0.01%, KanuriCentral: 0.01%, Romanian: 0.01%, Spanish: 0.01%, Sundanese: 0.01%, TamasheqLatin: 0.01%, Turkish: 0.01%, Waray: 0.01%
+
+>> Detection of 9999 word pairs (average length: 11 chars)
+Accuracy: 90.85%
+Erroneously classified as Fijian: 1.84%, Kikuyu: 0.74%, Tagalog: 0.71%, Swahili: 0.48%, Lingala: 0.37%, Samoan: 0.3%, OromoWestCentral: 0.29%, Bemba: 0.24%, Kikongo: 0.24%, MalgasyPlateau: 0.24%, Shona: 0.24%, Umbundu: 0.22%, Mizo: 0.19%, Tumbuka: 0.19%, AymaraCentral: 0.16%, Chokwe: 0.15%, Kimbundu: 0.15%, Dholuo: 0.13%, Jingpho: 0.13%, Malay: 0.13%, Hausa: 0.12%, Sango: 0.12%, TokPisin: 0.11%, Ganda: 0.1%, Maori: 0.1%, QuechuaAyacucho: 0.1%, Nyanja: 0.09%, Ilocano: 0.08%, Cebuano: 0.07%, LubaKasai: 0.07%, Swati: 0.06%, Wolof: 0.06%, Dutch: 0.05%, Finnish: 0.05%, Minangkabau: 0.05%, Pangasinan: 0.05%, Basque: 0.04%, Tsonga: 0.04%, Tswana: 0.04%, Xhosa: 0.04%, Acehnese: 0.03%, Balinese: 0.03%, Banjar: 0.03%, English: 0.03%, Estonian: 0.03%, FulfuldeNigerian: 0.03%, Polish: 0.03%, Somali: 0.03%, Afrikaans: 0.02%, GaelicScottish: 0.02%, Indonesian: 0.02%, Kinyarwanda: 0.02%, Sesotho: 0.02%, Sundanese: 0.02%, Waray: 0.02%, Zulu: 0.02%, Bambara: 0.01%, Buginese: 0.01%, Catalan: 0.01%, CreoleHaitian: 0.01%, Ewe: 0.01%, Fon: 0.01%, Guarani: 0.01%, Igbo: 0.01%, Italian: 0.01%, Latgalian: 0.01%, Mossi: 0.01%, NorwegianBokmal: 0.01%, Romanian: 0.01%, Twi: 0.01%, UzbekNorthern: 0.01%, Welsh: 0.01%
+
+>> Detection of 2000 sentences (average length: 88 chars)
+Accuracy: 97.5%
+Erroneously classified as Kikuyu: 0.65%, Lingala: 0.35%, Umbundu: 0.25%, Fijian: 0.15%, Kikongo: 0.15%, Swahili: 0.15%, Dholuo: 0.1%, English: 0.1%, Hungarian: 0.1%, TokPisin: 0.1%, Afrikaans: 0.05%, Bemba: 0.05%, Hausa: 0.05%, Malay: 0.05%, Pangasinan: 0.05%, Samoan: 0.05%, Xhosa: 0.05%, Zulu: 0.05%
+

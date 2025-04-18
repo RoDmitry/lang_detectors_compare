@@ -1,0 +1,16 @@
+##### KurdishNorthern #####
+
+>>> Accuracy on average: 15.96%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 1.74%
+Erroneously classified as Unknown: 98.26%
+
+>> Detection of 9999 word pairs (average length: 9 chars)
+Accuracy: 4.21%
+Erroneously classified as Unknown: 95.78%
+
+>> Detection of 2000 sentences (average length: 73 chars)
+Accuracy: 41.95%
+Erroneously classified as Unknown: 58.05%
+

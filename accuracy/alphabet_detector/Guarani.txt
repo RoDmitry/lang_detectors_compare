@@ -1,0 +1,16 @@
+##### Guarani #####
+
+>>> Accuracy on average: 17.31%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 0.96%
+Erroneously classified as Unknown: 99.04%
+
+>> Detection of 9999 word pairs (average length: 14 chars)
+Accuracy: 4.18%
+Erroneously classified as Unknown: 95.81%
+
+>> Detection of 2000 sentences (average length: 113 chars)
+Accuracy: 46.8%
+Erroneously classified as Unknown: 47.05%, Mizo: 1.3%, Afrikaans: 1.2%, Portuguese: 1.1%, AymaraCentral: 0.9%, Umbundu: 0.75%, Vietnamese: 0.3%, Papiamento: 0.25%, Kabuverdianu: 0.1%, Czech: 0.05%, Fon: 0.05%, French: 0.05%, Occitan: 0.05%, Sicilian: 0.05%
+

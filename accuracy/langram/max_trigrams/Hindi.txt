@@ -1,0 +1,16 @@
+##### Hindi #####
+
+>>> Accuracy on average: 53.68%
+
+>> Detection of 10000 single words (average length: 4 chars)
+Accuracy: 35.73%
+Erroneously classified as Sanskrit: 11.59%, Magahi: 11.09%, Bhojpuri: 10.86%, Nepali: 9.66%, Marathi: 6.66%, Chhattisgarhi: 4.42%, Awadhi: 3.82%, KashmiriDevanagari: 3.75%, Maithili: 2.42%
+
+>> Detection of 9999 word pairs (average length: 9 chars)
+Accuracy: 49.83%
+Erroneously classified as Magahi: 9.92%, Sanskrit: 8.58%, Bhojpuri: 7.43%, Awadhi: 6.15%, Nepali: 5.23%, Marathi: 3.94%, Chhattisgarhi: 3.42%, Maithili: 2.88%, KashmiriDevanagari: 2.61%
+
+>> Detection of 2000 sentences (average length: 77 chars)
+Accuracy: 75.5%
+Erroneously classified as Awadhi: 5.45%, Sanskrit: 4.3%, Magahi: 3.25%, Chhattisgarhi: 3.1%, KashmiriDevanagari: 2.05%, Bhojpuri: 1.85%, Maithili: 1.7%, Nepali: 1.35%, Marathi: 0.75%, English: 0.25%, Italian: 0.15%, Buginese: 0.05%, Dutch: 0.05%, Kamba: 0.05%, Sesotho: 0.05%, Somali: 0.05%, TokPisin: 0.05%
+

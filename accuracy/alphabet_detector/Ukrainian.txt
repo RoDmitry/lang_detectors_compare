@@ -1,0 +1,16 @@
+##### Ukrainian #####
+
+>>> Accuracy on average: 24.11%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 3.04%
+Erroneously classified as Unknown: 96.96%
+
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 10.1%
+Erroneously classified as Unknown: 89.89%
+
+>> Detection of 2000 sentences (average length: 87 chars)
+Accuracy: 59.2%
+Erroneously classified as Unknown: 40.75%, Kazakh: 0.05%
+

@@ -1,0 +1,16 @@
+##### Ganda #####
+
+>>> Accuracy on average: 84.6%
+
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 67.34%
+Erroneously classified as Swahili: 4.6%, Zulu: 4.19%, Xhosa: 2.54%, Italian: 2.34%, Maori: 2.25%, Tsonga: 2.04%, Basque: 1.87%, Tswana: 1.63%, Shona: 1.6%, NorwegianBokmal: 1.27%, Somali: 1.19%, Tagalog: 0.9%, Finnish: 0.83%, English: 0.56%, Hungarian: 0.51%, German: 0.5%, Sesotho: 0.42%, Turkish: 0.34%, Dutch: 0.31%, Yoruba: 0.31%, Malay: 0.28%, Estonian: 0.24%, Esperanto: 0.23%, Welsh: 0.23%, French: 0.16%, Danish: 0.15%, Portuguese: 0.13%, Croatian: 0.12%, Lithuanian: 0.11%, Spanish: 0.1%, Polish: 0.09%, Catalan: 0.08%, Romanian: 0.08%, AlbanianTosk: 0.05%, Bosnian: 0.05%, Swedish: 0.05%, Afrikaans: 0.04%, Czech: 0.04%, NorwegianNynorsk: 0.04%, Vietnamese: 0.04%, Icelandic: 0.03%, Indonesian: 0.03%, Slovak: 0.03%, AzerbaijaniNorth: 0.02%, Irish: 0.02%, Latvian: 0.01%, Slovene: 0.01%
+
+>> Detection of 9999 word pairs (average length: 14 chars)
+Accuracy: 88.28%
+Erroneously classified as Swahili: 2.59%, Shona: 1.45%, Tsonga: 1.27%, Zulu: 1.08%, Xhosa: 1.05%, English: 0.67%, Tagalog: 0.44%, Tswana: 0.3%, Basque: 0.27%, Esperanto: 0.24%, Somali: 0.23%, Maori: 0.2%, Sesotho: 0.2%, Malay: 0.17%, Yoruba: 0.17%, Italian: 0.15%, Finnish: 0.12%, Romanian: 0.11%, Indonesian: 0.08%, Lithuanian: 0.08%, Estonian: 0.07%, French: 0.07%, Welsh: 0.07%, Dutch: 0.06%, German: 0.06%, Portuguese: 0.06%, Danish: 0.05%, Turkish: 0.05%, Bosnian: 0.04%, Icelandic: 0.04%, NorwegianBokmal: 0.04%, Catalan: 0.03%, Slovak: 0.03%, AlbanianTosk: 0.02%, AzerbaijaniNorth: 0.02%, Croatian: 0.02%, Irish: 0.02%, NorwegianNynorsk: 0.02%, Polish: 0.02%, Spanish: 0.02%, Afrikaans: 0.01%, Hungarian: 0.01%, Slovene: 0.01%
+
+>> Detection of 2000 sentences (average length: 95 chars)
+Accuracy: 98.2%
+Erroneously classified as Tagalog: 0.25%, Swahili: 0.2%, Xhosa: 0.2%, Finnish: 0.15%, Somali: 0.15%, English: 0.1%, Lithuanian: 0.1%, Shona: 0.1%, Zulu: 0.1%, Bosnian: 0.05%, Esperanto: 0.05%, Indonesian: 0.05%, Maori: 0.05%, Polish: 0.05%, Sesotho: 0.05%, Tsonga: 0.05%, Tswana: 0.05%, Welsh: 0.05%
+

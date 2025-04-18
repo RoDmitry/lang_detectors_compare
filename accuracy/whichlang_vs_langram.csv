@@ -1,0 +1,17 @@
+language,whichlang_avg,whichlang_word,whichlang_2words,whichlang_text,langram_max_3grams_avg,langram_max_3grams_word,langram_max_3grams_2words,langram_max_3grams_text,langram_all_ngrams_avg,langram_all_ngrams_word,langram_all_ngrams_2words,langram_all_ngrams_text
+Arabic, 99,99,100,99, 99,100,100,99, 99,100,100,99
+ChineseSimplified, 97,92,98,100, 86,69,91,98, 86,69,91,98
+Dutch, 74,54,77,91, 87,78,88,96, 91,83,92,98
+English, 77,54,78,99, 77,56,76,99, 84,68,86,99
+French, 69,38,69,99, 78,58,78,98, 83,65,86,99
+German, 78,56,77,99, 86,71,89,99, 90,78,93,99
+Hindi, 99,100,100,99, 99,100,100,99, 99,100,100,99
+Italian, 80,59,83,98, 77,55,79,96, 83,63,88,97
+Japanese, 34,9,4,90, 84,65,89,99, 84,65,89,99
+Korean, 33,-,-,99, 59,50,27,99, 59,50,27,99
+Portuguese, 68,41,67,96, 80,62,79,98, 84,68,86,99
+Russian, 99,100,100,99, 99,100,100,99, 99,100,100,99
+Spanish, 64,33,64,95, 68,37,70,98, 74,45,77,99
+Swedish, 68,45,71,90, 84,71,88,94, 89,78,92,97
+Turkish, 88,77,90,98, 91,79,94,99, 94,86,97,99
+Vietnamese, 87,70,91,98, 96,91,98,99, 96,92,98,99

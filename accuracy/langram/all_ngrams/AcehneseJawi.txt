@@ -1,0 +1,16 @@
+##### AcehneseJawi #####
+
+>>> Accuracy on average: 84.93%
+
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 69.49%
+Erroneously classified as BanjarJawi: 18.2%, KanuriCentralAjami: 2.21%, Arabic: 1.4%, ArabicSouthernYemeni: 1.39%, AzerbaijaniSouth: 1.37%, KurdishCentral: 1.18%, Sindhi: 0.76%, ArabicMoroccan: 0.72%, Uyghur: 0.63%, PashtoSouthern: 0.36%, PersianWestern: 0.35%, ArabicEgyptian: 0.32%, Kashmiri: 0.28%, ArabicMesopotamian: 0.26%, ArabicNorthLevantine: 0.26%, PersianDari: 0.24%, ArabicSouthLevantine: 0.23%, ArabicNajdi: 0.18%, ArabicTunisian: 0.09%, Urdu: 0.08%
+
+>> Detection of 9999 word pairs (average length: 11 chars)
+Accuracy: 85.46%
+Erroneously classified as BanjarJawi: 12.63%, KanuriCentralAjami: 0.25%, Arabic: 0.22%, KurdishCentral: 0.18%, ArabicNorthLevantine: 0.14%, ArabicEgyptian: 0.13%, ArabicNajdi: 0.11%, AzerbaijaniSouth: 0.11%, ArabicMoroccan: 0.1%, PersianDari: 0.09%, PersianWestern: 0.09%, Uyghur: 0.09%, ArabicSouthernYemeni: 0.08%, ArabicTunisian: 0.08%, PashtoSouthern: 0.06%, ArabicSouthLevantine: 0.05%, Kashmiri: 0.05%, ArabicMesopotamian: 0.04%, Sindhi: 0.03%
+
+>> Detection of 2000 sentences (average length: 130 chars)
+Accuracy: 99.85%
+Erroneously classified as BanjarJawi: 0.15%
+
