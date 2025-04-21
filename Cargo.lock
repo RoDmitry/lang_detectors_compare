@@ -48,10 +48,26 @@ checksum = "683d7910e743518b0e34f1186f92494becacb047c7b6bf616c96772180fef923"
 
 [[package]]
 name = "alphabet_detector"
-version = "0.3.1"
+version = "0.5.0"
 dependencies = [
  "ahash",
- "alphabet_detector_macros",
+ "alphabet_detector_macros 0.5.0",
+ "concat_const",
+ "debug_unsafe",
+ "icu_normalizer",
+ "serde",
+ "strum",
+ "strum_macros",
+]
+
+[[package]]
+name = "alphabet_detector"
+version = "0.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "2ccfb63a92a1eee7e63e131fc74f88edeb458b0000266fdf8aab4c2bff9ce207"
+dependencies = [
+ "ahash",
+ "alphabet_detector_macros 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "concat_const",
  "debug_unsafe",
  "icu_normalizer",
@@ -62,7 +78,19 @@ dependencies = [
 
 [[package]]
 name = "alphabet_detector_macros"
-version = "0.3.1"
+version = "0.5.0"
+dependencies = [
+ "ahash",
+ "proc-macro2",
+ "quote",
+ "syn",
+]
+
+[[package]]
+name = "alphabet_detector_macros"
+version = "0.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9e1629bbbd7d340817ee004326abbf46dd517156efdb8fd65ba2bdaa77d1783e"
 dependencies = [
  "ahash",
  "proc-macro2",
@@ -105,7 +133,18 @@ checksum = "cc97b8f16f944bba54f0433f07e30be199b6dc2bd25937444bbad560bcea29bd"
 dependencies = [
  "alloc-no-stdlib",
  "alloc-stdlib",
- "brotli-decompressor",
+ "brotli-decompressor 4.0.3",
+]
+
+[[package]]
+name = "brotli"
+version = "8.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "cf19e729cdbd51af9a397fb9ef8ac8378007b797f8273cfbfdf45dcaa316167b"
+dependencies = [
+ "alloc-no-stdlib",
+ "alloc-stdlib",
+ "brotli-decompressor 5.0.0",
 ]
 
 [[package]]
@@ -113,6 +152,16 @@ name = "brotli-decompressor"
 version = "4.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a334ef7c9e23abf0ce748e8cd309037da93e606ad52eb372e4ce327a0dcfbdfd"
+dependencies = [
+ "alloc-no-stdlib",
+ "alloc-stdlib",
+]
+
+[[package]]
+name = "brotli-decompressor"
+version = "5.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "874bb8112abecc98cbd6d81ea4fa7e94fb9449648c93cc89aa40c81c24d7de03"
 dependencies = [
  "alloc-no-stdlib",
  "alloc-stdlib",
@@ -445,7 +494,7 @@ name = "lang_detectors_compare"
 version = "0.0.0"
 dependencies = [
  "ahash",
- "alphabet_detector",
+ "alphabet_detector 0.5.0",
  "fraction",
  "indoc",
  "itertools",
@@ -463,10 +512,10 @@ name = "langram"
 version = "0.1.0"
 dependencies = [
  "ahash",
- "alphabet_detector",
+ "alphabet_detector 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "arraystring",
  "atoi_simd",
- "brotli",
+ "brotli 8.0.0",
  "debug_unsafe",
  "fraction",
  "itertools",
@@ -503,7 +552,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a44d00c66a76c4c2782442de0726c86d74cd3f717b318842f6ff347439c3fbe5"
 dependencies = [
  "ahash",
- "brotli",
+ "brotli 7.0.0",
  "compact_str",
  "dashmap",
  "fraction",

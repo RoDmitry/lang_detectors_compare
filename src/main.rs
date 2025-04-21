@@ -7,7 +7,7 @@ use ::std::{
     time::Instant,
 };
 use ahash::{AHashMap, AHashSet};
-use alphabet_detector::{filter_max, Script, ScriptLanguage};
+use alphabet_detector::{filter_max, ScriptLanguage, UcdScript};
 use fraction::Decimal;
 use itertools::Itertools;
 use langram::{Detector as LangramDetector, DetectorConfig, ModelsStorage};
@@ -250,7 +250,7 @@ fn main() {
     let langs_single_words: AHashMap<ScriptLanguage, Vec<String>> = langs_texts
         .iter()
         .map(|(&language, ts)| {
-            let is_han = ScriptLanguage::all_with_script(Script::Han).contains(&language);
+            let is_han = UcdScript::from(language) == UcdScript::Han;
 
             (
                 language,
@@ -263,7 +263,7 @@ fn main() {
                                     let chars: Vec<_> = wld
                                         .buf
                                         .chars()
-                                        .filter(|&ch| Script::find(ch) == Script::Han)
+                                        .filter(|&ch| UcdScript::find(ch) == UcdScript::Han)
                                         .map(|ch| ch.to_string())
                                         .collect();
                                     return if chars.is_empty() {
@@ -290,7 +290,7 @@ fn main() {
     let langs_word_pairs: AHashMap<ScriptLanguage, Vec<String>> = langs_single_words
         .iter()
         .map(|(&language, ts)| {
-            let is_han = ScriptLanguage::all_with_script(Script::Han).contains(&language);
+            let is_han = UcdScript::from(language) == UcdScript::Han;
             let separator = (!is_han).then_some(" ").unwrap_or_default();
 
             (
