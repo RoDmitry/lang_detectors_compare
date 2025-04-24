@@ -1,6 +1,6 @@
 language,whichlang_avg,whichlang_word,whichlang_2words,whichlang_text,langram_max_3grams_avg,langram_max_3grams_word,langram_max_3grams_2words,langram_max_3grams_text,langram_all_ngrams_avg,langram_all_ngrams_word,langram_all_ngrams_2words,langram_all_ngrams_text
 Arabic, 99,99,100,99, 99,100,100,99, 99,100,100,99
-ChineseMandarinSimplified, 97,92,98,100, 86,69,91,98, 86,69,91,98
+ChineseMandarinSimplified, 97,92,98,100, 86,69,91,97, 86,69,91,97
 Dutch, 74,54,77,91, 87,78,88,96, 91,83,92,98
 English, 77,54,78,99, 77,56,76,99, 84,68,86,99
 French, 69,38,69,99, 78,58,78,98, 83,65,86,99
