@@ -1,4 +1,4 @@
-##### ChineseSimplified #####
+##### ChineseMandarinSimplified #####
 
 >>> Accuracy on average: 97.02%
 

@@ -3,8 +3,8 @@
 >>> Accuracy on average: 97.57%
 
 >> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 95.22%
-Erroneously classified as Hebrew: 4.78%
+Accuracy: 95.2%
+Erroneously classified as Hebrew: 4.8%
 
 >> Detection of 9999 word pairs (average length: 9 chars)
 Accuracy: 98.36%

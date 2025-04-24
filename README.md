@@ -18,6 +18,6 @@ Look inside the [`accuracy` folder](https://github.com/RoDmitry/lang_detectors_c
 Uses [OpenLID](https://github.com/laurieburchell/open-lid-dataset) (201 languages).
 
 Unpacked with `pigz -dc ../lid201-data.tsv.gz | awk -F"\t" '{gsub(/_/, "", $2); print $1 > $2}'`.
-Renamed `korHang` to `korKore`.
+Renamed `korHang` to `korKore`, `zho` to `cmn`, `est` to `ekk`, `tgl` to `fil`, `grn` to `gug`, `kon` to `ktu`.
 
 `for file in *; do head -n 2000 "$file" > "../lang_detectors_compare/texts/${file}"; done`

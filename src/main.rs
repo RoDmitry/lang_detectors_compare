@@ -206,7 +206,7 @@ fn collect_statistics(
     }
 
     println!(
-        "{detector_name} reports written in {:.2} seconds\n",
+        "{detector_name} reports written in {:.3} seconds\n",
         now.elapsed().as_secs_f64()
     );
 
@@ -555,7 +555,7 @@ fn main() {
     );
 
     println!(
-        "All accuracy reports successfully written in {:.2} seconds",
+        "All accuracy reports successfully written in {:.3} seconds",
         now.elapsed().as_secs_f64()
     );
 }
@@ -576,7 +576,7 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
         Bul => Some(ScriptLanguage::Bulgarian),
         Cat => Some(ScriptLanguage::Catalan),
         Ces => Some(ScriptLanguage::Czech),
-        Cmn => Some(ScriptLanguage::ChineseSimplified),
+        Cmn => Some(ScriptLanguage::ChineseMandarinSimplified),
         Dan => Some(ScriptLanguage::Danish),
         Deu => Some(ScriptLanguage::German),
         Ell => Some(ScriptLanguage::Greek),
@@ -625,7 +625,7 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
         Swe => Some(ScriptLanguage::Swedish),
         Tam => Some(ScriptLanguage::Tamil),
         Tel => Some(ScriptLanguage::Telugu),
-        Tgl => Some(ScriptLanguage::Tagalog),
+        Tgl => Some(ScriptLanguage::Filipino),
         Tha => Some(ScriptLanguage::Thai),
         Tuk => Some(ScriptLanguage::Turkmen),
         Tur => Some(ScriptLanguage::Turkish),
@@ -643,7 +643,7 @@ fn map_whichlang(language: WhichlangLanguage) -> Option<ScriptLanguage> {
     use WhichlangLanguage::*;
     match language {
         Ara => Some(ScriptLanguage::Arabic),
-        Cmn => Some(ScriptLanguage::ChineseSimplified),
+        Cmn => Some(ScriptLanguage::ChineseMandarinSimplified),
         Deu => Some(ScriptLanguage::German),
         Eng => Some(ScriptLanguage::English),
         Fra => Some(ScriptLanguage::French),
@@ -676,7 +676,7 @@ fn map_lingua(language: LinguaLanguage) -> Option<ScriptLanguage> {
         Bosnian => Some(ScriptLanguage::Bosnian),
         Bulgarian => Some(ScriptLanguage::Bulgarian),
         Catalan => Some(ScriptLanguage::Catalan),
-        Chinese => Some(ScriptLanguage::ChineseSimplified),
+        Chinese => Some(ScriptLanguage::ChineseMandarinSimplified),
         Croatian => Some(ScriptLanguage::Croatian),
         Czech => Some(ScriptLanguage::Czech),
         Danish => Some(ScriptLanguage::Danish),
@@ -725,7 +725,7 @@ fn map_lingua(language: LinguaLanguage) -> Option<ScriptLanguage> {
         Spanish => Some(ScriptLanguage::Spanish),
         Swahili => Some(ScriptLanguage::Swahili),
         Swedish => Some(ScriptLanguage::Swedish),
-        Tagalog => Some(ScriptLanguage::Tagalog),
+        Tagalog => Some(ScriptLanguage::Filipino),
         Tamil => Some(ScriptLanguage::Tamil),
         Telugu => Some(ScriptLanguage::Telugu),
         Thai => Some(ScriptLanguage::Thai),

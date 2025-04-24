@@ -1,4 +1,4 @@
-##### Tagalog #####
+##### Filipino #####
 
 >>> Accuracy on average: 72.67%
 

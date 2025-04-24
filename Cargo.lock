@@ -51,23 +51,7 @@ name = "alphabet_detector"
 version = "0.5.0"
 dependencies = [
  "ahash",
- "alphabet_detector_macros 0.5.0",
- "concat_const",
- "debug_unsafe",
- "icu_normalizer",
- "serde",
- "strum",
- "strum_macros",
-]
-
-[[package]]
-name = "alphabet_detector"
-version = "0.5.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2ccfb63a92a1eee7e63e131fc74f88edeb458b0000266fdf8aab4c2bff9ce207"
-dependencies = [
- "ahash",
- "alphabet_detector_macros 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "alphabet_detector_macros",
  "concat_const",
  "debug_unsafe",
  "icu_normalizer",
@@ -79,18 +63,6 @@ dependencies = [
 [[package]]
 name = "alphabet_detector_macros"
 version = "0.5.0"
-dependencies = [
- "ahash",
- "proc-macro2",
- "quote",
- "syn",
-]
-
-[[package]]
-name = "alphabet_detector_macros"
-version = "0.5.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9e1629bbbd7d340817ee004326abbf46dd517156efdb8fd65ba2bdaa77d1783e"
 dependencies = [
  "ahash",
  "proc-macro2",
@@ -494,7 +466,7 @@ name = "lang_detectors_compare"
 version = "0.0.0"
 dependencies = [
  "ahash",
- "alphabet_detector 0.5.0",
+ "alphabet_detector",
  "fraction",
  "indoc",
  "itertools",
@@ -509,10 +481,10 @@ dependencies = [
 
 [[package]]
 name = "langram"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "ahash",
- "alphabet_detector 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "alphabet_detector",
  "arraystring",
  "atoi_simd",
  "brotli 8.0.0",

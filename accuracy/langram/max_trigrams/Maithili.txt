@@ -1,6 +1,6 @@
 ##### Maithili #####
 
->>> Accuracy on average: 63.48%
+>>> Accuracy on average: 63.44%
 
 >> Detection of 10000 single words (average length: 5 chars)
 Accuracy: 40.99%
@@ -11,6 +11,6 @@ Accuracy: 64.05%
 Erroneously classified as Sanskrit: 8.99%, Nepali: 6.19%, Magahi: 4.67%, Bhojpuri: 3.79%, Awadhi: 3.07%, KashmiriDevanagari: 2.67%, Hindi: 2.54%, Marathi: 2.15%, Chhattisgarhi: 1.87%
 
 >> Detection of 2000 sentences (average length: 181 chars)
-Accuracy: 85.4%
-Erroneously classified as Chhattisgarhi: 3.25%, Sanskrit: 3.1%, Nepali: 1.7%, Hindi: 1.5%, Awadhi: 1%, KashmiriDevanagari: 1%, Magahi: 0.9%, Bhojpuri: 0.75%, English: 0.55%, Marathi: 0.4%, Buginese: 0.2%, Acehnese: 0.05%, Chokwe: 0.05%, FulfuldeNigerian: 0.05%, Italian: 0.05%, Swati: 0.05%
+Accuracy: 85.3%
+Erroneously classified as Chhattisgarhi: 3.2%, Sanskrit: 3.1%, Nepali: 1.85%, Hindi: 1.5%, Awadhi: 1.05%, KashmiriDevanagari: 1%, Magahi: 0.85%, Bhojpuri: 0.75%, English: 0.55%, Marathi: 0.4%, Buginese: 0.2%, Acehnese: 0.05%, Chokwe: 0.05%, FulfuldeNigerian: 0.05%, Italian: 0.05%, Swati: 0.05%
 

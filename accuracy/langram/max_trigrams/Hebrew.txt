@@ -3,8 +3,8 @@
 >>> Accuracy on average: 96.66%
 
 >> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 92.24%
-Erroneously classified as YiddishEastern: 7.76%
+Accuracy: 92.25%
+Erroneously classified as YiddishEastern: 7.75%
 
 >> Detection of 9999 word pairs (average length: 10 chars)
 Accuracy: 98.3%

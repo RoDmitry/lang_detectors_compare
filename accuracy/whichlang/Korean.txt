@@ -4,11 +4,11 @@
 
 >> Detection of 44 single words (average length: 1 chars)
 Accuracy: 0%
-Erroneously classified as ChineseSimplified: 88.63%, Japanese: 11.36%
+Erroneously classified as ChineseMandarinSimplified: 88.63%, Japanese: 11.36%
 
 >> Detection of 43 word pairs (average length: 2 chars)
 Accuracy: 0%
-Erroneously classified as ChineseSimplified: 97.67%, Japanese: 2.32%
+Erroneously classified as ChineseMandarinSimplified: 97.67%, Japanese: 2.32%
 
 >> Detection of 2000 sentences (average length: 41 chars)
 Accuracy: 99.75%
