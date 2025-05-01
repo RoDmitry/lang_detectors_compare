@@ -1,16 +1,16 @@
 ##### Chhattisgarhi #####
 
->>> Accuracy on average: 65.71%
+>>> Accuracy on average: 74.19%
 
 >> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 48.35%
-Erroneously classified as Magahi: 14.58%, Bhojpuri: 7.12%, KashmiriDevanagari: 7.1%, Nepali: 6.04%, Hindi: 5.41%, Marathi: 4.71%, Sanskrit: 3.37%, Awadhi: 1.82%, Maithili: 1.5%
+Accuracy: 61.02%
+Erroneously classified as Magahi: 15.78%, Hindi: 5.92%, Bhojpuri: 4.06%, KashmiriDevanagari: 3.47%, Awadhi: 3.11%, Maithili: 2.22%, Nepali: 1.81%, Marathi: 1.74%, Sanskrit: 0.87%
 
 >> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 66.35%
-Erroneously classified as Magahi: 13.62%, Hindi: 5%, Bhojpuri: 4.14%, KashmiriDevanagari: 2.47%, Awadhi: 2%, Nepali: 1.87%, Marathi: 1.7%, Maithili: 1.44%, Sanskrit: 1.4%
+Accuracy: 76.15%
+Erroneously classified as Magahi: 12.41%, Hindi: 3.69%, Bhojpuri: 2.7%, Awadhi: 1.58%, KashmiriDevanagari: 1.22%, Maithili: 1.02%, Nepali: 0.62%, Marathi: 0.43%, Sanskrit: 0.17%
 
 >> Detection of 2000 sentences (average length: 41 chars)
-Accuracy: 82.45%
-Erroneously classified as English: 5.95%, Hindi: 3.3%, Magahi: 1.3%, Sesotho: 0.9%, KashmiriDevanagari: 0.85%, Bhojpuri: 0.6%, Maithili: 0.55%, Italian: 0.4%, Marathi: 0.4%, Sanskrit: 0.4%, Waray: 0.4%, Buginese: 0.35%, Awadhi: 0.3%, Indonesian: 0.2%, MalgasyPlateau: 0.2%, German: 0.15%, Nepali: 0.1%, NorwegianNynorsk: 0.1%, Occitan: 0.1%, Romanian: 0.1%, Swati: 0.1%, Acehnese: 0.05%, AlbanianTosk: 0.05%, Banjar: 0.05%, Bemba: 0.05%, Esperanto: 0.05%, Ganda: 0.05%, KurdishNorthern: 0.05%, Minangkabau: 0.05%, Nyanja: 0.05%, Sepedi: 0.05%, Spanish: 0.05%, Swahili: 0.05%, Tswana: 0.05%, UzbekNorthern: 0.05%, Xhosa: 0.05%, Zulu: 0.05%
+Accuracy: 85.4%
+Erroneously classified as English: 6.05%, Hindi: 2.3%, Sesotho: 1.3%, Magahi: 0.7%, Bhojpuri: 0.65%, KashmiriDevanagari: 0.45%, Awadhi: 0.35%, Italian: 0.35%, Buginese: 0.3%, Maithili: 0.3%, NorwegianNynorsk: 0.25%, Acehnese: 0.2%, Indonesian: 0.15%, Waray: 0.15%, Banjar: 0.1%, Ganda: 0.1%, Marathi: 0.1%, Minangkabau: 0.1%, Occitan: 0.1%, AlbanianTosk: 0.05%, Balinese: 0.05%, Esperanto: 0.05%, French: 0.05%, German: 0.05%, KurdishNorthern: 0.05%, Luxembourgish: 0.05%, Nepali: 0.05%, NorwegianBokmal: 0.05%, Sanskrit: 0.05%, UzbekNorthern: 0.05%, Xhosa: 0.05%
 

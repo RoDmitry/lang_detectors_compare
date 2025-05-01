@@ -1,14 +1,14 @@
 ##### Kashmiri #####
 
->>> Accuracy on average: 88.76%
+>>> Accuracy on average: 92.25%
 
 >> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 73.78%
-Erroneously classified as Urdu: 7.51%, PersianDari: 4.54%, AzerbaijaniSouth: 3.53%, PersianWestern: 1.75%, Arabic: 1.29%, KanuriCentralAjami: 1.07%, AcehneseJawi: 0.97%, PashtoSouthern: 0.96%, BanjarJawi: 0.69%, Sindhi: 0.68%, KurdishCentral: 0.66%, ArabicSouthernYemeni: 0.65%, ArabicMoroccan: 0.61%, ArabicEgyptian: 0.3%, ArabicNorthLevantine: 0.26%, ArabicMesopotamian: 0.24%, ArabicTunisian: 0.18%, ArabicSouthLevantine: 0.16%, ArabicNajdi: 0.12%, Uyghur: 0.05%
+Accuracy: 81.14%
+Erroneously classified as Urdu: 6.04%, PersianDari: 5.02%, PersianWestern: 1.55%, AzerbaijaniSouth: 1.19%, Sindhi: 0.72%, KanuriCentralAjami: 0.64%, ArabicMoroccan: 0.62%, Arabic: 0.58%, PashtoSouthern: 0.55%, ArabicSouthernYemeni: 0.41%, KurdishCentral: 0.33%, AcehneseJawi: 0.25%, ArabicSouthLevantine: 0.21%, BanjarJawi: 0.2%, ArabicMesopotamian: 0.18%, ArabicNorthLevantine: 0.14%, ArabicEgyptian: 0.09%, ArabicNajdi: 0.06%, ArabicTunisian: 0.05%, Uyghur: 0.03%
 
 >> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 92.7%
-Erroneously classified as Urdu: 3.01%, PersianDari: 1.73%, AzerbaijaniSouth: 0.83%, PersianWestern: 0.54%, PashtoSouthern: 0.33%, Arabic: 0.16%, KurdishCentral: 0.13%, BanjarJawi: 0.1%, AcehneseJawi: 0.08%, KanuriCentralAjami: 0.07%, Sindhi: 0.07%, ArabicEgyptian: 0.06%, ArabicMesopotamian: 0.05%, ArabicSouthernYemeni: 0.04%, ArabicNajdi: 0.03%, ArabicMoroccan: 0.02%, ArabicNorthLevantine: 0.02%, ArabicTunisian: 0.01%, Uyghur: 0.01%
+Accuracy: 95.83%
+Erroneously classified as Urdu: 1.95%, PersianDari: 1.12%, PersianWestern: 0.38%, AzerbaijaniSouth: 0.26%, PashtoSouthern: 0.12%, Arabic: 0.06%, Sindhi: 0.06%, ArabicEgyptian: 0.05%, BanjarJawi: 0.04%, KanuriCentralAjami: 0.03%, ArabicNajdi: 0.02%, ArabicSouthernYemeni: 0.02%, KurdishCentral: 0.02%, AcehneseJawi: 0.01%, ArabicMesopotamian: 0.01%, Uyghur: 0.01%
 
 >> Detection of 2000 sentences (average length: 133 chars)
 Accuracy: 99.8%

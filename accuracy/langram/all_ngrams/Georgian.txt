@@ -4,7 +4,7 @@
 
 >> Detection of 10000 single words (average length: 7 chars)
 Accuracy: 99.99%
-Erroneously classified as OromoWestCentral: 0.01%
+Erroneously classified as FulfuldeNigerian: 0.01%
 
 >> Detection of 9999 word pairs (average length: 14 chars)
 Accuracy: 100%

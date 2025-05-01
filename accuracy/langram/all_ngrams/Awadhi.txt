@@ -1,16 +1,16 @@
 ##### Awadhi #####
 
->>> Accuracy on average: 59.42%
+>>> Accuracy on average: 65.21%
 
 >> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 32.61%
-Erroneously classified as Hindi: 14.65%, Bhojpuri: 11.96%, Magahi: 9.08%, Nepali: 8.62%, Maithili: 6.95%, Sanskrit: 6.68%, Marathi: 3.57%, Chhattisgarhi: 3.38%, KashmiriDevanagari: 2.5%
+Accuracy: 40.37%
+Erroneously classified as Hindi: 17.29%, Bhojpuri: 11.44%, Magahi: 9.32%, Maithili: 8.23%, Nepali: 3.47%, Chhattisgarhi: 2.77%, Marathi: 2.64%, Sanskrit: 2.43%, KashmiriDevanagari: 2.04%
 
 >> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 50.31%
-Erroneously classified as Hindi: 15.59%, Bhojpuri: 8.81%, Maithili: 6.98%, Magahi: 6.57%, Sanskrit: 3.72%, Nepali: 3.48%, Chhattisgarhi: 1.69%, Marathi: 1.68%, KashmiriDevanagari: 1.16%
+Accuracy: 58.67%
+Erroneously classified as Hindi: 16.53%, Bhojpuri: 7.91%, Magahi: 6.38%, Maithili: 5.44%, Chhattisgarhi: 1.4%, Nepali: 1.3%, Sanskrit: 0.88%, KashmiriDevanagari: 0.76%, Marathi: 0.72%
 
 >> Detection of 2000 sentences (average length: 115 chars)
-Accuracy: 95.35%
-Erroneously classified as Hindi: 1.95%, Bhojpuri: 0.9%, Sanskrit: 0.75%, Magahi: 0.3%, Marathi: 0.25%, Maithili: 0.2%, Nepali: 0.15%, Chhattisgarhi: 0.1%, English: 0.05%
+Accuracy: 96.6%
+Erroneously classified as Hindi: 1.9%, Bhojpuri: 0.55%, Sanskrit: 0.35%, Maithili: 0.25%, Magahi: 0.2%, Chhattisgarhi: 0.05%, English: 0.05%, KashmiriDevanagari: 0.05%
 

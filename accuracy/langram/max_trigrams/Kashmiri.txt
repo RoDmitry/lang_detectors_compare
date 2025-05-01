@@ -1,16 +1,16 @@
 ##### Kashmiri #####
 
->>> Accuracy on average: 84.81%
+>>> Accuracy on average: 91.03%
 
 >> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 66.11%
-Erroneously classified as Urdu: 8.4%, AzerbaijaniSouth: 5.74%, PersianDari: 5.68%, PersianWestern: 2.77%, Arabic: 1.65%, PashtoSouthern: 1.47%, KanuriCentralAjami: 1.24%, BanjarJawi: 1.21%, AcehneseJawi: 1.15%, KurdishCentral: 0.9%, ArabicMoroccan: 0.77%, Sindhi: 0.72%, ArabicSouthernYemeni: 0.55%, ArabicEgyptian: 0.46%, ArabicNorthLevantine: 0.39%, ArabicSouthLevantine: 0.18%, ArabicTunisian: 0.18%, ArabicMesopotamian: 0.17%, ArabicNajdi: 0.14%, Uyghur: 0.12%
+Accuracy: 78.62%
+Erroneously classified as Urdu: 5.98%, PersianDari: 5.64%, AzerbaijaniSouth: 2.43%, PersianWestern: 1.59%, Sindhi: 0.85%, ArabicMoroccan: 0.69%, KanuriCentralAjami: 0.69%, Arabic: 0.65%, ArabicSouthernYemeni: 0.57%, PashtoSouthern: 0.47%, BanjarJawi: 0.34%, KurdishCentral: 0.34%, AcehneseJawi: 0.33%, ArabicMesopotamian: 0.21%, ArabicSouthLevantine: 0.21%, ArabicNorthLevantine: 0.16%, ArabicEgyptian: 0.09%, ArabicNajdi: 0.06%, ArabicTunisian: 0.05%, Uyghur: 0.03%
 
 >> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 88.53%
-Erroneously classified as Urdu: 3.81%, PersianDari: 3.14%, AzerbaijaniSouth: 1.73%, PersianWestern: 1.08%, PashtoSouthern: 0.33%, Arabic: 0.22%, KurdishCentral: 0.22%, BanjarJawi: 0.21%, Sindhi: 0.12%, AcehneseJawi: 0.11%, KanuriCentralAjami: 0.1%, ArabicEgyptian: 0.09%, ArabicMesopotamian: 0.07%, ArabicNajdi: 0.07%, ArabicMoroccan: 0.05%, ArabicSouthernYemeni: 0.05%, ArabicNorthLevantine: 0.04%, ArabicSouthLevantine: 0.02%
+Accuracy: 94.68%
+Erroneously classified as Urdu: 2.2%, PersianDari: 1.68%, AzerbaijaniSouth: 0.52%, PersianWestern: 0.45%, PashtoSouthern: 0.1%, Sindhi: 0.06%, Arabic: 0.05%, BanjarJawi: 0.05%, ArabicEgyptian: 0.04%, ArabicSouthernYemeni: 0.03%, KanuriCentralAjami: 0.03%, AcehneseJawi: 0.02%, ArabicMoroccan: 0.02%, ArabicNajdi: 0.02%, KurdishCentral: 0.02%, ArabicMesopotamian: 0.01%, ArabicNorthLevantine: 0.01%
 
 >> Detection of 2000 sentences (average length: 133 chars)
 Accuracy: 99.8%
-Erroneously classified as Buginese: 0.1%, Banjar: 0.05%, German: 0.05%
+Erroneously classified as Buginese: 0.1%, Balinese: 0.05%, KanuriCentral: 0.05%
 

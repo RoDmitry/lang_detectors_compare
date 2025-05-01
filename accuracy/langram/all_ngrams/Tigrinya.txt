@@ -1,16 +1,16 @@
 ##### Tigrinya #####
 
->>> Accuracy on average: 96.64%
+>>> Accuracy on average: 96.37%
 
 >> Detection of 10000 single words (average length: 3 chars)
-Accuracy: 92.37%
-Erroneously classified as Amharic: 7.63%
+Accuracy: 91.17%
+Erroneously classified as Amharic: 8.83%
 
 >> Detection of 9999 word pairs (average length: 8 chars)
-Accuracy: 98.02%
-Erroneously classified as Amharic: 1.97%
+Accuracy: 98.86%
+Erroneously classified as Amharic: 1.13%
 
 >> Detection of 2000 sentences (average length: 93 chars)
-Accuracy: 99.55%
-Erroneously classified as Amharic: 0.4%, Waray: 0.05%
+Accuracy: 99.1%
+Erroneously classified as Amharic: 0.85%, Buginese: 0.05%
 

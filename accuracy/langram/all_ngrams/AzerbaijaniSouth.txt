@@ -1,14 +1,14 @@
 ##### AzerbaijaniSouth #####
 
->>> Accuracy on average: 92.66%
+>>> Accuracy on average: 94.83%
 
 >> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 82.05%
-Erroneously classified as PashtoSouthern: 5.06%, PersianWestern: 2.22%, PersianDari: 2.21%, Uyghur: 1.75%, BanjarJawi: 1.16%, AcehneseJawi: 0.88%, Urdu: 0.76%, Kashmiri: 0.58%, Arabic: 0.56%, KanuriCentralAjami: 0.52%, ArabicSouthLevantine: 0.51%, Sindhi: 0.43%, ArabicSouthernYemeni: 0.26%, KurdishCentral: 0.26%, ArabicEgyptian: 0.25%, ArabicNajdi: 0.21%, ArabicMoroccan: 0.1%, ArabicNorthLevantine: 0.1%, ArabicTunisian: 0.08%, ArabicMesopotamian: 0.05%
+Accuracy: 87.2%
+Erroneously classified as KurdishCentral: 4.63%, PersianWestern: 1.9%, PersianDari: 1.49%, PashtoSouthern: 1%, Urdu: 0.86%, Sindhi: 0.52%, KanuriCentralAjami: 0.49%, ArabicSouthLevantine: 0.27%, Kashmiri: 0.26%, AcehneseJawi: 0.24%, ArabicTunisian: 0.24%, ArabicSouthernYemeni: 0.21%, Arabic: 0.18%, ArabicMoroccan: 0.14%, ArabicEgyptian: 0.11%, ArabicMesopotamian: 0.07%, ArabicNorthLevantine: 0.07%, ArabicNajdi: 0.06%, BanjarJawi: 0.04%, Uyghur: 0.02%
 
 >> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 96.9%
-Erroneously classified as PersianWestern: 0.95%, PersianDari: 0.65%, Arabic: 0.24%, PashtoSouthern: 0.23%, Kashmiri: 0.13%, BanjarJawi: 0.12%, AcehneseJawi: 0.11%, KurdishCentral: 0.09%, Urdu: 0.08%, ArabicNajdi: 0.07%, ArabicSouthLevantine: 0.07%, Sindhi: 0.06%, ArabicMoroccan: 0.05%, ArabicNorthLevantine: 0.05%, KanuriCentralAjami: 0.05%, Uyghur: 0.05%, ArabicEgyptian: 0.04%, ArabicSouthernYemeni: 0.03%, ArabicMesopotamian: 0.01%, ArabicTunisian: 0.01%
+Accuracy: 98.26%
+Erroneously classified as PersianWestern: 0.55%, PersianDari: 0.42%, PashtoSouthern: 0.18%, ArabicEgyptian: 0.14%, Arabic: 0.07%, Sindhi: 0.06%, KurdishCentral: 0.05%, AcehneseJawi: 0.04%, Urdu: 0.04%, ArabicMoroccan: 0.03%, ArabicNorthLevantine: 0.03%, ArabicTunisian: 0.03%, KanuriCentralAjami: 0.03%, ArabicSouthLevantine: 0.02%, Kashmiri: 0.02%, ArabicNajdi: 0.01%, Uyghur: 0.01%
 
 >> Detection of 2000 sentences (average length: 302 chars)
 Accuracy: 99.05%

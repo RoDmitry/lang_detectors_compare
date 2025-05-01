@@ -1,16 +1,16 @@
 ##### Marathi #####
 
->>> Accuracy on average: 85.27%
+>>> Accuracy on average: 90.08%
 
 >> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 70.58%
-Erroneously classified as Sanskrit: 9.6%, Nepali: 5.11%, KashmiriDevanagari: 3.04%, Maithili: 2.48%, Bhojpuri: 2.39%, Magahi: 1.92%, Hindi: 1.91%, Chhattisgarhi: 1.55%, Awadhi: 1.42%
+Accuracy: 78.5%
+Erroneously classified as Nepali: 3.49%, Sanskrit: 2.81%, Maithili: 2.65%, KashmiriDevanagari: 2.45%, Hindi: 2.39%, Awadhi: 2.32%, Magahi: 2.26%, Chhattisgarhi: 1.94%, Bhojpuri: 1.19%
 
 >> Detection of 9999 word pairs (average length: 12 chars)
-Accuracy: 87.2%
-Erroneously classified as Sanskrit: 4.29%, Nepali: 1.65%, Maithili: 1.54%, KashmiriDevanagari: 1.29%, Hindi: 1.07%, Bhojpuri: 0.84%, Magahi: 0.8%, Awadhi: 0.7%, Chhattisgarhi: 0.61%
+Accuracy: 93.36%
+Erroneously classified as Maithili: 1.14%, Sanskrit: 0.95%, Awadhi: 0.84%, Hindi: 0.84%, Magahi: 0.77%, KashmiriDevanagari: 0.67%, Nepali: 0.53%, Chhattisgarhi: 0.49%, Bhojpuri: 0.4%
 
 >> Detection of 2000 sentences (average length: 75 chars)
-Accuracy: 98.05%
-Erroneously classified as Maithili: 0.6%, Sanskrit: 0.5%, KashmiriDevanagari: 0.3%, Awadhi: 0.2%, Hindi: 0.15%, English: 0.1%, Nepali: 0.1%
+Accuracy: 98.4%
+Erroneously classified as Maithili: 0.5%, Awadhi: 0.25%, Hindi: 0.2%, Chhattisgarhi: 0.15%, KashmiriDevanagari: 0.15%, English: 0.1%, Nepali: 0.1%, Sanskrit: 0.1%, Magahi: 0.05%
 

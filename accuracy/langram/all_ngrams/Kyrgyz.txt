@@ -1,16 +1,16 @@
 ##### Kyrgyz #####
 
->>> Accuracy on average: 93.88%
+>>> Accuracy on average: 96.23%
 
 >> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 85.18%
-Erroneously classified as Kazakh: 4.24%, Tajik: 2.61%, Tatar: 2.11%, MongolianHalh: 1.53%, Russian: 0.98%, Serbian: 0.77%, Macedonian: 0.71%, Belarusian: 0.64%, Bulgarian: 0.56%, Bashkir: 0.46%, Ukrainian: 0.21%
+Accuracy: 90.63%
+Erroneously classified as Kazakh: 3.2%, Serbian: 1.51%, Tatar: 1.4%, Tajik: 0.68%, MongolianHalh: 0.66%, Bashkir: 0.54%, Bulgarian: 0.44%, Russian: 0.35%, Macedonian: 0.25%, Belarusian: 0.21%, Ukrainian: 0.13%
 
 >> Detection of 9999 word pairs (average length: 14 chars)
-Accuracy: 97.01%
-Erroneously classified as Kazakh: 1.35%, Tatar: 0.5%, Russian: 0.19%, MongolianHalh: 0.17%, Tajik: 0.16%, Bulgarian: 0.14%, Serbian: 0.13%, Bashkir: 0.12%, Macedonian: 0.12%, Belarusian: 0.06%, Ukrainian: 0.04%
+Accuracy: 98.46%
+Erroneously classified as Kazakh: 0.84%, Tatar: 0.22%, Bulgarian: 0.1%, Bashkir: 0.09%, Russian: 0.07%, Macedonian: 0.05%, Belarusian: 0.04%, Serbian: 0.04%, Ukrainian: 0.04%, MongolianHalh: 0.02%, Tajik: 0.02%
 
 >> Detection of 2000 sentences (average length: 89 chars)
-Accuracy: 99.45%
-Erroneously classified as Tatar: 0.2%, Russian: 0.15%, Kazakh: 0.1%, Bashkir: 0.05%, MongolianHalh: 0.05%
+Accuracy: 99.6%
+Erroneously classified as Russian: 0.15%, Kazakh: 0.1%, Tatar: 0.1%, Bashkir: 0.05%
 

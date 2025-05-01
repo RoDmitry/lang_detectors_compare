@@ -1,16 +1,16 @@
 ##### Maithili #####
 
->>> Accuracy on average: 63.44%
+>>> Accuracy on average: 74.9%
 
 >> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 40.99%
-Erroneously classified as Sanskrit: 12.88%, Nepali: 9.39%, Magahi: 7.47%, Bhojpuri: 6.65%, Marathi: 5.95%, KashmiriDevanagari: 5.22%, Awadhi: 4.51%, Chhattisgarhi: 3.6%, Hindi: 3.34%
+Accuracy: 56.58%
+Erroneously classified as Bhojpuri: 7.42%, Awadhi: 7.28%, Magahi: 6.5%, Nepali: 6.15%, Sanskrit: 4.29%, KashmiriDevanagari: 4.07%, Hindi: 3.21%, Chhattisgarhi: 2.33%, Marathi: 2.17%
 
 >> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 64.05%
-Erroneously classified as Sanskrit: 8.99%, Nepali: 6.19%, Magahi: 4.67%, Bhojpuri: 3.79%, Awadhi: 3.07%, KashmiriDevanagari: 2.67%, Hindi: 2.54%, Marathi: 2.15%, Chhattisgarhi: 1.87%
+Accuracy: 78.84%
+Erroneously classified as Magahi: 3.98%, Bhojpuri: 3.6%, Awadhi: 3.58%, Nepali: 2.95%, Hindi: 2.19%, Sanskrit: 1.66%, KashmiriDevanagari: 1.41%, Chhattisgarhi: 1.21%, Marathi: 0.57%
 
 >> Detection of 2000 sentences (average length: 181 chars)
-Accuracy: 85.3%
-Erroneously classified as Chhattisgarhi: 3.2%, Sanskrit: 3.1%, Nepali: 1.85%, Hindi: 1.5%, Awadhi: 1.05%, KashmiriDevanagari: 1%, Magahi: 0.85%, Bhojpuri: 0.75%, English: 0.55%, Marathi: 0.4%, Buginese: 0.2%, Acehnese: 0.05%, Chokwe: 0.05%, FulfuldeNigerian: 0.05%, Italian: 0.05%, Swati: 0.05%
+Accuracy: 89.3%
+Erroneously classified as Chhattisgarhi: 2.55%, Hindi: 1.6%, Nepali: 1.4%, Magahi: 1.25%, Sanskrit: 1.1%, Bhojpuri: 0.7%, Awadhi: 0.55%, English: 0.45%, KashmiriDevanagari: 0.45%, Buginese: 0.1%, Marathi: 0.1%, Sesotho: 0.1%, TokPisin: 0.1%, Acehnese: 0.05%, Asturian: 0.05%, FulfuldeNigerian: 0.05%, Kabyle: 0.05%, NorwegianNynorsk: 0.05%
 

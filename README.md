@@ -5,11 +5,11 @@ Look inside the [`accuracy` folder](https://github.com/RoDmitry/lang_detectors_c
 ### Speed
 
 | Language count | Alphabet detector | Langram max trigrams  | Langram all ngrams | Lingua high | Whatlang | Whichlang |
-| --- | ------ | ------- | ------- | ------- | ------ | ------ |
-|  16 |        |  0.39 s |  0.60 s |         |        | 0.02 s |
-|  69 |        |  2.72 s |  5.21 s |         | 6.71 s |
-|  74 |        |  4.50 s |  8.87 s | 43.57 s |
-| 201 | 1.67 s | 28.64 s | 53.33 s |
+| --- | ------- | -------- | -------- | ------- | ------ | ------- |
+|  16 |         |  0.47 s  |  0.695 s |         |        | 0.023 s |
+|  69 |         |  3.54 s  |  5.745 s |         | 6.71 s |
+|  74 |         |  5.506 s |  9.99 s  | 44.04 s |
+| 201 | 1.676 s | 35.35 s  | 59.71 s  |
 
 > Note: 69 are different languages from 74, so they are fast detected by `alphabet_detector`.
 

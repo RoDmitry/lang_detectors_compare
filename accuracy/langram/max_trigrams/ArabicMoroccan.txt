@@ -1,16 +1,16 @@
 ##### ArabicMoroccan #####
 
->>> Accuracy on average: 48.88%
+>>> Accuracy on average: 62.62%
 
 >> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 27.27%
-Erroneously classified as Arabic: 23.68%, ArabicEgyptian: 5.31%, ArabicSouthernYemeni: 4.84%, BanjarJawi: 4.82%, ArabicTunisian: 4.52%, ArabicMesopotamian: 4.22%, AcehneseJawi: 3.52%, ArabicSouthLevantine: 3.48%, ArabicNajdi: 3.34%, ArabicNorthLevantine: 3.19%, KanuriCentralAjami: 2.93%, Kashmiri: 2.29%, PashtoSouthern: 1.6%, PersianDari: 1.37%, PersianWestern: 1.18%, AzerbaijaniSouth: 1.12%, Sindhi: 1%, Urdu: 0.14%, Uyghur: 0.11%, KurdishCentral: 0.07%
+Accuracy: 38.8%
+Erroneously classified as Arabic: 21.89%, ArabicSouthernYemeni: 6.64%, ArabicMesopotamian: 4.52%, ArabicEgyptian: 4.41%, ArabicTunisian: 4.41%, ArabicNajdi: 3.52%, ArabicNorthLevantine: 3.25%, ArabicSouthLevantine: 2.86%, KanuriCentralAjami: 1.88%, AcehneseJawi: 1.71%, BanjarJawi: 1.35%, KurdishCentral: 1.32%, PersianDari: 0.9%, Sindhi: 0.74%, AzerbaijaniSouth: 0.56%, PersianWestern: 0.48%, PashtoSouthern: 0.45%, Kashmiri: 0.26%, Urdu: 0.04%, Uyghur: 0.01%
 
 >> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 42.64%
-Erroneously classified as Arabic: 23.03%, ArabicEgyptian: 6.68%, ArabicTunisian: 4.47%, ArabicMesopotamian: 4.05%, ArabicNajdi: 3.81%, ArabicSouthernYemeni: 2.97%, ArabicSouthLevantine: 2.94%, ArabicNorthLevantine: 2.86%, BanjarJawi: 2.18%, AcehneseJawi: 1.91%, KanuriCentralAjami: 0.99%, PersianDari: 0.34%, AzerbaijaniSouth: 0.31%, PersianWestern: 0.29%, Sindhi: 0.26%, PashtoSouthern: 0.1%, Kashmiri: 0.09%, KurdishCentral: 0.04%, Urdu: 0.03%
+Accuracy: 60.51%
+Erroneously classified as Arabic: 16.76%, ArabicEgyptian: 4.5%, ArabicTunisian: 3.74%, ArabicSouthernYemeni: 3.59%, ArabicMesopotamian: 3.03%, ArabicNajdi: 2.7%, ArabicNorthLevantine: 1.59%, ArabicSouthLevantine: 1.55%, AcehneseJawi: 0.69%, KanuriCentralAjami: 0.41%, BanjarJawi: 0.38%, PersianDari: 0.16%, AzerbaijaniSouth: 0.13%, PersianWestern: 0.09%, Sindhi: 0.09%, PashtoSouthern: 0.04%, KurdishCentral: 0.03%
 
 >> Detection of 2000 sentences (average length: 61 chars)
-Accuracy: 76.75%
-Erroneously classified as Arabic: 8.7%, ArabicTunisian: 2.65%, ArabicNajdi: 2.1%, ArabicEgyptian: 2%, ArabicSouthernYemeni: 1.95%, ArabicSouthLevantine: 1.85%, ArabicMesopotamian: 1.8%, ArabicNorthLevantine: 0.75%, BanjarJawi: 0.65%, AcehneseJawi: 0.4%, PersianWestern: 0.2%, KanuriCentralAjami: 0.05%, KurdishCentral: 0.05%, PashtoSouthern: 0.05%, Sindhi: 0.05%
+Accuracy: 88.55%
+Erroneously classified as Arabic: 4.25%, ArabicTunisian: 2.05%, ArabicSouthernYemeni: 1.45%, ArabicMesopotamian: 1.2%, ArabicNajdi: 0.9%, ArabicNorthLevantine: 0.55%, ArabicSouthLevantine: 0.55%, ArabicEgyptian: 0.25%, AcehneseJawi: 0.05%, BanjarJawi: 0.05%, KurdishCentral: 0.05%, PersianWestern: 0.05%, Sindhi: 0.05%
 
