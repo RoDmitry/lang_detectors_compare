@@ -1,14 +1,14 @@
 ##### MeiteiBengali #####
 
->>> Accuracy on average: 97.49%
+>>> Accuracy on average: 97.11%
 
->> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 95.17%
-Erroneously classified as Bengali: 3.43%, Assamese: 1.4%
+>> Detection of 10000 single words (average length: 7 chars)
+Accuracy: 93.83%
+Erroneously classified as Bengali: 4.9%, Assamese: 1.27%
 
->> Detection of 9999 word pairs (average length: 13 chars)
-Accuracy: 98.21%
-Erroneously classified as Bengali: 1.68%, Assamese: 0.1%
+>> Detection of 9999 word pairs (average length: 16 chars)
+Accuracy: 98.4%
+Erroneously classified as Bengali: 1.46%, Assamese: 0.13%
 
 >> Detection of 2000 sentences (average length: 123 chars)
 Accuracy: 99.1%

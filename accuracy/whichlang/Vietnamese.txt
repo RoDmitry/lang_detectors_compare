@@ -1,14 +1,14 @@
 ##### Vietnamese #####
 
->>> Accuracy on average: 87.04%
+>>> Accuracy on average: 78%
 
->> Detection of 10000 single words (average length: 3 chars)
-Accuracy: 70.78%
-Erroneously classified as Portuguese: 8.87%, Italian: 5.06%, Turkish: 4.3%, Spanish: 4.13%, French: 2.16%, Swedish: 1.65%, English: 1.63%, Dutch: 0.74%, German: 0.65%, Arabic: 0.03%
+>> Detection of 2968 single words (average length: 4 chars)
+Accuracy: 58.45%
+Erroneously classified as Portuguese: 10.41%, Italian: 7.27%, Turkish: 5.22%, Spanish: 5.12%, English: 4.54%, French: 3.57%, Dutch: 2.19%, German: 1.75%, Swedish: 1.41%, Arabic: 0.03%
 
->> Detection of 9999 word pairs (average length: 8 chars)
-Accuracy: 91.41%
-Erroneously classified as Portuguese: 2.65%, Italian: 1.24%, Turkish: 1.24%, English: 0.87%, Spanish: 0.83%, French: 0.82%, German: 0.38%, Dutch: 0.29%, Swedish: 0.26%
+>> Detection of 2967 word pairs (average length: 9 chars)
+Accuracy: 76.6%
+Erroneously classified as Portuguese: 4.81%, English: 3.67%, Italian: 3.06%, Turkish: 2.79%, French: 2.62%, Spanish: 1.98%, Dutch: 1.51%, Swedish: 1.48%, German: 1.38%, Arabic: 0.03%
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 98.95%

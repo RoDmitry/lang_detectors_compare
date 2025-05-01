@@ -1,14 +1,14 @@
 ##### Kabyle #####
 
->>> Accuracy on average: 4.12%
+>>> Accuracy on average: 5.21%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 0.44%
-Erroneously classified as Unknown: 99.56%
+>> Detection of 7667 single words (average length: 7 chars)
+Accuracy: 1.21%
+Erroneously classified as Unknown: 98.78%
 
->> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 1.29%
-Erroneously classified as Unknown: 98.7%
+>> Detection of 7666 word pairs (average length: 15 chars)
+Accuracy: 3.76%
+Erroneously classified as Unknown: 96.23%
 
 >> Detection of 2000 sentences (average length: 72 chars)
 Accuracy: 10.65%

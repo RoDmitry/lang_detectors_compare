@@ -1,14 +1,14 @@
 ##### Papiamento #####
 
->>> Accuracy on average: 1.02%
+>>> Accuracy on average: 1.03%
 
->> Detection of 10000 single words (average length: 4 chars)
+>> Detection of 4936 single words (average length: 7 chars)
 Accuracy: 0%
 Erroneously classified as Unknown: 100%
 
->> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 0.03%
-Erroneously classified as Unknown: 99.96%
+>> Detection of 4935 word pairs (average length: 15 chars)
+Accuracy: 0.04%
+Erroneously classified as Unknown: 99.95%
 
 >> Detection of 2000 sentences (average length: 92 chars)
 Accuracy: 3.05%

@@ -1,14 +1,14 @@
 ##### Afrikaans #####
 
->>> Accuracy on average: 56.42%
+>>> Accuracy on average: 52.6%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 27.98%
-Erroneously classified as Dutch: 16.91%, English: 3.98%, German: 3.79%, Estonian: 3.51%, Akan: 3.36%, French: 3.13%, Javanese: 2.57%, Polish: 2.48%, Slovene: 2.37%, Hungarian: 2.22%, Filipino: 2.19%, NorwegianBokmal: 2.1%, Indonesian: 1.94%, Danish: 1.92%, Turkmen: 1.87%, AzerbaijaniNorth: 1.62%, Latin: 1.55%, Portuguese: 1.44%, Lithuanian: 1.35%, Catalan: 1.21%, UzbekNorthern: 1.18%, Czech: 1.13%, Spanish: 1.03%, Finnish: 1.01%, Swedish: 0.91%, Slovak: 0.77%, Croatian: 0.76%, Zulu: 0.7%, Turkish: 0.64%, Romanian: 0.62%, Latvian: 0.5%, Esperanto: 0.44%, Shona: 0.38%, Italian: 0.37%, Vietnamese: 0.07%
+>> Detection of 6165 single words (average length: 8 chars)
+Accuracy: 24.68%
+Erroneously classified as Dutch: 13.36%, German: 5.1%, Danish: 5.02%, Estonian: 4.65%, NorwegianBokmal: 3.77%, French: 3.35%, Javanese: 2.56%, English: 2.36%, Latin: 2.3%, Swedish: 2.09%, Indonesian: 1.96%, Romanian: 1.81%, Catalan: 1.76%, Finnish: 1.76%, Spanish: 1.65%, Filipino: 1.6%, Portuguese: 1.55%, Turkish: 1.49%, UzbekNorthern: 1.45%, Hungarian: 1.39%, Turkmen: 1.39%, Polish: 1.31%, Zulu: 1.23%, Lithuanian: 1.21%, Latvian: 1.15%, Esperanto: 1.13%, Italian: 1.03%, Czech: 0.98%, Shona: 0.97%, Slovak: 0.92%, Slovene: 0.81%, Croatian: 0.66%, Akan: 0.64%, AzerbaijaniNorth: 0.45%, Vietnamese: 0.25%
 
->> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 48.94%
-Erroneously classified as Dutch: 14.84%, German: 4.46%, English: 2.56%, French: 2.53%, Estonian: 2.4%, NorwegianBokmal: 2.23%, Danish: 2.12%, Portuguese: 1.81%, Javanese: 1.47%, Latin: 1.47%, Filipino: 1.33%, Catalan: 1.1%, Finnish: 0.98%, Hungarian: 0.93%, Akan: 0.88%, Indonesian: 0.85%, Lithuanian: 0.84%, Czech: 0.8%, Swedish: 0.77%, Turkish: 0.76%, Slovak: 0.7%, Spanish: 0.68%, Romanian: 0.67%, Polish: 0.59%, Slovene: 0.48%, Turkmen: 0.47%, UzbekNorthern: 0.45%, Esperanto: 0.39%, Italian: 0.37%, Latvian: 0.27%, Croatian: 0.26%, Shona: 0.24%, Zulu: 0.18%, AzerbaijaniNorth: 0.13%, Vietnamese: 0.04%
+>> Detection of 6164 word pairs (average length: 17 chars)
+Accuracy: 40.76%
+Erroneously classified as Dutch: 15.03%, Danish: 5.84%, German: 4.6%, NorwegianBokmal: 4.07%, Estonian: 3.47%, French: 3.22%, Latin: 1.78%, Javanese: 1.75%, English: 1.58%, Swedish: 1.34%, Catalan: 1.2%, Portuguese: 1.16%, Turkish: 1.15%, Spanish: 1.13%, Indonesian: 1.11%, Filipino: 1.08%, Finnish: 1.08%, Romanian: 0.98%, Lithuanian: 0.94%, Italian: 0.82%, UzbekNorthern: 0.61%, Turkmen: 0.6%, Hungarian: 0.58%, Esperanto: 0.53%, Latvian: 0.47%, Slovene: 0.45%, Zulu: 0.45%, Slovak: 0.42%, Polish: 0.34%, Croatian: 0.32%, Czech: 0.29%, Shona: 0.29%, Akan: 0.22%, Vietnamese: 0.11%, AzerbaijaniNorth: 0.06%
 
 >> Detection of 2000 sentences (average length: 102 chars)
 Accuracy: 92.35%

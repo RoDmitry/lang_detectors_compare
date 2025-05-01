@@ -1,14 +1,14 @@
 ##### ArabicSouthernYemeni #####
 
->>> Accuracy on average: 84.47%
+>>> Accuracy on average: 84.26%
 
->> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 67.8%
-Erroneously classified as ArabicMesopotamian: 8.77%, Arabic: 6.05%, ArabicNorthLevantine: 2.97%, ArabicSouthLevantine: 2.92%, ArabicNajdi: 2.09%, ArabicMoroccan: 2.01%, ArabicEgyptian: 1.32%, PersianWestern: 1.11%, ArabicTunisian: 0.96%, Sindhi: 0.89%, BanjarJawi: 0.74%, KurdishCentral: 0.57%, AcehneseJawi: 0.49%, PersianDari: 0.44%, PashtoSouthern: 0.32%, KanuriCentralAjami: 0.31%, AzerbaijaniSouth: 0.19%, Kashmiri: 0.03%, Urdu: 0.02%
+>> Detection of 2668 single words (average length: 5 chars)
+Accuracy: 66.75%
+Erroneously classified as ArabicMesopotamian: 10.56%, Arabic: 4.42%, ArabicSouthLevantine: 2.92%, ArabicNorthLevantine: 2.69%, ArabicMoroccan: 2.43%, ArabicEgyptian: 2.32%, ArabicNajdi: 2.06%, ArabicTunisian: 1.27%, PersianDari: 0.86%, KanuriCentralAjami: 0.71%, AcehneseJawi: 0.67%, PersianWestern: 0.63%, Sindhi: 0.44%, AzerbaijaniSouth: 0.37%, BanjarJawi: 0.37%, PashtoSouthern: 0.26%, Kashmiri: 0.07%, Urdu: 0.07%, KurdishCentral: 0.03%
 
->> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 87.36%
-Erroneously classified as ArabicMesopotamian: 4.92%, ArabicSouthLevantine: 1.38%, Arabic: 1.19%, ArabicNajdi: 1.09%, ArabicMoroccan: 1.08%, ArabicNorthLevantine: 1.07%, ArabicEgyptian: 0.95%, ArabicTunisian: 0.53%, BanjarJawi: 0.08%, AcehneseJawi: 0.07%, PersianDari: 0.07%, KanuriCentralAjami: 0.06%, Sindhi: 0.06%, PersianWestern: 0.05%, PashtoSouthern: 0.02%, KurdishCentral: 0.01%
+>> Detection of 2667 word pairs (average length: 11 chars)
+Accuracy: 87.77%
+Erroneously classified as ArabicMesopotamian: 5.77%, Arabic: 1.23%, ArabicNajdi: 1.04%, ArabicMoroccan: 0.93%, ArabicSouthLevantine: 0.89%, ArabicNorthLevantine: 0.82%, ArabicEgyptian: 0.74%, ArabicTunisian: 0.48%, AcehneseJawi: 0.07%, PersianWestern: 0.07%, BanjarJawi: 0.03%, PersianDari: 0.03%, Sindhi: 0.03%
 
 >> Detection of 2000 sentences (average length: 30 chars)
 Accuracy: 98.25%

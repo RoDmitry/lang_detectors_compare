@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 99.99%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 99.99%
+>> Detection of 9013 single words (average length: 8 chars)
+Accuracy: 99.98%
 Erroneously classified as FulfuldeNigerian: 0.01%
 
->> Detection of 9999 word pairs (average length: 14 chars)
+>> Detection of 9012 word pairs (average length: 18 chars)
 Accuracy: 100%
 Erroneously classified as 
 

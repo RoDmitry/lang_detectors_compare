@@ -1,14 +1,14 @@
 ##### Chhattisgarhi #####
 
->>> Accuracy on average: 71.9%
+>>> Accuracy on average: 62.87%
 
->> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 58.42%
-Erroneously classified as Magahi: 14.59%, Hindi: 6.1%, KashmiriDevanagari: 4.74%, Bhojpuri: 4.24%, Awadhi: 3.46%, Maithili: 2.62%, Marathi: 2.16%, Nepali: 2.12%, Sanskrit: 1.55%
+>> Detection of 3922 single words (average length: 6 chars)
+Accuracy: 43.47%
+Erroneously classified as Magahi: 13.66%, KashmiriDevanagari: 11.26%, Hindi: 8.31%, Bhojpuri: 4.76%, Awadhi: 4.71%, Nepali: 3.74%, Sanskrit: 3.74%, Maithili: 3.72%, Marathi: 2.57%
 
->> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 74.28%
-Erroneously classified as Magahi: 11.95%, Hindi: 4.07%, Bhojpuri: 3.13%, KashmiriDevanagari: 1.86%, Awadhi: 1.84%, Maithili: 1.19%, Nepali: 0.71%, Marathi: 0.57%, Sanskrit: 0.39%
+>> Detection of 3921 word pairs (average length: 13 chars)
+Accuracy: 62.15%
+Erroneously classified as Magahi: 12.8%, Hindi: 6.4%, KashmiriDevanagari: 5.68%, Awadhi: 3.51%, Bhojpuri: 3.28%, Maithili: 2.26%, Nepali: 1.63%, Sanskrit: 1.42%, Marathi: 0.81%
 
 >> Detection of 2000 sentences (average length: 41 chars)
 Accuracy: 83%

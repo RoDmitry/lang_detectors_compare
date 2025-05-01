@@ -1,14 +1,14 @@
 ##### Maltese #####
 
->>> Accuracy on average: 41.29%
+>>> Accuracy on average: 43.82%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 14.79%
-Erroneously classified as Unknown: 85.21%
+>> Detection of 10000 single words (average length: 9 chars)
+Accuracy: 17.64%
+Erroneously classified as Unknown: 82.36%
 
->> Detection of 9999 word pairs (average length: 15 chars)
-Accuracy: 28.28%
-Erroneously classified as Unknown: 71.71%
+>> Detection of 9999 word pairs (average length: 20 chars)
+Accuracy: 33.02%
+Erroneously classified as Unknown: 66.97%
 
 >> Detection of 2000 sentences (average length: 149 chars)
 Accuracy: 80.8%

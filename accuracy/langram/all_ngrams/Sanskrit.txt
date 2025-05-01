@@ -1,14 +1,14 @@
 ##### Sanskrit #####
 
->>> Accuracy on average: 93.87%
+>>> Accuracy on average: 95.31%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 89.79%
-Erroneously classified as Maithili: 3.8%, Awadhi: 1.12%, KashmiriDevanagari: 0.97%, Hindi: 0.94%, Nepali: 0.91%, Marathi: 0.76%, Chhattisgarhi: 0.61%, Magahi: 0.58%, Bhojpuri: 0.52%
+>> Detection of 9563 single words (average length: 9 chars)
+Accuracy: 91.46%
+Erroneously classified as Maithili: 2.77%, Awadhi: 1.24%, Hindi: 0.86%, Nepali: 0.79%, Marathi: 0.75%, Bhojpuri: 0.64%, Magahi: 0.58%, KashmiriDevanagari: 0.47%, Chhattisgarhi: 0.39%
 
->> Detection of 9999 word pairs (average length: 15 chars)
-Accuracy: 96.19%
-Erroneously classified as Maithili: 1.41%, Awadhi: 0.71%, Hindi: 0.66%, Bhojpuri: 0.28%, Nepali: 0.21%, Marathi: 0.16%, Magahi: 0.15%, Chhattisgarhi: 0.12%, KashmiriDevanagari: 0.1%
+>> Detection of 9562 word pairs (average length: 19 chars)
+Accuracy: 98.81%
+Erroneously classified as Maithili: 0.43%, Awadhi: 0.29%, Hindi: 0.13%, Nepali: 0.1%, Marathi: 0.08%, Magahi: 0.06%, Bhojpuri: 0.03%, Chhattisgarhi: 0.02%, KashmiriDevanagari: 0.01%
 
 >> Detection of 2000 sentences (average length: 69 chars)
 Accuracy: 95.65%

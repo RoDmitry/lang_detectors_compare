@@ -1,14 +1,14 @@
 ##### Venetian #####
 
->>> Accuracy on average: 17.57%
+>>> Accuracy on average: 19.74%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 1.45%
-Erroneously classified as Unknown: 98.55%
+>> Detection of 10000 single words (average length: 7 chars)
+Accuracy: 3.4%
+Erroneously classified as Unknown: 96.6%
 
->> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 5.57%
-Erroneously classified as Unknown: 94.42%
+>> Detection of 9999 word pairs (average length: 15 chars)
+Accuracy: 10.12%
+Erroneously classified as Unknown: 89.87%
 
 >> Detection of 2000 sentences (average length: 109 chars)
 Accuracy: 45.7%

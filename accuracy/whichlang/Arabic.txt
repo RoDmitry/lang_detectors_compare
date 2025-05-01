@@ -1,12 +1,12 @@
 ##### Arabic #####
 
->>> Accuracy on average: 99.95%
+>>> Accuracy on average: 99.96%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 99.97%
-Erroneously classified as Korean: 0.03%
+>> Detection of 10000 single words (average length: 6 chars)
+Accuracy: 100%
+Erroneously classified as 
 
->> Detection of 9999 word pairs (average length: 11 chars)
+>> Detection of 9999 word pairs (average length: 13 chars)
 Accuracy: 100%
 Erroneously classified as 
 

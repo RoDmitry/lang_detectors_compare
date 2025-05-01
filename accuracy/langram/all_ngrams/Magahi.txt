@@ -1,14 +1,14 @@
 ##### Magahi #####
 
->>> Accuracy on average: 76.92%
+>>> Accuracy on average: 74.53%
 
->> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 56.87%
-Erroneously classified as Bhojpuri: 11.9%, Hindi: 9.63%, Chhattisgarhi: 4.84%, KashmiriDevanagari: 4.28%, Awadhi: 4.07%, Maithili: 3.16%, Nepali: 2.42%, Marathi: 1.88%, Sanskrit: 0.95%
+>> Detection of 7826 single words (average length: 6 chars)
+Accuracy: 50.19%
+Erroneously classified as KashmiriDevanagari: 10.95%, Hindi: 9.62%, Chhattisgarhi: 6.38%, Bhojpuri: 6.21%, Awadhi: 4.76%, Maithili: 3.8%, Nepali: 3.51%, Marathi: 2.42%, Sanskrit: 2.12%
 
->> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 74.29%
-Erroneously classified as Bhojpuri: 8.21%, Hindi: 7.69%, Chhattisgarhi: 2.86%, Awadhi: 2.79%, KashmiriDevanagari: 1.85%, Maithili: 1.4%, Nepali: 0.52%, Marathi: 0.31%, Sanskrit: 0.07%
+>> Detection of 7825 word pairs (average length: 13 chars)
+Accuracy: 73.82%
+Erroneously classified as Hindi: 6.67%, KashmiriDevanagari: 4.35%, Chhattisgarhi: 4.29%, Bhojpuri: 4%, Awadhi: 2.36%, Maithili: 2.04%, Nepali: 1.38%, Marathi: 0.6%, Sanskrit: 0.46%
 
 >> Detection of 2000 sentences (average length: 132 chars)
 Accuracy: 99.6%

@@ -1,14 +1,14 @@
 ##### KanuriCentralAjami #####
 
->>> Accuracy on average: 95.89%
+>>> Accuracy on average: 96.58%
 
->> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 89.44%
-Erroneously classified as AcehneseJawi: 1.69%, ArabicSouthernYemeni: 1.44%, PashtoSouthern: 1.16%, BanjarJawi: 0.82%, Sindhi: 0.63%, ArabicMesopotamian: 0.62%, ArabicNorthLevantine: 0.62%, AzerbaijaniSouth: 0.47%, Arabic: 0.42%, ArabicMoroccan: 0.38%, ArabicNajdi: 0.38%, PersianDari: 0.37%, ArabicTunisian: 0.35%, PersianWestern: 0.29%, ArabicSouthLevantine: 0.25%, KurdishCentral: 0.24%, ArabicEgyptian: 0.16%, Kashmiri: 0.15%, Urdu: 0.1%, Uyghur: 0.02%
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 90.75%
+Erroneously classified as AcehneseJawi: 1.52%, BanjarJawi: 1.09%, ArabicMoroccan: 0.66%, ArabicSouthernYemeni: 0.64%, ArabicMesopotamian: 0.6%, AzerbaijaniSouth: 0.55%, ArabicNorthLevantine: 0.48%, ArabicTunisian: 0.46%, Sindhi: 0.42%, ArabicSouthLevantine: 0.39%, PersianWestern: 0.38%, PashtoSouthern: 0.37%, ArabicNajdi: 0.36%, Arabic: 0.3%, PersianDari: 0.29%, Kashmiri: 0.23%, ArabicEgyptian: 0.19%, KurdishCentral: 0.16%, Urdu: 0.12%, Uyghur: 0.04%
 
->> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 98.25%
-Erroneously classified as AcehneseJawi: 0.27%, ArabicMoroccan: 0.18%, BanjarJawi: 0.18%, ArabicSouthernYemeni: 0.16%, ArabicEgyptian: 0.13%, ArabicMesopotamian: 0.13%, PashtoSouthern: 0.13%, ArabicTunisian: 0.1%, PersianWestern: 0.09%, ArabicSouthLevantine: 0.07%, Arabic: 0.06%, ArabicNorthLevantine: 0.05%, AzerbaijaniSouth: 0.05%, Sindhi: 0.05%, ArabicNajdi: 0.04%, PersianDari: 0.04%, Kashmiri: 0.01%
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 98.99%
+Erroneously classified as AcehneseJawi: 0.19%, BanjarJawi: 0.13%, ArabicTunisian: 0.1%, ArabicMoroccan: 0.09%, ArabicSouthLevantine: 0.09%, ArabicNorthLevantine: 0.07%, ArabicMesopotamian: 0.06%, ArabicSouthernYemeni: 0.06%, Sindhi: 0.05%, ArabicEgyptian: 0.04%, AzerbaijaniSouth: 0.04%, Arabic: 0.02%, Kashmiri: 0.02%, PersianDari: 0.02%, PersianWestern: 0.02%
 
 >> Detection of 2000 sentences (average length: 151 chars)
 Accuracy: 100%

@@ -1,14 +1,14 @@
 ##### TamasheqLatin #####
 
->>> Accuracy on average: 28.64%
+>>> Accuracy on average: 31.46%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 3.36%
-Erroneously classified as Unknown: 96.64%
+>> Detection of 9348 single words (average length: 7 chars)
+Accuracy: 5.26%
+Erroneously classified as Unknown: 94.73%
 
->> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 10.08%
-Erroneously classified as Unknown: 89.91%
+>> Detection of 9347 word pairs (average length: 15 chars)
+Accuracy: 16.63%
+Erroneously classified as Unknown: 83.36%
 
 >> Detection of 2000 sentences (average length: 114 chars)
 Accuracy: 72.5%

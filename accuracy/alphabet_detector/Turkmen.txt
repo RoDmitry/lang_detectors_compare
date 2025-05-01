@@ -1,14 +1,14 @@
 ##### Turkmen #####
 
->>> Accuracy on average: 36.89%
+>>> Accuracy on average: 39.3%
 
->> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 6.56%
-Erroneously classified as Unknown: 93.44%
+>> Detection of 8287 single words (average length: 8 chars)
+Accuracy: 8.6%
+Erroneously classified as Unknown: 91.39%
 
->> Detection of 9999 word pairs (average length: 14 chars)
-Accuracy: 21.27%
-Erroneously classified as Unknown: 78.72%
+>> Detection of 8286 word pairs (average length: 17 chars)
+Accuracy: 26.46%
+Erroneously classified as Unknown: 73.53%
 
 >> Detection of 2000 sentences (average length: 85 chars)
 Accuracy: 82.85%

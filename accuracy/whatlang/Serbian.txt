@@ -1,14 +1,14 @@
 ##### Serbian #####
 
->>> Accuracy on average: 67.91%
+>>> Accuracy on average: 67.59%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 44.53%
-Erroneously classified as Macedonian: 15.23%, Bulgarian: 14.27%, Russian: 12.61%, Ukrainian: 8.25%, Belarusian: 5.11%
+>> Detection of 10000 single words (average length: 7 chars)
+Accuracy: 45.73%
+Erroneously classified as Macedonian: 16.59%, Russian: 11.14%, Ukrainian: 10.91%, Bulgarian: 10.74%, Belarusian: 4.89%
 
->> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 63.65%
-Erroneously classified as Macedonian: 16.78%, Bulgarian: 9.78%, Ukrainian: 4.59%, Russian: 3.28%, Belarusian: 1.91%
+>> Detection of 9999 word pairs (average length: 16 chars)
+Accuracy: 61.5%
+Erroneously classified as Macedonian: 18.19%, Bulgarian: 8.81%, Ukrainian: 6.21%, Russian: 4.05%, Belarusian: 1.23%
 
 >> Detection of 2000 sentences (average length: 138 chars)
 Accuracy: 95.55%

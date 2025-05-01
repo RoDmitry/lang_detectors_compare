@@ -1,14 +1,14 @@
 ##### Polish #####
 
->>> Accuracy on average: 76.58%
+>>> Accuracy on average: 80.36%
 
->> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 58.87%
-Erroneously classified as Croatian: 3.83%, Catalan: 3.44%, Slovene: 3.37%, Spanish: 2.76%, Czech: 1.79%, Portuguese: 1.75%, Estonian: 1.71%, German: 1.67%, Lithuanian: 1.39%, Slovak: 1.38%, Shona: 1.32%, Indonesian: 1.3%, Latvian: 1.29%, Latin: 1.21%, Esperanto: 1.11%, Turkmen: 1.07%, Javanese: 1.05%, English: 0.89%, Hungarian: 0.82%, Romanian: 0.82%, Zulu: 0.82%, Italian: 0.77%, Afrikaans: 0.73%, Filipino: 0.72%, Akan: 0.46%, Swedish: 0.46%, AzerbaijaniNorth: 0.43%, French: 0.43%, Dutch: 0.4%, Danish: 0.39%, NorwegianBokmal: 0.35%, UzbekNorthern: 0.33%, Finnish: 0.32%, Vietnamese: 0.3%, Turkish: 0.25%
+>> Detection of 10000 single words (average length: 9 chars)
+Accuracy: 64.51%
+Erroneously classified as Croatian: 1.96%, Spanish: 1.81%, Javanese: 1.65%, Shona: 1.65%, Slovak: 1.47%, Lithuanian: 1.45%, Slovene: 1.43%, Estonian: 1.38%, Latin: 1.37%, German: 1.33%, Filipino: 1.3%, Portuguese: 1.16%, Esperanto: 1.15%, English: 1.11%, Zulu: 1.1%, Catalan: 1.05%, Hungarian: 1.05%, Italian: 1.05%, Czech: 1.04%, Romanian: 0.98%, Afrikaans: 0.91%, Indonesian: 0.85%, Turkmen: 0.82%, Latvian: 0.78%, French: 0.72%, Danish: 0.67%, Swedish: 0.62%, Akan: 0.55%, Dutch: 0.53%, UzbekNorthern: 0.52%, AzerbaijaniNorth: 0.51%, Finnish: 0.51%, NorwegianBokmal: 0.4%, Turkish: 0.35%, Vietnamese: 0.26%
 
->> Detection of 9999 word pairs (average length: 14 chars)
-Accuracy: 77.79%
-Erroneously classified as Croatian: 2.38%, Portuguese: 1.46%, Estonian: 1.28%, Slovak: 1.27%, Slovene: 1.23%, Czech: 0.88%, Filipino: 0.79%, Catalan: 0.77%, Latin: 0.77%, Spanish: 0.75%, Lithuanian: 0.74%, German: 0.72%, English: 0.7%, Javanese: 0.7%, Romanian: 0.68%, Italian: 0.67%, Turkmen: 0.66%, Afrikaans: 0.62%, French: 0.59%, Indonesian: 0.52%, Danish: 0.43%, Shona: 0.42%, Esperanto: 0.38%, Swedish: 0.36%, Zulu: 0.34%, Dutch: 0.31%, Hungarian: 0.31%, Akan: 0.27%, Finnish: 0.24%, Latvian: 0.24%, Vietnamese: 0.24%, NorwegianBokmal: 0.22%, Turkish: 0.13%, UzbekNorthern: 0.11%, AzerbaijaniNorth: 0.02%
+>> Detection of 9999 word pairs (average length: 19 chars)
+Accuracy: 83.49%
+Erroneously classified as Croatian: 1.12%, Slovak: 1.02%, Lithuanian: 0.93%, Portuguese: 0.88%, Latin: 0.79%, Spanish: 0.78%, Javanese: 0.76%, Slovene: 0.72%, English: 0.68%, German: 0.68%, Catalan: 0.67%, Shona: 0.66%, Filipino: 0.58%, Estonian: 0.57%, Italian: 0.56%, Afrikaans: 0.51%, Czech: 0.48%, Romanian: 0.46%, Esperanto: 0.42%, Swedish: 0.38%, Indonesian: 0.36%, French: 0.31%, Zulu: 0.31%, Danish: 0.3%, Dutch: 0.26%, Hungarian: 0.24%, Turkmen: 0.23%, Latvian: 0.21%, NorwegianBokmal: 0.12%, Turkish: 0.12%, UzbekNorthern: 0.12%, Finnish: 0.11%, Akan: 0.07%, Vietnamese: 0.06%, AzerbaijaniNorth: 0.03%
 
 >> Detection of 2000 sentences (average length: 143 chars)
 Accuracy: 93.1%

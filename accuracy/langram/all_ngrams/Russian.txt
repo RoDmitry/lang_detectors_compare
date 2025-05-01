@@ -1,14 +1,14 @@
 ##### Russian #####
 
->>> Accuracy on average: 94.35%
+>>> Accuracy on average: 94.61%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 87.35%
-Erroneously classified as Macedonian: 2.81%, Bulgarian: 2.38%, Serbian: 2.1%, Ukrainian: 1.99%, Belarusian: 1.68%, Kazakh: 0.53%, Bashkir: 0.39%, Tajik: 0.3%, MongolianHalh: 0.18%, Kyrgyz: 0.15%, Tatar: 0.14%
+>> Detection of 10000 single words (average length: 9 chars)
+Accuracy: 86.4%
+Erroneously classified as Bulgarian: 3.28%, Serbian: 2.19%, Ukrainian: 2.11%, Belarusian: 1.55%, Macedonian: 1.36%, Kazakh: 0.87%, Tajik: 0.61%, Bashkir: 0.59%, Kyrgyz: 0.47%, Tatar: 0.33%, MongolianHalh: 0.24%
 
->> Detection of 9999 word pairs (average length: 15 chars)
-Accuracy: 96.32%
-Erroneously classified as Bulgarian: 1.49%, Ukrainian: 0.46%, Serbian: 0.43%, Macedonian: 0.42%, Belarusian: 0.34%, Kazakh: 0.19%, Kyrgyz: 0.1%, Tatar: 0.07%, Bashkir: 0.06%, Tajik: 0.06%, MongolianHalh: 0.05%
+>> Detection of 9999 word pairs (average length: 19 chars)
+Accuracy: 98.05%
+Erroneously classified as Bulgarian: 0.69%, Serbian: 0.42%, Ukrainian: 0.24%, Belarusian: 0.15%, Macedonian: 0.15%, Kazakh: 0.08%, Tatar: 0.08%, Bashkir: 0.07%, Kyrgyz: 0.03%, Tajik: 0.03%
 
 >> Detection of 2000 sentences (average length: 181 chars)
 Accuracy: 99.4%

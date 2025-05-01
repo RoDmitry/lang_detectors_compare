@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 31.48%
 
->> Detection of 10000 single words (average length: 1 chars)
+>> Detection of 2075 single words (average length: 1 chars)
 Accuracy: 0%
 Erroneously classified as ChineseMandarinSimplified: 100%
 
->> Detection of 9999 word pairs (average length: 2 chars)
+>> Detection of 2074 word pairs (average length: 2 chars)
 Accuracy: 0%
 Erroneously classified as ChineseMandarinSimplified: 100%
 

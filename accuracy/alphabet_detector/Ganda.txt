@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 0.01%
 
->> Detection of 10000 single words (average length: 6 chars)
+>> Detection of 7654 single words (average length: 9 chars)
 Accuracy: 0%
 Erroneously classified as Unknown: 100%
 
->> Detection of 9999 word pairs (average length: 14 chars)
+>> Detection of 7653 word pairs (average length: 19 chars)
 Accuracy: 0%
 Erroneously classified as Unknown: 100%
 

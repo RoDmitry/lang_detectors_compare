@@ -1,14 +1,14 @@
 ##### UzbekNorthern #####
 
->>> Accuracy on average: 16.32%
+>>> Accuracy on average: 19%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 4.05%
-Erroneously classified as Unknown: 95.95%
+>> Detection of 10000 single words (average length: 9 chars)
+Accuracy: 6.47%
+Erroneously classified as Unknown: 93.53%
 
->> Detection of 9999 word pairs (average length: 15 chars)
-Accuracy: 8.56%
-Erroneously classified as Unknown: 91.43%
+>> Detection of 9999 word pairs (average length: 19 chars)
+Accuracy: 14.2%
+Erroneously classified as Unknown: 85.79%
 
 >> Detection of 2000 sentences (average length: 147 chars)
 Accuracy: 36.35%

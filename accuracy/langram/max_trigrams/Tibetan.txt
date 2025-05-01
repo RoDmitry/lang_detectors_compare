@@ -1,14 +1,14 @@
 ##### Tibetan #####
 
->>> Accuracy on average: 99.29%
+>>> Accuracy on average: 99.13%
 
->> Detection of 10000 single words (average length: 22 chars)
-Accuracy: 98.99%
-Erroneously classified as Dzongkha: 1.01%
+>> Detection of 10000 single words (average length: 43 chars)
+Accuracy: 98.43%
+Erroneously classified as Dzongkha: 1.57%
 
->> Detection of 9999 word pairs (average length: 46 chars)
-Accuracy: 99.85%
-Erroneously classified as Dzongkha: 0.14%
+>> Detection of 9999 word pairs (average length: 87 chars)
+Accuracy: 99.91%
+Erroneously classified as Dzongkha: 0.08%
 
 >> Detection of 2000 sentences (average length: 389 chars)
 Accuracy: 99.05%

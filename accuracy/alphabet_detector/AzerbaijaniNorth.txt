@@ -1,14 +1,14 @@
 ##### AzerbaijaniNorth #####
 
->>> Accuracy on average: 16.56%
+>>> Accuracy on average: 17%
 
->> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 0.68%
-Erroneously classified as Unknown: 99.32%
+>> Detection of 10000 single words (average length: 8 chars)
+Accuracy: 0.75%
+Erroneously classified as Unknown: 99.25%
 
->> Detection of 9999 word pairs (average length: 14 chars)
-Accuracy: 4.3%
-Erroneously classified as Unknown: 95.69%
+>> Detection of 9999 word pairs (average length: 17 chars)
+Accuracy: 5.56%
+Erroneously classified as Unknown: 94.43%
 
 >> Detection of 2000 sentences (average length: 99 chars)
 Accuracy: 44.7%

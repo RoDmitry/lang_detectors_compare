@@ -1,14 +1,14 @@
 ##### Assamese #####
 
->>> Accuracy on average: 95.52%
+>>> Accuracy on average: 95%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 89.74%
-Erroneously classified as Bengali: 8.84%, MeiteiBengali: 1.42%
+>> Detection of 8548 single words (average length: 6 chars)
+Accuracy: 87.99%
+Erroneously classified as Bengali: 9.75%, MeiteiBengali: 2.24%
 
->> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 96.99%
-Erroneously classified as Bengali: 2.52%, MeiteiBengali: 0.48%
+>> Detection of 8547 word pairs (average length: 14 chars)
+Accuracy: 97.15%
+Erroneously classified as Bengali: 2.66%, MeiteiBengali: 0.17%
 
 >> Detection of 2000 sentences (average length: 84 chars)
 Accuracy: 99.85%

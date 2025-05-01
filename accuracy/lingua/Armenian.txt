@@ -1,14 +1,14 @@
 ##### Armenian #####
 
->>> Accuracy on average: 96.88%
+>>> Accuracy on average: 99.95%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 91.13%
-Erroneously classified as Unknown: 8.87%
+>> Detection of 8023 single words (average length: 8 chars)
+Accuracy: 99.92%
+Erroneously classified as Unknown: 0.07%
 
->> Detection of 9999 word pairs (average length: 12 chars)
-Accuracy: 99.56%
-Erroneously classified as Unknown: 0.43%
+>> Detection of 8022 word pairs (average length: 17 chars)
+Accuracy: 100%
+Erroneously classified as 
 
 >> Detection of 2000 sentences (average length: 88 chars)
 Accuracy: 99.95%

@@ -1,14 +1,14 @@
 ##### MalgasyPlateau #####
 
->>> Accuracy on average: 96.38%
+>>> Accuracy on average: 97.2%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 90.1%
-Erroneously classified as Sesotho: 2.14%, Dyula: 1.63%, Twi: 1.25%, Fijian: 0.93%, Pangasinan: 0.65%, Chokwe: 0.54%, Tsonga: 0.21%, Banjar: 0.11%, Filipino: 0.11%, Maori: 0.11%, Samoan: 0.11%, Sicilian: 0.11%, Kimbundu: 0.1%, Umbundu: 0.1%, Balinese: 0.08%, Bambara: 0.08%, Italian: 0.08%, Minangkabau: 0.08%, Swahili: 0.07%, Basque: 0.06%, KikongoKituba: 0.06%, LubaKasai: 0.06%, Sepedi: 0.06%, Tumbuka: 0.06%, Dutch: 0.05%, TokPisin: 0.05%, Buginese: 0.04%, Ewe: 0.04%, Mizo: 0.04%, Sango: 0.04%, Turkish: 0.04%, Waray: 0.04%, Yoruba: 0.04%, AymaraCentral: 0.03%, Czech: 0.03%, Dholuo: 0.03%, Hausa: 0.03%, Javanese: 0.03%, Kikuyu: 0.03%, Lingala: 0.03%, Nyanja: 0.03%, Shona: 0.03%, Somali: 0.03%, Tswana: 0.03%, English: 0.02%, Finnish: 0.02%, Guarani: 0.02%, Indonesian: 0.02%, Kabuverdianu: 0.02%, Kinyarwanda: 0.02%, Mossi: 0.02%, Occitan: 0.02%, Slovene: 0.02%, Sundanese: 0.02%, Turkmen: 0.02%, Zulu: 0.02%, Afrikaans: 0.01%, AlbanianTosk: 0.01%, Bemba: 0.01%, Cebuano: 0.01%, Esperanto: 0.01%, Friulian: 0.01%, Galician: 0.01%, Ganda: 0.01%, Irish: 0.01%, Kamba: 0.01%, Limburgish: 0.01%, QuechuaAyacucho: 0.01%, Sardinian: 0.01%, Slovak: 0.01%, Swati: 0.01%, Venetian: 0.01%
+>> Detection of 5675 single words (average length: 9 chars)
+Accuracy: 92.37%
+Erroneously classified as Maori: 0.42%, Fijian: 0.35%, Pangasinan: 0.29%, Samoan: 0.29%, Sesotho: 0.22%, Minangkabau: 0.21%, Basque: 0.19%, Swahili: 0.19%, Umbundu: 0.19%, Chokwe: 0.17%, Banjar: 0.15%, Filipino: 0.15%, KikongoKituba: 0.15%, Balinese: 0.14%, Dholuo: 0.14%, Bambara: 0.12%, Buginese: 0.12%, Cebuano: 0.12%, Mizo: 0.12%, Tsonga: 0.12%, Tswana: 0.12%, Finnish: 0.1%, Hausa: 0.1%, Indonesian: 0.1%, Lingala: 0.1%, Tumbuka: 0.1%, Waray: 0.1%, AymaraCentral: 0.08%, Kamba: 0.08%, Kimbundu: 0.08%, LubaKasai: 0.08%, Malay: 0.08%, Nyanja: 0.08%, Shona: 0.08%, Somali: 0.08%, TamasheqLatin: 0.08%, Dyula: 0.07%, Guarani: 0.07%, Kinyarwanda: 0.07%, Occitan: 0.07%, Sango: 0.07%, Sepedi: 0.07%, Sicilian: 0.07%, Turkmen: 0.07%, Venetian: 0.07%, Zulu: 0.07%, Bemba: 0.05%, Czech: 0.05%, English: 0.05%, Ewe: 0.05%, Kabuverdianu: 0.05%, KanuriCentral: 0.05%, Mossi: 0.05%, QuechuaAyacucho: 0.05%, Silesian: 0.05%, Sundanese: 0.05%, Swati: 0.05%, TokPisin: 0.05%, Acehnese: 0.03%, Galician: 0.03%, Italian: 0.03%, Javanese: 0.03%, Jingpho: 0.03%, Kikuyu: 0.03%, Limburgish: 0.03%, Sardinian: 0.03%, Slovak: 0.03%, Slovene: 0.03%, Twi: 0.03%, Afrikaans: 0.01%, AlbanianTosk: 0.01%, CreoleHaitian: 0.01%, Dutch: 0.01%, Esperanto: 0.01%, Faroese: 0.01%, Friulian: 0.01%, GaelicScottish: 0.01%, Ganda: 0.01%, Igbo: 0.01%, Ilocano: 0.01%, Irish: 0.01%, Latvian: 0.01%, Lithuanian: 0.01%, Luxembourgish: 0.01%, NorwegianBokmal: 0.01%, OromoWestCentral: 0.01%, Romanian: 0.01%, Rundi: 0.01%, Spanish: 0.01%, Turkish: 0.01%, Welsh: 0.01%, Yoruba: 0.01%
 
->> Detection of 9999 word pairs (average length: 12 chars)
-Accuracy: 99.56%
-Erroneously classified as Twi: 0.11%, Sesotho: 0.05%, Fijian: 0.03%, Pangasinan: 0.03%, Afrikaans: 0.02%, Kimbundu: 0.02%, Minangkabau: 0.02%, Mizo: 0.02%, Swahili: 0.02%, Tsonga: 0.02%, Balinese: 0.01%, Banjar: 0.01%, Czech: 0.01%, Filipino: 0.01%, Guarani: 0.01%, Latgalian: 0.01%, Silesian: 0.01%, Somali: 0.01%, Waray: 0.01%
+>> Detection of 5674 word pairs (average length: 19 chars)
+Accuracy: 99.75%
+Erroneously classified as Banjar: 0.01%, Chokwe: 0.01%, Fijian: 0.01%, Filipino: 0.01%, KikongoKituba: 0.01%, Minangkabau: 0.01%, Occitan: 0.01%, Pangasinan: 0.01%, Samoan: 0.01%, Sango: 0.01%, Sesotho: 0.01%, Swahili: 0.01%, Venetian: 0.01%, Waray: 0.01%
 
 >> Detection of 2000 sentences (average length: 120 chars)
 Accuracy: 99.5%

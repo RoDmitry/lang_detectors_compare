@@ -1,14 +1,14 @@
 ##### Wolof #####
 
->>> Accuracy on average: 7.85%
+>>> Accuracy on average: 8.23%
 
->> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 0.11%
-Erroneously classified as Unknown: 99.89%
+>> Detection of 6087 single words (average length: 6 chars)
+Accuracy: 0.32%
+Erroneously classified as Unknown: 99.67%
 
->> Detection of 9999 word pairs (average length: 9 chars)
-Accuracy: 0.46%
-Erroneously classified as Unknown: 99.53%
+>> Detection of 6086 word pairs (average length: 13 chars)
+Accuracy: 1.38%
+Erroneously classified as Unknown: 98.61%
 
 >> Detection of 2000 sentences (average length: 103 chars)
 Accuracy: 23%

@@ -1,14 +1,14 @@
 ##### Estonian #####
 
->>> Accuracy on average: 17.15%
+>>> Accuracy on average: 17.71%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 0.37%
-Erroneously classified as Unknown: 99.63%
+>> Detection of 10000 single words (average length: 10 chars)
+Accuracy: 0.66%
+Erroneously classified as Unknown: 99.34%
 
->> Detection of 9999 word pairs (average length: 16 chars)
-Accuracy: 2.69%
-Erroneously classified as Unknown: 97.3%
+>> Detection of 9999 word pairs (average length: 21 chars)
+Accuracy: 4.09%
+Erroneously classified as Unknown: 95.9%
 
 >> Detection of 2000 sentences (average length: 136 chars)
 Accuracy: 48.4%

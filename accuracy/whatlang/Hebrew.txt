@@ -1,14 +1,14 @@
 ##### Hebrew #####
 
->>> Accuracy on average: 94.12%
+>>> Accuracy on average: 94.28%
 
->> Detection of 10000 single words (average length: 4 chars)
-Accuracy: 91.67%
-Erroneously classified as YiddishEastern: 8.33%
+>> Detection of 10000 single words (average length: 5 chars)
+Accuracy: 91.72%
+Erroneously classified as YiddishEastern: 8.28%
 
->> Detection of 9999 word pairs (average length: 10 chars)
-Accuracy: 92.51%
-Erroneously classified as YiddishEastern: 7.48%
+>> Detection of 9999 word pairs (average length: 12 chars)
+Accuracy: 92.94%
+Erroneously classified as YiddishEastern: 7.05%
 
 >> Detection of 2000 sentences (average length: 67 chars)
 Accuracy: 98.2%

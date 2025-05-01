@@ -1,14 +1,14 @@
 ##### Faroese #####
 
->>> Accuracy on average: 15.19%
+>>> Accuracy on average: 16.94%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 1.22%
-Erroneously classified as Unknown: 98.78%
+>> Detection of 8282 single words (average length: 8 chars)
+Accuracy: 2.59%
+Erroneously classified as Unknown: 97.4%
 
->> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 3.51%
-Erroneously classified as Unknown: 96.48%
+>> Detection of 8281 word pairs (average length: 17 chars)
+Accuracy: 7.37%
+Erroneously classified as Unknown: 92.62%
 
 >> Detection of 2000 sentences (average length: 90 chars)
 Accuracy: 40.85%

@@ -1,14 +1,14 @@
 ##### Spanish #####
 
->>> Accuracy on average: 64.84%
+>>> Accuracy on average: 67.17%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 33.96%
-Erroneously classified as Portuguese: 16.63%, Italian: 14.5%, Turkish: 10.25%, Swedish: 7.74%, Dutch: 6.76%, English: 5.63%, French: 2.99%, German: 1.4%, Arabic: 0.1%, Japanese: 0.02%, Vietnamese: 0.02%
+>> Detection of 8677 single words (average length: 8 chars)
+Accuracy: 42.97%
+Erroneously classified as Italian: 18.42%, Portuguese: 15.89%, Turkish: 6.88%, English: 5.03%, Dutch: 4.28%, French: 2.23%, German: 2.21%, Swedish: 1.97%, Vietnamese: 0.04%, Japanese: 0.02%, Arabic: 0.01%
 
->> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 64.88%
-Erroneously classified as Portuguese: 11.54%, Italian: 8.69%, English: 5.39%, Dutch: 3.23%, French: 2%, Swedish: 1.64%, Turkish: 1.56%, German: 0.84%, Vietnamese: 0.18%, Arabic: 0.04%
+>> Detection of 8676 word pairs (average length: 17 chars)
+Accuracy: 62.84%
+Erroneously classified as Portuguese: 16.48%, Italian: 9.54%, English: 3.43%, Turkish: 2.01%, Swedish: 1.56%, Dutch: 1.53%, German: 1.31%, French: 1.18%, Vietnamese: 0.08%
 
 >> Detection of 2000 sentences (average length: 139 chars)
 Accuracy: 95.7%

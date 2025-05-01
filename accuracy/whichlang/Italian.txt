@@ -1,14 +1,14 @@
 ##### Italian #####
 
->>> Accuracy on average: 80.68%
+>>> Accuracy on average: 81.56%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 59.75%
-Erroneously classified as English: 8.77%, Portuguese: 5.79%, Turkish: 5.61%, French: 4.75%, Dutch: 4.24%, Spanish: 3.27%, German: 2.89%, Arabic: 2.81%, Swedish: 2.05%, Vietnamese: 0.07%
+>> Detection of 8623 single words (average length: 8 chars)
+Accuracy: 63.29%
+Erroneously classified as Portuguese: 7.74%, Turkish: 6.35%, Spanish: 5.25%, English: 5.02%, Dutch: 4.27%, French: 2.87%, German: 2.79%, Swedish: 2.3%, Vietnamese: 0.04%, Arabic: 0.01%, Japanese: 0.01%
 
->> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 83.7%
-Erroneously classified as Spanish: 3.6%, Portuguese: 3.58%, French: 2.58%, English: 2.54%, Turkish: 1.38%, Dutch: 1%, German: 0.97%, Swedish: 0.64%
+>> Detection of 8622 word pairs (average length: 17 chars)
+Accuracy: 82.79%
+Erroneously classified as Portuguese: 5.04%, English: 2.8%, Spanish: 2.71%, French: 1.63%, Turkish: 1.63%, German: 1.35%, Dutch: 1.09%, Swedish: 0.9%, Vietnamese: 0.01%
 
 >> Detection of 2000 sentences (average length: 119 chars)
 Accuracy: 98.6%

@@ -1,14 +1,14 @@
 ##### Tajik #####
 
->>> Accuracy on average: 98.14%
+>>> Accuracy on average: 97.55%
 
->> Detection of 10000 single words (average length: 5 chars)
-Accuracy: 95.87%
-Erroneously classified as Russian: 0.63%, Serbian: 0.59%, Ukrainian: 0.59%, Kyrgyz: 0.43%, Bashkir: 0.42%, Kazakh: 0.39%, Macedonian: 0.39%, Bulgarian: 0.31%, Belarusian: 0.2%, MongolianHalh: 0.12%, Tatar: 0.06%
+>> Detection of 7951 single words (average length: 7 chars)
+Accuracy: 93.96%
+Erroneously classified as Kazakh: 0.84%, Bulgarian: 0.77%, Kyrgyz: 0.77%, Russian: 0.74%, Serbian: 0.6%, Macedonian: 0.54%, Bashkir: 0.49%, Belarusian: 0.41%, Ukrainian: 0.36%, MongolianHalh: 0.26%, Tatar: 0.21%
 
->> Detection of 9999 word pairs (average length: 11 chars)
-Accuracy: 99.06%
-Erroneously classified as Russian: 0.35%, Bulgarian: 0.13%, Belarusian: 0.11%, Kazakh: 0.1%, Bashkir: 0.08%, Macedonian: 0.06%, Kyrgyz: 0.03%, Serbian: 0.03%, Ukrainian: 0.02%, MongolianHalh: 0.01%, Tatar: 0.01%
+>> Detection of 7950 word pairs (average length: 15 chars)
+Accuracy: 99.19%
+Erroneously classified as Russian: 0.21%, Macedonian: 0.13%, Kyrgyz: 0.11%, Kazakh: 0.07%, Serbian: 0.07%, Bashkir: 0.06%, Belarusian: 0.06%, Bulgarian: 0.05%, Tatar: 0.01%
 
 >> Detection of 2000 sentences (average length: 92 chars)
 Accuracy: 99.5%

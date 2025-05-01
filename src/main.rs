@@ -281,8 +281,10 @@ fn main() {
                             })
                             .flatten()
                     })
+                    .collect::<AHashSet<_>>()
+                    .into_iter()
                     .take(10000)
-                    .collect::<Vec<_>>(),
+                    .collect(),
             )
         })
         .collect();
@@ -295,9 +297,10 @@ fn main() {
 
             (
                 language,
-                ts.windows(2)
-                    .map(|t2| t2.join(separator))
-                    .collect::<Vec<_>>(),
+                ts.iter()
+                    .tuple_windows()
+                    .map(|(t1, t2)| t1.to_owned() + separator + t2)
+                    .collect(),
             )
         })
         .collect();
