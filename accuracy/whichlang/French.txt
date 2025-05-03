@@ -1,14 +1,14 @@
 ##### French #####
 
->>> Accuracy on average: 68.41%
+>>> Accuracy on average: 69.9%
 
 >> Detection of 8128 single words (average length: 8 chars)
 Accuracy: 39.81%
 Erroneously classified as Italian: 17.4%, Portuguese: 11.28%, Spanish: 9.01%, English: 7.67%, Dutch: 4.36%, Turkish: 4.2%, German: 3.24%, Swedish: 2.73%, Vietnamese: 0.22%, Arabic: 0.01%, Japanese: 0.01%
 
->> Detection of 8127 word pairs (average length: 17 chars)
-Accuracy: 65.92%
-Erroneously classified as English: 7.54%, Portuguese: 7.05%, Italian: 6.86%, Spanish: 5.79%, German: 2.46%, Dutch: 1.85%, Swedish: 1.47%, Turkish: 0.92%, Vietnamese: 0.09%
+>> Detection of 14737 word pairs (average length: 12 chars)
+Accuracy: 70.41%
+Erroneously classified as Italian: 6.17%, Spanish: 5.91%, Portuguese: 5.36%, English: 4.24%, Dutch: 2.35%, Swedish: 2.05%, German: 1.99%, Turkish: 1.24%, Vietnamese: 0.22%, Arabic: 0.01%
 
 >> Detection of 2000 sentences (average length: 137 chars)
 Accuracy: 99.5%

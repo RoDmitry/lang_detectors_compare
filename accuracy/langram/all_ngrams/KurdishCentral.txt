@@ -1,14 +1,14 @@
 ##### KurdishCentral #####
 
->>> Accuracy on average: 97.4%
+>>> Accuracy on average: 96.99%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 93.11%
-Erroneously classified as AzerbaijaniSouth: 1.29%, PersianDari: 1.04%, PersianWestern: 0.92%, BanjarJawi: 0.48%, Uyghur: 0.45%, PashtoSouthern: 0.37%, ArabicEgyptian: 0.33%, Kashmiri: 0.27%, Urdu: 0.24%, AcehneseJawi: 0.19%, ArabicSouthLevantine: 0.17%, KanuriCentralAjami: 0.17%, Arabic: 0.15%, ArabicNorthLevantine: 0.15%, ArabicTunisian: 0.15%, Sindhi: 0.14%, ArabicMoroccan: 0.1%, ArabicSouthernYemeni: 0.1%, ArabicMesopotamian: 0.09%, ArabicNajdi: 0.09%
+>> Detection of 20591 single words (average length: 7 chars)
+Accuracy: 93.46%
+Erroneously classified as AzerbaijaniSouth: 1.18%, PersianDari: 0.99%, PersianWestern: 0.85%, BanjarJawi: 0.42%, Uyghur: 0.38%, ArabicEgyptian: 0.31%, PashtoSouthern: 0.29%, Urdu: 0.26%, AcehneseJawi: 0.24%, Kashmiri: 0.24%, Arabic: 0.18%, KanuriCentralAjami: 0.18%, Sindhi: 0.17%, ArabicMoroccan: 0.13%, ArabicNorthLevantine: 0.13%, ArabicSouthLevantine: 0.12%, ArabicNajdi: 0.11%, ArabicTunisian: 0.1%, ArabicSouthernYemeni: 0.1%, ArabicMesopotamian: 0.06%
 
->> Detection of 9999 word pairs (average length: 15 chars)
-Accuracy: 99.6%
-Erroneously classified as PersianDari: 0.11%, AzerbaijaniSouth: 0.08%, PersianWestern: 0.08%, ArabicMoroccan: 0.02%, ArabicTunisian: 0.02%, Urdu: 0.02%, Uyghur: 0.02%, ArabicSouthernYemeni: 0.01%, BanjarJawi: 0.01%, Kashmiri: 0.01%, Sindhi: 0.01%
+>> Detection of 17074 word pairs (average length: 12 chars)
+Accuracy: 98.01%
+Erroneously classified as PersianWestern: 0.64%, AzerbaijaniSouth: 0.38%, PersianDari: 0.29%, PashtoSouthern: 0.17%, ArabicEgyptian: 0.12%, AcehneseJawi: 0.04%, ArabicSouthLevantine: 0.04%, Arabic: 0.04%, ArabicNorthLevantine: 0.03%, Urdu: 0.03%, ArabicSouthernYemeni: 0.02%, ArabicMoroccan: 0.02%, BanjarJawi: 0.02%, KanuriCentralAjami: 0.01%, Uyghur: 0.01%, ArabicNajdi: 0.01%, Kashmiri: 0.01%, Sindhi: 0.01%, ArabicTunisian: 0%
 
 >> Detection of 2000 sentences (average length: 222 chars)
 Accuracy: 99.5%

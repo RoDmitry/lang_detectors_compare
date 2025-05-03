@@ -6,9 +6,9 @@
 Accuracy: 0%
 Erroneously classified as ChineseMandarinSimplified: 87.17%, Japanese: 12.82%
 
->> Detection of 38 word pairs (average length: 2 chars)
+>> Detection of 41 word pairs (average length: 2 chars)
 Accuracy: 0%
-Erroneously classified as ChineseMandarinSimplified: 94.73%, Japanese: 5.26%
+Erroneously classified as ChineseMandarinSimplified: 97.56%, Japanese: 2.43%
 
 >> Detection of 2000 sentences (average length: 41 chars)
 Accuracy: 99.75%

@@ -6,7 +6,7 @@
 Accuracy: 99.98%
 Erroneously classified as FulfuldeNigerian: 0.01%
 
->> Detection of 9012 word pairs (average length: 18 chars)
+>> Detection of 18636 word pairs (average length: 15 chars)
 Accuracy: 100%
 Erroneously classified as 
 

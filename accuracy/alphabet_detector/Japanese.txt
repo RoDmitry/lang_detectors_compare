@@ -1,14 +1,14 @@
 ##### Japanese #####
 
->>> Accuracy on average: 36.37%
+>>> Accuracy on average: 35.25%
 
 >> Detection of 2075 single words (average length: 1 chars)
 Accuracy: 2.98%
 Erroneously classified as Unknown: 96.67%, ChineseMandarinSimplified: 0.28%, ChineseCantoneseTraditional: 0.04%
 
->> Detection of 2074 word pairs (average length: 2 chars)
-Accuracy: 9.45%
-Erroneously classified as Unknown: 90.11%, ChineseMandarinSimplified: 0.33%, ChineseCantoneseTraditional: 0.09%
+>> Detection of 15143 word pairs (average length: 2 chars)
+Accuracy: 6.06%
+Erroneously classified as Unknown: 93.85%, ChineseCantoneseTraditional: 0.05%, ChineseMandarinSimplified: 0.02%
 
 >> Detection of 2000 sentences (average length: 40 chars)
 Accuracy: 96.7%

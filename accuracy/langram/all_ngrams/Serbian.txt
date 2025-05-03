@@ -1,14 +1,14 @@
 ##### Serbian #####
 
->>> Accuracy on average: 91.45%
+>>> Accuracy on average: 90.54%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 79.87%
-Erroneously classified as Macedonian: 9.08%, Bulgarian: 3.09%, Russian: 2.03%, Belarusian: 1.57%, Ukrainian: 1.43%, Tajik: 1.08%, Kazakh: 0.57%, Kyrgyz: 0.54%, MongolianHalh: 0.28%, Tatar: 0.24%, Bashkir: 0.22%
+>> Detection of 14134 single words (average length: 7 chars)
+Accuracy: 79.68%
+Erroneously classified as Macedonian: 9.17%, Bulgarian: 3.14%, Russian: 2.05%, Ukrainian: 1.47%, Belarusian: 1.45%, Tajik: 0.99%, Kazakh: 0.62%, Kyrgyz: 0.56%, Tatar: 0.29%, MongolianHalh: 0.27%, Bashkir: 0.26%
 
->> Detection of 9999 word pairs (average length: 16 chars)
-Accuracy: 94.95%
-Erroneously classified as Macedonian: 3.48%, Bulgarian: 0.69%, Russian: 0.32%, Belarusian: 0.14%, Ukrainian: 0.14%, Tajik: 0.13%, Kyrgyz: 0.06%, Kazakh: 0.03%, Bashkir: 0.02%, Tatar: 0.02%, MongolianHalh: 0.01%
+>> Detection of 17132 word pairs (average length: 12 chars)
+Accuracy: 92.39%
+Erroneously classified as Macedonian: 4.78%, Bulgarian: 1.26%, Russian: 0.59%, Belarusian: 0.34%, Ukrainian: 0.32%, Tajik: 0.13%, Kazakh: 0.07%, Kyrgyz: 0.04%, Bashkir: 0.02%, Tatar: 0.02%
 
 >> Detection of 2000 sentences (average length: 138 chars)
 Accuracy: 99.55%

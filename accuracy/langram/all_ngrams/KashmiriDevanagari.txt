@@ -1,14 +1,14 @@
 ##### KashmiriDevanagari #####
 
->>> Accuracy on average: 93.32%
+>>> Accuracy on average: 93.08%
 
->> Detection of 10000 single words (average length: 6 chars)
-Accuracy: 84.59%
-Erroneously classified as Magahi: 3.4%, Chhattisgarhi: 2.59%, Bhojpuri: 1.99%, Hindi: 1.59%, Awadhi: 1.44%, Marathi: 1.23%, Maithili: 1.16%, Sanskrit: 1.09%, Nepali: 0.92%
+>> Detection of 12299 single words (average length: 6 chars)
+Accuracy: 84.67%
+Erroneously classified as Magahi: 3.39%, Chhattisgarhi: 2.51%, Bhojpuri: 1.91%, Hindi: 1.57%, Awadhi: 1.43%, Marathi: 1.28%, Maithili: 1.17%, Sanskrit: 1.1%, Nepali: 0.93%
 
->> Detection of 9999 word pairs (average length: 13 chars)
-Accuracy: 96.09%
-Erroneously classified as Magahi: 1%, Chhattisgarhi: 0.66%, Bhojpuri: 0.59%, Hindi: 0.48%, Awadhi: 0.36%, Maithili: 0.29%, Marathi: 0.22%, Sanskrit: 0.19%, Nepali: 0.11%
+>> Detection of 17247 word pairs (average length: 10 chars)
+Accuracy: 95.28%
+Erroneously classified as Magahi: 1.07%, Hindi: 0.86%, Chhattisgarhi: 0.78%, Bhojpuri: 0.63%, Awadhi: 0.45%, Marathi: 0.28%, Maithili: 0.27%, Nepali: 0.17%, Sanskrit: 0.16%
 
 >> Detection of 2000 sentences (average length: 113 chars)
 Accuracy: 99.3%

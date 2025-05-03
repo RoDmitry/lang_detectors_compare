@@ -1,14 +1,14 @@
 ##### Sepedi #####
 
->>> Accuracy on average: 1.24%
+>>> Accuracy on average: 1.01%
 
 >> Detection of 4798 single words (average length: 7 chars)
 Accuracy: 0.1%
 Erroneously classified as Unknown: 99.89%
 
->> Detection of 4797 word pairs (average length: 15 chars)
-Accuracy: 0.72%
-Erroneously classified as Unknown: 99.27%
+>> Detection of 11225 word pairs (average length: 10 chars)
+Accuracy: 0.03%
+Erroneously classified as Unknown: 99.96%
 
 >> Detection of 2000 sentences (average length: 108 chars)
 Accuracy: 2.9%

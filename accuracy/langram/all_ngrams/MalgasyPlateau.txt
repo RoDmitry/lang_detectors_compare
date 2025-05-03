@@ -1,14 +1,14 @@
 ##### MalgasyPlateau #####
 
->>> Accuracy on average: 97.2%
+>>> Accuracy on average: 97.14%
 
 >> Detection of 5675 single words (average length: 9 chars)
 Accuracy: 92.37%
 Erroneously classified as Maori: 0.42%, Fijian: 0.35%, Pangasinan: 0.29%, Samoan: 0.29%, Sesotho: 0.22%, Minangkabau: 0.21%, Basque: 0.19%, Swahili: 0.19%, Umbundu: 0.19%, Chokwe: 0.17%, Banjar: 0.15%, Filipino: 0.15%, KikongoKituba: 0.15%, Balinese: 0.14%, Dholuo: 0.14%, Bambara: 0.12%, Buginese: 0.12%, Cebuano: 0.12%, Mizo: 0.12%, Tsonga: 0.12%, Tswana: 0.12%, Finnish: 0.1%, Hausa: 0.1%, Indonesian: 0.1%, Lingala: 0.1%, Tumbuka: 0.1%, Waray: 0.1%, AymaraCentral: 0.08%, Kamba: 0.08%, Kimbundu: 0.08%, LubaKasai: 0.08%, Malay: 0.08%, Nyanja: 0.08%, Shona: 0.08%, Somali: 0.08%, TamasheqLatin: 0.08%, Dyula: 0.07%, Guarani: 0.07%, Kinyarwanda: 0.07%, Occitan: 0.07%, Sango: 0.07%, Sepedi: 0.07%, Sicilian: 0.07%, Turkmen: 0.07%, Venetian: 0.07%, Zulu: 0.07%, Bemba: 0.05%, Czech: 0.05%, English: 0.05%, Ewe: 0.05%, Kabuverdianu: 0.05%, KanuriCentral: 0.05%, Mossi: 0.05%, QuechuaAyacucho: 0.05%, Silesian: 0.05%, Sundanese: 0.05%, Swati: 0.05%, TokPisin: 0.05%, Acehnese: 0.03%, Galician: 0.03%, Italian: 0.03%, Javanese: 0.03%, Jingpho: 0.03%, Kikuyu: 0.03%, Limburgish: 0.03%, Sardinian: 0.03%, Slovak: 0.03%, Slovene: 0.03%, Twi: 0.03%, Afrikaans: 0.01%, AlbanianTosk: 0.01%, CreoleHaitian: 0.01%, Dutch: 0.01%, Esperanto: 0.01%, Faroese: 0.01%, Friulian: 0.01%, GaelicScottish: 0.01%, Ganda: 0.01%, Igbo: 0.01%, Ilocano: 0.01%, Irish: 0.01%, Latvian: 0.01%, Lithuanian: 0.01%, Luxembourgish: 0.01%, NorwegianBokmal: 0.01%, OromoWestCentral: 0.01%, Romanian: 0.01%, Rundi: 0.01%, Spanish: 0.01%, Turkish: 0.01%, Welsh: 0.01%, Yoruba: 0.01%
 
->> Detection of 5674 word pairs (average length: 19 chars)
-Accuracy: 99.75%
-Erroneously classified as Banjar: 0.01%, Chokwe: 0.01%, Fijian: 0.01%, Filipino: 0.01%, KikongoKituba: 0.01%, Minangkabau: 0.01%, Occitan: 0.01%, Pangasinan: 0.01%, Samoan: 0.01%, Sango: 0.01%, Sesotho: 0.01%, Swahili: 0.01%, Venetian: 0.01%, Waray: 0.01%
+>> Detection of 13643 word pairs (average length: 13 chars)
+Accuracy: 99.55%
+Erroneously classified as Sesotho: 0.04%, Pangasinan: 0.03%, Twi: 0.02%, Fijian: 0.02%, Maori: 0.02%, Swahili: 0.02%, Waray: 0.02%, Afrikaans: 0.01%, Filipino: 0.01%, Indonesian: 0.01%, Kimbundu: 0.01%, LubaKasai: 0.01%, Minangkabau: 0.01%, Sepedi: 0.01%, Tsonga: 0.01%, AymaraCentral: 0%, Balinese: 0%, Bambara: 0%, Banjar: 0%, Chokwe: 0%, Czech: 0%, Guarani: 0%, Igbo: 0%, KanuriCentral: 0%, Latgalian: 0%, Mizo: 0%, Samoan: 0%, Sicilian: 0%, Silesian: 0%, Somali: 0%, Spanish: 0%, TatarCrimean: 0%, Tswana: 0%
 
 >> Detection of 2000 sentences (average length: 120 chars)
 Accuracy: 99.5%

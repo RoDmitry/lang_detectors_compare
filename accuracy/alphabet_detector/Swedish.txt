@@ -1,14 +1,14 @@
 ##### Swedish #####
 
->>> Accuracy on average: 20.96%
+>>> Accuracy on average: 20.14%
 
 >> Detection of 8487 single words (average length: 10 chars)
 Accuracy: 1.96%
 Erroneously classified as Unknown: 98.03%
 
->> Detection of 8486 word pairs (average length: 21 chars)
-Accuracy: 7.07%
-Erroneously classified as Unknown: 92.92%
+>> Detection of 14919 word pairs (average length: 14 chars)
+Accuracy: 4.62%
+Erroneously classified as Unknown: 95.37%
 
 >> Detection of 2000 sentences (average length: 136 chars)
 Accuracy: 53.85%

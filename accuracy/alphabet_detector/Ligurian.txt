@@ -1,14 +1,14 @@
 ##### Ligurian #####
 
->>> Accuracy on average: 7.36%
+>>> Accuracy on average: 7.3%
 
->> Detection of 10000 single words (average length: 7 chars)
-Accuracy: 0.01%
+>> Detection of 13228 single words (average length: 8 chars)
+Accuracy: 0%
 Erroneously classified as Unknown: 99.99%
 
->> Detection of 9999 word pairs (average length: 16 chars)
-Accuracy: 0.29%
-Erroneously classified as Unknown: 99.7%
+>> Detection of 16583 word pairs (average length: 11 chars)
+Accuracy: 0.11%
+Erroneously classified as Unknown: 99.88%
 
 >> Detection of 2000 sentences (average length: 146 chars)
 Accuracy: 21.8%

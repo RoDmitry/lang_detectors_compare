@@ -1,14 +1,14 @@
 ##### ChineseMandarinSimplified #####
 
->>> Accuracy on average: 66.27%
+>>> Accuracy on average: 71.32%
 
 >> Detection of 2809 single words (average length: 1 chars)
 Accuracy: 42.04%
 Erroneously classified as Korean: 18.08%, Japanese: 15.16%, ChineseMandarinTraditional: 13.52%, ChineseCantoneseTraditional: 11.17%
 
->> Detection of 2808 word pairs (average length: 2 chars)
-Accuracy: 59.04%
-Erroneously classified as ChineseMandarinTraditional: 12.89%, Japanese: 10.43%, Korean: 8.97%, ChineseCantoneseTraditional: 8.65%
+>> Detection of 13847 word pairs (average length: 2 chars)
+Accuracy: 74.18%
+Erroneously classified as ChineseMandarinTraditional: 11.28%, Japanese: 7%, ChineseCantoneseTraditional: 6.26%, Korean: 1.26%
 
 >> Detection of 2000 sentences (average length: 43 chars)
 Accuracy: 97.75%

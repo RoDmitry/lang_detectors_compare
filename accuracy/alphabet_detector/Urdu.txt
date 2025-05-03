@@ -6,9 +6,9 @@
 Accuracy: 0%
 Erroneously classified as Unknown: 100%
 
->> Detection of 6064 word pairs (average length: 11 chars)
-Accuracy: 0.03%
-Erroneously classified as Unknown: 99.96%
+>> Detection of 13697 word pairs (average length: 8 chars)
+Accuracy: 0.02%
+Erroneously classified as Unknown: 99.97%
 
 >> Detection of 2000 sentences (average length: 93 chars)
 Accuracy: 1.1%

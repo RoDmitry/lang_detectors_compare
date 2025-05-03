@@ -1,14 +1,14 @@
 ##### KanuriCentral #####
 
->>> Accuracy on average: 21.22%
+>>> Accuracy on average: 18.93%
 
->> Detection of 10000 single words (average length: 8 chars)
-Accuracy: 8.54%
-Erroneously classified as Unknown: 91.46%
+>> Detection of 13017 single words (average length: 8 chars)
+Accuracy: 8.58%
+Erroneously classified as Unknown: 91.41%
 
->> Detection of 9999 word pairs (average length: 16 chars)
-Accuracy: 17.07%
-Erroneously classified as Unknown: 82.92%
+>> Detection of 17212 word pairs (average length: 13 chars)
+Accuracy: 10.16%
+Erroneously classified as Unknown: 89.83%
 
 >> Detection of 2000 sentences (average length: 134 chars)
 Accuracy: 38.05%

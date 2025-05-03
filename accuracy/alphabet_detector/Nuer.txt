@@ -1,14 +1,14 @@
 ##### Nuer #####
 
->>> Accuracy on average: 70.64%
+>>> Accuracy on average: 64.54%
 
 >> Detection of 7652 single words (average length: 7 chars)
 Accuracy: 45.29%
 Erroneously classified as Unknown: 54.7%
 
->> Detection of 7651 word pairs (average length: 14 chars)
-Accuracy: 70.18%
-Erroneously classified as Unknown: 29.81%
+>> Detection of 13801 word pairs (average length: 9 chars)
+Accuracy: 51.89%
+Erroneously classified as Unknown: 48.1%
 
 >> Detection of 2000 sentences (average length: 153 chars)
 Accuracy: 96.45%

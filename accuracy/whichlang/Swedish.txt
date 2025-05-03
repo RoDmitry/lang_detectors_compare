@@ -1,14 +1,14 @@
 ##### Swedish #####
 
->>> Accuracy on average: 66.09%
+>>> Accuracy on average: 68.49%
 
 >> Detection of 8487 single words (average length: 10 chars)
 Accuracy: 44.69%
 Erroneously classified as Italian: 15.08%, Turkish: 9.61%, Dutch: 7.68%, English: 6.44%, Portuguese: 5.54%, German: 5.29%, Spanish: 3.52%, French: 2.01%, Vietnamese: 0.09%, Arabic: 0.01%
 
->> Detection of 8486 word pairs (average length: 21 chars)
-Accuracy: 63.49%
-Erroneously classified as Italian: 7.03%, German: 6.31%, Dutch: 5.65%, English: 5.32%, Turkish: 4.51%, Portuguese: 3.68%, Spanish: 2.3%, French: 1.64%, Vietnamese: 0.01%
+>> Detection of 14919 word pairs (average length: 14 chars)
+Accuracy: 70.7%
+Erroneously classified as English: 5.1%, Italian: 5.08%, Dutch: 4.89%, German: 4.04%, Turkish: 3.22%, Portuguese: 2.98%, Spanish: 1.97%, French: 1.95%, Vietnamese: 0.04%, Arabic: 0%
 
 >> Detection of 2000 sentences (average length: 136 chars)
 Accuracy: 90.1%

@@ -1,14 +1,14 @@
 ##### Latgalian #####
 
->>> Accuracy on average: 22.97%
+>>> Accuracy on average: 22.16%
 
->> Detection of 10000 single words (average length: 8 chars)
-Accuracy: 1.4%
-Erroneously classified as Unknown: 98.6%
+>> Detection of 10602 single words (average length: 8 chars)
+Accuracy: 1.36%
+Erroneously classified as Unknown: 98.63%
 
->> Detection of 9999 word pairs (average length: 17 chars)
-Accuracy: 7.32%
-Erroneously classified as Unknown: 92.67%
+>> Detection of 17531 word pairs (average length: 14 chars)
+Accuracy: 4.91%
+Erroneously classified as Unknown: 95.08%
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 60.2%

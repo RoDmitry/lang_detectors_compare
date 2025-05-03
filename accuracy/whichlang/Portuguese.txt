@@ -1,14 +1,14 @@
 ##### Portuguese #####
 
->>> Accuracy on average: 66.49%
+>>> Accuracy on average: 67.98%
 
 >> Detection of 8489 single words (average length: 8 chars)
 Accuracy: 40.91%
 Erroneously classified as Spanish: 18.71%, Italian: 16.73%, Turkish: 6.33%, English: 4.42%, Dutch: 3.88%, Swedish: 3.27%, French: 3.18%, German: 2.32%, Vietnamese: 0.16%, Arabic: 0.03%
 
->> Detection of 8488 word pairs (average length: 17 chars)
-Accuracy: 61.82%
-Erroneously classified as Spanish: 18.33%, Italian: 7.99%, English: 2.86%, French: 2.35%, Swedish: 2.27%, Turkish: 1.89%, Dutch: 1.21%, German: 1.15%, Vietnamese: 0.07%, Arabic: 0.01%
+>> Detection of 14830 word pairs (average length: 12 chars)
+Accuracy: 66.29%
+Erroneously classified as Spanish: 16.43%, Italian: 7.12%, French: 2.42%, English: 2.03%, Dutch: 1.68%, Swedish: 1.49%, Turkish: 1.33%, German: 1.04%, Vietnamese: 0.09%, Arabic: 0.03%
 
 >> Detection of 2000 sentences (average length: 157 chars)
 Accuracy: 96.75%

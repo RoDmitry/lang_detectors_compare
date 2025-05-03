@@ -1,14 +1,14 @@
 ##### Bhojpuri #####
 
->>> Accuracy on average: 55.62%
+>>> Accuracy on average: 60.76%
 
 >> Detection of 8290 single words (average length: 6 chars)
 Accuracy: 33.37%
 Erroneously classified as KashmiriDevanagari: 11.5%, Magahi: 9.61%, Awadhi: 8.97%, Maithili: 7.86%, Chhattisgarhi: 6.51%, Sanskrit: 6.48%, Hindi: 5.97%, Nepali: 5.62%, Marathi: 4.06%
 
->> Detection of 8289 word pairs (average length: 12 chars)
-Accuracy: 47.29%
-Erroneously classified as Magahi: 9.9%, Awadhi: 9.78%, Maithili: 7.97%, KashmiriDevanagari: 6.84%, Hindi: 4.94%, Chhattisgarhi: 4.8%, Nepali: 3.36%, Sanskrit: 3.22%, Marathi: 1.86%
+>> Detection of 14961 word pairs (average length: 10 chars)
+Accuracy: 62.7%
+Erroneously classified as Magahi: 11.29%, Awadhi: 7.49%, Hindi: 4.95%, Maithili: 4.89%, Chhattisgarhi: 3.14%, KashmiriDevanagari: 2.22%, Nepali: 1.42%, Sanskrit: 0.95%, Marathi: 0.9%
 
 >> Detection of 2000 sentences (average length: 104 chars)
 Accuracy: 86.2%

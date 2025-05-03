@@ -1,14 +1,14 @@
 ##### Belarusian #####
 
->>> Accuracy on average: 38.41%
+>>> Accuracy on average: 36.91%
 
->> Detection of 10000 single words (average length: 8 chars)
-Accuracy: 15.13%
-Erroneously classified as Unknown: 84.87%
+>> Detection of 10670 single words (average length: 8 chars)
+Accuracy: 15.11%
+Erroneously classified as Unknown: 84.88%
 
->> Detection of 9999 word pairs (average length: 16 chars)
-Accuracy: 28.12%
-Erroneously classified as Unknown: 71.87%
+>> Detection of 17978 word pairs (average length: 12 chars)
+Accuracy: 23.64%
+Erroneously classified as Unknown: 76.35%
 
 >> Detection of 2000 sentences (average length: 90 chars)
 Accuracy: 72%

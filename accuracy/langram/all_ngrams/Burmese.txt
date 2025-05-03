@@ -6,7 +6,7 @@
 Accuracy: 99.78%
 Erroneously classified as Shan: 0.21%
 
->> Detection of 9581 word pairs (average length: 22 chars)
+>> Detection of 9440 word pairs (average length: 11 chars)
 Accuracy: 100%
 Erroneously classified as 
 

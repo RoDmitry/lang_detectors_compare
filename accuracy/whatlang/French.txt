@@ -1,14 +1,14 @@
 ##### French #####
 
->>> Accuracy on average: 62.63%
+>>> Accuracy on average: 64.62%
 
 >> Detection of 8128 single words (average length: 8 chars)
 Accuracy: 35.17%
 Erroneously classified as Catalan: 7.98%, Latin: 5.4%, Italian: 4.51%, English: 4.14%, Portuguese: 3.83%, Spanish: 3.4%, Afrikaans: 3.34%, Romanian: 2.5%, German: 2.34%, Estonian: 2.18%, NorwegianBokmal: 2.17%, Javanese: 2.03%, Dutch: 1.78%, Hungarian: 1.73%, Danish: 1.52%, Lithuanian: 1.47%, Filipino: 1.31%, Swedish: 1.24%, Latvian: 0.97%, Shona: 0.97%, UzbekNorthern: 0.97%, Finnish: 0.95%, Slovak: 0.95%, Turkish: 0.77%, Croatian: 0.73%, Esperanto: 0.71%, Vietnamese: 0.71%, Czech: 0.7%, Slovene: 0.65%, Indonesian: 0.61%, Turkmen: 0.61%, Polish: 0.49%, Zulu: 0.35%, AzerbaijaniNorth: 0.34%, Akan: 0.29%
 
->> Detection of 8127 word pairs (average length: 17 chars)
-Accuracy: 55.37%
-Erroneously classified as Catalan: 9.06%, Latin: 3.85%, Italian: 3.46%, Portuguese: 3.43%, Afrikaans: 3.37%, English: 3.21%, Spanish: 2.8%, Dutch: 1.57%, German: 1.52%, Romanian: 1.31%, Javanese: 1.24%, NorwegianBokmal: 1.23%, Danish: 1.19%, Estonian: 1.02%, Lithuanian: 0.82%, Hungarian: 0.77%, Filipino: 0.67%, Swedish: 0.52%, Turkish: 0.4%, Finnish: 0.36%, Latvian: 0.34%, Shona: 0.33%, Slovak: 0.3%, Indonesian: 0.25%, Slovene: 0.22%, Croatian: 0.18%, Esperanto: 0.17%, UzbekNorthern: 0.17%, Vietnamese: 0.15%, Akan: 0.13%, Turkmen: 0.13%, Czech: 0.09%, Zulu: 0.09%, Polish: 0.08%, AzerbaijaniNorth: 0.02%
+>> Detection of 14737 word pairs (average length: 12 chars)
+Accuracy: 61.34%
+Erroneously classified as Catalan: 5.88%, Latin: 3.98%, Portuguese: 3.44%, Italian: 3.2%, Spanish: 2.53%, Romanian: 2.04%, Afrikaans: 2.03%, English: 1.68%, Dutch: 1.51%, NorwegianBokmal: 1.23%, Danish: 1.13%, German: 1.05%, Estonian: 0.98%, Lithuanian: 0.97%, Swedish: 0.72%, Latvian: 0.63%, Javanese: 0.61%, Finnish: 0.54%, Turkish: 0.48%, Esperanto: 0.46%, Filipino: 0.4%, Hungarian: 0.37%, Croatian: 0.35%, Indonesian: 0.3%, Shona: 0.26%, Slovak: 0.26%, Akan: 0.23%, Turkmen: 0.2%, Vietnamese: 0.19%, Czech: 0.17%, UzbekNorthern: 0.17%, Slovene: 0.16%, Zulu: 0.15%, Polish: 0.13%, AzerbaijaniNorth: 0.02%
 
 >> Detection of 2000 sentences (average length: 137 chars)
 Accuracy: 97.35%

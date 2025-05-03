@@ -1,14 +1,14 @@
 ##### German #####
 
->>> Accuracy on average: 75.11%
+>>> Accuracy on average: 77%
 
 >> Detection of 9514 single words (average length: 9 chars)
 Accuracy: 51.51%
 Erroneously classified as Italian: 10.56%, Dutch: 9.7%, Turkish: 7.15%, Swedish: 6.74%, English: 4.58%, Portuguese: 3.96%, Spanish: 3.53%, French: 2.21%, Vietnamese: 0.02%
 
->> Detection of 9513 word pairs (average length: 20 chars)
-Accuracy: 74.34%
-Erroneously classified as Dutch: 6.94%, Swedish: 4.08%, Italian: 3.91%, English: 3.38%, Turkish: 2.89%, Spanish: 1.55%, Portuguese: 1.51%, French: 1.34%, Vietnamese: 0.02%
+>> Detection of 16355 word pairs (average length: 13 chars)
+Accuracy: 79.99%
+Erroneously classified as Dutch: 5.43%, Italian: 2.98%, English: 2.86%, Swedish: 2.56%, Turkish: 1.68%, French: 1.6%, Spanish: 1.54%, Portuguese: 1.29%, Vietnamese: 0.03%
 
 >> Detection of 2000 sentences (average length: 141 chars)
 Accuracy: 99.5%

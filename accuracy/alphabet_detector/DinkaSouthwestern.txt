@@ -1,14 +1,14 @@
 ##### DinkaSouthwestern #####
 
->>> Accuracy on average: 25.75%
+>>> Accuracy on average: 24.65%
 
 >> Detection of 4859 single words (average length: 5 chars)
 Accuracy: 5.96%
 Erroneously classified as Unknown: 94.03%
 
->> Detection of 4858 word pairs (average length: 11 chars)
-Accuracy: 13.68%
-Erroneously classified as Unknown: 86.31%
+>> Detection of 14238 word pairs (average length: 8 chars)
+Accuracy: 10.4%
+Erroneously classified as Unknown: 89.59%
 
 >> Detection of 2000 sentences (average length: 98 chars)
 Accuracy: 57.6%

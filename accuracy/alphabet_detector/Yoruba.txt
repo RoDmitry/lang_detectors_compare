@@ -1,14 +1,14 @@
 ##### Yoruba #####
 
->>> Accuracy on average: 37.25%
+>>> Accuracy on average: 34.08%
 
 >> Detection of 5221 single words (average length: 5 chars)
 Accuracy: 8.82%
 Erroneously classified as Unknown: 91.17%
 
->> Detection of 5220 word pairs (average length: 12 chars)
-Accuracy: 20.68%
-Erroneously classified as Unknown: 79.31%
+>> Detection of 13016 word pairs (average length: 8 chars)
+Accuracy: 11.18%
+Erroneously classified as Unknown: 88.81%
 
 >> Detection of 2000 sentences (average length: 108 chars)
 Accuracy: 82.25%

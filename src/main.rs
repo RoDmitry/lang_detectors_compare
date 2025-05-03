@@ -247,59 +247,57 @@ fn main() {
     let now = Instant::now();
 
     let langs_texts: AHashMap<ScriptLanguage, Vec<String>> = load_texts();
-    let langs_single_words: AHashMap<ScriptLanguage, Vec<String>> = langs_texts
-        .iter()
-        .map(|(&language, ts)| {
-            let is_han = UcdScript::from(language) == UcdScript::Han;
+    let words_iter = langs_texts.iter().map(|(&language, ts)| {
+        let is_han = UcdScript::from(language) == UcdScript::Han;
 
-            (
-                language,
-                ts.iter()
-                    .flat_map(|t| {
-                        alphabet_detector::words::from_ch_ind::<String>(t.char_indices())
-                            .filter_map(|wld| {
-                                // unfiltered chars for `Script::Han`
-                                if is_han {
-                                    let chars: Vec<_> = wld
-                                        .buf
-                                        .chars()
-                                        .filter(|&ch| UcdScript::find(ch) == UcdScript::Han)
-                                        .map(|ch| ch.to_string())
-                                        .collect();
-                                    return if chars.is_empty() {
-                                        None
-                                    } else {
-                                        Some(chars.into_iter())
-                                    };
-                                }
+        (
+            language,
+            ts.iter().flat_map(move |t| {
+                alphabet_detector::words::from_ch_ind::<String>(t.char_indices())
+                    .filter_map(move |wld| {
+                        // unfiltered chars for `Script::Han`
+                        if is_han {
+                            let chars: Vec<_> = wld
+                                .buf
+                                .chars()
+                                .filter(|&ch| UcdScript::find(ch) == UcdScript::Han)
+                                .map(|ch| ch.to_string())
+                                .collect();
+                            return if chars.is_empty() {
+                                None
+                            } else {
+                                Some(chars.into_iter())
+                            };
+                        }
 
-                                if filter_max(wld.langs_cnt).0.contains(&language) {
-                                    Some(vec![wld.buf].into_iter())
-                                } else {
-                                    None
-                                }
-                            })
-                            .flatten()
+                        if filter_max(wld.langs_cnt).0.contains(&language) {
+                            Some(vec![wld.buf].into_iter())
+                        } else {
+                            None
+                        }
                     })
-                    .collect::<AHashSet<_>>()
-                    .into_iter()
-                    .take(10000)
-                    .collect(),
-            )
-        })
+                    .flatten()
+            }),
+        )
+    });
+
+    let langs_single_words: AHashMap<ScriptLanguage, Vec<String>> = words_iter
+        .clone()
+        .map(|(language, ts)| (language, ts.collect::<AHashSet<_>>().into_iter().collect()))
         .collect();
 
-    let langs_word_pairs: AHashMap<ScriptLanguage, Vec<String>> = langs_single_words
-        .iter()
-        .map(|(&language, ts)| {
+    let langs_word_pairs: AHashMap<ScriptLanguage, Vec<String>> = words_iter
+        .map(|(language, ts)| {
             let is_han = UcdScript::from(language) == UcdScript::Han;
             let separator = (!is_han).then_some(" ").unwrap_or_default();
 
             (
                 language,
-                ts.iter()
-                    .tuple_windows()
-                    .map(|(t1, t2)| t1.to_owned() + separator + t2)
+                ts.tuple_windows()
+                    .map(|(t1, t2)| t1 + separator + &t2)
+                    .take(20000)
+                    .collect::<AHashSet<_>>()
+                    .into_iter()
                     .collect(),
             )
         })

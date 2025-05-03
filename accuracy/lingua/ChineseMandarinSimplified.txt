@@ -6,7 +6,7 @@
 Accuracy: 100%
 Erroneously classified as 
 
->> Detection of 2808 word pairs (average length: 2 chars)
+>> Detection of 13847 word pairs (average length: 2 chars)
 Accuracy: 100%
 Erroneously classified as 
 
