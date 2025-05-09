@@ -10,7 +10,7 @@ use ahash::{AHashMap, AHashSet};
 use alphabet_detector::{filter_max, ScriptLanguage, UcdScript};
 use fraction::Decimal;
 use itertools::Itertools;
-use langram::{Detector as LangramDetector, DetectorConfig, ModelsStorage};
+use langram::{DetectorBuilder as LangramDetectorBuilder, ModelsStorage};
 use lingua::Language as LinguaLanguage;
 use rayon::iter::{IntoParallelRefIterator, ParallelIterator};
 use strum::IntoEnumIterator;
@@ -57,8 +57,10 @@ fn langram_detect_max_trigrams(
     texts: &[String],
     languages: &AHashSet<ScriptLanguage>,
 ) -> Vec<Option<ScriptLanguage>> {
-    let config = DetectorConfig::with_languages(languages.clone().into()).max_trigrams();
-    let detector = LangramDetector::new(config, &LANGRAM_MODELS);
+    let detector = LangramDetectorBuilder::new(&LANGRAM_MODELS)
+        .languages(languages.clone().into())
+        .max_trigrams()
+        .build();
     texts
         .par_iter()
         .map(|text| detector.detect_top_one(text, 0.0))
@@ -69,8 +71,9 @@ fn langram_detect_all_ngrams(
     texts: &[String],
     languages: &AHashSet<ScriptLanguage>,
 ) -> Vec<Option<ScriptLanguage>> {
-    let config = DetectorConfig::with_languages(languages.clone().into());
-    let detector = LangramDetector::new(config, &LANGRAM_MODELS);
+    let detector = LangramDetectorBuilder::new(&LANGRAM_MODELS)
+        .languages(languages.clone().into())
+        .build();
     texts
         .par_iter()
         .map(|text| detector.detect_top_one(text, 0.0))
