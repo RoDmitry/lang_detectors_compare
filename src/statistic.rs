@@ -92,7 +92,7 @@ impl Statistic {
                 } else {
                     "Unknown".to_owned()
                 };
-                format!("{}: {:.2}%", formatted_lang, accuracy)
+                format!("{formatted_lang}: {accuracy:.2}%")
             })
             .join(", ")
     }

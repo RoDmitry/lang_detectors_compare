@@ -121,7 +121,7 @@ fn load_texts() -> AHashMap<ScriptLanguage, Vec<String>> {
         let path = path.unwrap();
         let file_name = path.file_name().into_string().unwrap();
         let Some(lang) = ScriptLanguage::from_str(&file_name) else {
-            panic!("*{}* Not found lang", file_name);
+            panic!("*{file_name}* Not found lang");
         };
 
         let lines = BufReader::new(File::open(path.path()).expect("open failed"))
@@ -190,7 +190,7 @@ fn collect_statistics(
         let average_accuracy = statistics.compute_accuracy_values(*language);
 
         if let Some(reports_directory) = &reports_directory {
-            let report_file_name = titlecase(&format!("{:?}.txt", language));
+            let report_file_name = titlecase(&format!("{language:?}.txt"));
             let report_file_path = reports_directory.join(&report_file_name);
             let report_data = statistics.create_report_data(*language, average_accuracy);
 
@@ -292,7 +292,7 @@ fn main() {
     let langs_word_pairs: AHashMap<ScriptLanguage, Vec<String>> = words_iter
         .map(|(language, ts)| {
             let is_han = UcdScript::from(language) == UcdScript::Han;
-            let separator = (!is_han).then_some(" ").unwrap_or_default();
+            let separator = if is_han { "" } else { " " };
 
             (
                 language,
@@ -565,7 +565,7 @@ fn main() {
 }
 
 fn format_accuracy(accuracy: Decimal) -> String {
-    format!("{:.2}%", accuracy)
+    format!("{accuracy:.2}%")
 }
 
 fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
