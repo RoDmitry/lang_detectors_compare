@@ -1,16 +1,16 @@
 ##### Macedonian #####
 
->>> Accuracy on average: 87.38%
+>>> Accuracy on average: 89.27%
 
 >> Detection of 9339 single words (average length: 8 chars)
-Accuracy: 73.51%
-Erroneously classified as Serbian: 9.45%, Bulgarian: 8.9%, Tajik: 2.12%, Russian: 1.89%, Belarusian: 1.24%, Kazakh: 0.78%, Kyrgyz: 0.61%, Ukrainian: 0.53%, Tatar: 0.38%, MongolianHalh: 0.32%, Bashkir: 0.22%
+Accuracy: 78.71%
+Erroneously classified as Serbian: 8.56%, Bulgarian: 8.33%, Russian: 1.32%, Belarusian: 0.73%, Tajik: 0.67%, Kazakh: 0.41%, Ukrainian: 0.39%, Kyrgyz: 0.37%, Tatar: 0.2%, MongolianHalh: 0.14%, Bashkir: 0.1%
 
 >> Detection of 16004 word pairs (average length: 12 chars)
-Accuracy: 90.03%
-Erroneously classified as Bulgarian: 5.39%, Serbian: 3.56%, Russian: 0.43%, Belarusian: 0.15%, Tajik: 0.15%, Ukrainian: 0.09%, Kazakh: 0.07%, Kyrgyz: 0.03%, Bashkir: 0.01%, MongolianHalh: 0.01%, Tatar: 0.01%
+Accuracy: 90.97%
+Erroneously classified as Bulgarian: 5.11%, Serbian: 3.19%, Russian: 0.34%, Ukrainian: 0.14%, Belarusian: 0.05%, Kazakh: 0.05%, Tajik: 0.05%, MongolianHalh: 0.01%, Tatar: 0.01%, Kyrgyz: 0.01%, Bashkir: 0%
 
 >> Detection of 2000 sentences (average length: 116 chars)
-Accuracy: 98.6%
-Erroneously classified as Serbian: 0.55%, AlbanianTosk: 0.4%, Bulgarian: 0.2%, Bashkir: 0.05%, Belarusian: 0.05%, CreoleHaitian: 0.05%, Tajik: 0.05%, Waray: 0.05%
+Accuracy: 98.15%
+Erroneously classified as Bulgarian: 0.9%, Serbian: 0.45%, Fijian: 0.35%, Unknown: 0.05%, Romanian: 0.05%, Swahili: 0.05%
 

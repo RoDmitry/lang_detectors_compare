@@ -6,10 +6,10 @@ Look inside the [`accuracy` folder](https://github.com/RoDmitry/lang_detectors_c
 
 | Language count | Alphabet detector | Langram max trigrams  | Langram all ngrams | Lingua high | Whatlang | Whichlang |
 | --------------- | ------- | -------- | -------- | -------- | ------- | ------- |
-|  16             |         |  0.479 s |  0.725 s |          |         | 0.026 s |
-|  69             |         |  3.795 s |  6.919 s |          | 8.219 s |
-|  74             |         |  6.239 s | 11.913 s | 58.387 s |
-| 201 (unlimited) | 1.904 s | 38.64 s  | 68.956 s |
+|  16             |         |  0.777 s |  1.109 s |          |         | 0.026 s |
+|  69             |         |  5.753 s |  9.357 s |          | 8.219 s |
+|  74             |         |  9.368 s | 15.905 s | 58.387 s |
+| 201 (unlimited) | 1.904 s | 51.976 s | 86.47 s  |
 
 > Note: 69 are different languages from 74, so they are fast detected by `alphabet_detector`.
 CPU: Intel 9700K.

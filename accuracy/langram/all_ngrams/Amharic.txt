@@ -1,16 +1,16 @@
 ##### Amharic #####
 
->>> Accuracy on average: 98.42%
+>>> Accuracy on average: 98.5%
 
 >> Detection of 14787 single words (average length: 5 chars)
-Accuracy: 96.26%
-Erroneously classified as Tigrinya: 3.73%
+Accuracy: 96.3%
+Erroneously classified as Tigrinya: 3.69%
 
 >> Detection of 18206 word pairs (average length: 9 chars)
-Accuracy: 99.17%
-Erroneously classified as Tigrinya: 0.82%
+Accuracy: 99.34%
+Erroneously classified as Tigrinya: 0.65%
 
 >> Detection of 2000 sentences (average length: 95 chars)
 Accuracy: 99.85%
-Erroneously classified as English: 0.05%, Fijian: 0.05%, Swahili: 0.05%
+Erroneously classified as Croatian: 0.05%, Filipino: 0.05%, Venetian: 0.05%
 

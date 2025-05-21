@@ -1,16 +1,16 @@
 ##### Chhattisgarhi #####
 
->>> Accuracy on average: 66.52%
+>>> Accuracy on average: 71.19%
 
 >> Detection of 3922 single words (average length: 6 chars)
-Accuracy: 43.47%
-Erroneously classified as Magahi: 13.66%, KashmiriDevanagari: 11.26%, Hindi: 8.31%, Bhojpuri: 4.76%, Awadhi: 4.71%, Nepali: 3.74%, Sanskrit: 3.74%, Maithili: 3.72%, Marathi: 2.57%
+Accuracy: 50.5%
+Erroneously classified as Magahi: 13.23%, Hindi: 8.77%, KashmiriDevanagari: 8.13%, Bhojpuri: 4.66%, Awadhi: 3.69%, Nepali: 3.39%, Maithili: 3.26%, Marathi: 2.54%, Sanskrit: 1.78%
 
 >> Detection of 11158 word pairs (average length: 10 chars)
-Accuracy: 73.11%
-Erroneously classified as Magahi: 11.46%, Hindi: 4.48%, Bhojpuri: 3.27%, KashmiriDevanagari: 2.25%, Awadhi: 2.1%, Maithili: 1.42%, Nepali: 0.9%, Marathi: 0.56%, Sanskrit: 0.41%
+Accuracy: 76.31%
+Erroneously classified as Magahi: 10.72%, Hindi: 4.75%, Bhojpuri: 3.33%, Awadhi: 1.26%, KashmiriDevanagari: 1.2%, Maithili: 1.06%, Marathi: 0.83%, Nepali: 0.33%, Sanskrit: 0.16%
 
 >> Detection of 2000 sentences (average length: 41 chars)
-Accuracy: 83%
-Erroneously classified as English: 4.65%, Hindi: 3.65%, Sesotho: 1.95%, KashmiriDevanagari: 0.85%, Magahi: 0.85%, Bhojpuri: 0.8%, Awadhi: 0.65%, Buginese: 0.6%, Maithili: 0.45%, Waray: 0.45%, Italian: 0.35%, Sanskrit: 0.25%, AlbanianTosk: 0.15%, Asturian: 0.15%, Papiamento: 0.15%, Acehnese: 0.1%, Banjar: 0.1%, Indonesian: 0.1%, Marathi: 0.1%, French: 0.05%, Ganda: 0.05%, Kabuverdianu: 0.05%, Kamba: 0.05%, KanuriCentral: 0.05%, KurdishNorthern: 0.05%, MalgasyPlateau: 0.05%, Minangkabau: 0.05%, Nepali: 0.05%, NorwegianNynorsk: 0.05%, Romanian: 0.05%, UzbekNorthern: 0.05%, Wolof: 0.05%
+Accuracy: 86.75%
+Erroneously classified as English: 1.6%, Finnish: 1.4%, Bhojpuri: 0.95%, Cebuano: 0.85%, NorwegianNynorsk: 0.8%, Magahi: 0.7%, Awadhi: 0.6%, KashmiriDevanagari: 0.6%, UzbekNorthern: 0.6%, Malay: 0.5%, Hindi: 0.45%, Dutch: 0.4%, GaelicScottish: 0.4%, French: 0.35%, Danish: 0.25%, Italian: 0.25%, Ganda: 0.2%, Polish: 0.2%, Unknown: 0.15%, Estonian: 0.15%, Ilocano: 0.15%, Latvian: 0.15%, Maithili: 0.15%, Maltese: 0.1%, Marathi: 0.1%, Portuguese: 0.1%, Slovak: 0.1%, TatarCrimean: 0.1%, Afrikaans: 0.05%, Asturian: 0.05%, AymaraCentral: 0.05%, Bambara: 0.05%, CreoleHaitian: 0.05%, Croatian: 0.05%, Ewe: 0.05%, Galician: 0.05%, Guarani: 0.05%, Hungarian: 0.05%, Igbo: 0.05%, Javanese: 0.05%, KanuriCentral: 0.05%, Lombard: 0.05%, Luxembourgish: 0.05%, Romanian: 0.05%, Sanskrit: 0.05%, Sardinian: 0.05%
 

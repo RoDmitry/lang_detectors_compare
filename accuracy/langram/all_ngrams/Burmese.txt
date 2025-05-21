@@ -1,10 +1,10 @@
 ##### Burmese #####
 
->>> Accuracy on average: 99.91%
+>>> Accuracy on average: 99.95%
 
 >> Detection of 9582 single words (average length: 11 chars)
-Accuracy: 99.78%
-Erroneously classified as Shan: 0.21%
+Accuracy: 99.9%
+Erroneously classified as Shan: 0.09%
 
 >> Detection of 9440 word pairs (average length: 11 chars)
 Accuracy: 100%
@@ -12,5 +12,5 @@ Erroneously classified as
 
 >> Detection of 2000 sentences (average length: 131 chars)
 Accuracy: 99.95%
-Erroneously classified as English: 0.05%
+Erroneously classified as Fijian: 0.05%
 

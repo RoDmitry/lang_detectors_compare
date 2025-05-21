@@ -1,16 +1,16 @@
 ##### ArabicSouthernYemeni #####
 
->>> Accuracy on average: 79.8%
+>>> Accuracy on average: 79.81%
 
 >> Detection of 2668 single words (average length: 5 chars)
-Accuracy: 58.65%
-Erroneously classified as ArabicMesopotamian: 12.03%, Arabic: 5.32%, ArabicSouthLevantine: 3.67%, ArabicMoroccan: 3.59%, ArabicNorthLevantine: 3.18%, ArabicEgyptian: 2.69%, ArabicNajdi: 2.62%, ArabicTunisian: 1.61%, AcehneseJawi: 1.46%, BanjarJawi: 1.12%, PersianDari: 0.93%, KanuriCentralAjami: 0.82%, AzerbaijaniSouth: 0.74%, PersianWestern: 0.63%, Sindhi: 0.44%, PashtoSouthern: 0.22%, Kashmiri: 0.07%, Urdu: 0.07%, KurdishCentral: 0.03%
+Accuracy: 60.04%
+Erroneously classified as ArabicMesopotamian: 12.4%, Arabic: 5.35%, ArabicSouthLevantine: 3.67%, ArabicMoroccan: 3.56%, ArabicNorthLevantine: 3.22%, ArabicEgyptian: 2.73%, ArabicNajdi: 2.62%, ArabicTunisian: 1.68%, KanuriCentralAjami: 0.86%, PersianDari: 0.78%, AcehneseJawi: 0.67%, PersianWestern: 0.63%, BanjarJawi: 0.48%, Sindhi: 0.41%, AzerbaijaniSouth: 0.37%, PashtoSouthern: 0.26%, Kashmiri: 0.07%, Urdu: 0.07%, KurdishCentral: 0.03%
 
 >> Detection of 6602 word pairs (average length: 9 chars)
-Accuracy: 83.44%
-Erroneously classified as ArabicMesopotamian: 5.98%, Arabic: 1.72%, ArabicNajdi: 1.72%, ArabicSouthLevantine: 1.65%, ArabicEgyptian: 1.49%, ArabicMoroccan: 1.37%, ArabicNorthLevantine: 1.28%, ArabicTunisian: 0.62%, AcehneseJawi: 0.15%, PersianDari: 0.15%, BanjarJawi: 0.13%, PersianWestern: 0.07%, Sindhi: 0.07%, KanuriCentralAjami: 0.04%, PashtoSouthern: 0.03%, KurdishCentral: 0.01%
+Accuracy: 82.3%
+Erroneously classified as ArabicMesopotamian: 5.57%, ArabicNajdi: 2.09%, ArabicEgyptian: 1.95%, ArabicSouthLevantine: 1.95%, Arabic: 1.83%, ArabicNorthLevantine: 1.77%, ArabicMoroccan: 1.15%, ArabicTunisian: 0.8%, PersianWestern: 0.19%, PersianDari: 0.13%, Sindhi: 0.07%, BanjarJawi: 0.04%, KanuriCentralAjami: 0.03%, PashtoSouthern: 0.03%, AcehneseJawi: 0.01%, AzerbaijaniSouth: 0.01%, KurdishCentral: 0.01%
 
 >> Detection of 2000 sentences (average length: 30 chars)
-Accuracy: 97.3%
-Erroneously classified as ArabicMesopotamian: 1.25%, ArabicNajdi: 0.45%, Arabic: 0.25%, ArabicEgyptian: 0.25%, ArabicNorthLevantine: 0.25%, ArabicTunisian: 0.1%, BanjarJawi: 0.1%, PersianDari: 0.05%
+Accuracy: 97.1%
+Erroneously classified as ArabicNajdi: 0.8%, ArabicMesopotamian: 0.75%, ArabicNorthLevantine: 0.45%, Arabic: 0.25%, ArabicTunisian: 0.25%, ArabicEgyptian: 0.2%, ArabicSouthLevantine: 0.2%
 
