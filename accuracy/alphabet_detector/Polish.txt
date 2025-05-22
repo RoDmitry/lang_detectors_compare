@@ -1,16 +1,16 @@
 ##### Polish #####
 
->>> Accuracy on average: 31.53%
+>>> Accuracy on average: 32.51%
 
 >> Detection of 10772 single words (average length: 9 chars)
-Accuracy: 5.97%
-Erroneously classified as Unknown: 94.02%
+Accuracy: 6.56%
+Erroneously classified as Unknown: 93.43%
 
 >> Detection of 16487 word pairs (average length: 15 chars)
-Accuracy: 13.42%
-Erroneously classified as Unknown: 86.57%
+Accuracy: 14.63%
+Erroneously classified as Unknown: 85.36%
 
 >> Detection of 2000 sentences (average length: 143 chars)
-Accuracy: 75.2%
-Erroneously classified as Unknown: 24.5%, Venetian: 0.25%, Romanian: 0.05%
+Accuracy: 76.35%
+Erroneously classified as Unknown: 23.55%, Mizo: 0.05%, Romanian: 0.05%
 

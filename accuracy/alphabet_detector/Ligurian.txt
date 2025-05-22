@@ -1,6 +1,6 @@
 ##### Ligurian #####
 
->>> Accuracy on average: 7.3%
+>>> Accuracy on average: 7.27%
 
 >> Detection of 13228 single words (average length: 8 chars)
 Accuracy: 0%
@@ -11,6 +11,6 @@ Accuracy: 0.11%
 Erroneously classified as Unknown: 99.88%
 
 >> Detection of 2000 sentences (average length: 146 chars)
-Accuracy: 21.8%
-Erroneously classified as Unknown: 60.55%, French: 11.75%, Sicilian: 2.05%, Mizo: 1.6%, Limburgish: 0.85%, Portuguese: 0.35%, Afrikaans: 0.2%, Lombard: 0.15%, NorwegianNynorsk: 0.15%, Turkish: 0.15%, Basque: 0.05%, Catalan: 0.05%, Latin: 0.05%, Occitan: 0.05%, Sango: 0.05%, Venetian: 0.05%, Vietnamese: 0.05%, Welsh: 0.05%
+Accuracy: 21.7%
+Erroneously classified as Unknown: 60.8%, French: 11.75%, Sicilian: 2%, Mizo: 1.6%, Limburgish: 0.85%, Portuguese: 0.3%, Afrikaans: 0.2%, Lombard: 0.15%, NorwegianNynorsk: 0.15%, Turkish: 0.15%, Basque: 0.05%, Catalan: 0.05%, Latin: 0.05%, Occitan: 0.05%, Sango: 0.05%, Vietnamese: 0.05%, Welsh: 0.05%
 

@@ -12,5 +12,5 @@ Erroneously classified as Unknown: 99.98%
 
 >> Detection of 2000 sentences (average length: 111 chars)
 Accuracy: 1.05%
-Erroneously classified as Unknown: 97.95%, Polish: 0.35%, Sicilian: 0.2%, Romanian: 0.15%, Fon: 0.1%, KanuriCentral: 0.1%, Portuguese: 0.1%
+Erroneously classified as Unknown: 97.75%, Polish: 0.55%, Sicilian: 0.2%, Romanian: 0.15%, Fon: 0.1%, KanuriCentral: 0.1%, Portuguese: 0.1%
 
