@@ -12,5 +12,5 @@ Erroneously classified as Ilocano: 0.83%, Fijian: 0.64%, Lingala: 0.64%, Kikongo
 
 >> Detection of 2000 sentences (average length: 100 chars)
 Accuracy: 97.6%
-Erroneously classified as Unknown: 1.35%, French: 0.2%, Dholuo: 0.1%, AlbanianTosk: 0.05%, Bambara: 0.05%, Finnish: 0.05%, Ilocano: 0.05%, Italian: 0.05%, Kikuyu: 0.05%, Lingala: 0.05%, Occitan: 0.05%, Portuguese: 0.05%, Sepedi: 0.05%, Slovak: 0.05%, Swahili: 0.05%, Wolof: 0.05%, Xhosa: 0.05%, Yoruba: 0.05%
+Erroneously classified as French: 0.35%, Lingala: 0.2%, Shona: 0.15%, AlbanianTosk: 0.1%, Bambara: 0.1%, Dholuo: 0.1%, Occitan: 0.1%, Sepedi: 0.1%, Wolof: 0.1%, Xhosa: 0.1%, Afrikaans: 0.05%, Basque: 0.05%, Finnish: 0.05%, Fon: 0.05%, Ilocano: 0.05%, Italian: 0.05%, Kikuyu: 0.05%, Kinyarwanda: 0.05%, Malay: 0.05%, NorwegianBokmal: 0.05%, NorwegianNynorsk: 0.05%, Portuguese: 0.05%, Romanian: 0.05%, Rundi: 0.05%, Slovak: 0.05%, Swahili: 0.05%, Tsonga: 0.05%, Vietnamese: 0.05%, Yoruba: 0.05%, Zulu: 0.05%
 

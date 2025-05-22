@@ -1,6 +1,6 @@
 ##### Ewe #####
 
->>> Accuracy on average: 90.61%
+>>> Accuracy on average: 90.6%
 
 >> Detection of 5046 single words (average length: 6 chars)
 Accuracy: 79.5%
@@ -11,6 +11,6 @@ Accuracy: 92.79%
 Erroneously classified as Twi: 0.46%, Samoan: 0.41%, Fon: 0.36%, English: 0.34%, Sesotho: 0.24%, Tswana: 0.22%, Icelandic: 0.22%, Sepedi: 0.22%, Umbundu: 0.19%, Esperanto: 0.18%, Maori: 0.18%, Pangasinan: 0.17%, Tsonga: 0.17%, Igbo: 0.14%, Dyula: 0.14%, Kimbundu: 0.12%, Sango: 0.12%, Bambara: 0.12%, Sicilian: 0.12%, Kabiye: 0.11%, KikongoKituba: 0.11%, Faroese: 0.08%, Fijian: 0.08%, Hausa: 0.08%, LubaKasai: 0.08%, Sundanese: 0.08%, Kabuverdianu: 0.07%, Lingala: 0.07%, Papiamento: 0.07%, Wolof: 0.07%, Mizo: 0.06%, Spanish: 0.06%, Catalan: 0.05%, Dholuo: 0.05%, Ilocano: 0.05%, KanuriCentral: 0.05%, Sardinian: 0.05%, French: 0.04%, Jingpho: 0.04%, Mossi: 0.04%, Occitan: 0.04%, Asturian: 0.04%, Bemba: 0.04%, Cebuano: 0.04%, CreoleHaitian: 0.04%, Kinyarwanda: 0.04%, KurdishNorthern: 0.04%, Maltese: 0.04%, QuechuaAyacucho: 0.04%, Somali: 0.04%, Swahili: 0.04%, TokPisin: 0.04%, FulfuldeNigerian: 0.03%, Kamba: 0.03%, Nuer: 0.03%, Portuguese: 0.03%, Filipino: 0.02%, Galician: 0.02%, Ganda: 0.02%, German: 0.02%, Ligurian: 0.02%, UzbekNorthern: 0.02%, Venetian: 0.02%, AymaraCentral: 0.02%, Chokwe: 0.02%, Friulian: 0.02%, Italian: 0.02%, Malay: 0.02%, Minangkabau: 0.02%, Nyanja: 0.02%, OromoWestCentral: 0.02%, Rundi: 0.02%, Slovene: 0.02%, Afrikaans: 0.01%, AlbanianTosk: 0.01%, Croatian: 0.01%, DinkaSouthwestern: 0.01%, Dutch: 0.01%, Estonian: 0.01%, Indonesian: 0.01%, Irish: 0.01%, Lithuanian: 0.01%, Luxembourgish: 0.01%, NorwegianBokmal: 0.01%, NorwegianNynorsk: 0.01%, Polish: 0.01%, Romanian: 0.01%, Tumbuka: 0.01%, Waray: 0.01%, Acehnese: 0%, Balinese: 0%, Banjar: 0%, Basque: 0%, Buginese: 0%, Czech: 0%, Danish: 0%, GaelicScottish: 0%, Limburgish: 0%, Lombard: 0%, MalgasyPlateau: 0%, Shona: 0%, Silesian: 0%, Slovak: 0%, TamasheqLatin: 0%, Turkish: 0%, Turkmen: 0%, Vietnamese: 0%, Xhosa: 0%, Yoruba: 0%, Zulu: 0%
 
 >> Detection of 2000 sentences (average length: 92 chars)
-Accuracy: 99.55%
-Erroneously classified as AlbanianTosk: 0.05%, Basque: 0.05%, Jingpho: 0.05%, KurdishNorthern: 0.05%, NorwegianBokmal: 0.05%, Rundi: 0.05%, Slovak: 0.05%, TokPisin: 0.05%, Tsonga: 0.05%
+Accuracy: 99.5%
+Erroneously classified as AlbanianTosk: 0.05%, Basque: 0.05%, Jingpho: 0.05%, Kabiye: 0.05%, KurdishNorthern: 0.05%, NorwegianBokmal: 0.05%, Rundi: 0.05%, Slovak: 0.05%, TokPisin: 0.05%, Tsonga: 0.05%
 

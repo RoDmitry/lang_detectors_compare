@@ -12,5 +12,5 @@ Erroneously classified as Swahili: 0.46%, Sepedi: 0.37%, Hausa: 0.33%, English: 
 
 >> Detection of 2000 sentences (average length: 111 chars)
 Accuracy: 99.5%
-Erroneously classified as Unknown: 0.05%, Chokwe: 0.05%, Czech: 0.05%, Sicilian: 0.05%, Slovak: 0.05%, Swahili: 0.05%, Tswana: 0.05%, Twi: 0.05%, Venetian: 0.05%, Zulu: 0.05%
+Erroneously classified as Chokwe: 0.05%, Czech: 0.05%, Sepedi: 0.05%, Sicilian: 0.05%, Slovak: 0.05%, Swahili: 0.05%, Tswana: 0.05%, Twi: 0.05%, Venetian: 0.05%, Zulu: 0.05%
 

@@ -1,6 +1,6 @@
 ##### AlbanianTosk #####
 
->>> Accuracy on average: 90.61%
+>>> Accuracy on average: 90.62%
 
 >> Detection of 9790 single words (average length: 7 chars)
 Accuracy: 78.02%
@@ -11,6 +11,6 @@ Accuracy: 94.45%
 Erroneously classified as Bosnian: 0.74%, Portuguese: 0.21%, Samoan: 0.21%, Turkish: 0.2%, Romanian: 0.19%, Croatian: 0.16%, Papiamento: 0.15%, Ewe: 0.14%, Maori: 0.14%, English: 0.13%, Slovene: 0.12%, Venetian: 0.12%, Tswana: 0.12%, Italian: 0.11%, Cebuano: 0.07%, Fijian: 0.07%, Friulian: 0.07%, Waray: 0.07%, Esperanto: 0.06%, GaelicScottish: 0.06%, Jingpho: 0.06%, Latgalian: 0.06%, UzbekNorthern: 0.06%, Sango: 0.05%, TokPisin: 0.05%, Danish: 0.05%, Galician: 0.05%, Ilocano: 0.05%, Ligurian: 0.05%, Maltese: 0.05%, NorwegianNynorsk: 0.04%, Occitan: 0.04%, Somali: 0.04%, CreoleHaitian: 0.03%, Dholuo: 0.03%, German: 0.03%, Hausa: 0.03%, Malay: 0.03%, Minangkabau: 0.03%, Sepedi: 0.03%, TatarCrimean: 0.03%, Tsonga: 0.03%, Bambara: 0.03%, Buginese: 0.03%, Limburgish: 0.03%, Polish: 0.03%, QuechuaAyacucho: 0.03%, Sardinian: 0.03%, Sicilian: 0.03%, Sundanese: 0.03%, Acehnese: 0.02%, Balinese: 0.02%, Basque: 0.02%, Dutch: 0.02%, Estonian: 0.02%, Filipino: 0.02%, French: 0.02%, Kabyle: 0.02%, Kimbundu: 0.02%, Lombard: 0.02%, Mizo: 0.02%, Sesotho: 0.02%, TamasheqLatin: 0.02%, Twi: 0.02%, Wolof: 0.02%, Afrikaans: 0.01%, AymaraCentral: 0.01%, Banjar: 0.01%, Bemba: 0.01%, Czech: 0.01%, Dyula: 0.01%, Ganda: 0.01%, Indonesian: 0.01%, Javanese: 0.01%, Kabuverdianu: 0.01%, KanuriCentral: 0.01%, Mossi: 0.01%, Rundi: 0.01%, Slovak: 0.01%, Spanish: 0.01%, Umbundu: 0.01%, Welsh: 0.01%, Zulu: 0.01%, DinkaSouthwestern: 0.01%, Finnish: 0.01%, FulfuldeNigerian: 0.01%, KikongoKituba: 0.01%, Kikuyu: 0.01%, Kinyarwanda: 0.01%, KurdishNorthern: 0.01%, Latvian: 0.01%, Lingala: 0.01%, LubaKasai: 0.01%, Luxembourgish: 0.01%, Shona: 0.01%, Swahili: 0.01%, Tumbuka: 0.01%, Catalan: 0%, Faroese: 0%, Guarani: 0%, Hungarian: 0%, Kamba: 0%, Lithuanian: 0%, NorwegianBokmal: 0%, Nyanja: 0%, OromoWestCentral: 0%, Pangasinan: 0%, Turkmen: 0%, Xhosa: 0%
 
 >> Detection of 2000 sentences (average length: 127 chars)
-Accuracy: 99.35%
-Erroneously classified as Romanian: 0.2%, Unknown: 0.15%, Bosnian: 0.05%, Croatian: 0.05%, English: 0.05%, Hausa: 0.05%, Turkish: 0.05%, Twi: 0.05%
+Accuracy: 99.4%
+Erroneously classified as Romanian: 0.2%, Bosnian: 0.05%, Croatian: 0.05%, English: 0.05%, German: 0.05%, Hausa: 0.05%, Silesian: 0.05%, Turkish: 0.05%, Twi: 0.05%
 

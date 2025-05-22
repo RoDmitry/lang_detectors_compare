@@ -12,5 +12,5 @@ Erroneously classified as Magahi: 9.09%, Bhojpuri: 6.02%, Awadhi: 3.71%, Maithil
 
 >> Detection of 2000 sentences (average length: 77 chars)
 Accuracy: 91.5%
-Erroneously classified as Maithili: 1.5%, Chhattisgarhi: 1.45%, Bhojpuri: 1.2%, Awadhi: 1.1%, Magahi: 0.95%, Sanskrit: 0.45%, KashmiriDevanagari: 0.4%, Nepali: 0.4%, Marathi: 0.35%, Unknown: 0.1%, English: 0.1%, NorwegianNynorsk: 0.1%, Finnish: 0.05%, Italian: 0.05%, Lombard: 0.05%, Polish: 0.05%, Portuguese: 0.05%, Sardinian: 0.05%, Slovak: 0.05%, Venetian: 0.05%
+Erroneously classified as Maithili: 1.5%, Chhattisgarhi: 1.45%, Bhojpuri: 1.2%, Awadhi: 1.1%, Magahi: 0.95%, Sanskrit: 0.45%, KashmiriDevanagari: 0.4%, Nepali: 0.4%, Marathi: 0.35%, English: 0.1%, NorwegianNynorsk: 0.1%, Asturian: 0.05%, Finnish: 0.05%, Lithuanian: 0.05%, Lombard: 0.05%, Polish: 0.05%, Portuguese: 0.05%, Sardinian: 0.05%, Shona: 0.05%, Slovak: 0.05%, Venetian: 0.05%
 

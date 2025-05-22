@@ -1,6 +1,6 @@
 ##### Ewe #####
 
->>> Accuracy on average: 90.72%
+>>> Accuracy on average: 90.7%
 
 >> Detection of 5046 single words (average length: 6 chars)
 Accuracy: 79.66%
@@ -11,6 +11,6 @@ Accuracy: 92.94%
 Erroneously classified as Twi: 0.5%, Samoan: 0.44%, Fon: 0.36%, English: 0.32%, Sesotho: 0.26%, Sepedi: 0.23%, Tswana: 0.21%, Maori: 0.19%, Icelandic: 0.18%, Umbundu: 0.18%, Tsonga: 0.17%, Igbo: 0.15%, Pangasinan: 0.15%, Dyula: 0.14%, Esperanto: 0.13%, Sango: 0.13%, Faroese: 0.12%, Sicilian: 0.12%, Kimbundu: 0.12%, Bambara: 0.11%, Kabiye: 0.11%, LubaKasai: 0.1%, KikongoKituba: 0.09%, Lingala: 0.09%, Fijian: 0.08%, Hausa: 0.08%, Kabuverdianu: 0.07%, Sundanese: 0.07%, Wolof: 0.07%, KanuriCentral: 0.06%, Sardinian: 0.06%, Spanish: 0.06%, Catalan: 0.05%, Papiamento: 0.05%, Dholuo: 0.04%, French: 0.04%, Jingpho: 0.04%, Kinyarwanda: 0.04%, Mizo: 0.04%, Mossi: 0.04%, Occitan: 0.04%, QuechuaAyacucho: 0.04%, Bemba: 0.04%, CreoleHaitian: 0.04%, Ilocano: 0.04%, Somali: 0.04%, TokPisin: 0.04%, Asturian: 0.03%, Cebuano: 0.03%, KurdishNorthern: 0.03%, Nuer: 0.03%, Swahili: 0.03%, Filipino: 0.02%, FulfuldeNigerian: 0.02%, Ganda: 0.02%, Kamba: 0.02%, Maltese: 0.02%, UzbekNorthern: 0.02%, Venetian: 0.02%, Waray: 0.02%, AymaraCentral: 0.02%, Chokwe: 0.02%, Friulian: 0.02%, German: 0.02%, Indonesian: 0.02%, Ligurian: 0.02%, NorwegianBokmal: 0.02%, OromoWestCentral: 0.02%, Portuguese: 0.02%, Rundi: 0.02%, Tumbuka: 0.02%, Afrikaans: 0.01%, AlbanianTosk: 0.01%, Croatian: 0.01%, DinkaSouthwestern: 0.01%, Galician: 0.01%, Italian: 0.01%, Luxembourgish: 0.01%, Malay: 0.01%, Minangkabau: 0.01%, Nyanja: 0.01%, Polish: 0.01%, Romanian: 0.01%, Slovene: 0.01%, Xhosa: 0.01%, Zulu: 0.01%, Acehnese: 0%, Balinese: 0%, Basque: 0%, Dutch: 0%, Estonian: 0%, Finnish: 0%, GaelicScottish: 0%, Irish: 0%, Kikuyu: 0%, Limburgish: 0%, Lithuanian: 0%, Lombard: 0%, MalgasyPlateau: 0%, NorwegianNynorsk: 0%, Shona: 0%, Silesian: 0%, Slovak: 0%, TamasheqLatin: 0%, Vietnamese: 0%, Yoruba: 0%
 
 >> Detection of 2000 sentences (average length: 92 chars)
-Accuracy: 99.55%
-Erroneously classified as AlbanianTosk: 0.05%, Jingpho: 0.05%, KurdishNorthern: 0.05%, NorwegianBokmal: 0.05%, Rundi: 0.05%, Slovak: 0.05%, TokPisin: 0.05%, Tsonga: 0.05%, Venetian: 0.05%
+Accuracy: 99.5%
+Erroneously classified as AlbanianTosk: 0.05%, Jingpho: 0.05%, Kabiye: 0.05%, KurdishNorthern: 0.05%, NorwegianBokmal: 0.05%, Rundi: 0.05%, Slovak: 0.05%, TokPisin: 0.05%, Tsonga: 0.05%, Venetian: 0.05%
 

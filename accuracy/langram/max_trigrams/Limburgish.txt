@@ -1,6 +1,6 @@
 ##### Limburgish #####
 
->>> Accuracy on average: 83.32%
+>>> Accuracy on average: 83.33%
 
 >> Detection of 10689 single words (average length: 8 chars)
 Accuracy: 68.75%
@@ -11,6 +11,6 @@ Accuracy: 84.31%
 Erroneously classified as Dutch: 6.1%, Afrikaans: 2.08%, English: 0.81%, German: 0.49%, Luxembourgish: 0.42%, Sardinian: 0.4%, French: 0.32%, Occitan: 0.28%, Lombard: 0.19%, NorwegianBokmal: 0.18%, Spanish: 0.17%, Venetian: 0.17%, Kabyle: 0.15%, Catalan: 0.14%, NorwegianNynorsk: 0.13%, Ligurian: 0.13%, Friulian: 0.12%, Faroese: 0.12%, Asturian: 0.11%, Malay: 0.1%, TamasheqLatin: 0.1%, Galician: 0.1%, Danish: 0.09%, Polish: 0.09%, Portuguese: 0.09%, Minangkabau: 0.07%, Papiamento: 0.07%, Sicilian: 0.07%, Slovene: 0.07%, Somali: 0.07%, CreoleHaitian: 0.06%, Hausa: 0.06%, Italian: 0.06%, Slovak: 0.06%, AymaraCentral: 0.06%, Acehnese: 0.05%, Sesotho: 0.05%, Balinese: 0.05%, Sundanese: 0.05%, Welsh: 0.05%, Basque: 0.04%, GaelicScottish: 0.04%, Icelandic: 0.04%, Javanese: 0.04%, Banjar: 0.04%, Bosnian: 0.04%, Buginese: 0.04%, Filipino: 0.04%, Guarani: 0.04%, Maltese: 0.04%, Swahili: 0.04%, Tswana: 0.04%, UzbekNorthern: 0.04%, AlbanianTosk: 0.03%, Cebuano: 0.03%, Dholuo: 0.03%, DinkaSouthwestern: 0.03%, FulfuldeNigerian: 0.03%, Ilocano: 0.03%, Irish: 0.03%, Swedish: 0.03%, Bambara: 0.02%, Croatian: 0.02%, Esperanto: 0.02%, Estonian: 0.02%, Latgalian: 0.02%, Mossi: 0.02%, Romanian: 0.02%, Silesian: 0.02%, Tsonga: 0.02%, Indonesian: 0.02%, Lithuanian: 0.02%, Mizo: 0.02%, Samoan: 0.02%, TokPisin: 0.02%, Turkmen: 0.02%, Waray: 0.02%, Wolof: 0.02%, Czech: 0.01%, Ewe: 0.01%, KanuriCentral: 0.01%, Maori: 0.01%, Pangasinan: 0.01%, QuechuaAyacucho: 0.01%, Fijian: 0.01%, Jingpho: 0.01%, Kamba: 0.01%, KikongoKituba: 0.01%, Lingala: 0.01%, LubaKasai: 0.01%, Yoruba: 0.01%, Bemba: 0%, Finnish: 0%, Fon: 0%, Igbo: 0%, Kabuverdianu: 0%, Kimbundu: 0%, KurdishNorthern: 0%, Latvian: 0%, Nuer: 0%, OromoWestCentral: 0%, Sango: 0%, Sepedi: 0%, Turkish: 0%, Twi: 0%, Umbundu: 0%, Zulu: 0%
 
 >> Detection of 2000 sentences (average length: 99 chars)
-Accuracy: 96.9%
-Erroneously classified as Dutch: 0.25%, English: 0.25%, Estonian: 0.2%, German: 0.2%, Afrikaans: 0.15%, Galician: 0.15%, Unknown: 0.1%, Friulian: 0.1%, GaelicScottish: 0.1%, Ilocano: 0.1%, Italian: 0.1%, Polish: 0.1%, Sicilian: 0.1%, Swedish: 0.1%, Welsh: 0.1%, Acehnese: 0.05%, AymaraCentral: 0.05%, Basque: 0.05%, Bosnian: 0.05%, Catalan: 0.05%, Danish: 0.05%, Esperanto: 0.05%, French: 0.05%, Hausa: 0.05%, Ligurian: 0.05%, Lingala: 0.05%, Lithuanian: 0.05%, Lombard: 0.05%, Malay: 0.05%, Occitan: 0.05%, Romanian: 0.05%, Slovene: 0.05%, Turkmen: 0.05%, Venetian: 0.05%, Vietnamese: 0.05%
+Accuracy: 96.95%
+Erroneously classified as Dutch: 0.25%, English: 0.25%, Afrikaans: 0.2%, Estonian: 0.2%, German: 0.2%, Galician: 0.15%, Friulian: 0.1%, GaelicScottish: 0.1%, Ilocano: 0.1%, Italian: 0.1%, Polish: 0.1%, Sicilian: 0.1%, Swedish: 0.1%, Welsh: 0.1%, Acehnese: 0.05%, AymaraCentral: 0.05%, Basque: 0.05%, Bosnian: 0.05%, Catalan: 0.05%, Danish: 0.05%, Esperanto: 0.05%, French: 0.05%, Hausa: 0.05%, Ligurian: 0.05%, Lingala: 0.05%, Lithuanian: 0.05%, Lombard: 0.05%, Malay: 0.05%, Occitan: 0.05%, Romanian: 0.05%, Slovene: 0.05%, Turkmen: 0.05%, Venetian: 0.05%, Vietnamese: 0.05%
 

@@ -12,5 +12,5 @@ Erroneously classified as Arabic: 7.6%, ArabicNajdi: 6.17%, ArabicEgyptian: 5.47
 
 >> Detection of 2000 sentences (average length: 47 chars)
 Accuracy: 93.55%
-Erroneously classified as ArabicNajdi: 1.25%, ArabicMoroccan: 0.95%, ArabicEgyptian: 0.9%, Arabic: 0.85%, ArabicMesopotamian: 0.8%, ArabicNorthLevantine: 0.45%, ArabicSouthernYemeni: 0.4%, ArabicSouthLevantine: 0.4%, Unknown: 0.1%, PersianWestern: 0.1%, Galician: 0.05%, Italian: 0.05%, KanuriCentral: 0.05%, Lombard: 0.05%, PashtoSouthern: 0.05%
+Erroneously classified as ArabicNajdi: 1.25%, ArabicMoroccan: 0.95%, ArabicEgyptian: 0.9%, Arabic: 0.85%, ArabicMesopotamian: 0.8%, ArabicNorthLevantine: 0.45%, ArabicSouthernYemeni: 0.4%, ArabicSouthLevantine: 0.4%, PersianWestern: 0.1%, Galician: 0.05%, Italian: 0.05%, KanuriCentral: 0.05%, Kashmiri: 0.05%, Lombard: 0.05%, Maltese: 0.05%, PashtoSouthern: 0.05%
 

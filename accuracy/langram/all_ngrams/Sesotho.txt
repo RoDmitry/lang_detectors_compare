@@ -12,5 +12,5 @@ Erroneously classified as Tswana: 6.9%, Sepedi: 5.55%, English: 1.26%, Zulu: 0.7
 
 >> Detection of 2000 sentences (average length: 111 chars)
 Accuracy: 93.5%
-Erroneously classified as Sepedi: 1.4%, Tswana: 1.15%, Unknown: 0.95%, Tsonga: 0.35%, English: 0.3%, German: 0.3%, Italian: 0.25%, Filipino: 0.15%, Galician: 0.15%, Hausa: 0.15%, Venetian: 0.15%, Basque: 0.1%, Croatian: 0.1%, French: 0.1%, Friulian: 0.1%, Icelandic: 0.1%, Portuguese: 0.1%, Swahili: 0.1%, Afrikaans: 0.05%, Asturian: 0.05%, Ligurian: 0.05%, Lombard: 0.05%, NorwegianBokmal: 0.05%, Occitan: 0.05%, Polish: 0.05%, Sardinian: 0.05%, TatarCrimean: 0.05%, Zulu: 0.05%
+Erroneously classified as Sepedi: 1.45%, Tswana: 1.15%, Tsonga: 0.45%, German: 0.4%, English: 0.3%, Italian: 0.25%, Polish: 0.25%, Filipino: 0.15%, French: 0.15%, Galician: 0.15%, Hausa: 0.15%, Igbo: 0.15%, Portuguese: 0.15%, Venetian: 0.15%, Basque: 0.1%, Croatian: 0.1%, Friulian: 0.1%, Icelandic: 0.1%, Ligurian: 0.1%, NorwegianBokmal: 0.1%, Silesian: 0.1%, Swahili: 0.1%, Afrikaans: 0.05%, Asturian: 0.05%, Bambara: 0.05%, Lombard: 0.05%, Occitan: 0.05%, Sardinian: 0.05%, TatarCrimean: 0.05%, Zulu: 0.05%
 

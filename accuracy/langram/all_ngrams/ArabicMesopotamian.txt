@@ -12,5 +12,5 @@ Erroneously classified as ArabicSouthernYemeni: 8.59%, ArabicNorthLevantine: 2.5
 
 >> Detection of 2000 sentences (average length: 31 chars)
 Accuracy: 97%
-Erroneously classified as ArabicSouthernYemeni: 1.45%, ArabicNorthLevantine: 0.55%, ArabicNajdi: 0.3%, ArabicEgyptian: 0.2%, Arabic: 0.15%, ArabicSouthLevantine: 0.15%, Unknown: 0.05%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%, Sindhi: 0.05%
+Erroneously classified as ArabicSouthernYemeni: 1.45%, ArabicNorthLevantine: 0.55%, ArabicNajdi: 0.3%, ArabicEgyptian: 0.2%, Arabic: 0.15%, ArabicSouthLevantine: 0.15%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%, PersianWestern: 0.05%, Sindhi: 0.05%
 

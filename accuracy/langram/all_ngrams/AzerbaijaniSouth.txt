@@ -12,5 +12,5 @@ Erroneously classified as PersianWestern: 0.48%, PersianDari: 0.3%, PashtoSouthe
 
 >> Detection of 2000 sentences (average length: 302 chars)
 Accuracy: 99.05%
-Erroneously classified as Unknown: 0.95%
+Erroneously classified as Italian: 0.6%, English: 0.3%, Vietnamese: 0.05%
 
