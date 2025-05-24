@@ -12,5 +12,5 @@ Erroneously classified as PersianDari: 18.55%, AzerbaijaniSouth: 0.95%, ArabicEg
 
 >> Detection of 2000 sentences (average length: 135 chars)
 Accuracy: 96.6%
-Erroneously classified as PersianDari: 1.95%, Sindhi: 0.3%, ArabicNajdi: 0.25%, ArabicEgyptian: 0.2%, PashtoSouthern: 0.15%, Urdu: 0.15%, Arabic: 0.1%, ArabicNorthLevantine: 0.1%, ArabicSouthLevantine: 0.1%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%
+Erroneously classified as PersianDari: 2.05%, Sindhi: 0.3%, ArabicEgyptian: 0.2%, ArabicNajdi: 0.2%, PashtoSouthern: 0.15%, Urdu: 0.15%, ArabicNorthLevantine: 0.1%, ArabicSouthLevantine: 0.1%, Arabic: 0.05%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%
 

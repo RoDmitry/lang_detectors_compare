@@ -1,6 +1,6 @@
 ##### KurdishNorthern #####
 
->>> Accuracy on average: 94.18%
+>>> Accuracy on average: 94.2%
 
 >> Detection of 3781 single words (average length: 6 chars)
 Accuracy: 86.48%
@@ -11,6 +11,6 @@ Accuracy: 97.07%
 Erroneously classified as Hausa: 0.12%, Kimbundu: 0.11%, English: 0.08%, Papiamento: 0.08%, Banjar: 0.07%, Catalan: 0.07%, Ewe: 0.07%, Luxembourgish: 0.07%, Ilocano: 0.06%, Limburgish: 0.06%, Sicilian: 0.06%, Turkish: 0.06%, Waray: 0.06%, DinkaSouthwestern: 0.05%, Portuguese: 0.05%, QuechuaAyacucho: 0.05%, Sepedi: 0.05%, Tswana: 0.05%, AlbanianTosk: 0.04%, Dutch: 0.04%, KikongoKituba: 0.04%, LubaKasai: 0.04%, TamasheqLatin: 0.04%, Chokwe: 0.03%, Dyula: 0.03%, Esperanto: 0.03%, Mossi: 0.03%, Sango: 0.03%, TokPisin: 0.03%, Wolof: 0.03%, CreoleHaitian: 0.03%, Dholuo: 0.03%, Indonesian: 0.03%, Kabuverdianu: 0.03%, Malay: 0.03%, Maltese: 0.03%, Mizo: 0.03%, Occitan: 0.03%, Swahili: 0.03%, Tsonga: 0.03%, Umbundu: 0.03%, Venetian: 0.03%, AzerbaijaniNorth: 0.02%, Basque: 0.02%, Fijian: 0.02%, German: 0.02%, Irish: 0.02%, Italian: 0.02%, Jingpho: 0.02%, Minangkabau: 0.02%, NorwegianNynorsk: 0.02%, Nyanja: 0.02%, Romanian: 0.02%, Sesotho: 0.02%, Somali: 0.02%, Sundanese: 0.02%, Twi: 0.02%, AymaraCentral: 0.01%, Bambara: 0.01%, French: 0.01%, Friulian: 0.01%, GaelicScottish: 0.01%, Galician: 0.01%, Lombard: 0.01%, Maori: 0.01%, NorwegianBokmal: 0.01%, Pangasinan: 0.01%, TatarCrimean: 0.01%, Welsh: 0.01%, Afrikaans: 0%, Asturian: 0%, Balinese: 0%, Croatian: 0%, Czech: 0%, Danish: 0%, Faroese: 0%, FulfuldeNigerian: 0%, Ganda: 0%, Javanese: 0%, Kabyle: 0%, Kamba: 0%, KanuriCentral: 0%, Lingala: 0%, Lithuanian: 0%, OromoWestCentral: 0%, Rundi: 0%, Sardinian: 0%, Shona: 0%, Slovak: 0%, Spanish: 0%, Tumbuka: 0%, Turkmen: 0%
 
 >> Detection of 2000 sentences (average length: 73 chars)
-Accuracy: 99%
-Erroneously classified as Catalan: 0.15%, Dutch: 0.1%, FulfuldeNigerian: 0.1%, Kabiye: 0.1%, QuechuaAyacucho: 0.1%, Acehnese: 0.05%, Dholuo: 0.05%, Estonian: 0.05%, Italian: 0.05%, Malay: 0.05%, Maltese: 0.05%, Sango: 0.05%, Umbundu: 0.05%, Welsh: 0.05%
+Accuracy: 99.05%
+Erroneously classified as Catalan: 0.15%, Dutch: 0.1%, FulfuldeNigerian: 0.1%, Kabiye: 0.1%, QuechuaAyacucho: 0.1%, Dholuo: 0.05%, Estonian: 0.05%, Italian: 0.05%, Malay: 0.05%, Maltese: 0.05%, Sango: 0.05%, Umbundu: 0.05%, Welsh: 0.05%
 

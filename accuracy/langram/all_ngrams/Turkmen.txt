@@ -1,6 +1,6 @@
 ##### Turkmen #####
 
->>> Accuracy on average: 95.23%
+>>> Accuracy on average: 95.24%
 
 >> Detection of 8287 single words (average length: 8 chars)
 Accuracy: 88.64%
@@ -11,6 +11,6 @@ Accuracy: 97.75%
 Erroneously classified as Turkish: 0.43%, TatarCrimean: 0.29%, AzerbaijaniNorth: 0.12%, KurdishNorthern: 0.06%, UzbekNorthern: 0.05%, Hausa: 0.04%, NorwegianBokmal: 0.04%, Kabyle: 0.03%, Afrikaans: 0.03%, Bosnian: 0.03%, English: 0.03%, Javanese: 0.03%, Waray: 0.03%, Welsh: 0.03%, Mossi: 0.02%, Silesian: 0.02%, Basque: 0.02%, CreoleHaitian: 0.02%, Dutch: 0.02%, Galician: 0.02%, Ganda: 0.02%, Limburgish: 0.02%, Lithuanian: 0.02%, LubaKasai: 0.02%, Malay: 0.02%, Rundi: 0.02%, Sardinian: 0.02%, TokPisin: 0.02%, Czech: 0.01%, Danish: 0.01%, Dholuo: 0.01%, Ilocano: 0.01%, Indonesian: 0.01%, KanuriCentral: 0.01%, Kinyarwanda: 0.01%, Lombard: 0.01%, MalgasyPlateau: 0.01%, Maltese: 0.01%, Polish: 0.01%, Somali: 0.01%, TamasheqLatin: 0.01%, AlbanianTosk: 0.01%, Asturian: 0.01%, AymaraCentral: 0.01%, Bambara: 0.01%, Catalan: 0.01%, Esperanto: 0.01%, Estonian: 0.01%, Ewe: 0.01%, GaelicScottish: 0.01%, German: 0.01%, Italian: 0.01%, Kabuverdianu: 0.01%, Luxembourgish: 0.01%, Nuer: 0.01%, OromoWestCentral: 0.01%, Portuguese: 0.01%, QuechuaAyacucho: 0.01%, Sango: 0.01%, Sepedi: 0.01%, Slovak: 0.01%, Swedish: 0.01%, Tsonga: 0.01%, Acehnese: 0%, Cebuano: 0%, Chokwe: 0%, DinkaSouthwestern: 0%, Filipino: 0%, Finnish: 0%, French: 0%, Friulian: 0%, Hungarian: 0%, Irish: 0%, Kamba: 0%, Latvian: 0%, Ligurian: 0%, Minangkabau: 0%, Occitan: 0%, Pangasinan: 0%, Romanian: 0%, Samoan: 0%, Shona: 0%, Slovene: 0%, Swahili: 0%, Tswana: 0%, Twi: 0%, Venetian: 0%, Wolof: 0%
 
 >> Detection of 2000 sentences (average length: 85 chars)
-Accuracy: 99.3%
-Erroneously classified as TatarCrimean: 0.15%, Turkish: 0.15%, English: 0.1%, Slovak: 0.1%, Basque: 0.05%, Malay: 0.05%, Russian: 0.05%, Spanish: 0.05%
+Accuracy: 99.35%
+Erroneously classified as TatarCrimean: 0.15%, English: 0.1%, Slovak: 0.1%, Turkish: 0.1%, Basque: 0.05%, Malay: 0.05%, Russian: 0.05%, Spanish: 0.05%
 

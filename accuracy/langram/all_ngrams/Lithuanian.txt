@@ -1,6 +1,6 @@
 ##### Lithuanian #####
 
->>> Accuracy on average: 95.35%
+>>> Accuracy on average: 95.4%
 
 >> Detection of 10156 single words (average length: 9 chars)
 Accuracy: 90.52%
@@ -11,6 +11,6 @@ Accuracy: 97.33%
 Erroneously classified as Latvian: 0.3%, Slovene: 0.18%, English: 0.11%, Finnish: 0.11%, Danish: 0.09%, Polish: 0.09%, Dutch: 0.08%, Kabyle: 0.08%, Maltese: 0.07%, Croatian: 0.06%, Estonian: 0.06%, Sardinian: 0.06%, Swedish: 0.06%, Hungarian: 0.05%, Portuguese: 0.05%, Spanish: 0.05%, Latgalian: 0.05%, Venetian: 0.05%, Bosnian: 0.04%, Catalan: 0.04%, Slovak: 0.04%, German: 0.03%, Ligurian: 0.03%, Luxembourgish: 0.03%, Mossi: 0.03%, TamasheqLatin: 0.03%, Friulian: 0.02%, Galician: 0.02%, OromoWestCentral: 0.02%, Asturian: 0.02%, CreoleHaitian: 0.02%, Czech: 0.02%, Dholuo: 0.02%, Hausa: 0.02%, Ilocano: 0.02%, Italian: 0.02%, Lombard: 0.02%, AlbanianTosk: 0.01%, Esperanto: 0.01%, Maori: 0.01%, Occitan: 0.01%, Papiamento: 0.01%, TokPisin: 0.01%, Banjar: 0.01%, Cebuano: 0.01%, Filipino: 0.01%, GaelicScottish: 0.01%, Igbo: 0.01%, Irish: 0.01%, Malay: 0.01%, NorwegianNynorsk: 0.01%, Pangasinan: 0.01%, QuechuaAyacucho: 0.01%, Romanian: 0.01%, Samoan: 0.01%, Sepedi: 0.01%, Sicilian: 0.01%, UzbekNorthern: 0.01%, Welsh: 0.01%, Acehnese: 0%, Afrikaans: 0%, Bambara: 0%, Ewe: 0%, French: 0%, FulfuldeNigerian: 0%, Guarani: 0%, Javanese: 0%, KanuriCentral: 0%, Kimbundu: 0%, KurdishNorthern: 0%, Limburgish: 0%, Minangkabau: 0%, Mizo: 0%, Nuer: 0%, Shona: 0%, Silesian: 0%, Somali: 0%, Sundanese: 0%, Tswana: 0%, Wolof: 0%, Yoruba: 0%
 
 >> Detection of 2000 sentences (average length: 138 chars)
-Accuracy: 98.2%
-Erroneously classified as Lombard: 0.6%, Estonian: 0.2%, Latvian: 0.15%, Bosnian: 0.1%, Croatian: 0.1%, Polish: 0.1%, Slovene: 0.1%, Acehnese: 0.05%, AlbanianTosk: 0.05%, Cebuano: 0.05%, Dutch: 0.05%, Finnish: 0.05%, German: 0.05%, Latgalian: 0.05%, NorwegianNynorsk: 0.05%, Sardinian: 0.05%
+Accuracy: 98.35%
+Erroneously classified as Lombard: 0.6%, Estonian: 0.2%, Bosnian: 0.1%, Latvian: 0.1%, Polish: 0.1%, Acehnese: 0.05%, AlbanianTosk: 0.05%, Cebuano: 0.05%, Croatian: 0.05%, Dutch: 0.05%, English: 0.05%, Finnish: 0.05%, German: 0.05%, Latgalian: 0.05%, NorwegianNynorsk: 0.05%, Slovene: 0.05%
 

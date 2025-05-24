@@ -1,6 +1,6 @@
 ##### PersianWestern #####
 
->>> Accuracy on average: 78.03%
+>>> Accuracy on average: 78%
 
 >> Detection of 9491 single words (average length: 5 chars)
 Accuracy: 60.25%
@@ -11,6 +11,6 @@ Accuracy: 77.05%
 Erroneously classified as PersianDari: 17.99%, AzerbaijaniSouth: 0.94%, PashtoSouthern: 0.55%, ArabicEgyptian: 0.54%, Urdu: 0.45%, KurdishCentral: 0.36%, ArabicNorthLevantine: 0.3%, ArabicSouthLevantine: 0.3%, Sindhi: 0.25%, Kashmiri: 0.21%, Arabic: 0.2%, KanuriCentralAjami: 0.16%, ArabicTunisian: 0.11%, ArabicSouthernYemeni: 0.1%, ArabicMoroccan: 0.09%, ArabicNajdi: 0.09%, BanjarJawi: 0.08%, AcehneseJawi: 0.07%, ArabicMesopotamian: 0.07%
 
 >> Detection of 2000 sentences (average length: 135 chars)
-Accuracy: 96.8%
-Erroneously classified as PersianDari: 1.75%, Sindhi: 0.3%, Urdu: 0.2%, Arabic: 0.15%, ArabicNajdi: 0.15%, ArabicNorthLevantine: 0.15%, ArabicSouthLevantine: 0.15%, PashtoSouthern: 0.15%, ArabicEgyptian: 0.1%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%
+Accuracy: 96.7%
+Erroneously classified as PersianDari: 1.9%, Sindhi: 0.3%, Urdu: 0.2%, ArabicNajdi: 0.15%, ArabicNorthLevantine: 0.15%, ArabicSouthLevantine: 0.15%, PashtoSouthern: 0.15%, Arabic: 0.1%, ArabicEgyptian: 0.1%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%
 

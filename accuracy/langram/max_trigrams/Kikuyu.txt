@@ -1,6 +1,6 @@
 ##### Kikuyu #####
 
->>> Accuracy on average: 92.58%
+>>> Accuracy on average: 92.61%
 
 >> Detection of 5690 single words (average length: 8 chars)
 Accuracy: 85.58%
@@ -11,6 +11,6 @@ Accuracy: 93.5%
 Erroneously classified as Kamba: 3.06%, Swahili: 0.74%, Hausa: 0.19%, English: 0.17%, Fijian: 0.14%, Lingala: 0.14%, Ilocano: 0.12%, Samoan: 0.12%, KikongoKituba: 0.11%, Maori: 0.11%, Twi: 0.09%, Mizo: 0.08%, Kimbundu: 0.07%, Nyanja: 0.07%, Pangasinan: 0.06%, Sango: 0.06%, Dholuo: 0.05%, Rundi: 0.05%, Chokwe: 0.04%, LubaKasai: 0.04%, Tswana: 0.04%, Bambara: 0.03%, Filipino: 0.03%, Igbo: 0.03%, Kinyarwanda: 0.03%, Swati: 0.03%, Bemba: 0.02%, Papiamento: 0.02%, QuechuaAyacucho: 0.02%, Sepedi: 0.02%, Sesotho: 0.02%, Shona: 0.02%, Tsonga: 0.02%, Banjar: 0.02%, Cebuano: 0.02%, GaelicScottish: 0.02%, Galician: 0.02%, Ganda: 0.02%, Venetian: 0.02%, Asturian: 0.01%, Croatian: 0.01%, Ewe: 0.01%, FulfuldeNigerian: 0.01%, Kabuverdianu: 0.01%, MalgasyPlateau: 0.01%, Polish: 0.01%, Tumbuka: 0.01%, Umbundu: 0.01%, Zulu: 0.01%, Afrikaans: 0%, AymaraCentral: 0%, Balinese: 0%, Basque: 0%, Catalan: 0%, DinkaSouthwestern: 0%, Dutch: 0%, French: 0%, Javanese: 0%, Jingpho: 0%, KurdishNorthern: 0%, Ligurian: 0%, Minangkabau: 0%, Mossi: 0%, NorwegianBokmal: 0%, Occitan: 0%, Portuguese: 0%, Silesian: 0%, Spanish: 0%, TamasheqLatin: 0%, TokPisin: 0%, UzbekNorthern: 0%, Waray: 0%, Wolof: 0%
 
 >> Detection of 2000 sentences (average length: 94 chars)
-Accuracy: 98.65%
-Erroneously classified as Dholuo: 0.15%, Guarani: 0.15%, Sepedi: 0.15%, Kamba: 0.1%, KurdishNorthern: 0.1%, Mizo: 0.1%, DinkaSouthwestern: 0.05%, Fijian: 0.05%, Hungarian: 0.05%, Latgalian: 0.05%, Lingala: 0.05%, Rundi: 0.05%, Sardinian: 0.05%, Silesian: 0.05%, Twi: 0.05%, Umbundu: 0.05%, Venetian: 0.05%, Yoruba: 0.05%
+Accuracy: 98.75%
+Erroneously classified as Dholuo: 0.15%, Guarani: 0.15%, Sepedi: 0.15%, Kamba: 0.1%, KurdishNorthern: 0.1%, Mizo: 0.1%, DinkaSouthwestern: 0.05%, Hungarian: 0.05%, Latgalian: 0.05%, Rundi: 0.05%, Sardinian: 0.05%, Silesian: 0.05%, Twi: 0.05%, Umbundu: 0.05%, Venetian: 0.05%, Yoruba: 0.05%
 

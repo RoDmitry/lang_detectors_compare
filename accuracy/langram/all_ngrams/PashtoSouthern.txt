@@ -1,6 +1,6 @@
 ##### PashtoSouthern #####
 
->>> Accuracy on average: 90.59%
+>>> Accuracy on average: 90.61%
 
 >> Detection of 18513 single words (average length: 5 chars)
 Accuracy: 75.53%
@@ -11,6 +11,6 @@ Accuracy: 96.41%
 Erroneously classified as PersianWestern: 1.18%, PersianDari: 0.56%, Urdu: 0.32%, AzerbaijaniSouth: 0.3%, Sindhi: 0.28%, ArabicEgyptian: 0.16%, ArabicNorthLevantine: 0.1%, ArabicSouthLevantine: 0.09%, KanuriCentralAjami: 0.08%, ArabicTunisian: 0.08%, Kashmiri: 0.08%, AcehneseJawi: 0.05%, ArabicMoroccan: 0.05%, KurdishCentral: 0.05%, ArabicNajdi: 0.04%, ArabicSouthernYemeni: 0.03%, BanjarJawi: 0.03%, ArabicMesopotamian: 0.02%, Arabic: 0%
 
 >> Detection of 2000 sentences (average length: 529 chars)
-Accuracy: 99.85%
-Erroneously classified as PersianWestern: 0.05%, Sindhi: 0.05%, Urdu: 0.05%
+Accuracy: 99.9%
+Erroneously classified as Sindhi: 0.05%, Urdu: 0.05%
 

@@ -1,6 +1,6 @@
 ##### Sepedi #####
 
->>> Accuracy on average: 82.43%
+>>> Accuracy on average: 83.41%
 
 >> Detection of 4798 single words (average length: 7 chars)
 Accuracy: 68.48%
@@ -11,6 +11,6 @@ Accuracy: 82.8%
 Erroneously classified as Tswana: 9.71%, Sesotho: 2.48%, Samoan: 0.56%, English: 0.43%, Swahili: 0.27%, Ilocano: 0.21%, Hausa: 0.2%, Tsonga: 0.18%, Fijian: 0.17%, KikongoKituba: 0.17%, Cebuano: 0.15%, Maori: 0.14%, Ewe: 0.12%, CreoleHaitian: 0.09%, Dyula: 0.09%, Lingala: 0.08%, Sango: 0.08%, Twi: 0.08%, LubaKasai: 0.08%, Pangasinan: 0.08%, Filipino: 0.07%, Papiamento: 0.07%, Venetian: 0.07%, Galician: 0.06%, Kimbundu: 0.06%, Umbundu: 0.06%, DinkaSouthwestern: 0.05%, GaelicScottish: 0.05%, Kamba: 0.05%, Minangkabau: 0.05%, Sicilian: 0.05%, FulfuldeNigerian: 0.04%, Mizo: 0.04%, Irish: 0.03%, Jingpho: 0.03%, Ligurian: 0.03%, OromoWestCentral: 0.03%, Bambara: 0.02%, Friulian: 0.02%, German: 0.02%, Igbo: 0.02%, Kabuverdianu: 0.02%, Kikuyu: 0.02%, KurdishNorthern: 0.02%, MalgasyPlateau: 0.02%, Rundi: 0.02%, Silesian: 0.02%, Somali: 0.02%, TamasheqLatin: 0.02%, Afrikaans: 0.01%, Danish: 0.01%, Dholuo: 0.01%, Esperanto: 0.01%, French: 0.01%, Indonesian: 0.01%, KanuriCentral: 0.01%, Kinyarwanda: 0.01%, Limburgish: 0.01%, Mossi: 0.01%, Occitan: 0.01%, Polish: 0.01%, Sardinian: 0.01%, Shona: 0.01%, Wolof: 0.01%, AlbanianTosk: 0%, Asturian: 0%, Balinese: 0%, Banjar: 0%, Bemba: 0%, Catalan: 0%, Chokwe: 0%, Croatian: 0%, Faroese: 0%, Ganda: 0%, Italian: 0%, Javanese: 0%, Lithuanian: 0%, Malay: 0%, Maltese: 0%, NorwegianBokmal: 0%, NorwegianNynorsk: 0%, Nuer: 0%, Nyanja: 0%, Portuguese: 0%, QuechuaAyacucho: 0%, Slovene: 0%, Swati: 0%, Tumbuka: 0%, Zulu: 0%
 
 >> Detection of 2000 sentences (average length: 108 chars)
-Accuracy: 96%
-Erroneously classified as Tswana: 3.55%, English: 0.15%, Chokwe: 0.05%, Dutch: 0.05%, Indonesian: 0.05%, Kabyle: 0.05%, Mizo: 0.05%, Xhosa: 0.05%
+Accuracy: 98.95%
+Erroneously classified as Tswana: 0.65%, English: 0.15%, Chokwe: 0.05%, Dutch: 0.05%, Kabyle: 0.05%, Mizo: 0.05%, Xhosa: 0.05%
 

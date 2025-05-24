@@ -1,6 +1,6 @@
 ##### German #####
 
->>> Accuracy on average: 91.7%
+>>> Accuracy on average: 91.72%
 
 >> Detection of 9514 single words (average length: 9 chars)
 Accuracy: 80.31%
@@ -11,6 +11,6 @@ Accuracy: 95.24%
 Erroneously classified as Luxembourgish: 0.83%, English: 0.5%, Danish: 0.39%, Afrikaans: 0.34%, Dutch: 0.23%, Limburgish: 0.18%, French: 0.17%, NorwegianNynorsk: 0.12%, Hausa: 0.12%, Sardinian: 0.07%, NorwegianBokmal: 0.07%, Portuguese: 0.07%, TokPisin: 0.07%, Faroese: 0.06%, Italian: 0.06%, Swahili: 0.06%, TamasheqLatin: 0.06%, GaelicScottish: 0.05%, Venetian: 0.05%, Estonian: 0.04%, Polish: 0.04%, Friulian: 0.04%, Galician: 0.04%, Pangasinan: 0.04%, QuechuaAyacucho: 0.04%, Spanish: 0.04%, Swedish: 0.03%, Basque: 0.03%, Catalan: 0.03%, Lithuanian: 0.03%, Romanian: 0.03%, Somali: 0.03%, Waray: 0.03%, Asturian: 0.02%, Dholuo: 0.02%, Ewe: 0.02%, Balinese: 0.01%, Finnish: 0.01%, Icelandic: 0.01%, Indonesian: 0.01%, Irish: 0.01%, Kabyle: 0.01%, KanuriCentral: 0.01%, KurdishNorthern: 0.01%, Ligurian: 0.01%, Lombard: 0.01%, Mizo: 0.01%, Slovak: 0.01%, Twi: 0.01%, Welsh: 0.01%, AlbanianTosk: 0.01%, AymaraCentral: 0.01%, AzerbaijaniNorth: 0.01%, Bosnian: 0.01%, Cebuano: 0.01%, Javanese: 0.01%, Latvian: 0.01%, Lingala: 0.01%, Mossi: 0.01%, Occitan: 0.01%, OromoWestCentral: 0.01%, Silesian: 0.01%, Slovene: 0.01%, Turkmen: 0.01%, Bambara: 0%, Banjar: 0%, Buginese: 0%, CreoleHaitian: 0%, Croatian: 0%, Czech: 0%, Filipino: 0%, Ilocano: 0%, Kabuverdianu: 0%, Kimbundu: 0%, Malay: 0%, Maltese: 0%, Minangkabau: 0%, Nuer: 0%, Nyanja: 0%, Papiamento: 0%, Rundi: 0%, Sesotho: 0%, Shona: 0%, Sicilian: 0%, TatarCrimean: 0%, Tswana: 0%, Turkish: 0%, UzbekNorthern: 0%, Vietnamese: 0%, Wolof: 0%
 
 >> Detection of 2000 sentences (average length: 141 chars)
-Accuracy: 99.55%
-Erroneously classified as Asturian: 0.05%, Banjar: 0.05%, Basque: 0.05%, Dutch: 0.05%, English: 0.05%, Italian: 0.05%, Limburgish: 0.05%, Sundanese: 0.05%, Venetian: 0.05%
+Accuracy: 99.6%
+Erroneously classified as Asturian: 0.05%, Banjar: 0.05%, Dutch: 0.05%, English: 0.05%, Italian: 0.05%, Limburgish: 0.05%, Luxembourgish: 0.05%, Sundanese: 0.05%
 

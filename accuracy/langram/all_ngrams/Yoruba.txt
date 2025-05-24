@@ -12,5 +12,5 @@ Erroneously classified as Sango: 0.37%, Hausa: 0.29%, English: 0.27%, Bambara: 0
 
 >> Detection of 2000 sentences (average length: 108 chars)
 Accuracy: 99.2%
-Erroneously classified as English: 0.1%, Limburgish: 0.1%, Portuguese: 0.1%, AzerbaijaniNorth: 0.05%, French: 0.05%, Friulian: 0.05%, Indonesian: 0.05%, Mizo: 0.05%, Sardinian: 0.05%, Sicilian: 0.05%, Silesian: 0.05%, Sundanese: 0.05%, UzbekNorthern: 0.05%
+Erroneously classified as English: 0.1%, Limburgish: 0.1%, Portuguese: 0.1%, AzerbaijaniNorth: 0.05%, French: 0.05%, Friulian: 0.05%, Indonesian: 0.05%, Mizo: 0.05%, Sardinian: 0.05%, Sicilian: 0.05%, Sundanese: 0.05%, UzbekNorthern: 0.05%, Zulu: 0.05%
 

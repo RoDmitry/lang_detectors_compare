@@ -12,5 +12,5 @@ Erroneously classified as Waray: 6.86%, Filipino: 4.06%, Pangasinan: 0.4%, Engli
 
 >> Detection of 2000 sentences (average length: 113 chars)
 Accuracy: 97.8%
-Erroneously classified as Filipino: 0.7%, Ilocano: 0.5%, Pangasinan: 0.2%, Swahili: 0.15%, Polish: 0.1%, Slovene: 0.1%, Croatian: 0.05%, GaelicScottish: 0.05%, Italian: 0.05%, Lombard: 0.05%, Malay: 0.05%, NorwegianNynorsk: 0.05%, Venetian: 0.05%, Welsh: 0.05%, Zulu: 0.05%
+Erroneously classified as Filipino: 0.75%, Ilocano: 0.5%, Pangasinan: 0.2%, Swahili: 0.15%, Polish: 0.1%, Slovene: 0.1%, Croatian: 0.05%, Italian: 0.05%, Lombard: 0.05%, Malay: 0.05%, NorwegianNynorsk: 0.05%, Venetian: 0.05%, Welsh: 0.05%, Zulu: 0.05%
 

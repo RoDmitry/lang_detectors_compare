@@ -1,6 +1,6 @@
 ##### MalgasyPlateau #####
 
->>> Accuracy on average: 97.71%
+>>> Accuracy on average: 97.69%
 
 >> Detection of 5675 single words (average length: 9 chars)
 Accuracy: 94%
@@ -11,6 +11,6 @@ Accuracy: 99.52%
 Erroneously classified as Maori: 0.06%, Twi: 0.03%, Filipino: 0.02%, Sepedi: 0.02%, Pangasinan: 0.02%, Samoan: 0.02%, Sicilian: 0.02%, Somali: 0.02%, Afrikaans: 0.01%, Bambara: 0.01%, Fijian: 0.01%, Guarani: 0.01%, Lingala: 0.01%, Swahili: 0.01%, TokPisin: 0.01%, Balinese: 0%, Cebuano: 0%, Dyula: 0%, Esperanto: 0%, Ewe: 0%, FulfuldeNigerian: 0%, Ilocano: 0%, Italian: 0%, KanuriCentral: 0%, Kimbundu: 0%, Latgalian: 0%, Minangkabau: 0%, Sesotho: 0%, Silesian: 0%, Tsonga: 0%, Tswana: 0%, Waray: 0%
 
 >> Detection of 2000 sentences (average length: 120 chars)
-Accuracy: 99.6%
-Erroneously classified as Kabyle: 0.1%, Afrikaans: 0.05%, Asturian: 0.05%, Indonesian: 0.05%, Ligurian: 0.05%, Malay: 0.05%, OromoWestCentral: 0.05%
+Accuracy: 99.55%
+Erroneously classified as Kabyle: 0.1%, Afrikaans: 0.05%, Asturian: 0.05%, Indonesian: 0.05%, Ligurian: 0.05%, Malay: 0.05%, OromoWestCentral: 0.05%, Tswana: 0.05%
 

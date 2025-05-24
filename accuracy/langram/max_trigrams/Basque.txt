@@ -1,6 +1,6 @@
 ##### Basque #####
 
->>> Accuracy on average: 95.96%
+>>> Accuracy on average: 95.98%
 
 >> Detection of 10023 single words (average length: 8 chars)
 Accuracy: 89.66%
@@ -11,6 +11,6 @@ Accuracy: 98.83%
 Erroneously classified as Hausa: 0.11%, English: 0.09%, French: 0.05%, Galician: 0.04%, Occitan: 0.04%, Italian: 0.04%, Friulian: 0.03%, Guarani: 0.03%, Asturian: 0.02%, Ilocano: 0.02%, Lombard: 0.02%, NorwegianBokmal: 0.02%, Pangasinan: 0.02%, Venetian: 0.02%, Afrikaans: 0.01%, Cebuano: 0.01%, Czech: 0.01%, Dholuo: 0.01%, Jingpho: 0.01%, Kimbundu: 0.01%, Kinyarwanda: 0.01%, Papiamento: 0.01%, Sepedi: 0.01%, Spanish: 0.01%, Swahili: 0.01%, Bambara: 0.01%, Bosnian: 0.01%, Esperanto: 0.01%, Estonian: 0.01%, Fijian: 0.01%, German: 0.01%, Indonesian: 0.01%, Luxembourgish: 0.01%, Malay: 0.01%, Rundi: 0.01%, Sardinian: 0.01%, Waray: 0.01%, Welsh: 0.01%, Acehnese: 0%, Banjar: 0%, Buginese: 0%, Catalan: 0%, CreoleHaitian: 0%, Croatian: 0%, Dutch: 0%, FulfuldeNigerian: 0%, Hungarian: 0%, Igbo: 0%, Javanese: 0%, Kabuverdianu: 0%, Kabyle: 0%, Latvian: 0%, Ligurian: 0%, Limburgish: 0%, Lingala: 0%, Lithuanian: 0%, LubaKasai: 0%, Maltese: 0%, Minangkabau: 0%, Mizo: 0%, Mossi: 0%, Polish: 0%, Portuguese: 0%, Romanian: 0%, Samoan: 0%, Sango: 0%, Shona: 0%, Silesian: 0%, Slovak: 0%, Slovene: 0%, Swedish: 0%, TatarCrimean: 0%, Tsonga: 0%, Tswana: 0%, Turkish: 0%, Twi: 0%, Wolof: 0%
 
 >> Detection of 2000 sentences (average length: 95 chars)
-Accuracy: 99.4%
-Erroneously classified as TokPisin: 0.1%, Danish: 0.05%, French: 0.05%, Galician: 0.05%, Hungarian: 0.05%, Ilocano: 0.05%, Kabyle: 0.05%, Limburgish: 0.05%, Lombard: 0.05%, Samoan: 0.05%, Silesian: 0.05%
+Accuracy: 99.45%
+Erroneously classified as TokPisin: 0.1%, Danish: 0.05%, French: 0.05%, Galician: 0.05%, Hungarian: 0.05%, Kabyle: 0.05%, Limburgish: 0.05%, Lombard: 0.05%, Samoan: 0.05%, Silesian: 0.05%
 

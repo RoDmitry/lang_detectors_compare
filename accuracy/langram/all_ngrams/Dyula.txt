@@ -1,6 +1,6 @@
 ##### Dyula #####
 
->>> Accuracy on average: 84.64%
+>>> Accuracy on average: 84.69%
 
 >> Detection of 2000 single words (average length: 6 chars)
 Accuracy: 67.15%
@@ -11,6 +11,6 @@ Accuracy: 87.88%
 Erroneously classified as Bambara: 4.7%, Samoan: 0.59%, Hausa: 0.48%, Maori: 0.33%, Mossi: 0.31%, Ewe: 0.26%, Sango: 0.26%, Dholuo: 0.23%, Kimbundu: 0.23%, Ilocano: 0.21%, Tswana: 0.2%, Fijian: 0.17%, Jingpho: 0.16%, Wolof: 0.16%, Pangasinan: 0.15%, Mizo: 0.14%, Waray: 0.14%, Sepedi: 0.13%, TamasheqLatin: 0.13%, Cebuano: 0.1%, QuechuaAyacucho: 0.1%, KanuriCentral: 0.09%, TokPisin: 0.09%, Chokwe: 0.08%, Fon: 0.08%, FulfuldeNigerian: 0.08%, Papiamento: 0.08%, Somali: 0.08%, English: 0.07%, Swahili: 0.07%, Bosnian: 0.06%, DinkaSouthwestern: 0.06%, Kabuverdianu: 0.06%, Kabyle: 0.06%, Kinyarwanda: 0.06%, Maltese: 0.06%, Twi: 0.06%, Esperanto: 0.05%, Filipino: 0.05%, French: 0.05%, GaelicScottish: 0.05%, Igbo: 0.05%, Kamba: 0.05%, KikongoKituba: 0.05%, Lingala: 0.05%, Malay: 0.05%, Asturian: 0.04%, CreoleHaitian: 0.04%, Croatian: 0.04%, Ligurian: 0.04%, LubaKasai: 0.04%, Nuer: 0.04%, Occitan: 0.04%, Portuguese: 0.04%, Tsonga: 0.04%, Friulian: 0.03%, Galician: 0.03%, Irish: 0.03%, Kikuyu: 0.03%, KurdishNorthern: 0.03%, NorwegianNynorsk: 0.03%, Sesotho: 0.03%, Catalan: 0.02%, Faroese: 0.02%, Finnish: 0.02%, Guarani: 0.02%, Indonesian: 0.02%, MalgasyPlateau: 0.02%, OromoWestCentral: 0.02%, Rundi: 0.02%, Slovene: 0.02%, Sundanese: 0.02%, Afrikaans: 0.01%, AlbanianTosk: 0.01%, AymaraCentral: 0.01%, Buginese: 0.01%, Czech: 0.01%, Estonian: 0.01%, Ganda: 0.01%, Hungarian: 0.01%, Italian: 0.01%, Javanese: 0.01%, Kabiye: 0.01%, Latgalian: 0.01%, Limburgish: 0.01%, Luxembourgish: 0.01%, Minangkabau: 0.01%, Polish: 0.01%, Romanian: 0.01%, Shona: 0.01%, Silesian: 0.01%, Swati: 0.01%, Umbundu: 0.01%, UzbekNorthern: 0.01%, Venetian: 0.01%, Xhosa: 0.01%
 
 >> Detection of 2000 sentences (average length: 69 chars)
-Accuracy: 98.9%
-Erroneously classified as Dholuo: 0.25%, Bambara: 0.2%, Jingpho: 0.1%, Chokwe: 0.05%, Danish: 0.05%, Faroese: 0.05%, French: 0.05%, Hausa: 0.05%, Hungarian: 0.05%, NorwegianBokmal: 0.05%, Silesian: 0.05%, Slovene: 0.05%, TokPisin: 0.05%, Twi: 0.05%
+Accuracy: 99.05%
+Erroneously classified as Dholuo: 0.25%, Bambara: 0.05%, Chokwe: 0.05%, Danish: 0.05%, English: 0.05%, Faroese: 0.05%, French: 0.05%, Hausa: 0.05%, Hungarian: 0.05%, Jingpho: 0.05%, NorwegianBokmal: 0.05%, Silesian: 0.05%, Slovene: 0.05%, TokPisin: 0.05%, Twi: 0.05%
 

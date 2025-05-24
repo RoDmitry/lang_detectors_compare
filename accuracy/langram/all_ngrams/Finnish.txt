@@ -1,6 +1,6 @@
 ##### Finnish #####
 
->>> Accuracy on average: 95.98%
+>>> Accuracy on average: 95.99%
 
 >> Detection of 11426 single words (average length: 11 chars)
 Accuracy: 92.5%
@@ -11,6 +11,6 @@ Accuracy: 97.43%
 Erroneously classified as Estonian: 0.31%, English: 0.22%, Lithuanian: 0.17%, Polish: 0.14%, Danish: 0.1%, Hungarian: 0.09%, Dutch: 0.08%, Kabyle: 0.08%, Slovak: 0.08%, German: 0.07%, Latvian: 0.06%, French: 0.06%, Italian: 0.05%, Venetian: 0.05%, Maltese: 0.04%, Mossi: 0.04%, Swedish: 0.04%, Somali: 0.03%, Bambara: 0.02%, CreoleHaitian: 0.02%, Slovene: 0.02%, Welsh: 0.02%, GaelicScottish: 0.02%, Limburgish: 0.02%, NorwegianNynorsk: 0.02%, Samoan: 0.02%, Sicilian: 0.02%, TamasheqLatin: 0.02%, Tswana: 0.02%, UzbekNorthern: 0.02%, Afrikaans: 0.01%, Banjar: 0.01%, Esperanto: 0.01%, Galician: 0.01%, Hausa: 0.01%, Ilocano: 0.01%, KanuriCentral: 0.01%, Lombard: 0.01%, Maori: 0.01%, Occitan: 0.01%, Sepedi: 0.01%, Bosnian: 0.01%, Cebuano: 0.01%, Croatian: 0.01%, Friulian: 0.01%, Javanese: 0.01%, Kimbundu: 0.01%, Latgalian: 0.01%, Luxembourgish: 0.01%, Portuguese: 0.01%, Sardinian: 0.01%, Asturian: 0%, AzerbaijaniNorth: 0%, Balinese: 0%, Catalan: 0%, Dyula: 0%, Faroese: 0%, Fijian: 0%, Filipino: 0%, Fon: 0%, Guarani: 0%, Igbo: 0%, Indonesian: 0%, Irish: 0%, KikongoKituba: 0%, Ligurian: 0%, Lingala: 0%, Minangkabau: 0%, NorwegianBokmal: 0%, Nuer: 0%, OromoWestCentral: 0%, Pangasinan: 0%, Papiamento: 0%, QuechuaAyacucho: 0%, Romanian: 0%, Sango: 0%, Sesotho: 0%, Shona: 0%, Spanish: 0%, TokPisin: 0%, Twi: 0%
 
 >> Detection of 2000 sentences (average length: 142 chars)
-Accuracy: 98%
-Erroneously classified as Danish: 0.3%, Estonian: 0.2%, Polish: 0.15%, Slovak: 0.15%, Slovene: 0.15%, Kabyle: 0.1%, Maltese: 0.1%, Venetian: 0.1%, Catalan: 0.05%, Dutch: 0.05%, Esperanto: 0.05%, Friulian: 0.05%, Galician: 0.05%, Guarani: 0.05%, Hungarian: 0.05%, Ilocano: 0.05%, Indonesian: 0.05%, Italian: 0.05%, Javanese: 0.05%, Lithuanian: 0.05%, Minangkabau: 0.05%, NorwegianNynorsk: 0.05%, Swedish: 0.05%
+Accuracy: 98.05%
+Erroneously classified as Danish: 0.3%, Estonian: 0.2%, Slovene: 0.15%, Dutch: 0.1%, Kabyle: 0.1%, Maltese: 0.1%, Polish: 0.1%, Slovak: 0.1%, Venetian: 0.1%, Catalan: 0.05%, Esperanto: 0.05%, Friulian: 0.05%, Galician: 0.05%, Guarani: 0.05%, Hungarian: 0.05%, Ilocano: 0.05%, Indonesian: 0.05%, Italian: 0.05%, Javanese: 0.05%, Lithuanian: 0.05%, Minangkabau: 0.05%, NorwegianNynorsk: 0.05%, Swedish: 0.05%
 
