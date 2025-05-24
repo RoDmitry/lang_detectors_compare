@@ -1,6 +1,6 @@
 ##### Yoruba #####
 
->>> Accuracy on average: 89.09%
+>>> Accuracy on average: 89.07%
 
 >> Detection of 5221 single words (average length: 5 chars)
 Accuracy: 75.13%
@@ -11,6 +11,6 @@ Accuracy: 92.89%
 Erroneously classified as Sango: 0.37%, Hausa: 0.29%, English: 0.27%, Bambara: 0.22%, Igbo: 0.22%, Ilocano: 0.19%, Fon: 0.17%, OromoWestCentral: 0.17%, Swahili: 0.17%, Ewe: 0.16%, Sicilian: 0.16%, FulfuldeNigerian: 0.15%, CreoleHaitian: 0.14%, Wolof: 0.14%, Dyula: 0.13%, Mizo: 0.13%, Samoan: 0.13%, Fijian: 0.12%, Tsonga: 0.12%, Kabyle: 0.11%, Dholuo: 0.1%, Pangasinan: 0.1%, Tswana: 0.1%, Kimbundu: 0.09%, Ligurian: 0.09%, Twi: 0.09%, Irish: 0.09%, Maori: 0.09%, Jingpho: 0.08%, Kabuverdianu: 0.08%, Mossi: 0.08%, Bemba: 0.07%, Friulian: 0.07%, Bosnian: 0.06%, Cebuano: 0.06%, Croatian: 0.06%, Rundi: 0.06%, TamasheqLatin: 0.06%, Filipino: 0.06%, LubaKasai: 0.06%, Sepedi: 0.06%, Italian: 0.05%, QuechuaAyacucho: 0.05%, Sardinian: 0.05%, Somali: 0.05%, Sundanese: 0.05%, Indonesian: 0.04%, Malay: 0.04%, Minangkabau: 0.04%, Umbundu: 0.04%, Waray: 0.04%, Chokwe: 0.03%, Esperanto: 0.03%, Faroese: 0.03%, GaelicScottish: 0.03%, Guarani: 0.03%, Kinyarwanda: 0.03%, Limburgish: 0.03%, Slovene: 0.03%, Tumbuka: 0.03%, AymaraCentral: 0.03%, Buginese: 0.03%, Ganda: 0.03%, Javanese: 0.03%, Lingala: 0.03%, Romanian: 0.03%, Sesotho: 0.03%, TokPisin: 0.03%, Welsh: 0.03%, Banjar: 0.02%, Basque: 0.02%, Czech: 0.02%, Galician: 0.02%, Icelandic: 0.02%, Kabiye: 0.02%, KanuriCentral: 0.02%, Lombard: 0.02%, Maltese: 0.02%, Portuguese: 0.02%, Slovak: 0.02%, Zulu: 0.02%, Catalan: 0.01%, Estonian: 0.01%, French: 0.01%, KikongoKituba: 0.01%, NorwegianBokmal: 0.01%, NorwegianNynorsk: 0.01%, Nyanja: 0.01%, Occitan: 0.01%, Polish: 0.01%, Swati: 0.01%, Turkish: 0.01%, Venetian: 0.01%, Xhosa: 0.01%, Acehnese: 0%, Afrikaans: 0%, AlbanianTosk: 0%, Balinese: 0%, Danish: 0%, DinkaSouthwestern: 0%, Finnish: 0%, Kamba: 0%, Shona: 0%, Silesian: 0%, Swedish: 0%, UzbekNorthern: 0%, Vietnamese: 0%
 
 >> Detection of 2000 sentences (average length: 108 chars)
-Accuracy: 99.25%
-Erroneously classified as English: 0.1%, Limburgish: 0.1%, AzerbaijaniNorth: 0.05%, French: 0.05%, Friulian: 0.05%, Indonesian: 0.05%, Mizo: 0.05%, Portuguese: 0.05%, Sardinian: 0.05%, Sicilian: 0.05%, Silesian: 0.05%, Sundanese: 0.05%, UzbekNorthern: 0.05%
+Accuracy: 99.2%
+Erroneously classified as English: 0.1%, Limburgish: 0.1%, Portuguese: 0.1%, AzerbaijaniNorth: 0.05%, French: 0.05%, Friulian: 0.05%, Indonesian: 0.05%, Mizo: 0.05%, Sardinian: 0.05%, Sicilian: 0.05%, Silesian: 0.05%, Sundanese: 0.05%, UzbekNorthern: 0.05%
 

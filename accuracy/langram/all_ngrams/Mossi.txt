@@ -1,6 +1,6 @@
 ##### Mossi #####
 
->>> Accuracy on average: 92.22%
+>>> Accuracy on average: 92.2%
 
 >> Detection of 3058 single words (average length: 5 chars)
 Accuracy: 81.68%
@@ -11,6 +11,6 @@ Accuracy: 95.17%
 Erroneously classified as Ilocano: 0.51%, Hausa: 0.31%, Dyula: 0.27%, Ewe: 0.22%, QuechuaAyacucho: 0.2%, Maori: 0.18%, Twi: 0.16%, Wolof: 0.15%, Kabyle: 0.13%, Pangasinan: 0.12%, Welsh: 0.12%, TamasheqLatin: 0.11%, Mizo: 0.11%, Somali: 0.11%, Tswana: 0.11%, Afrikaans: 0.1%, Bambara: 0.1%, Jingpho: 0.09%, Swahili: 0.09%, Fijian: 0.08%, Dholuo: 0.07%, Sango: 0.07%, English: 0.05%, Samoan: 0.05%, Cebuano: 0.04%, DinkaSouthwestern: 0.04%, Esperanto: 0.04%, LubaKasai: 0.04%, Sepedi: 0.04%, Asturian: 0.03%, Bemba: 0.03%, CreoleHaitian: 0.03%, French: 0.03%, GaelicScottish: 0.03%, Igbo: 0.03%, KanuriCentral: 0.03%, Maltese: 0.03%, Papiamento: 0.03%, Faroese: 0.02%, Filipino: 0.02%, Hungarian: 0.02%, Lingala: 0.02%, MalgasyPlateau: 0.02%, Nyanja: 0.02%, Portuguese: 0.02%, Slovene: 0.02%, Basque: 0.01%, Bosnian: 0.01%, Fon: 0.01%, FulfuldeNigerian: 0.01%, Irish: 0.01%, Kabuverdianu: 0.01%, KikongoKituba: 0.01%, Luxembourgish: 0.01%, Minangkabau: 0.01%, Occitan: 0.01%, Spanish: 0.01%, Acehnese: 0%, Balinese: 0%, Dutch: 0%, Friulian: 0%, Galician: 0%, Ganda: 0%, German: 0%, Guarani: 0%, Javanese: 0%, Kimbundu: 0%, KurdishNorthern: 0%, Ligurian: 0%, Limburgish: 0%, Lithuanian: 0%, Lombard: 0%, NorwegianBokmal: 0%, OromoWestCentral: 0%, Polish: 0%, Sesotho: 0%, Sundanese: 0%, Swati: 0%, TatarCrimean: 0%, Turkmen: 0%, UzbekNorthern: 0%
 
 >> Detection of 2000 sentences (average length: 84 chars)
-Accuracy: 99.8%
-Erroneously classified as Afrikaans: 0.1%, FulfuldeNigerian: 0.05%, Ilocano: 0.05%
+Accuracy: 99.75%
+Erroneously classified as Afrikaans: 0.1%, Ewe: 0.05%, FulfuldeNigerian: 0.05%, Ilocano: 0.05%
 
