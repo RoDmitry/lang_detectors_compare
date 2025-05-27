@@ -7,8 +7,8 @@ Accuracy: 77.94%
 Erroneously classified as Bulgarian: 9.12%, Serbian: 8.23%, Russian: 1.42%, Belarusian: 0.69%, Tajik: 0.65%, Kazakh: 0.51%, Ukrainian: 0.49%, Kyrgyz: 0.37%, Tatar: 0.19%, MongolianHalh: 0.18%, Bashkir: 0.17%
 
 >> Detection of 16004 word pairs (average length: 12 chars)
-Accuracy: 90.6%
-Erroneously classified as Bulgarian: 5.39%, Serbian: 3.14%, Russian: 0.47%, Ukrainian: 0.11%, Belarusian: 0.09%, Tajik: 0.06%, Kazakh: 0.06%, Bashkir: 0.01%, Kyrgyz: 0.01%, MongolianHalh: 0%, Tatar: 0%
+Accuracy: 90.62%
+Erroneously classified as Bulgarian: 5.38%, Serbian: 3.13%, Russian: 0.47%, Ukrainian: 0.11%, Belarusian: 0.09%, Tajik: 0.06%, Kazakh: 0.06%, Bashkir: 0.01%, Kyrgyz: 0.01%, MongolianHalh: 0%, Tatar: 0%
 
 >> Detection of 2000 sentences (average length: 116 chars)
 Accuracy: 98.6%

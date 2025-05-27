@@ -12,5 +12,5 @@ Erroneously classified as English: 0.24%, Hausa: 0.24%, Swahili: 0.17%, QuechuaA
 
 >> Detection of 2000 sentences (average length: 85 chars)
 Accuracy: 98.75%
-Erroneously classified as Bemba: 0.1%, English: 0.1%, Faroese: 0.1%, Luxembourgish: 0.1%, NorwegianBokmal: 0.1%, Silesian: 0.1%, Swahili: 0.1%, Catalan: 0.05%, Filipino: 0.05%, German: 0.05%, Kikuyu: 0.05%, Malay: 0.05%, Mizo: 0.05%, Nyanja: 0.05%, Sardinian: 0.05%, Swedish: 0.05%, Turkish: 0.05%, Venetian: 0.05%
+Erroneously classified as Bemba: 0.1%, English: 0.1%, Faroese: 0.1%, Luxembourgish: 0.1%, NorwegianBokmal: 0.1%, Silesian: 0.1%, Swahili: 0.1%, Venetian: 0.1%, Catalan: 0.05%, Filipino: 0.05%, German: 0.05%, Kikuyu: 0.05%, Malay: 0.05%, Mizo: 0.05%, Nyanja: 0.05%, Swedish: 0.05%, Turkish: 0.05%
 

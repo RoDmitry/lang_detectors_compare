@@ -1,6 +1,6 @@
 ##### Samoan #####
 
->>> Accuracy on average: 90.99%
+>>> Accuracy on average: 91.01%
 
 >> Detection of 2627 single words (average length: 7 chars)
 Accuracy: 80.01%
@@ -11,6 +11,6 @@ Accuracy: 95.32%
 Erroneously classified as Maori: 0.96%, Fijian: 0.42%, Tswana: 0.26%, Sesotho: 0.17%, Sango: 0.15%, Kimbundu: 0.13%, Sepedi: 0.13%, Ewe: 0.12%, CreoleHaitian: 0.1%, Dholuo: 0.1%, Jingpho: 0.08%, Sicilian: 0.08%, Somali: 0.08%, Bemba: 0.07%, English: 0.07%, Galician: 0.06%, Pangasinan: 0.06%, Hausa: 0.05%, Italian: 0.05%, Ligurian: 0.05%, Tumbuka: 0.05%, Venetian: 0.05%, Buginese: 0.04%, Dyula: 0.04%, Filipino: 0.04%, Guarani: 0.04%, Portuguese: 0.04%, TokPisin: 0.04%, AlbanianTosk: 0.03%, Balinese: 0.03%, Catalan: 0.03%, FulfuldeNigerian: 0.03%, Mizo: 0.03%, Romanian: 0.03%, Tsonga: 0.03%, Acehnese: 0.02%, Afrikaans: 0.02%, Asturian: 0.02%, Bambara: 0.02%, Cebuano: 0.02%, Esperanto: 0.02%, Igbo: 0.02%, Ilocano: 0.02%, Kamba: 0.02%, KikongoKituba: 0.02%, Lombard: 0.02%, Malay: 0.02%, MalgasyPlateau: 0.02%, Minangkabau: 0.02%, Mossi: 0.02%, NorwegianNynorsk: 0.02%, Nyanja: 0.02%, Occitan: 0.02%, OromoWestCentral: 0.02%, Papiamento: 0.02%, QuechuaAyacucho: 0.02%, Spanish: 0.02%, Twi: 0.02%, Waray: 0.02%, AymaraCentral: 0.01%, AzerbaijaniNorth: 0.01%, Basque: 0.01%, Bosnian: 0.01%, Chokwe: 0.01%, Croatian: 0.01%, Czech: 0.01%, French: 0.01%, Friulian: 0.01%, Hungarian: 0.01%, Irish: 0.01%, Kabiye: 0.01%, Kabuverdianu: 0.01%, Kabyle: 0.01%, KanuriCentral: 0.01%, Kikuyu: 0.01%, KurdishNorthern: 0.01%, Latgalian: 0.01%, Limburgish: 0.01%, Luxembourgish: 0.01%, Sardinian: 0.01%, Umbundu: 0.01%, UzbekNorthern: 0.01%, Wolof: 0.01%
 
 >> Detection of 2000 sentences (average length: 104 chars)
-Accuracy: 97.65%
-Erroneously classified as Sesotho: 0.5%, Fijian: 0.2%, English: 0.15%, Sardinian: 0.15%, UzbekNorthern: 0.15%, Buginese: 0.1%, Dyula: 0.1%, Filipino: 0.1%, Occitan: 0.1%, Pangasinan: 0.1%, Afrikaans: 0.05%, AymaraCentral: 0.05%, Balinese: 0.05%, Bosnian: 0.05%, Dholuo: 0.05%, Ewe: 0.05%, Igbo: 0.05%, Ilocano: 0.05%, Latgalian: 0.05%, Latvian: 0.05%, Lithuanian: 0.05%, Malay: 0.05%, Nyanja: 0.05%, TatarCrimean: 0.05%
+Accuracy: 97.7%
+Erroneously classified as Sardinian: 0.35%, Fijian: 0.2%, Venetian: 0.2%, English: 0.15%, UzbekNorthern: 0.15%, Buginese: 0.1%, Dyula: 0.1%, Filipino: 0.1%, Pangasinan: 0.1%, Afrikaans: 0.05%, AymaraCentral: 0.05%, Bosnian: 0.05%, Dholuo: 0.05%, Ewe: 0.05%, Igbo: 0.05%, Ilocano: 0.05%, Latgalian: 0.05%, Latvian: 0.05%, Lithuanian: 0.05%, Malay: 0.05%, Nyanja: 0.05%, Occitan: 0.05%, Sepedi: 0.05%, Sesotho: 0.05%, Tsonga: 0.05%, Turkish: 0.05%
 

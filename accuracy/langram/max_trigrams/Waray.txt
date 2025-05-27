@@ -12,5 +12,5 @@ Erroneously classified as Cebuano: 5.4%, Filipino: 1.29%, Ilocano: 0.32%, Pangas
 
 >> Detection of 2000 sentences (average length: 108 chars)
 Accuracy: 96.5%
-Erroneously classified as Filipino: 1.4%, Ilocano: 0.5%, Pangasinan: 0.4%, Banjar: 0.15%, English: 0.1%, Malay: 0.1%, Minangkabau: 0.1%, Mizo: 0.1%, QuechuaAyacucho: 0.1%, Basque: 0.05%, Bemba: 0.05%, Cebuano: 0.05%, Dholuo: 0.05%, Igbo: 0.05%, Kabyle: 0.05%, LubaKasai: 0.05%, NorwegianNynorsk: 0.05%, Somali: 0.05%, Spanish: 0.05%, UzbekNorthern: 0.05%
+Erroneously classified as Filipino: 1.4%, Ilocano: 0.65%, Pangasinan: 0.35%, Banjar: 0.1%, English: 0.1%, Malay: 0.1%, Minangkabau: 0.1%, Mizo: 0.1%, QuechuaAyacucho: 0.1%, Basque: 0.05%, Bemba: 0.05%, Cebuano: 0.05%, Dholuo: 0.05%, Igbo: 0.05%, Kabyle: 0.05%, LubaKasai: 0.05%, Somali: 0.05%, Spanish: 0.05%, UzbekNorthern: 0.05%
 

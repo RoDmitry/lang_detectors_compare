@@ -1,6 +1,6 @@
 ##### DinkaSouthwestern #####
 
->>> Accuracy on average: 88.61%
+>>> Accuracy on average: 88.64%
 
 >> Detection of 4859 single words (average length: 5 chars)
 Accuracy: 73.49%
@@ -11,6 +11,6 @@ Accuracy: 93.29%
 Erroneously classified as Nuer: 0.4%, KanuriCentral: 0.29%, Dholuo: 0.28%, Wolof: 0.28%, Hausa: 0.25%, QuechuaAyacucho: 0.23%, Buginese: 0.2%, AlbanianTosk: 0.17%, Twi: 0.16%, KurdishNorthern: 0.14%, Jingpho: 0.14%, Bambara: 0.13%, Somali: 0.13%, Limburgish: 0.12%, Acehnese: 0.11%, Bemba: 0.11%, English: 0.11%, Luxembourgish: 0.11%, Sango: 0.1%, Sepedi: 0.1%, Ewe: 0.09%, Fon: 0.09%, Sesotho: 0.09%, Sundanese: 0.09%, TokPisin: 0.09%, TamasheqLatin: 0.08%, Umbundu: 0.08%, FulfuldeNigerian: 0.07%, OromoWestCentral: 0.07%, Dutch: 0.07%, Dyula: 0.07%, Tsonga: 0.07%, Asturian: 0.06%, Maori: 0.06%, Portuguese: 0.06%, Venetian: 0.06%, CreoleHaitian: 0.05%, GaelicScottish: 0.05%, Ganda: 0.05%, Kimbundu: 0.05%, Mizo: 0.05%, Afrikaans: 0.04%, French: 0.04%, Friulian: 0.04%, Lingala: 0.04%, Malay: 0.04%, Sicilian: 0.04%, Ilocano: 0.04%, KikongoKituba: 0.04%, Minangkabau: 0.04%, Mossi: 0.04%, Papiamento: 0.04%, Tswana: 0.04%, Esperanto: 0.03%, LubaKasai: 0.03%, NorwegianBokmal: 0.03%, Sardinian: 0.03%, Balinese: 0.02%, Italian: 0.02%, Pangasinan: 0.02%, Samoan: 0.02%, Swahili: 0.02%, TatarCrimean: 0.02%, Banjar: 0.02%, Catalan: 0.02%, Chokwe: 0.02%, Estonian: 0.02%, Galician: 0.02%, Irish: 0.02%, Kabuverdianu: 0.02%, Kabyle: 0.02%, Kinyarwanda: 0.02%, Ligurian: 0.02%, Lithuanian: 0.02%, Lombard: 0.02%, Nyanja: 0.02%, Occitan: 0.02%, Polish: 0.02%, Romanian: 0.02%, Silesian: 0.02%, Spanish: 0.02%, Swedish: 0.02%, AymaraCentral: 0.01%, Cebuano: 0.01%, Danish: 0.01%, Filipino: 0.01%, Finnish: 0.01%, Indonesian: 0.01%, Javanese: 0.01%, MalgasyPlateau: 0.01%, NorwegianNynorsk: 0.01%, Rundi: 0.01%, Waray: 0.01%, Yoruba: 0.01%, Basque: 0%, Croatian: 0%, Czech: 0%, Fijian: 0%, Guarani: 0%, Hungarian: 0%, Kikuyu: 0%, Latgalian: 0%, Swati: 0%, Turkmen: 0%, UzbekNorthern: 0%, Welsh: 0%, Xhosa: 0%, Zulu: 0%
 
 >> Detection of 2000 sentences (average length: 98 chars)
-Accuracy: 99.05%
-Erroneously classified as Bambara: 0.2%, Balinese: 0.1%, English: 0.1%, FulfuldeNigerian: 0.1%, KanuriCentral: 0.1%, Limburgish: 0.1%, Acehnese: 0.05%, Bemba: 0.05%, Buginese: 0.05%, Malay: 0.05%, Occitan: 0.05%
+Accuracy: 99.15%
+Erroneously classified as Bambara: 0.15%, Malay: 0.15%, English: 0.1%, FulfuldeNigerian: 0.1%, KanuriCentral: 0.1%, Limburgish: 0.1%, Acehnese: 0.05%, Bemba: 0.05%, Dutch: 0.05%
 

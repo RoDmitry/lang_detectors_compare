@@ -48,7 +48,7 @@ checksum = "683d7910e743518b0e34f1186f92494becacb047c7b6bf616c96772180fef923"
 
 [[package]]
 name = "alphabet_detector"
-version = "0.7.0"
+version = "0.8.0"
 dependencies = [
  "ahash",
  "alphabet_detector_macros",
@@ -485,7 +485,7 @@ dependencies = [
 
 [[package]]
 name = "langram"
-version = "0.5.1"
+version = "0.5.2"
 dependencies = [
  "ahash",
  "alphabet_detector",

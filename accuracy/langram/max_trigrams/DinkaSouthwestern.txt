@@ -12,5 +12,5 @@ Erroneously classified as Nuer: 0.35%, Dholuo: 0.3%, Wolof: 0.3%, Hausa: 0.26%, 
 
 >> Detection of 2000 sentences (average length: 98 chars)
 Accuracy: 99.3%
-Erroneously classified as Bambara: 0.3%, Afrikaans: 0.05%, English: 0.05%, FulfuldeNigerian: 0.05%, German: 0.05%, Limburgish: 0.05%, LubaKasai: 0.05%, Malay: 0.05%, Sardinian: 0.05%
+Erroneously classified as Bambara: 0.25%, English: 0.1%, Dutch: 0.05%, FulfuldeNigerian: 0.05%, German: 0.05%, Limburgish: 0.05%, LubaKasai: 0.05%, Malay: 0.05%, Sardinian: 0.05%
 

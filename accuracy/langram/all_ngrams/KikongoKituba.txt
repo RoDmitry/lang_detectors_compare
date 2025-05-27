@@ -1,6 +1,6 @@
 ##### KikongoKituba #####
 
->>> Accuracy on average: 88.4%
+>>> Accuracy on average: 88.39%
 
 >> Detection of 2544 single words (average length: 7 chars)
 Accuracy: 71.22%
@@ -8,9 +8,9 @@ Erroneously classified as Lingala: 3.65%, LubaKasai: 1.61%, French: 1.25%, Bemba
 
 >> Detection of 10147 word pairs (average length: 11 chars)
 Accuracy: 94.64%
-Erroneously classified as Lingala: 1.72%, Sango: 0.34%, LubaKasai: 0.28%, Swahili: 0.24%, Hausa: 0.2%, French: 0.14%, Bemba: 0.12%, Kimbundu: 0.11%, CreoleHaitian: 0.09%, Kamba: 0.09%, Tumbuka: 0.09%, English: 0.07%, Buginese: 0.06%, Dholuo: 0.06%, Pangasinan: 0.06%, Sesotho: 0.06%, Tsonga: 0.06%, Umbundu: 0.06%, Ilocano: 0.05%, Sepedi: 0.05%, Chokwe: 0.04%, Fijian: 0.04%, Ganda: 0.04%, Jingpho: 0.04%, Maori: 0.04%, Rundi: 0.04%, Twi: 0.04%, Filipino: 0.03%, Friulian: 0.03%, Kinyarwanda: 0.03%, KurdishNorthern: 0.03%, Samoan: 0.03%, Tswana: 0.03%, Asturian: 0.02%, Czech: 0.02%, Ewe: 0.02%, QuechuaAyacucho: 0.02%, UzbekNorthern: 0.02%, AlbanianTosk: 0.01%, Bambara: 0.01%, Bosnian: 0.01%, Dyula: 0.01%, KanuriCentral: 0.01%, Kikuyu: 0.01%, Limburgish: 0.01%, Malay: 0.01%, MalgasyPlateau: 0.01%, Nyanja: 0.01%, Papiamento: 0.01%, Slovak: 0.01%, TamasheqLatin: 0.01%, Xhosa: 0.01%, Acehnese: 0%, Banjar: 0%, Basque: 0%, DinkaSouthwestern: 0%, Esperanto: 0%, Estonian: 0%, FulfuldeNigerian: 0%, Galician: 0%, Indonesian: 0%, Irish: 0%, Kabyle: 0%, Luxembourgish: 0%, Mizo: 0%, Occitan: 0%, Shona: 0%, Sicilian: 0%, Slovene: 0%, Spanish: 0%, Sundanese: 0%, Swati: 0%, TatarCrimean: 0%, Venetian: 0%, Waray: 0%, Zulu: 0%
+Erroneously classified as Lingala: 1.73%, Sango: 0.34%, LubaKasai: 0.28%, Swahili: 0.24%, Hausa: 0.2%, French: 0.14%, Bemba: 0.12%, Kimbundu: 0.11%, CreoleHaitian: 0.09%, Kamba: 0.09%, Tumbuka: 0.09%, English: 0.07%, Buginese: 0.06%, Dholuo: 0.06%, Pangasinan: 0.06%, Sesotho: 0.06%, Tsonga: 0.06%, Umbundu: 0.06%, Ilocano: 0.05%, Sepedi: 0.05%, Chokwe: 0.04%, Fijian: 0.04%, Ganda: 0.04%, Jingpho: 0.04%, Maori: 0.04%, Rundi: 0.04%, Twi: 0.04%, Filipino: 0.03%, Friulian: 0.03%, Kinyarwanda: 0.03%, KurdishNorthern: 0.03%, Samoan: 0.03%, Tswana: 0.03%, Asturian: 0.02%, Czech: 0.02%, Ewe: 0.02%, QuechuaAyacucho: 0.02%, UzbekNorthern: 0.02%, AlbanianTosk: 0.01%, Bambara: 0.01%, Bosnian: 0.01%, Dyula: 0.01%, KanuriCentral: 0.01%, Kikuyu: 0.01%, Limburgish: 0.01%, Malay: 0.01%, MalgasyPlateau: 0.01%, Nyanja: 0.01%, Papiamento: 0.01%, Slovak: 0.01%, TamasheqLatin: 0.01%, Xhosa: 0.01%, Acehnese: 0%, Banjar: 0%, Basque: 0%, DinkaSouthwestern: 0%, Esperanto: 0%, Estonian: 0%, FulfuldeNigerian: 0%, Galician: 0%, Indonesian: 0%, Irish: 0%, Kabyle: 0%, Mizo: 0%, Occitan: 0%, Shona: 0%, Sicilian: 0%, Slovene: 0%, Spanish: 0%, Sundanese: 0%, Swati: 0%, TatarCrimean: 0%, Venetian: 0%, Waray: 0%, Zulu: 0%
 
 >> Detection of 2000 sentences (average length: 103 chars)
-Accuracy: 99.35%
-Erroneously classified as Chokwe: 0.15%, French: 0.1%, Lingala: 0.1%, Bemba: 0.05%, Ganda: 0.05%, Latvian: 0.05%, Luxembourgish: 0.05%, MalgasyPlateau: 0.05%, Slovak: 0.05%
+Accuracy: 99.3%
+Erroneously classified as Chokwe: 0.15%, Lingala: 0.15%, French: 0.1%, Bemba: 0.05%, Ganda: 0.05%, Latvian: 0.05%, Luxembourgish: 0.05%, MalgasyPlateau: 0.05%, Slovak: 0.05%
 

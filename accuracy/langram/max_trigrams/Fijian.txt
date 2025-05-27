@@ -12,5 +12,5 @@ Erroneously classified as Samoan: 0.68%, Maori: 0.59%, Tswana: 0.4%, English: 0.
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 98.7%
-Erroneously classified as English: 0.2%, Pangasinan: 0.1%, Banjar: 0.05%, Buginese: 0.05%, Cebuano: 0.05%, CreoleHaitian: 0.05%, Italian: 0.05%, Ligurian: 0.05%, Limburgish: 0.05%, Luxembourgish: 0.05%, Malay: 0.05%, Minangkabau: 0.05%, Samoan: 0.05%, Sepedi: 0.05%, Sesotho: 0.05%, Shona: 0.05%, Slovak: 0.05%, Swahili: 0.05%, TokPisin: 0.05%, Tsonga: 0.05%, Tswana: 0.05%, Wolof: 0.05%
+Erroneously classified as English: 0.25%, Basque: 0.05%, Buginese: 0.05%, Cebuano: 0.05%, CreoleHaitian: 0.05%, Filipino: 0.05%, Italian: 0.05%, Ligurian: 0.05%, Limburgish: 0.05%, Malay: 0.05%, Minangkabau: 0.05%, Pangasinan: 0.05%, Samoan: 0.05%, Sardinian: 0.05%, Sepedi: 0.05%, Shona: 0.05%, Slovak: 0.05%, Swahili: 0.05%, TokPisin: 0.05%, Tsonga: 0.05%, Tswana: 0.05%, Wolof: 0.05%
 

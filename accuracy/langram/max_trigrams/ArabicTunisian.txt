@@ -1,6 +1,6 @@
 ##### ArabicTunisian #####
 
->>> Accuracy on average: 67.92%
+>>> Accuracy on average: 68.08%
 
 >> Detection of 7811 single words (average length: 5 chars)
 Accuracy: 46.53%
@@ -11,6 +11,6 @@ Accuracy: 63.77%
 Erroneously classified as Arabic: 7.34%, ArabicNajdi: 6.14%, ArabicMoroccan: 5.86%, ArabicEgyptian: 4.5%, ArabicSouthLevantine: 3.36%, ArabicNorthLevantine: 3.17%, ArabicMesopotamian: 2.91%, ArabicSouthernYemeni: 2.17%, PersianWestern: 0.16%, KanuriCentralAjami: 0.12%, Sindhi: 0.11%, AcehneseJawi: 0.07%, PersianDari: 0.07%, PashtoSouthern: 0.06%, BanjarJawi: 0.04%, AzerbaijaniSouth: 0.03%, KurdishCentral: 0.01%, Kashmiri: 0%, Urdu: 0%
 
 >> Detection of 2000 sentences (average length: 47 chars)
-Accuracy: 93.45%
-Erroneously classified as ArabicNajdi: 1.3%, ArabicMoroccan: 1.1%, ArabicMesopotamian: 0.95%, Arabic: 0.8%, ArabicEgyptian: 0.75%, ArabicSouthernYemeni: 0.6%, ArabicNorthLevantine: 0.4%, ArabicSouthLevantine: 0.3%, English: 0.05%, Javanese: 0.05%, KanuriCentral: 0.05%, Kashmiri: 0.05%, Minangkabau: 0.05%, PashtoSouthern: 0.05%, PersianWestern: 0.05%
+Accuracy: 93.95%
+Erroneously classified as ArabicNajdi: 1.15%, ArabicMoroccan: 1.05%, ArabicMesopotamian: 0.85%, Arabic: 0.8%, ArabicEgyptian: 0.7%, ArabicSouthernYemeni: 0.45%, ArabicNorthLevantine: 0.4%, ArabicSouthLevantine: 0.3%, English: 0.05%, Javanese: 0.05%, Kashmiri: 0.05%, Minangkabau: 0.05%, Nyanja: 0.05%, PashtoSouthern: 0.05%, PersianWestern: 0.05%
 

@@ -12,5 +12,5 @@ Erroneously classified as Samoan: 2.03%, Fijian: 0.73%, Kimbundu: 0.32%, Malgasy
 
 >> Detection of 2000 sentences (average length: 122 chars)
 Accuracy: 95.6%
-Erroneously classified as Sesotho: 0.6%, NorwegianNynorsk: 0.5%, Bambara: 0.45%, Buginese: 0.3%, FulfuldeNigerian: 0.3%, Latvian: 0.3%, English: 0.2%, Latgalian: 0.2%, Limburgish: 0.15%, Venetian: 0.15%, Balinese: 0.1%, Filipino: 0.1%, Minangkabau: 0.1%, Mizo: 0.1%, Rundi: 0.1%, Acehnese: 0.05%, Afrikaans: 0.05%, German: 0.05%, Ilocano: 0.05%, Javanese: 0.05%, Lithuanian: 0.05%, Malay: 0.05%, Sango: 0.05%, Sardinian: 0.05%, Silesian: 0.05%, Swahili: 0.05%, TatarCrimean: 0.05%, Tsonga: 0.05%, Umbundu: 0.05%, Waray: 0.05%
+Erroneously classified as NorwegianNynorsk: 0.5%, English: 0.4%, Latvian: 0.4%, FulfuldeNigerian: 0.3%, Malay: 0.3%, Sardinian: 0.25%, Bambara: 0.2%, Buginese: 0.15%, Latgalian: 0.15%, Limburgish: 0.15%, Rundi: 0.15%, Venetian: 0.15%, Balinese: 0.1%, Filipino: 0.1%, Guarani: 0.1%, Minangkabau: 0.1%, Silesian: 0.1%, Tsonga: 0.1%, Afrikaans: 0.05%, Cebuano: 0.05%, German: 0.05%, Ilocano: 0.05%, Javanese: 0.05%, Lithuanian: 0.05%, Mizo: 0.05%, Romanian: 0.05%, Sango: 0.05%, Sesotho: 0.05%, Swahili: 0.05%, TatarCrimean: 0.05%, Umbundu: 0.05%, Waray: 0.05%
 

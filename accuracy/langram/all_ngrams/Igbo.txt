@@ -1,6 +1,6 @@
 ##### Igbo #####
 
->>> Accuracy on average: 88.46%
+>>> Accuracy on average: 88.48%
 
 >> Detection of 4783 single words (average length: 6 chars)
 Accuracy: 73.4%
@@ -11,6 +11,6 @@ Accuracy: 93.28%
 Erroneously classified as English: 0.48%, Hausa: 0.4%, Swahili: 0.36%, Fijian: 0.22%, Pangasinan: 0.2%, Ewe: 0.19%, Sango: 0.19%, TokPisin: 0.18%, Samoan: 0.17%, Twi: 0.17%, Sesotho: 0.14%, Dholuo: 0.12%, Jingpho: 0.12%, QuechuaAyacucho: 0.12%, Sepedi: 0.12%, Dyula: 0.11%, KanuriCentral: 0.1%, Kabuverdianu: 0.09%, Tswana: 0.09%, Lingala: 0.08%, Filipino: 0.07%, KikongoKituba: 0.07%, Rundi: 0.07%, Somali: 0.07%, Bemba: 0.07%, Buginese: 0.07%, OromoWestCentral: 0.07%, Papiamento: 0.07%, Venetian: 0.07%, Waray: 0.07%, Wolof: 0.07%, Yoruba: 0.07%, Kimbundu: 0.06%, Bambara: 0.05%, French: 0.05%, LubaKasai: 0.05%, Maori: 0.05%, Sicilian: 0.05%, Tumbuka: 0.05%, Chokwe: 0.04%, FulfuldeNigerian: 0.04%, Ganda: 0.04%, Indonesian: 0.04%, Italian: 0.04%, MalgasyPlateau: 0.04%, Minangkabau: 0.04%, Sardinian: 0.04%, Umbundu: 0.04%, Asturian: 0.03%, GaelicScottish: 0.03%, Galician: 0.03%, Ilocano: 0.03%, Javanese: 0.03%, Kabiye: 0.03%, NorwegianBokmal: 0.03%, UzbekNorthern: 0.03%, Banjar: 0.03%, Bosnian: 0.03%, Danish: 0.03%, Fon: 0.03%, Kamba: 0.03%, Limburgish: 0.03%, Malay: 0.03%, Nyanja: 0.03%, Portuguese: 0.03%, Shona: 0.03%, Silesian: 0.03%, TamasheqLatin: 0.03%, Acehnese: 0.02%, AlbanianTosk: 0.02%, Balinese: 0.02%, DinkaSouthwestern: 0.02%, Friulian: 0.02%, Guarani: 0.02%, Kinyarwanda: 0.02%, Lombard: 0.02%, Mizo: 0.02%, Tsonga: 0.02%, Turkmen: 0.02%, Zulu: 0.02%, CreoleHaitian: 0.01%, Croatian: 0.01%, Faroese: 0.01%, Icelandic: 0.01%, Kikuyu: 0.01%, KurdishNorthern: 0.01%, Luxembourgish: 0.01%, Mossi: 0.01%, NorwegianNynorsk: 0.01%, Slovene: 0.01%, Swati: 0.01%, TatarCrimean: 0.01%, Turkish: 0.01%, Xhosa: 0.01%, AymaraCentral: 0%, German: 0%, Irish: 0%, Latgalian: 0%, Polish: 0%, Romanian: 0%, Slovak: 0%, Spanish: 0%, Sundanese: 0%, Welsh: 0%
 
 >> Detection of 2000 sentences (average length: 97 chars)
-Accuracy: 98.7%
-Erroneously classified as Mizo: 0.45%, Vietnamese: 0.35%, Yoruba: 0.25%, Sardinian: 0.1%, Buginese: 0.05%, Catalan: 0.05%, Rundi: 0.05%
+Accuracy: 98.75%
+Erroneously classified as Mizo: 0.45%, Vietnamese: 0.35%, Yoruba: 0.25%, Sardinian: 0.1%, Catalan: 0.05%, Rundi: 0.05%
 

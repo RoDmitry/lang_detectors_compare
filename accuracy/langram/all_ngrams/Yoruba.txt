@@ -1,6 +1,6 @@
 ##### Yoruba #####
 
->>> Accuracy on average: 89.05%
+>>> Accuracy on average: 89.07%
 
 >> Detection of 5221 single words (average length: 5 chars)
 Accuracy: 75.11%
@@ -11,6 +11,6 @@ Accuracy: 92.95%
 Erroneously classified as English: 0.29%, Sango: 0.29%, Hausa: 0.24%, Igbo: 0.23%, Bambara: 0.19%, FulfuldeNigerian: 0.19%, OromoWestCentral: 0.18%, Ilocano: 0.17%, Sicilian: 0.17%, Dyula: 0.16%, CreoleHaitian: 0.16%, Fon: 0.16%, Swahili: 0.16%, Wolof: 0.13%, Twi: 0.13%, Dholuo: 0.12%, Mizo: 0.12%, Samoan: 0.12%, Tsonga: 0.11%, Ewe: 0.1%, Kabuverdianu: 0.1%, Ligurian: 0.09%, Rundi: 0.09%, Bemba: 0.08%, Friulian: 0.08%, Irish: 0.08%, Kabyle: 0.08%, Malay: 0.08%, Tswana: 0.08%, Fijian: 0.07%, Pangasinan: 0.07%, Cebuano: 0.06%, Croatian: 0.06%, Indonesian: 0.06%, Jingpho: 0.06%, Kimbundu: 0.06%, LubaKasai: 0.06%, Maori: 0.06%, QuechuaAyacucho: 0.06%, Bosnian: 0.06%, Faroese: 0.06%, Limburgish: 0.06%, Somali: 0.06%, Umbundu: 0.06%, Ganda: 0.05%, Italian: 0.05%, Zulu: 0.05%, Buginese: 0.04%, Filipino: 0.04%, KanuriCentral: 0.04%, Kinyarwanda: 0.04%, Minangkabau: 0.04%, Sesotho: 0.04%, Javanese: 0.03%, Mossi: 0.03%, NorwegianNynorsk: 0.03%, Occitan: 0.03%, Romanian: 0.03%, Sardinian: 0.03%, Sepedi: 0.03%, Sundanese: 0.03%, TamasheqLatin: 0.03%, Tumbuka: 0.03%, Waray: 0.03%, Banjar: 0.03%, Basque: 0.03%, Catalan: 0.03%, Chokwe: 0.03%, Esperanto: 0.03%, Estonian: 0.03%, GaelicScottish: 0.03%, Guarani: 0.03%, Lingala: 0.03%, TokPisin: 0.03%, Venetian: 0.03%, AymaraCentral: 0.02%, French: 0.02%, Icelandic: 0.02%, Kabiye: 0.02%, KikongoKituba: 0.02%, Lombard: 0.02%, Maltese: 0.02%, Nyanja: 0.02%, Slovak: 0.02%, Swati: 0.02%, Turkish: 0.02%, Welsh: 0.02%, Xhosa: 0.02%, Balinese: 0.01%, Galician: 0.01%, Kamba: 0.01%, Luxembourgish: 0.01%, Polish: 0.01%, Slovene: 0.01%, UzbekNorthern: 0.01%, AlbanianTosk: 0%, Asturian: 0%, Czech: 0%, DinkaSouthwestern: 0%, Finnish: 0%, Kikuyu: 0%, Latvian: 0%, MalgasyPlateau: 0%, NorwegianBokmal: 0%, Silesian: 0%, Spanish: 0%, Swedish: 0%, TatarCrimean: 0%, Turkmen: 0%, Vietnamese: 0%
 
 >> Detection of 2000 sentences (average length: 108 chars)
-Accuracy: 99.1%
-Erroneously classified as English: 0.15%, Limburgish: 0.15%, Sardinian: 0.15%, Balinese: 0.05%, Banjar: 0.05%, Fon: 0.05%, Hausa: 0.05%, Indonesian: 0.05%, Malay: 0.05%, Portuguese: 0.05%, Romanian: 0.05%, Sicilian: 0.05%
+Accuracy: 99.15%
+Erroneously classified as Sardinian: 0.2%, English: 0.15%, Limburgish: 0.15%, Hausa: 0.05%, Ilocano: 0.05%, Indonesian: 0.05%, Malay: 0.05%, Portuguese: 0.05%, Romanian: 0.05%, Sicilian: 0.05%
 

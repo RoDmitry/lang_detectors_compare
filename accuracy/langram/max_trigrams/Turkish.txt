@@ -1,6 +1,6 @@
 ##### Turkish #####
 
->>> Accuracy on average: 90.08%
+>>> Accuracy on average: 90.13%
 
 >> Detection of 11385 single words (average length: 8 chars)
 Accuracy: 77.62%
@@ -11,6 +11,6 @@ Accuracy: 93.31%
 Erroneously classified as TatarCrimean: 2.4%, AzerbaijaniNorth: 0.97%, English: 0.36%, Bosnian: 0.29%, Romanian: 0.28%, Turkmen: 0.22%, AlbanianTosk: 0.18%, Hausa: 0.08%, UzbekNorthern: 0.07%, Malay: 0.07%, Croatian: 0.05%, Swahili: 0.05%, TamasheqLatin: 0.05%, Venetian: 0.05%, Limburgish: 0.04%, Sardinian: 0.04%, Kabuverdianu: 0.04%, KurdishNorthern: 0.04%, NorwegianNynorsk: 0.04%, Wolof: 0.04%, Asturian: 0.03%, Galician: 0.03%, Spanish: 0.03%, Sundanese: 0.03%, Dutch: 0.03%, German: 0.03%, Indonesian: 0.03%, Banjar: 0.02%, Catalan: 0.02%, French: 0.02%, Italian: 0.02%, Javanese: 0.02%, Minangkabau: 0.02%, Occitan: 0.02%, Basque: 0.02%, Buginese: 0.02%, Esperanto: 0.02%, Filipino: 0.02%, Finnish: 0.02%, Friulian: 0.02%, FulfuldeNigerian: 0.02%, Kabyle: 0.02%, KikongoKituba: 0.02%, LubaKasai: 0.02%, Luxembourgish: 0.02%, Papiamento: 0.02%, Sesotho: 0.02%, Tswana: 0.02%, CreoleHaitian: 0.01%, Estonian: 0.01%, Ganda: 0.01%, Ilocano: 0.01%, Mizo: 0.01%, NorwegianBokmal: 0.01%, Nyanja: 0.01%, Portuguese: 0.01%, Rundi: 0.01%, Slovene: 0.01%, Somali: 0.01%, Acehnese: 0.01%, AymaraCentral: 0.01%, Balinese: 0.01%, Bambara: 0.01%, Bemba: 0.01%, Czech: 0.01%, Dyula: 0.01%, Guarani: 0.01%, Hungarian: 0.01%, Icelandic: 0.01%, KanuriCentral: 0.01%, Lombard: 0.01%, Maltese: 0.01%, Maori: 0.01%, OromoWestCentral: 0.01%, Pangasinan: 0.01%, Sepedi: 0.01%, Sicilian: 0.01%, Twi: 0.01%, Cebuano: 0%, Danish: 0%, Ewe: 0%, Kikuyu: 0%, Kinyarwanda: 0%, Latvian: 0%, Lingala: 0%, MalgasyPlateau: 0%, Mossi: 0%, Shona: 0%, Silesian: 0%, Swedish: 0%, TokPisin: 0%, Tsonga: 0%, Umbundu: 0%, Welsh: 0%, Zulu: 0%
 
 >> Detection of 2000 sentences (average length: 108 chars)
-Accuracy: 99.3%
-Erroneously classified as TatarCrimean: 0.25%, Romanian: 0.2%, English: 0.1%, Basque: 0.05%, Bosnian: 0.05%, Swahili: 0.05%
+Accuracy: 99.45%
+Erroneously classified as Romanian: 0.2%, English: 0.1%, TatarCrimean: 0.1%, Basque: 0.05%, Bosnian: 0.05%, Swahili: 0.05%
 

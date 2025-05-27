@@ -1,6 +1,6 @@
 ##### Dyula #####
 
->>> Accuracy on average: 82.21%
+>>> Accuracy on average: 82.24%
 
 >> Detection of 2000 single words (average length: 6 chars)
 Accuracy: 62.55%
@@ -11,6 +11,6 @@ Accuracy: 85.23%
 Erroneously classified as Bambara: 7.19%, Hausa: 0.46%, Dholuo: 0.29%, Ewe: 0.27%, Sango: 0.27%, Samoan: 0.26%, Jingpho: 0.21%, Maori: 0.21%, Tswana: 0.18%, Mizo: 0.17%, Mossi: 0.17%, Wolof: 0.16%, Fijian: 0.15%, Kimbundu: 0.15%, Kabuverdianu: 0.14%, Pangasinan: 0.14%, Kinyarwanda: 0.13%, Somali: 0.13%, Cebuano: 0.11%, CreoleHaitian: 0.11%, Ilocano: 0.11%, KanuriCentral: 0.11%, Sepedi: 0.11%, Asturian: 0.1%, Kamba: 0.1%, Lingala: 0.1%, Rundi: 0.1%, Waray: 0.1%, Chokwe: 0.09%, English: 0.09%, FulfuldeNigerian: 0.09%, Papiamento: 0.09%, TamasheqLatin: 0.08%, Fon: 0.07%, Ganda: 0.07%, Luxembourgish: 0.07%, OromoWestCentral: 0.07%, Swahili: 0.07%, DinkaSouthwestern: 0.06%, GaelicScottish: 0.06%, Kabiye: 0.06%, KikongoKituba: 0.06%, Nuer: 0.06%, QuechuaAyacucho: 0.06%, TokPisin: 0.06%, Tsonga: 0.06%, Bosnian: 0.05%, French: 0.05%, KurdishNorthern: 0.05%, Filipino: 0.04%, Kikuyu: 0.04%, LubaKasai: 0.04%, NorwegianNynorsk: 0.04%, Occitan: 0.04%, Portuguese: 0.04%, Balinese: 0.03%, Croatian: 0.03%, Esperanto: 0.03%, Guarani: 0.03%, Igbo: 0.03%, Irish: 0.03%, Italian: 0.03%, Kabyle: 0.03%, Ligurian: 0.03%, Lombard: 0.03%, Malay: 0.03%, MalgasyPlateau: 0.03%, Maltese: 0.03%, Minangkabau: 0.03%, Sicilian: 0.03%, Twi: 0.03%, Zulu: 0.03%, Basque: 0.02%, Buginese: 0.02%, Catalan: 0.02%, Galician: 0.02%, NorwegianBokmal: 0.02%, Nyanja: 0.02%, Sesotho: 0.02%, Sundanese: 0.02%, Swati: 0.02%, TatarCrimean: 0.02%, Tumbuka: 0.02%, Umbundu: 0.02%, UzbekNorthern: 0.02%, AlbanianTosk: 0.01%, Bemba: 0.01%, Czech: 0.01%, Dutch: 0.01%, Estonian: 0.01%, Finnish: 0.01%, Friulian: 0.01%, German: 0.01%, Hungarian: 0.01%, Icelandic: 0.01%, Indonesian: 0.01%, Javanese: 0.01%, Polish: 0.01%, Romanian: 0.01%, Sardinian: 0.01%, Shona: 0.01%, Silesian: 0.01%, Turkmen: 0.01%, Venetian: 0.01%, Welsh: 0.01%, Xhosa: 0.01%
 
 >> Detection of 2000 sentences (average length: 69 chars)
-Accuracy: 98.85%
-Erroneously classified as Bambara: 0.25%, Dholuo: 0.25%, Danish: 0.05%, English: 0.05%, French: 0.05%, Hausa: 0.05%, Hungarian: 0.05%, Jingpho: 0.05%, Kimbundu: 0.05%, NorwegianBokmal: 0.05%, Sesotho: 0.05%, Silesian: 0.05%, Slovene: 0.05%, TokPisin: 0.05%, Twi: 0.05%
+Accuracy: 98.95%
+Erroneously classified as Dholuo: 0.25%, Bambara: 0.15%, Danish: 0.05%, English: 0.05%, French: 0.05%, Hausa: 0.05%, Hungarian: 0.05%, Jingpho: 0.05%, Kimbundu: 0.05%, NorwegianBokmal: 0.05%, Sesotho: 0.05%, Silesian: 0.05%, Slovene: 0.05%, TokPisin: 0.05%, Twi: 0.05%
 

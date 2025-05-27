@@ -1,6 +1,6 @@
 ##### ArabicNorthLevantine #####
 
->>> Accuracy on average: 66.81%
+>>> Accuracy on average: 67.47%
 
 >> Detection of 8715 single words (average length: 5 chars)
 Accuracy: 47.89%
@@ -11,6 +11,6 @@ Accuracy: 66.74%
 Erroneously classified as ArabicSouthLevantine: 13.65%, ArabicEgyptian: 4.79%, ArabicNajdi: 3.46%, ArabicMesopotamian: 2.52%, ArabicMoroccan: 2.16%, ArabicTunisian: 2.09%, Arabic: 2.02%, ArabicSouthernYemeni: 1.86%, PersianWestern: 0.18%, KanuriCentralAjami: 0.12%, Sindhi: 0.09%, PashtoSouthern: 0.07%, PersianDari: 0.07%, AcehneseJawi: 0.05%, KurdishCentral: 0.02%, AzerbaijaniSouth: 0.01%, BanjarJawi: 0.01%, Urdu: 0.01%
 
 >> Detection of 2000 sentences (average length: 57 chars)
-Accuracy: 85.8%
-Erroneously classified as ArabicSouthLevantine: 5.25%, ArabicNajdi: 3.05%, ArabicEgyptian: 2.2%, ArabicMesopotamian: 1.05%, ArabicTunisian: 0.95%, ArabicSouthernYemeni: 0.7%, ArabicMoroccan: 0.65%, Arabic: 0.3%, AcehneseJawi: 0.05%
+Accuracy: 87.8%
+Erroneously classified as ArabicSouthLevantine: 4.5%, ArabicNajdi: 2.5%, ArabicEgyptian: 2.15%, ArabicMesopotamian: 0.85%, ArabicTunisian: 0.75%, ArabicMoroccan: 0.55%, ArabicSouthernYemeni: 0.45%, Arabic: 0.4%, AcehneseJawi: 0.05%
 

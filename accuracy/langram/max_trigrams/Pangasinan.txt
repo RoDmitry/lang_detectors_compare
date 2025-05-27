@@ -12,5 +12,5 @@ Erroneously classified as Filipino: 1.01%, English: 0.88%, Ilocano: 0.75%, Papia
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 99.6%
-Erroneously classified as English: 0.1%, Filipino: 0.1%, Luxembourgish: 0.05%, QuechuaAyacucho: 0.05%, Romanian: 0.05%, Waray: 0.05%
+Erroneously classified as English: 0.1%, Filipino: 0.1%, Ilocano: 0.05%, QuechuaAyacucho: 0.05%, Romanian: 0.05%, Waray: 0.05%
 
