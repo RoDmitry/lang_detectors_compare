@@ -1,16 +1,16 @@
 ##### ArabicMoroccan #####
 
->>> Accuracy on average: 68.05%
+>>> Accuracy on average: 68.74%
 
 >> Detection of 8896 single words (average length: 6 chars)
 Accuracy: 49.41%
 Erroneously classified as Arabic: 18.7%, ArabicEgyptian: 6.32%, ArabicTunisian: 5.02%, ArabicNajdi: 3.67%, ArabicMesopotamian: 3.54%, ArabicNorthLevantine: 2.86%, ArabicSouthernYemeni: 2.79%, ArabicSouthLevantine: 2.73%, KanuriCentralAjami: 0.97%, PersianDari: 0.84%, AcehneseJawi: 0.76%, BanjarJawi: 0.66%, PersianWestern: 0.57%, Sindhi: 0.31%, PashtoSouthern: 0.21%, Kashmiri: 0.2%, AzerbaijaniSouth: 0.19%, Urdu: 0.08%, KurdishCentral: 0.05%, Uyghur: 0.02%
 
 >> Detection of 17783 word pairs (average length: 10 chars)
-Accuracy: 63.4%
-Erroneously classified as Arabic: 17.74%, ArabicEgyptian: 5.44%, ArabicTunisian: 3.37%, ArabicNajdi: 2.92%, ArabicNorthLevantine: 1.77%, ArabicMesopotamian: 1.69%, ArabicSouthLevantine: 1.55%, ArabicSouthernYemeni: 1.32%, AcehneseJawi: 0.12%, PersianWestern: 0.11%, KanuriCentralAjami: 0.1%, PashtoSouthern: 0.1%, PersianDari: 0.1%, BanjarJawi: 0.07%, Sindhi: 0.07%, AzerbaijaniSouth: 0.02%, KurdishCentral: 0.02%, Urdu: 0.01%
+Accuracy: 65.31%
+Erroneously classified as Arabic: 16.37%, ArabicEgyptian: 4.77%, ArabicTunisian: 3.52%, ArabicNajdi: 2.84%, ArabicMesopotamian: 1.92%, ArabicNorthLevantine: 1.6%, ArabicSouthernYemeni: 1.48%, ArabicSouthLevantine: 1.42%, KanuriCentralAjami: 0.16%, AcehneseJawi: 0.15%, PersianDari: 0.1%, PersianWestern: 0.1%, BanjarJawi: 0.06%, Sindhi: 0.06%, AzerbaijaniSouth: 0.02%, PashtoSouthern: 0.02%, KurdishCentral: 0%, Urdu: 0%
 
 >> Detection of 2000 sentences (average length: 61 chars)
-Accuracy: 91.35%
-Erroneously classified as Arabic: 4.65%, ArabicTunisian: 1.15%, ArabicNajdi: 0.7%, ArabicEgyptian: 0.55%, ArabicMesopotamian: 0.5%, ArabicSouthLevantine: 0.45%, ArabicNorthLevantine: 0.4%, ArabicSouthernYemeni: 0.1%, KurdishCentral: 0.05%, PersianWestern: 0.05%, Sindhi: 0.05%
+Accuracy: 91.5%
+Erroneously classified as Arabic: 4.25%, ArabicTunisian: 1.5%, ArabicNajdi: 0.85%, ArabicMesopotamian: 0.45%, ArabicSouthLevantine: 0.45%, ArabicEgyptian: 0.3%, ArabicNorthLevantine: 0.3%, ArabicSouthernYemeni: 0.25%, KurdishCentral: 0.05%, PersianWestern: 0.05%, Sindhi: 0.05%
 

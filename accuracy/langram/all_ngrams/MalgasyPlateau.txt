@@ -1,16 +1,16 @@
 ##### MalgasyPlateau #####
 
->>> Accuracy on average: 97.91%
+>>> Accuracy on average: 97.95%
 
 >> Detection of 5675 single words (average length: 9 chars)
 Accuracy: 94.59%
 Erroneously classified as Maori: 0.35%, Samoan: 0.22%, Basque: 0.19%, Pangasinan: 0.19%, Umbundu: 0.19%, Bambara: 0.14%, Fijian: 0.14%, Minangkabau: 0.12%, Mizo: 0.12%, Swahili: 0.12%, Dholuo: 0.1%, Sesotho: 0.1%, Tswana: 0.1%, Chokwe: 0.08%, Hausa: 0.08%, Indonesian: 0.08%, KikongoKituba: 0.08%, Kimbundu: 0.08%, LubaKasai: 0.08%, Shona: 0.08%, Tsonga: 0.08%, Balinese: 0.07%, Cebuano: 0.07%, Filipino: 0.07%, Kinyarwanda: 0.07%, Lingala: 0.07%, Sango: 0.07%, Sepedi: 0.07%, Somali: 0.07%, TamasheqLatin: 0.07%, Tumbuka: 0.07%, Acehnese: 0.05%, AymaraCentral: 0.05%, Buginese: 0.05%, Czech: 0.05%, Dyula: 0.05%, English: 0.05%, Ewe: 0.05%, Finnish: 0.05%, Javanese: 0.05%, Mossi: 0.05%, Nyanja: 0.05%, QuechuaAyacucho: 0.05%, Sundanese: 0.05%, Swati: 0.05%, TokPisin: 0.05%, Turkmen: 0.05%, Venetian: 0.05%, Zulu: 0.05%, Banjar: 0.03%, Bemba: 0.03%, Esperanto: 0.03%, Guarani: 0.03%, Italian: 0.03%, Jingpho: 0.03%, Kamba: 0.03%, KanuriCentral: 0.03%, Kikuyu: 0.03%, Occitan: 0.03%, Sardinian: 0.03%, Sicilian: 0.03%, Silesian: 0.03%, Slovak: 0.03%, Spanish: 0.03%, Afrikaans: 0.01%, Dutch: 0.01%, Faroese: 0.01%, Ganda: 0.01%, Ilocano: 0.01%, Latgalian: 0.01%, Latvian: 0.01%, Ligurian: 0.01%, Limburgish: 0.01%, Lithuanian: 0.01%, Luxembourgish: 0.01%, NorwegianBokmal: 0.01%, OromoWestCentral: 0.01%, Papiamento: 0.01%, Portuguese: 0.01%, Romanian: 0.01%, Rundi: 0.01%, Slovene: 0.01%, Turkish: 0.01%, Twi: 0.01%, Waray: 0.01%, Yoruba: 0.01%
 
 >> Detection of 13643 word pairs (average length: 13 chars)
-Accuracy: 99.55%
-Erroneously classified as Maori: 0.07%, Twi: 0.03%, Sepedi: 0.02%, Pangasinan: 0.02%, Samoan: 0.02%, Sicilian: 0.02%, Swahili: 0.02%, Afrikaans: 0.01%, Bambara: 0.01%, Cebuano: 0.01%, Fijian: 0.01%, Filipino: 0.01%, Guarani: 0.01%, Lingala: 0.01%, Somali: 0.01%, TokPisin: 0.01%, Balinese: 0%, Dyula: 0%, Ewe: 0%, Kabuverdianu: 0%, KanuriCentral: 0%, Kimbundu: 0%, Minangkabau: 0%, Mizo: 0%, Sesotho: 0%, Silesian: 0%, Tswana: 0%, Waray: 0%
+Accuracy: 99.66%
+Erroneously classified as Maori: 0.02%, Pangasinan: 0.02%, Twi: 0.02%, Afrikaans: 0.01%, Fijian: 0.01%, Filipino: 0.01%, Kimbundu: 0.01%, Minangkabau: 0.01%, Sepedi: 0.01%, Sesotho: 0.01%, Swahili: 0.01%, Waray: 0.01%, AymaraCentral: 0%, Balinese: 0%, Bambara: 0%, Bemba: 0%, Czech: 0%, Guarani: 0%, Igbo: 0%, Indonesian: 0%, KanuriCentral: 0%, Latgalian: 0%, Mizo: 0%, Samoan: 0%, Sicilian: 0%, Silesian: 0%, Somali: 0%, Tsonga: 0%, Tswana: 0%
 
 >> Detection of 2000 sentences (average length: 120 chars)
 Accuracy: 99.6%
-Erroneously classified as Indonesian: 0.1%, Nyanja: 0.1%, Afrikaans: 0.05%, Ligurian: 0.05%, OromoWestCentral: 0.05%, Xhosa: 0.05%
+Erroneously classified as Indonesian: 0.1%, Nyanja: 0.1%, Afrikaans: 0.05%, Ligurian: 0.05%, Malay: 0.05%, OromoWestCentral: 0.05%
 

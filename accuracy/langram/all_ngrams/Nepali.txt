@@ -1,16 +1,16 @@
 ##### Nepali #####
 
->>> Accuracy on average: 90.83%
+>>> Accuracy on average: 90.65%
 
 >> Detection of 24392 single words (average length: 7 chars)
-Accuracy: 80.37%
-Erroneously classified as Maithili: 6.25%, Hindi: 2.45%, Marathi: 1.98%, Magahi: 1.91%, Awadhi: 1.88%, Sanskrit: 1.58%, Bhojpuri: 1.37%, KashmiriDevanagari: 1.2%, Chhattisgarhi: 0.96%
+Accuracy: 80.32%
+Erroneously classified as Maithili: 6.26%, Hindi: 2.45%, Marathi: 1.98%, Magahi: 1.91%, Awadhi: 1.89%, Sanskrit: 1.62%, Bhojpuri: 1.37%, KashmiriDevanagari: 1.2%, Chhattisgarhi: 0.96%
 
 >> Detection of 18088 word pairs (average length: 13 chars)
-Accuracy: 92.68%
-Erroneously classified as Maithili: 3.42%, Hindi: 1.23%, Awadhi: 0.87%, Magahi: 0.55%, Marathi: 0.32%, Bhojpuri: 0.29%, Chhattisgarhi: 0.25%, Sanskrit: 0.25%, KashmiriDevanagari: 0.09%
+Accuracy: 92.89%
+Erroneously classified as Maithili: 3.31%, Hindi: 1.06%, Awadhi: 0.81%, Magahi: 0.61%, Marathi: 0.35%, Sanskrit: 0.32%, Bhojpuri: 0.28%, Chhattisgarhi: 0.18%, KashmiriDevanagari: 0.13%
 
 >> Detection of 2000 sentences (average length: 359 chars)
-Accuracy: 99.45%
-Erroneously classified as Maithili: 0.3%, Hindi: 0.1%, Sanskrit: 0.1%, Awadhi: 0.05%
+Accuracy: 98.75%
+Erroneously classified as Maithili: 0.9%, Sanskrit: 0.2%, Hindi: 0.1%, Awadhi: 0.05%
 

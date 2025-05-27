@@ -1,16 +1,16 @@
 ##### Chhattisgarhi #####
 
->>> Accuracy on average: 71.86%
+>>> Accuracy on average: 68.59%
 
 >> Detection of 3922 single words (average length: 6 chars)
-Accuracy: 51.7%
-Erroneously classified as Magahi: 15.75%, Hindi: 8.51%, KashmiriDevanagari: 6.98%, Bhojpuri: 4%, Awadhi: 3.56%, Nepali: 3.11%, Maithili: 3.03%, Marathi: 2.01%, Sanskrit: 1.3%
+Accuracy: 51.68%
+Erroneously classified as Magahi: 15.78%, Hindi: 8.51%, KashmiriDevanagari: 6.98%, Bhojpuri: 4%, Awadhi: 3.56%, Nepali: 3.11%, Maithili: 3.03%, Marathi: 2.01%, Sanskrit: 1.3%
 
 >> Detection of 11158 word pairs (average length: 10 chars)
-Accuracy: 76.77%
-Erroneously classified as Magahi: 11.21%, Hindi: 4.62%, Bhojpuri: 3.04%, Awadhi: 1.2%, KashmiriDevanagari: 1.06%, Maithili: 0.89%, Marathi: 0.73%, Nepali: 0.3%, Sanskrit: 0.12%
+Accuracy: 76.14%
+Erroneously classified as Magahi: 11.52%, Hindi: 4.31%, Bhojpuri: 2.7%, Awadhi: 1.58%, KashmiriDevanagari: 1.26%, Maithili: 1.12%, Nepali: 0.7%, Marathi: 0.46%, Sanskrit: 0.16%
 
 >> Detection of 2000 sentences (average length: 41 chars)
-Accuracy: 87.1%
-Erroneously classified as English: 3.6%, Finnish: 1.25%, Bhojpuri: 0.9%, Danish: 0.8%, Magahi: 0.75%, UzbekNorthern: 0.7%, Awadhi: 0.6%, Dutch: 0.5%, Malay: 0.5%, Hindi: 0.4%, KashmiriDevanagari: 0.4%, GaelicScottish: 0.35%, French: 0.3%, NorwegianNynorsk: 0.3%, Latvian: 0.2%, Marathi: 0.15%, Estonian: 0.1%, Ilocano: 0.1%, Maithili: 0.1%, TatarCrimean: 0.1%, Bambara: 0.05%, Cebuano: 0.05%, CreoleHaitian: 0.05%, German: 0.05%, Hungarian: 0.05%, Igbo: 0.05%, Indonesian: 0.05%, KanuriCentral: 0.05%, Luxembourgish: 0.05%, Maltese: 0.05%, Polish: 0.05%, Portuguese: 0.05%, Romanian: 0.05%, Sanskrit: 0.05%, Slovak: 0.05%, Swahili: 0.05%
+Accuracy: 77.95%
+Erroneously classified as Hindi: 9.15%, English: 4.8%, Bhojpuri: 1.25%, Italian: 0.95%, Ganda: 0.9%, KashmiriDevanagari: 0.8%, Magahi: 0.7%, UzbekNorthern: 0.55%, Malay: 0.5%, Maithili: 0.35%, Sesotho: 0.35%, Dutch: 0.3%, Awadhi: 0.25%, Marathi: 0.2%, NorwegianNynorsk: 0.2%, Buginese: 0.1%, Danish: 0.1%, Occitan: 0.1%, Acehnese: 0.05%, French: 0.05%, German: 0.05%, Hungarian: 0.05%, Luxembourgish: 0.05%, Maltese: 0.05%, Nepali: 0.05%, NorwegianBokmal: 0.05%, Sanskrit: 0.05%, Slovak: 0.05%
 

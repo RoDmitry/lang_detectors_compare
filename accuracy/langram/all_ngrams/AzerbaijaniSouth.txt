@@ -1,16 +1,16 @@
 ##### AzerbaijaniSouth #####
 
->>> Accuracy on average: 95.64%
+>>> Accuracy on average: 95.52%
 
 >> Detection of 6565 single words (average length: 6 chars)
 Accuracy: 89.45%
 Erroneously classified as PersianWestern: 2.48%, PersianDari: 2.11%, Urdu: 0.85%, PashtoSouthern: 0.65%, Kashmiri: 0.48%, KanuriCentralAjami: 0.45%, AcehneseJawi: 0.36%, Arabic: 0.35%, ArabicEgyptian: 0.33%, Sindhi: 0.3%, ArabicNorthLevantine: 0.28%, ArabicSouthLevantine: 0.28%, KurdishCentral: 0.27%, ArabicMoroccan: 0.25%, ArabicSouthernYemeni: 0.22%, ArabicTunisian: 0.21%, BanjarJawi: 0.21%, ArabicMesopotamian: 0.16%, ArabicNajdi: 0.1%, Uyghur: 0.09%
 
 >> Detection of 10324 word pairs (average length: 12 chars)
-Accuracy: 98.41%
-Erroneously classified as PersianWestern: 0.48%, PersianDari: 0.3%, PashtoSouthern: 0.16%, ArabicEgyptian: 0.14%, Arabic: 0.08%, Urdu: 0.06%, ArabicMoroccan: 0.04%, KurdishCentral: 0.04%, Sindhi: 0.04%, AcehneseJawi: 0.03%, KanuriCentralAjami: 0.03%, ArabicNajdi: 0.02%, ArabicNorthLevantine: 0.02%, ArabicTunisian: 0.02%, ArabicMesopotamian: 0%, Kashmiri: 0%, Uyghur: 0%
+Accuracy: 98.06%
+Erroneously classified as PersianWestern: 0.67%, PersianDari: 0.48%, PashtoSouthern: 0.18%, ArabicEgyptian: 0.12%, Arabic: 0.07%, KanuriCentralAjami: 0.07%, Sindhi: 0.06%, ArabicNorthLevantine: 0.03%, Urdu: 0.03%, AcehneseJawi: 0.02%, ArabicMoroccan: 0.02%, KurdishCentral: 0.02%, ArabicMesopotamian: 0.01%, Kashmiri: 0.01%, ArabicNajdi: 0%, ArabicSouthLevantine: 0%, ArabicTunisian: 0%, Uyghur: 0%
 
 >> Detection of 2000 sentences (average length: 302 chars)
 Accuracy: 99.05%
-Erroneously classified as Italian: 0.6%, English: 0.3%, Vietnamese: 0.05%
+Erroneously classified as English: 0.95%
 

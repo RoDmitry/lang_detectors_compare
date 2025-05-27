@@ -1,16 +1,16 @@
 ##### Arabic #####
 
->>> Accuracy on average: 82.47%
+>>> Accuracy on average: 81.39%
 
 >> Detection of 13644 single words (average length: 6 chars)
 Accuracy: 65.88%
 Erroneously classified as ArabicMoroccan: 9.52%, ArabicEgyptian: 5.82%, ArabicNajdi: 3.9%, ArabicTunisian: 3.32%, ArabicSouthLevantine: 2%, ArabicNorthLevantine: 1.89%, ArabicMesopotamian: 1.75%, ArabicSouthernYemeni: 1.21%, KurdishCentral: 0.98%, KanuriCentralAjami: 0.76%, PersianWestern: 0.69%, PersianDari: 0.59%, AcehneseJawi: 0.38%, Sindhi: 0.32%, BanjarJawi: 0.3%, PashtoSouthern: 0.18%, Kashmiri: 0.16%, Urdu: 0.1%, AzerbaijaniSouth: 0.09%, Uyghur: 0.05%
 
 >> Detection of 17361 word pairs (average length: 11 chars)
-Accuracy: 82.72%
-Erroneously classified as ArabicMoroccan: 7.06%, ArabicEgyptian: 3.13%, ArabicNajdi: 2.92%, ArabicTunisian: 1.42%, ArabicNorthLevantine: 0.64%, ArabicSouthLevantine: 0.59%, ArabicSouthernYemeni: 0.51%, ArabicMesopotamian: 0.38%, KurdishCentral: 0.16%, KanuriCentralAjami: 0.12%, PersianWestern: 0.08%, PashtoSouthern: 0.05%, PersianDari: 0.05%, AcehneseJawi: 0.04%, Sindhi: 0.02%, BanjarJawi: 0.02%, AzerbaijaniSouth: 0%, Kashmiri: 0%, Urdu: 0%
+Accuracy: 82.13%
+Erroneously classified as ArabicMoroccan: 7.92%, ArabicEgyptian: 3.05%, ArabicNajdi: 2.75%, ArabicTunisian: 1.37%, ArabicSouthLevantine: 0.65%, ArabicSouthernYemeni: 0.55%, ArabicNorthLevantine: 0.5%, ArabicMesopotamian: 0.44%, KurdishCentral: 0.16%, KanuriCentralAjami: 0.13%, PersianWestern: 0.09%, PersianDari: 0.06%, AcehneseJawi: 0.04%, BanjarJawi: 0.02%, Sindhi: 0.02%, PashtoSouthern: 0.01%, Urdu: 0.01%, AzerbaijaniSouth: 0%, Kashmiri: 0%
 
 >> Detection of 2000 sentences (average length: 157 chars)
-Accuracy: 98.8%
-Erroneously classified as ArabicNajdi: 0.35%, ArabicEgyptian: 0.3%, ArabicMoroccan: 0.15%, ArabicNorthLevantine: 0.1%, ArabicTunisian: 0.1%, English: 0.1%, Lombard: 0.05%, Portuguese: 0.05%
+Accuracy: 96.15%
+Erroneously classified as ArabicMoroccan: 1.95%, ArabicNajdi: 1%, ArabicEgyptian: 0.45%, ArabicTunisian: 0.15%, English: 0.1%, ArabicMesopotamian: 0.05%, ArabicNorthLevantine: 0.05%, French: 0.05%, German: 0.05%
 

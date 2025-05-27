@@ -1,14 +1,14 @@
 ##### TamasheqTifinagh #####
 
->>> Accuracy on average: 71.48%
+>>> Accuracy on average: 71.96%
 
 >> Detection of 8051 single words (average length: 7 chars)
 Accuracy: 83.23%
 Erroneously classified as TamazightCentralAtlas: 16.76%
 
 >> Detection of 14868 word pairs (average length: 10 chars)
-Accuracy: 82.22%
-Erroneously classified as TamazightCentralAtlas: 17.77%
+Accuracy: 83.66%
+Erroneously classified as TamazightCentralAtlas: 16.33%
 
 >> Detection of 2000 sentences (average length: 130 chars)
 Accuracy: 49%

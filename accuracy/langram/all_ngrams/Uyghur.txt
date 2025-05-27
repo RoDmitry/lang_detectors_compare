@@ -7,8 +7,8 @@ Accuracy: 98.76%
 Erroneously classified as KurdishCentral: 0.26%, AzerbaijaniSouth: 0.19%, AcehneseJawi: 0.11%, PersianWestern: 0.08%, PashtoSouthern: 0.07%, ArabicTunisian: 0.06%, BanjarJawi: 0.05%, Sindhi: 0.05%, PersianDari: 0.05%, KanuriCentralAjami: 0.04%, ArabicNorthLevantine: 0.03%, Arabic: 0.02%, ArabicEgyptian: 0.02%, ArabicMoroccan: 0.02%, ArabicNajdi: 0.02%, ArabicSouthernYemeni: 0.02%, ArabicMesopotamian: 0.02%, Urdu: 0.01%, Kashmiri: 0%
 
 >> Detection of 18364 word pairs (average length: 15 chars)
-Accuracy: 99.92%
-Erroneously classified as KurdishCentral: 0.03%, KanuriCentralAjami: 0.01%, AcehneseJawi: 0.01%, AzerbaijaniSouth: 0%, BanjarJawi: 0%, PersianWestern: 0%
+Accuracy: 99.94%
+Erroneously classified as KanuriCentralAjami: 0.01%, KurdishCentral: 0.01%, AcehneseJawi: 0.01%, AzerbaijaniSouth: 0%, BanjarJawi: 0%, PersianWestern: 0%
 
 >> Detection of 2000 sentences (average length: 149 chars)
 Accuracy: 100%
