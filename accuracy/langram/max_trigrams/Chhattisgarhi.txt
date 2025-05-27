@@ -1,16 +1,16 @@
 ##### Chhattisgarhi #####
 
->>> Accuracy on average: 67.05%
+>>> Accuracy on average: 71.2%
 
 >> Detection of 3922 single words (average length: 6 chars)
 Accuracy: 50.5%
-Erroneously classified as Magahi: 13.23%, Hindi: 8.77%, KashmiriDevanagari: 8.13%, Bhojpuri: 4.66%, Awadhi: 3.69%, Nepali: 3.39%, Maithili: 3.26%, Marathi: 2.54%, Sanskrit: 1.78%
+Erroneously classified as Magahi: 13.25%, Hindi: 8.74%, KashmiriDevanagari: 8.13%, Bhojpuri: 4.66%, Awadhi: 3.69%, Nepali: 3.39%, Maithili: 3.26%, Marathi: 2.54%, Sanskrit: 1.78%
 
 >> Detection of 11158 word pairs (average length: 10 chars)
 Accuracy: 76%
-Erroneously classified as Magahi: 10.57%, Hindi: 4.67%, Bhojpuri: 3.04%, Awadhi: 1.57%, KashmiriDevanagari: 1.35%, Maithili: 1.2%, Nepali: 0.82%, Marathi: 0.55%, Sanskrit: 0.17%
+Erroneously classified as Magahi: 10.58%, Hindi: 4.66%, Bhojpuri: 3.04%, Awadhi: 1.57%, KashmiriDevanagari: 1.35%, Maithili: 1.2%, Nepali: 0.82%, Marathi: 0.55%, Sanskrit: 0.17%
 
 >> Detection of 2000 sentences (average length: 41 chars)
-Accuracy: 74.65%
-Erroneously classified as Hindi: 12.15%, English: 4.2%, Bhojpuri: 1.45%, Italian: 1.2%, KashmiriDevanagari: 1%, Malay: 0.9%, Ganda: 0.75%, Magahi: 0.7%, UzbekNorthern: 0.45%, Dutch: 0.4%, Awadhi: 0.35%, Maithili: 0.35%, Finnish: 0.25%, Marathi: 0.2%, AlbanianTosk: 0.1%, NorwegianNynorsk: 0.1%, Acehnese: 0.05%, Asturian: 0.05%, CreoleHaitian: 0.05%, Danish: 0.05%, French: 0.05%, FulfuldeNigerian: 0.05%, German: 0.05%, KurdishNorthern: 0.05%, Limburgish: 0.05%, Maltese: 0.05%, Nepali: 0.05%, Papiamento: 0.05%, Romanian: 0.05%, Sanskrit: 0.05%, Sesotho: 0.05%, Wolof: 0.05%
+Accuracy: 87.1%
+Erroneously classified as English: 4.25%, Italian: 1.2%, Malay: 0.85%, Bhojpuri: 0.75%, Magahi: 0.75%, Awadhi: 0.65%, KashmiriDevanagari: 0.6%, Dutch: 0.55%, Ganda: 0.5%, UzbekNorthern: 0.5%, Hindi: 0.45%, Finnish: 0.25%, Slovene: 0.2%, Danish: 0.15%, AlbanianTosk: 0.1%, Maithili: 0.1%, Marathi: 0.1%, NorwegianNynorsk: 0.1%, Acehnese: 0.05%, Asturian: 0.05%, CreoleHaitian: 0.05%, Estonian: 0.05%, French: 0.05%, German: 0.05%, KanuriCentral: 0.05%, KurdishNorthern: 0.05%, Limburgish: 0.05%, Lithuanian: 0.05%, Maltese: 0.05%, Nepali: 0.05%, Papiamento: 0.05%, Romanian: 0.05%, Sanskrit: 0.05%, Sesotho: 0.05%, Wolof: 0.05%
 

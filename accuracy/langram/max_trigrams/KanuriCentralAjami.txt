@@ -1,6 +1,6 @@
 ##### KanuriCentralAjami #####
 
->>> Accuracy on average: 97.01%
+>>> Accuracy on average: 97.03%
 
 >> Detection of 13035 single words (average length: 5 chars)
 Accuracy: 92.48%
@@ -11,6 +11,6 @@ Accuracy: 98.61%
 Erroneously classified as AcehneseJawi: 0.18%, PashtoSouthern: 0.13%, BanjarJawi: 0.12%, ArabicEgyptian: 0.1%, ArabicNorthLevantine: 0.09%, ArabicMoroccan: 0.09%, PersianWestern: 0.08%, Sindhi: 0.07%, Arabic: 0.07%, ArabicTunisian: 0.07%, ArabicMesopotamian: 0.06%, ArabicSouthLevantine: 0.06%, ArabicSouthernYemeni: 0.06%, ArabicNajdi: 0.05%, PersianDari: 0.03%, AzerbaijaniSouth: 0.01%, Kashmiri: 0.01%, KurdishCentral: 0.01%, Urdu: 0%
 
 >> Detection of 2000 sentences (average length: 151 chars)
-Accuracy: 99.95%
-Erroneously classified as PersianWestern: 0.05%
+Accuracy: 100%
+Erroneously classified as 
 

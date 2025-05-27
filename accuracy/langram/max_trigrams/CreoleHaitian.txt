@@ -12,5 +12,5 @@ Erroneously classified as French: 0.5%, Pangasinan: 0.26%, Sicilian: 0.25%, Mina
 
 >> Detection of 2000 sentences (average length: 85 chars)
 Accuracy: 98.55%
-Erroneously classified as French: 0.25%, Twi: 0.15%, Luxembourgish: 0.1%, Asturian: 0.05%, Bambara: 0.05%, Banjar: 0.05%, Catalan: 0.05%, Dyula: 0.05%, English: 0.05%, Guarani: 0.05%, Javanese: 0.05%, Lingala: 0.05%, NorwegianBokmal: 0.05%, Occitan: 0.05%, Papiamento: 0.05%, Sardinian: 0.05%, Swahili: 0.05%, TamasheqLatin: 0.05%, TatarCrimean: 0.05%, TokPisin: 0.05%, UzbekNorthern: 0.05%, Venetian: 0.05%
+Erroneously classified as French: 0.25%, Twi: 0.15%, Luxembourgish: 0.1%, Asturian: 0.05%, Bambara: 0.05%, Banjar: 0.05%, Catalan: 0.05%, Dyula: 0.05%, English: 0.05%, Galician: 0.05%, Guarani: 0.05%, Javanese: 0.05%, Lingala: 0.05%, NorwegianBokmal: 0.05%, Occitan: 0.05%, Sardinian: 0.05%, Swahili: 0.05%, TamasheqLatin: 0.05%, TatarCrimean: 0.05%, TokPisin: 0.05%, UzbekNorthern: 0.05%, Venetian: 0.05%
 

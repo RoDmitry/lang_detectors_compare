@@ -3,8 +3,8 @@
 >>> Accuracy on average: 91.38%
 
 >> Detection of 11701 single words (average length: 7 chars)
-Accuracy: 81.5%
-Erroneously classified as AcehneseJawi: 13.1%, KurdishCentral: 1.18%, KanuriCentralAjami: 0.87%, ArabicEgyptian: 0.29%, ArabicMoroccan: 0.29%, PersianWestern: 0.28%, Sindhi: 0.27%, ArabicNorthLevantine: 0.23%, ArabicSouthernYemeni: 0.2%, Arabic: 0.18%, ArabicMesopotamian: 0.18%, AzerbaijaniSouth: 0.17%, PersianDari: 0.17%, PashtoSouthern: 0.17%, ArabicTunisian: 0.16%, Kashmiri: 0.16%, ArabicSouthLevantine: 0.15%, Uyghur: 0.12%, ArabicNajdi: 0.11%, Urdu: 0.11%
+Accuracy: 81.49%
+Erroneously classified as AcehneseJawi: 13.1%, KurdishCentral: 1.18%, KanuriCentralAjami: 0.87%, ArabicEgyptian: 0.29%, ArabicMoroccan: 0.29%, PersianWestern: 0.28%, Sindhi: 0.27%, ArabicNorthLevantine: 0.23%, ArabicSouthernYemeni: 0.2%, Arabic: 0.18%, ArabicMesopotamian: 0.18%, AzerbaijaniSouth: 0.17%, PersianDari: 0.17%, ArabicTunisian: 0.17%, PashtoSouthern: 0.17%, Kashmiri: 0.16%, ArabicSouthLevantine: 0.15%, Uyghur: 0.12%, ArabicNajdi: 0.11%, Urdu: 0.11%
 
 >> Detection of 17442 word pairs (average length: 12 chars)
 Accuracy: 92.69%

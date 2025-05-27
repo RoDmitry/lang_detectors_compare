@@ -1,6 +1,6 @@
 ##### Chhattisgarhi #####
 
->>> Accuracy on average: 68.59%
+>>> Accuracy on average: 71.74%
 
 >> Detection of 3922 single words (average length: 6 chars)
 Accuracy: 51.68%
@@ -11,6 +11,6 @@ Accuracy: 76.14%
 Erroneously classified as Magahi: 11.52%, Hindi: 4.31%, Bhojpuri: 2.7%, Awadhi: 1.58%, KashmiriDevanagari: 1.26%, Maithili: 1.12%, Nepali: 0.7%, Marathi: 0.46%, Sanskrit: 0.16%
 
 >> Detection of 2000 sentences (average length: 41 chars)
-Accuracy: 77.95%
-Erroneously classified as Hindi: 9.15%, English: 4.8%, Bhojpuri: 1.25%, Italian: 0.95%, Ganda: 0.9%, KashmiriDevanagari: 0.8%, Magahi: 0.7%, UzbekNorthern: 0.55%, Malay: 0.5%, Maithili: 0.35%, Sesotho: 0.35%, Dutch: 0.3%, Awadhi: 0.25%, Marathi: 0.2%, NorwegianNynorsk: 0.2%, Buginese: 0.1%, Danish: 0.1%, Occitan: 0.1%, Acehnese: 0.05%, French: 0.05%, German: 0.05%, Hungarian: 0.05%, Luxembourgish: 0.05%, Maltese: 0.05%, Nepali: 0.05%, NorwegianBokmal: 0.05%, Sanskrit: 0.05%, Slovak: 0.05%
+Accuracy: 87.4%
+Erroneously classified as English: 4.85%, Italian: 0.9%, Ganda: 0.8%, Magahi: 0.8%, Bhojpuri: 0.7%, UzbekNorthern: 0.6%, Awadhi: 0.55%, Hindi: 0.4%, Dutch: 0.35%, KashmiriDevanagari: 0.35%, Sesotho: 0.35%, Danish: 0.3%, Malay: 0.25%, NorwegianNynorsk: 0.2%, Maithili: 0.15%, Buginese: 0.1%, Finnish: 0.1%, Latvian: 0.1%, Marathi: 0.1%, Occitan: 0.1%, Acehnese: 0.05%, French: 0.05%, German: 0.05%, Hungarian: 0.05%, Luxembourgish: 0.05%, Maltese: 0.05%, Nepali: 0.05%, NorwegianBokmal: 0.05%, Sanskrit: 0.05%, Slovak: 0.05%, Slovene: 0.05%
 

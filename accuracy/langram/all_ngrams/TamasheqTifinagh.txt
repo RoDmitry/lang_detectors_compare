@@ -2,7 +2,7 @@
 
 >>> Accuracy on average: 73.68%
 
->> Detection of 8051 single words (average length: 7 chars)
+>> Detection of 8050 single words (average length: 7 chars)
 Accuracy: 85.93%
 Erroneously classified as TamazightCentralAtlas: 14.06%
 

@@ -2,7 +2,7 @@
 
 >>> Accuracy on average: 95.26%
 
->> Detection of 8548 single words (average length: 6 chars)
+>> Detection of 8547 single words (average length: 6 chars)
 Accuracy: 88.86%
 Erroneously classified as Bengali: 9.23%, MeiteiBengali: 1.9%
 

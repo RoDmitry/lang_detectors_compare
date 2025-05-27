@@ -1,6 +1,6 @@
 ##### Shan #####
 
->>> Accuracy on average: 99.56%
+>>> Accuracy on average: 99.55%
 
 >> Detection of 14964 single words (average length: 17 chars)
 Accuracy: 99.29%
@@ -11,6 +11,6 @@ Accuracy: 99.8%
 Erroneously classified as Burmese: 0.19%
 
 >> Detection of 2000 sentences (average length: 172 chars)
-Accuracy: 99.6%
-Erroneously classified as Buginese: 0.15%, English: 0.1%, Unknown: 0.05%, Banjar: 0.05%, Friulian: 0.05%
+Accuracy: 99.55%
+Erroneously classified as Buginese: 0.15%, English: 0.1%, Unknown: 0.05%, Acehnese: 0.05%, Banjar: 0.05%, Friulian: 0.05%
 

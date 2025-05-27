@@ -1,10 +1,10 @@
 ##### MongolianHalh #####
 
->>> Accuracy on average: 96.69%
+>>> Accuracy on average: 96.7%
 
->> Detection of 6250 single words (average length: 7 chars)
-Accuracy: 92.52%
-Erroneously classified as Belarusian: 1.44%, Kazakh: 1.37%, Russian: 1.37%, Macedonian: 1.23%, Ukrainian: 0.72%, Serbian: 0.7%, Bulgarian: 0.6%, Catalan: 0.01%
+>> Detection of 6249 single words (average length: 7 chars)
+Accuracy: 92.54%
+Erroneously classified as Belarusian: 1.44%, Kazakh: 1.37%, Russian: 1.37%, Macedonian: 1.23%, Ukrainian: 0.72%, Serbian: 0.7%, Bulgarian: 0.6%
 
 >> Detection of 17130 word pairs (average length: 13 chars)
 Accuracy: 98.06%

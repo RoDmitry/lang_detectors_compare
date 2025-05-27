@@ -1,6 +1,6 @@
 ##### Urdu #####
 
->>> Accuracy on average: 84.63%
+>>> Accuracy on average: 84.64%
 
 >> Detection of 6065 single words (average length: 5 chars)
 Accuracy: 62.85%
@@ -11,6 +11,6 @@ Accuracy: 93.34%
 Erroneously classified as Kashmiri: 2.89%, PersianWestern: 1.01%, PersianDari: 0.97%, AzerbaijaniSouth: 0.71%, PashtoSouthern: 0.34%, Sindhi: 0.27%, ArabicNorthLevantine: 0.08%, Arabic: 0.05%, ArabicEgyptian: 0.04%, KurdishCentral: 0.04%, ArabicNajdi: 0.03%, ArabicSouthLevantine: 0.03%, AcehneseJawi: 0.02%, KanuriCentralAjami: 0.02%, ArabicMesopotamian: 0.02%, BanjarJawi: 0.02%, ArabicMoroccan: 0.01%, ArabicSouthernYemeni: 0.01%, ArabicTunisian: 0.01%
 
 >> Detection of 2000 sentences (average length: 93 chars)
-Accuracy: 97.7%
-Erroneously classified as Kashmiri: 1.05%, PersianWestern: 0.4%, PersianDari: 0.25%, AzerbaijaniSouth: 0.2%, ArabicEgyptian: 0.15%, ArabicMoroccan: 0.05%, ArabicSouthLevantine: 0.05%, KanuriCentralAjami: 0.05%, PashtoSouthern: 0.05%, Sindhi: 0.05%
+Accuracy: 97.75%
+Erroneously classified as Kashmiri: 1%, PersianWestern: 0.4%, PersianDari: 0.25%, AzerbaijaniSouth: 0.2%, ArabicEgyptian: 0.15%, ArabicMoroccan: 0.05%, ArabicSouthLevantine: 0.05%, KanuriCentralAjami: 0.05%, PashtoSouthern: 0.05%, Sindhi: 0.05%
 
