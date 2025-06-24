@@ -4,13 +4,13 @@
 
 >> Detection of 7916 single words (average length: 10 chars)
 Accuracy: 51.04%
-Erroneously classified as Italian: 13.04%, German: 9.1%, English: 6.17%, Turkish: 5.78%, Portuguese: 5.39%, Spanish: 4.15%, Swedish: 2.7%, French: 2.47%, Vietnamese: 0.07%, Arabic: 0.01%, Korean: 0.01%
+Erroneously classified as Italian: 13.04%, German: 9.1%, English: 6.17%, Turkish: 5.78%, Portuguese: 5.39%, Spanish: 4.15%, Swedish: 2.7%, French: 2.47%, Vietnamese: 0.07%, Korean: 0.01%, Arabic: 0.01%
 
 >> Detection of 13893 word pairs (average length: 14 chars)
 Accuracy: 76.53%
-Erroneously classified as German: 5.76%, English: 4.23%, Italian: 3.67%, Spanish: 2.26%, Portuguese: 2.12%, Swedish: 2.1%, French: 1.84%, Turkish: 1.38%, Arabic: 0.03%, Vietnamese: 0.03%
+Erroneously classified as German: 5.76%, English: 4.23%, Italian: 3.67%, Spanish: 2.26%, Portuguese: 2.12%, Swedish: 2.1%, French: 1.84%, Turkish: 1.38%, Vietnamese: 0.03%, Arabic: 0.03%
 
 >> Detection of 2000 sentences (average length: 147 chars)
 Accuracy: 91.5%
-Erroneously classified as English: 2.15%, Swedish: 1.85%, German: 0.9%, Italian: 0.85%, French: 0.8%, Spanish: 0.8%, Portuguese: 0.75%, Turkish: 0.4%
+Erroneously classified as English: 2.15%, Swedish: 1.85%, German: 0.9%, Italian: 0.85%, Spanish: 0.8%, French: 0.8%, Portuguese: 0.75%, Turkish: 0.4%
 

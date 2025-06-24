@@ -4,7 +4,7 @@
 
 >> Detection of 7720 single words (average length: 7 chars)
 Accuracy: 20.36%
-Erroneously classified as Indonesian: 12.05%, Filipino: 11.69%, Latin: 2.99%, UzbekNorthern: 2.82%, French: 2.53%, Estonian: 2.48%, Afrikaans: 2.31%, Zulu: 2.3%, Shona: 2.27%, Italian: 2.21%, Lithuanian: 2.15%, Portuguese: 2.13%, Esperanto: 2.03%, Catalan: 2.02%, Finnish: 1.85%, Hungarian: 1.69%, English: 1.67%, Romanian: 1.67%, Slovak: 1.67%, German: 1.64%, Spanish: 1.64%, Turkish: 1.61%, Slovene: 1.43%, Akan: 1.39%, Turkmen: 1.36%, Croatian: 1.32%, Latvian: 1.12%, Polish: 1.12%, Dutch: 1.07%, NorwegianBokmal: 1.07%, Czech: 0.99%, Danish: 0.93%, Swedish: 0.86%, AzerbaijaniNorth: 0.72%, Vietnamese: 0.66%
+Erroneously classified as Indonesian: 12.05%, Filipino: 11.69%, Latin: 2.99%, UzbekNorthern: 2.82%, French: 2.53%, Estonian: 2.48%, Afrikaans: 2.31%, Zulu: 2.3%, Shona: 2.27%, Italian: 2.21%, Lithuanian: 2.15%, Portuguese: 2.13%, Esperanto: 2.03%, Catalan: 2.02%, Finnish: 1.85%, Hungarian: 1.69%, English: 1.67%, Romanian: 1.67%, Slovak: 1.67%, Spanish: 1.64%, German: 1.64%, Turkish: 1.61%, Slovene: 1.43%, Akan: 1.39%, Turkmen: 1.36%, Croatian: 1.32%, Polish: 1.12%, Latvian: 1.12%, Dutch: 1.07%, NorwegianBokmal: 1.07%, Czech: 0.99%, Danish: 0.93%, Swedish: 0.86%, AzerbaijaniNorth: 0.72%, Vietnamese: 0.66%
 
 >> Detection of 16427 word pairs (average length: 13 chars)
 Accuracy: 45.38%
@@ -12,5 +12,5 @@ Erroneously classified as Filipino: 13%, Indonesian: 9.91%, Afrikaans: 2.03%, It
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 89.05%
-Erroneously classified as Filipino: 4.4%, Indonesian: 3.05%, Italian: 0.35%, Spanish: 0.35%, Portuguese: 0.3%, Latvian: 0.25%, Catalan: 0.2%, Dutch: 0.2%, English: 0.2%, Estonian: 0.2%, Finnish: 0.15%, Latin: 0.15%, Lithuanian: 0.15%, Slovak: 0.15%, Zulu: 0.15%, Croatian: 0.1%, French: 0.1%, Shona: 0.1%, Afrikaans: 0.05%, Akan: 0.05%, Czech: 0.05%, Danish: 0.05%, German: 0.05%, Slovene: 0.05%, Swedish: 0.05%, UzbekNorthern: 0.05%
+Erroneously classified as Filipino: 4.4%, Indonesian: 3.05%, Spanish: 0.35%, Italian: 0.35%, Portuguese: 0.3%, Latvian: 0.25%, English: 0.2%, Dutch: 0.2%, Catalan: 0.2%, Estonian: 0.2%, Zulu: 0.15%, Slovak: 0.15%, Finnish: 0.15%, Lithuanian: 0.15%, Latin: 0.15%, French: 0.1%, Shona: 0.1%, Croatian: 0.1%, German: 0.05%, UzbekNorthern: 0.05%, Afrikaans: 0.05%, Czech: 0.05%, Swedish: 0.05%, Akan: 0.05%, Danish: 0.05%, Slovene: 0.05%
 

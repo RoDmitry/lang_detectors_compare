@@ -8,9 +8,9 @@ Erroneously classified as Portuguese: 7.71%, French: 7.47%, Latin: 6.82%, Spanis
 
 >> Detection of 14665 word pairs (average length: 11 chars)
 Accuracy: 40.19%
-Erroneously classified as French: 8.97%, Portuguese: 7.84%, Spanish: 7.26%, Latin: 4.3%, Italian: 3.13%, Romanian: 2.3%, Afrikaans: 1.99%, Dutch: 1.77%, Swedish: 1.73%, Hungarian: 1.68%, English: 1.59%, UzbekNorthern: 1.38%, Esperanto: 1.32%, Javanese: 1.28%, Danish: 1.27%, Filipino: 1.19%, Indonesian: 1.08%, Estonian: 0.88%, German: 0.87%, Finnish: 0.82%, Croatian: 0.79%, NorwegianBokmal: 0.77%, Akan: 0.76%, Latvian: 0.68%, Lithuanian: 0.57%, Vietnamese: 0.57%, Slovak: 0.48%, Turkish: 0.43%, Turkmen: 0.38%, Polish: 0.33%, Shona: 0.33%, Czech: 0.31%, Slovene: 0.3%, Zulu: 0.18%, AzerbaijaniNorth: 0.1%
+Erroneously classified as French: 8.97%, Portuguese: 7.84%, Spanish: 7.26%, Latin: 4.3%, Italian: 3.13%, Romanian: 2.3%, Afrikaans: 1.99%, Dutch: 1.77%, Swedish: 1.73%, Hungarian: 1.68%, English: 1.59%, UzbekNorthern: 1.38%, Esperanto: 1.32%, Javanese: 1.28%, Danish: 1.27%, Filipino: 1.19%, Indonesian: 1.08%, Estonian: 0.88%, German: 0.87%, Finnish: 0.82%, Croatian: 0.79%, NorwegianBokmal: 0.77%, Akan: 0.76%, Latvian: 0.68%, Vietnamese: 0.57%, Lithuanian: 0.57%, Slovak: 0.48%, Turkish: 0.43%, Turkmen: 0.38%, Polish: 0.33%, Shona: 0.33%, Czech: 0.31%, Slovene: 0.3%, Zulu: 0.18%, AzerbaijaniNorth: 0.1%
 
 >> Detection of 2000 sentences (average length: 104 chars)
 Accuracy: 92.8%
-Erroneously classified as French: 1.55%, Spanish: 1.5%, Portuguese: 1.4%, Italian: 0.55%, Hungarian: 0.35%, English: 0.25%, Latin: 0.25%, Afrikaans: 0.2%, Romanian: 0.2%, Dutch: 0.15%, Danish: 0.1%, Latvian: 0.1%, Akan: 0.05%, AzerbaijaniNorth: 0.05%, German: 0.05%, Indonesian: 0.05%, Lithuanian: 0.05%, NorwegianBokmal: 0.05%, Polish: 0.05%, Slovak: 0.05%, Swedish: 0.05%, Turkmen: 0.05%, UzbekNorthern: 0.05%, Vietnamese: 0.05%
+Erroneously classified as French: 1.55%, Spanish: 1.5%, Portuguese: 1.4%, Italian: 0.55%, Hungarian: 0.35%, English: 0.25%, Latin: 0.25%, Romanian: 0.2%, Afrikaans: 0.2%, Dutch: 0.15%, Danish: 0.1%, Latvian: 0.1%, Indonesian: 0.05%, German: 0.05%, Vietnamese: 0.05%, UzbekNorthern: 0.05%, Polish: 0.05%, Swedish: 0.05%, Akan: 0.05%, AzerbaijaniNorth: 0.05%, Turkmen: 0.05%, Slovak: 0.05%, NorwegianBokmal: 0.05%, Lithuanian: 0.05%
 

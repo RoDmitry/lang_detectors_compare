@@ -8,9 +8,9 @@ Erroneously classified as Bulgarian: 9.12%, Serbian: 8.23%, Russian: 1.42%, Bela
 
 >> Detection of 16004 word pairs (average length: 12 chars)
 Accuracy: 90.62%
-Erroneously classified as Bulgarian: 5.38%, Serbian: 3.13%, Russian: 0.47%, Ukrainian: 0.11%, Belarusian: 0.09%, Tajik: 0.06%, Kazakh: 0.06%, Bashkir: 0.01%, Kyrgyz: 0.01%, MongolianHalh: 0%, Tatar: 0%
+Erroneously classified as Bulgarian: 5.38%, Serbian: 3.13%, Russian: 0.47%, Ukrainian: 0.11%, Belarusian: 0.09%, Tajik: 0.06%, Kazakh: 0.06%, Kyrgyz: 0.01%, Bashkir: 0.01%, MongolianHalh: 0%, Tatar: 0%
 
 >> Detection of 2000 sentences (average length: 116 chars)
 Accuracy: 98.6%
-Erroneously classified as Serbian: 0.5%, AlbanianTosk: 0.4%, Bulgarian: 0.4%, Bemba: 0.05%, Indonesian: 0.05%
+Erroneously classified as Serbian: 0.5%, AlbanianTosk: 0.4%, Bulgarian: 0.4%, Indonesian: 0.05%, Bemba: 0.05%
 

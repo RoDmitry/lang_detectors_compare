@@ -12,5 +12,5 @@ Erroneously classified as Ukrainian: 2.15%, Russian: 1.26%, Kazakh: 1.15%, Mongo
 
 >> Detection of 2000 sentences (average length: 90 chars)
 Accuracy: 98.45%
-Erroneously classified as MongolianHalh: 0.55%, Russian: 0.45%, Kazakh: 0.15%, Serbian: 0.15%, Ukrainian: 0.15%, Bulgarian: 0.1%
+Erroneously classified as MongolianHalh: 0.55%, Russian: 0.45%, Ukrainian: 0.15%, Kazakh: 0.15%, Serbian: 0.15%, Bulgarian: 0.1%
 

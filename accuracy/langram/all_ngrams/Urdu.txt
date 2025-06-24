@@ -8,7 +8,7 @@ Erroneously classified as Kashmiri: 10.89%, PersianWestern: 5.8%, PersianDari: 4
 
 >> Detection of 13697 word pairs (average length: 8 chars)
 Accuracy: 93.44%
-Erroneously classified as Kashmiri: 3.06%, PersianDari: 0.89%, PersianWestern: 0.88%, AzerbaijaniSouth: 0.72%, PashtoSouthern: 0.36%, Sindhi: 0.24%, ArabicNorthLevantine: 0.05%, Arabic: 0.05%, ArabicEgyptian: 0.05%, KurdishCentral: 0.05%, ArabicSouthLevantine: 0.03%, KanuriCentralAjami: 0.02%, ArabicMesopotamian: 0.02%, BanjarJawi: 0.02%, AcehneseJawi: 0.01%, ArabicMoroccan: 0.01%, ArabicNajdi: 0.01%, ArabicSouthernYemeni: 0.01%, ArabicTunisian: 0%
+Erroneously classified as Kashmiri: 3.06%, PersianDari: 0.89%, PersianWestern: 0.88%, AzerbaijaniSouth: 0.72%, PashtoSouthern: 0.36%, Sindhi: 0.24%, ArabicNorthLevantine: 0.05%, Arabic: 0.05%, ArabicEgyptian: 0.05%, KurdishCentral: 0.05%, ArabicSouthLevantine: 0.03%, KanuriCentralAjami: 0.02%, ArabicMesopotamian: 0.02%, BanjarJawi: 0.02%, ArabicMoroccan: 0.01%, ArabicNajdi: 0.01%, ArabicSouthernYemeni: 0.01%, AcehneseJawi: 0.01%, ArabicTunisian: 0%
 
 >> Detection of 2000 sentences (average length: 93 chars)
 Accuracy: 97.95%

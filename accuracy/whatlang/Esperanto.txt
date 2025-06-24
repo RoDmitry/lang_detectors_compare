@@ -4,7 +4,7 @@
 
 >> Detection of 5748 single words (average length: 7 chars)
 Accuracy: 33.1%
-Erroneously classified as Latin: 5.39%, Portuguese: 4.03%, Filipino: 3.49%, Lithuanian: 3.27%, Italian: 2.95%, Spanish: 2.87%, Estonian: 2.85%, English: 2.83%, Indonesian: 2.83%, Croatian: 2.69%, Javanese: 2.55%, French: 2.34%, Shona: 2.33%, UzbekNorthern: 2.03%, Zulu: 1.96%, Romanian: 1.79%, Finnish: 1.67%, Catalan: 1.53%, Slovene: 1.46%, Swedish: 1.44%, Dutch: 1.4%, Afrikaans: 1.33%, German: 1.33%, AzerbaijaniNorth: 1.16%, Latvian: 1.16%, Slovak: 1.11%, Danish: 1%, Hungarian: 0.92%, Akan: 0.9%, Polish: 0.83%, Czech: 0.78%, NorwegianBokmal: 0.76%, Turkish: 0.74%, Vietnamese: 0.53%, Turkmen: 0.46%
+Erroneously classified as Latin: 5.39%, Portuguese: 4.03%, Filipino: 3.49%, Lithuanian: 3.27%, Italian: 2.95%, Spanish: 2.87%, Estonian: 2.85%, English: 2.83%, Indonesian: 2.83%, Croatian: 2.69%, Javanese: 2.55%, French: 2.34%, Shona: 2.33%, UzbekNorthern: 2.03%, Zulu: 1.96%, Romanian: 1.79%, Finnish: 1.67%, Catalan: 1.53%, Slovene: 1.46%, Swedish: 1.44%, Dutch: 1.4%, German: 1.33%, Afrikaans: 1.33%, AzerbaijaniNorth: 1.16%, Latvian: 1.16%, Slovak: 1.11%, Danish: 1%, Hungarian: 0.92%, Akan: 0.9%, Polish: 0.83%, Czech: 0.78%, NorwegianBokmal: 0.76%, Turkish: 0.74%, Vietnamese: 0.53%, Turkmen: 0.46%
 
 >> Detection of 15177 word pairs (average length: 11 chars)
 Accuracy: 49.37%
@@ -12,5 +12,5 @@ Erroneously classified as Portuguese: 4.31%, Spanish: 4.09%, Latin: 4.03%, Lithu
 
 >> Detection of 2000 sentences (average length: 59 chars)
 Accuracy: 82.05%
-Erroneously classified as Spanish: 3.45%, Lithuanian: 2.3%, Italian: 2.25%, Latin: 1.55%, French: 1.15%, Portuguese: 1.15%, English: 0.85%, Estonian: 0.75%, Catalan: 0.6%, Slovene: 0.6%, Afrikaans: 0.55%, Croatian: 0.5%, UzbekNorthern: 0.3%, Indonesian: 0.25%, Latvian: 0.2%, Romanian: 0.2%, Slovak: 0.2%, Turkish: 0.2%, Finnish: 0.15%, Swedish: 0.15%, Akan: 0.1%, Javanese: 0.1%, Zulu: 0.1%, AzerbaijaniNorth: 0.05%, Czech: 0.05%, Danish: 0.05%, Filipino: 0.05%, German: 0.05%, Polish: 0.05%
+Erroneously classified as Spanish: 3.45%, Lithuanian: 2.3%, Italian: 2.25%, Latin: 1.55%, French: 1.15%, Portuguese: 1.15%, English: 0.85%, Estonian: 0.75%, Catalan: 0.6%, Slovene: 0.6%, Afrikaans: 0.55%, Croatian: 0.5%, UzbekNorthern: 0.3%, Indonesian: 0.25%, Turkish: 0.2%, Romanian: 0.2%, Slovak: 0.2%, Latvian: 0.2%, Swedish: 0.15%, Finnish: 0.15%, Javanese: 0.1%, Zulu: 0.1%, Akan: 0.1%, German: 0.05%, Filipino: 0.05%, Polish: 0.05%, Czech: 0.05%, AzerbaijaniNorth: 0.05%, Danish: 0.05%
 

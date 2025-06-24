@@ -12,5 +12,5 @@ Erroneously classified as Russian: 4.62%, Bulgarian: 3.33%, Belarusian: 2.59%, M
 
 >> Detection of 2000 sentences (average length: 87 chars)
 Accuracy: 94.9%
-Erroneously classified as Kazakh: 3.6%, Macedonian: 0.5%, Belarusian: 0.45%, Russian: 0.3%, Serbian: 0.1%, Bulgarian: 0.05%, English: 0.05%, MongolianHalh: 0.05%
+Erroneously classified as Kazakh: 3.6%, Macedonian: 0.5%, Belarusian: 0.45%, Russian: 0.3%, Serbian: 0.1%, English: 0.05%, Bulgarian: 0.05%, MongolianHalh: 0.05%
 

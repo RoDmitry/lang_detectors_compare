@@ -56,6 +56,7 @@ fn alphabet_detect(
 fn langram_detect_max_trigrams(
     texts: &[String],
     languages: &AHashSet<ScriptLanguage>,
+    distance: f64,
 ) -> Vec<Option<ScriptLanguage>> {
     let detector = LangramDetectorBuilder::new(&LANGRAM_MODELS)
         .languages(languages.clone().into())
@@ -63,22 +64,25 @@ fn langram_detect_max_trigrams(
         .build();
     texts
         .par_iter()
-        .map(|text| detector.detect_top_one(text, 0.0))
+        .map(|text| detector.detect_top_one(text, distance))
         .collect()
 }
 
 fn langram_detect_all_ngrams(
     texts: &[String],
     languages: &AHashSet<ScriptLanguage>,
+    distance: f64,
 ) -> Vec<Option<ScriptLanguage>> {
     let detector = LangramDetectorBuilder::new(&LANGRAM_MODELS)
         .languages(languages.clone().into())
         .build();
     texts
         .par_iter()
-        .map(|text| detector.detect_top_one(text, 0.0))
+        .map(|text| detector.detect_top_one(text, distance))
         .collect()
 }
+
+const REORDER_DISTANCE: f64 = 0.2;
 
 fn lingua_detect_high_accuracy(
     texts: &[String],
@@ -329,7 +333,7 @@ fn main() {
                 .join("max_trigrams"),
         ),
         &languages,
-        langram_detect_max_trigrams,
+        |t, l| langram_detect_max_trigrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -343,7 +347,27 @@ fn main() {
                 .join("all_ngrams"),
         ),
         &languages,
-        langram_detect_all_ngrams,
+        |t, l| langram_detect_all_ngrams(t, l, 0.0),
+        &langs_texts,
+        &langs_word_pairs,
+        &langs_single_words,
+    );
+
+    let langram_max_trigrams_02_statistics = collect_statistics(
+        "langram_max_trigrams_0.2",
+        None,
+        &languages,
+        |t, l| langram_detect_max_trigrams(t, l, REORDER_DISTANCE),
+        &langs_texts,
+        &langs_word_pairs,
+        &langs_single_words,
+    );
+
+    let langram_all_ngrams_02_statistics = collect_statistics(
+        "langram_all_ngrams_0.2",
+        None,
+        &languages,
+        |t, l| langram_detect_all_ngrams(t, l, REORDER_DISTANCE),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -364,12 +388,22 @@ fn main() {
             "langram_all_ngrams_avg",
             "langram_all_ngrams_word",
             "langram_all_ngrams_2words",
-            "langram_all_ngrams_text\n",
+            "langram_all_ngrams_text",
+            "langram_max_3grams_0.2_avg",
+            "langram_max_3grams_0.2_word",
+            "langram_max_3grams_0.2_2words",
+            "langram_max_3grams_0.2_text",
+            "langram_all_ngrams_0.2_avg",
+            "langram_all_ngrams_0.2_word",
+            "langram_all_ngrams_0.2_2words",
+            "langram_all_ngrams_0.2_text\n",
         ],
         &[
             alphabet_detector_statistics,
             langram_max_trigrams_statistics,
             langram_all_ngrams_statistics,
+            langram_max_trigrams_02_statistics,
+            langram_all_ngrams_02_statistics,
         ],
         ScriptLanguage::iter().filter(|l| langs_texts.contains_key(l)),
     );
@@ -394,7 +428,7 @@ fn main() {
         "langram_max_trigrams",
         None,
         &languages,
-        langram_detect_max_trigrams,
+        |t, l| langram_detect_max_trigrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -404,7 +438,7 @@ fn main() {
         "langram_all_ngrams",
         None,
         &languages,
-        langram_detect_all_ngrams,
+        |t, l| langram_detect_all_ngrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -456,7 +490,7 @@ fn main() {
         "langram_max_trigrams",
         None,
         &languages,
-        langram_detect_max_trigrams,
+        |t, l| langram_detect_max_trigrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -466,7 +500,7 @@ fn main() {
         "langram_all_ngrams",
         None,
         &languages,
-        langram_detect_all_ngrams,
+        |t, l| langram_detect_all_ngrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -517,7 +551,7 @@ fn main() {
         "langram_max_trigrams",
         None,
         &languages,
-        langram_detect_max_trigrams,
+        |t, l| langram_detect_max_trigrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,
@@ -527,7 +561,7 @@ fn main() {
         "langram_all_ngrams",
         None,
         &languages,
-        langram_detect_all_ngrams,
+        |t, l| langram_detect_all_ngrams(t, l, 0.0),
         &langs_texts,
         &langs_word_pairs,
         &langs_single_words,

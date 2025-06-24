@@ -1,14 +1,14 @@
 ##### PersianWestern #####
 
->>> Accuracy on average: 85.55%
+>>> Accuracy on average: 85.56%
 
->> Detection of 9491 single words (average length: 5 chars)
-Accuracy: 70.76%
-Erroneously classified as Urdu: 14.7%, Arabic: 13.14%, Unknown: 1.38%
+>> Detection of 9485 single words (average length: 5 chars)
+Accuracy: 70.77%
+Erroneously classified as Urdu: 14.71%, Arabic: 13.12%, Unknown: 1.38%
 
->> Detection of 15553 word pairs (average length: 9 chars)
-Accuracy: 89.2%
-Erroneously classified as Urdu: 6.68%, Arabic: 4.1%, Unknown: 0.01%
+>> Detection of 15550 word pairs (average length: 9 chars)
+Accuracy: 89.22%
+Erroneously classified as Urdu: 6.68%, Arabic: 4.08%, Unknown: 0.01%
 
 >> Detection of 2000 sentences (average length: 135 chars)
 Accuracy: 96.7%

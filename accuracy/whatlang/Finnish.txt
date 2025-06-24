@@ -12,5 +12,5 @@ Erroneously classified as Estonian: 4.7%, German: 1.41%, Italian: 1.34%, Swedish
 
 >> Detection of 2000 sentences (average length: 142 chars)
 Accuracy: 89.05%
-Erroneously classified as Estonian: 1.65%, French: 0.7%, Italian: 0.7%, Latin: 0.6%, Esperanto: 0.55%, Lithuanian: 0.55%, German: 0.5%, Romanian: 0.5%, Filipino: 0.45%, Portuguese: 0.45%, Slovene: 0.45%, Afrikaans: 0.4%, Swedish: 0.4%, Croatian: 0.3%, Javanese: 0.3%, UzbekNorthern: 0.3%, English: 0.25%, Turkish: 0.25%, Catalan: 0.2%, Indonesian: 0.2%, Turkmen: 0.2%, Akan: 0.15%, Dutch: 0.15%, Shona: 0.15%, Spanish: 0.15%, Danish: 0.1%, Hungarian: 0.1%, Slovak: 0.1%, AzerbaijaniNorth: 0.05%, Latvian: 0.05%, NorwegianBokmal: 0.05%
+Erroneously classified as Estonian: 1.65%, French: 0.7%, Italian: 0.7%, Latin: 0.6%, Lithuanian: 0.55%, Esperanto: 0.55%, German: 0.5%, Romanian: 0.5%, Portuguese: 0.45%, Filipino: 0.45%, Slovene: 0.45%, Afrikaans: 0.4%, Swedish: 0.4%, Javanese: 0.3%, UzbekNorthern: 0.3%, Croatian: 0.3%, English: 0.25%, Turkish: 0.25%, Indonesian: 0.2%, Catalan: 0.2%, Turkmen: 0.2%, Spanish: 0.15%, Dutch: 0.15%, Shona: 0.15%, Akan: 0.15%, Hungarian: 0.1%, Slovak: 0.1%, Danish: 0.1%, AzerbaijaniNorth: 0.05%, NorwegianBokmal: 0.05%, Latvian: 0.05%
 

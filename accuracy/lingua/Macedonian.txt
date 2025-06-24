@@ -12,5 +12,5 @@ Erroneously classified as Serbian: 8.04%, Bulgarian: 7.17%, Russian: 3.42%, Ukra
 
 >> Detection of 2000 sentences (average length: 116 chars)
 Accuracy: 96.05%
-Erroneously classified as Serbian: 2.1%, Bulgarian: 0.95%, English: 0.25%, Russian: 0.25%, Ukrainian: 0.15%, MongolianHalh: 0.1%, Swahili: 0.1%, Belarusian: 0.05%
+Erroneously classified as Serbian: 2.1%, Bulgarian: 0.95%, English: 0.25%, Russian: 0.25%, Ukrainian: 0.15%, Swahili: 0.1%, MongolianHalh: 0.1%, Belarusian: 0.05%
 

@@ -12,5 +12,5 @@ Erroneously classified as Bhojpuri: 3.78%, Awadhi: 3.34%, Magahi: 3.07%, Hindi: 
 
 >> Detection of 2000 sentences (average length: 181 chars)
 Accuracy: 91%
-Erroneously classified as Hindi: 2.15%, Chhattisgarhi: 2.1%, Nepali: 1%, Magahi: 0.9%, Bhojpuri: 0.65%, KashmiriDevanagari: 0.4%, English: 0.35%, NorwegianNynorsk: 0.35%, Sanskrit: 0.35%, Awadhi: 0.25%, Marathi: 0.2%, Asturian: 0.05%, Dutch: 0.05%, Kabyle: 0.05%, Nyanja: 0.05%, TatarCrimean: 0.05%, UzbekNorthern: 0.05%
+Erroneously classified as Hindi: 2.15%, Chhattisgarhi: 2.1%, Nepali: 1%, Magahi: 0.9%, Bhojpuri: 0.65%, KashmiriDevanagari: 0.4%, English: 0.35%, NorwegianNynorsk: 0.35%, Sanskrit: 0.35%, Awadhi: 0.25%, Marathi: 0.2%, UzbekNorthern: 0.05%, Dutch: 0.05%, Nyanja: 0.05%, Kabyle: 0.05%, Asturian: 0.05%, TatarCrimean: 0.05%
 
