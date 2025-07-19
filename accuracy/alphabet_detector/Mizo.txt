@@ -1,16 +1,16 @@
 ##### Mizo #####
 
->>> Accuracy on average: 7.9%
+>>> Accuracy on average: 7.97%
 
 >> Detection of 4173 single words (average length: 6 chars)
 Accuracy: 0.02%
 Erroneously classified as Unknown: 99.97%
 
 >> Detection of 12440 word pairs (average length: 10 chars)
-Accuracy: 0.39%
-Erroneously classified as Unknown: 99.6%
+Accuracy: 0.4%
+Erroneously classified as Unknown: 99.59%
 
 >> Detection of 2000 sentences (average length: 99 chars)
-Accuracy: 23.3%
-Erroneously classified as Unknown: 76.45%, French: 0.15%, Romanian: 0.1%
+Accuracy: 23.5%
+Erroneously classified as Unknown: 76.25%, French: 0.15%, Romanian: 0.1%
 

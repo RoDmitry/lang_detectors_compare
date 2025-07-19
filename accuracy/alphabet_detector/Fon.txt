@@ -1,14 +1,14 @@
 ##### Fon #####
 
->>> Accuracy on average: 38.43%
+>>> Accuracy on average: 38.51%
 
 >> Detection of 2018 single words (average length: 6 chars)
-Accuracy: 6.98%
-Erroneously classified as Unknown: 92.86%, Icelandic: 0.14%
+Accuracy: 7.08%
+Erroneously classified as Unknown: 92.76%, Icelandic: 0.14%
 
 >> Detection of 9275 word pairs (average length: 8 chars)
-Accuracy: 17.22%
-Erroneously classified as Unknown: 82.71%, Icelandic: 0.05%
+Accuracy: 17.36%
+Erroneously classified as Unknown: 82.57%, Icelandic: 0.05%
 
 >> Detection of 2000 sentences (average length: 91 chars)
 Accuracy: 91.1%

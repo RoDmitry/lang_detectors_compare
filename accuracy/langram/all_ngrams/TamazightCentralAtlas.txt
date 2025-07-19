@@ -3,8 +3,8 @@
 >>> Accuracy on average: 93.84%
 
 >> Detection of 12407 single words (average length: 6 chars)
-Accuracy: 89.27%
-Erroneously classified as TamasheqTifinagh: 10.72%
+Accuracy: 89.28%
+Erroneously classified as TamasheqTifinagh: 10.71%
 
 >> Detection of 16084 word pairs (average length: 10 chars)
 Accuracy: 92.3%

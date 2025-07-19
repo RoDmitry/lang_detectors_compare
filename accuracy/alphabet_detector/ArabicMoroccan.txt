@@ -1,0 +1,16 @@
+##### ArabicMoroccan #####
+
+>>> Accuracy on average: 0.3%
+
+>> Detection of 8897 single words (average length: 6 chars)
+Accuracy: 0.01%
+Erroneously classified as Unknown: 99.98%
+
+>> Detection of 17783 word pairs (average length: 10 chars)
+Accuracy: 0.11%
+Erroneously classified as Unknown: 99.88%
+
+>> Detection of 2000 sentences (average length: 61 chars)
+Accuracy: 0.8%
+Erroneously classified as Unknown: 99.15%, BanjarJawi: 0.05%
+

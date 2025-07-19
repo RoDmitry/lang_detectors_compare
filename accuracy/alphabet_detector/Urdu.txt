@@ -2,7 +2,7 @@
 
 >>> Accuracy on average: 0.37%
 
->> Detection of 6065 single words (average length: 5 chars)
+>> Detection of 6064 single words (average length: 5 chars)
 Accuracy: 0%
 Erroneously classified as Unknown: 100%
 
@@ -12,5 +12,5 @@ Erroneously classified as Unknown: 99.97%
 
 >> Detection of 2000 sentences (average length: 93 chars)
 Accuracy: 1.1%
-Erroneously classified as Unknown: 98.9%
+Erroneously classified as Unknown: 98.85%, Kashmiri: 0.05%
 

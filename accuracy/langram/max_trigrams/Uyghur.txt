@@ -2,7 +2,7 @@
 
 >>> Accuracy on average: 99.53%
 
->> Detection of 13554 single words (average length: 8 chars)
+>> Detection of 13556 single words (average length: 8 chars)
 Accuracy: 98.66%
 Erroneously classified as KurdishCentral: 0.28%, AzerbaijaniSouth: 0.18%, PersianWestern: 0.13%, AcehneseJawi: 0.11%, PashtoSouthern: 0.08%, BanjarJawi: 0.08%, ArabicTunisian: 0.07%, Arabic: 0.05%, Sindhi: 0.05%, PersianDari: 0.04%, KanuriCentralAjami: 0.04%, ArabicNorthLevantine: 0.03%, ArabicMesopotamian: 0.02%, ArabicSouthernYemeni: 0.02%, ArabicEgyptian: 0.02%, ArabicMoroccan: 0.02%, ArabicNajdi: 0.02%, Urdu: 0.01%, Kashmiri: 0%
 

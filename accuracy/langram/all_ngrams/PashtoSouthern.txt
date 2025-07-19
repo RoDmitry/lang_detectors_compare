@@ -2,9 +2,9 @@
 
 >>> Accuracy on average: 90.23%
 
->> Detection of 18513 single words (average length: 5 chars)
+>> Detection of 18512 single words (average length: 5 chars)
 Accuracy: 75.53%
-Erroneously classified as PersianWestern: 4.99%, PersianDari: 3.59%, Sindhi: 2.1%, Urdu: 2.09%, AzerbaijaniSouth: 1.77%, ArabicEgyptian: 1.15%, Kashmiri: 1.13%, Arabic: 0.86%, ArabicSouthLevantine: 0.85%, ArabicNorthLevantine: 0.81%, KurdishCentral: 0.81%, KanuriCentralAjami: 0.74%, ArabicTunisian: 0.66%, ArabicNajdi: 0.6%, ArabicMoroccan: 0.55%, AcehneseJawi: 0.52%, BanjarJawi: 0.47%, ArabicMesopotamian: 0.32%, ArabicSouthernYemeni: 0.3%, Uyghur: 0.06%
+Erroneously classified as PersianWestern: 4.99%, PersianDari: 3.6%, Sindhi: 2.1%, Urdu: 2.09%, AzerbaijaniSouth: 1.77%, ArabicEgyptian: 1.15%, Kashmiri: 1.13%, Arabic: 0.86%, ArabicSouthLevantine: 0.85%, ArabicNorthLevantine: 0.81%, KurdishCentral: 0.81%, KanuriCentralAjami: 0.74%, ArabicTunisian: 0.66%, ArabicNajdi: 0.6%, ArabicMoroccan: 0.55%, AcehneseJawi: 0.52%, BanjarJawi: 0.47%, ArabicMesopotamian: 0.32%, ArabicSouthernYemeni: 0.3%, Uyghur: 0.06%
 
 >> Detection of 13686 word pairs (average length: 8 chars)
 Accuracy: 95.27%

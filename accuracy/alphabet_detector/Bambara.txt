@@ -12,5 +12,5 @@ Erroneously classified as Unknown: 99.92%
 
 >> Detection of 2000 sentences (average length: 109 chars)
 Accuracy: 2.4%
-Erroneously classified as Unknown: 93.95%, Dyula: 1.5%, Fon: 1.5%, French: 0.5%, Vietnamese: 0.05%, Afrikaans: 0.05%, TamasheqLatin: 0.05%
+Erroneously classified as Unknown: 94%, Dyula: 1.5%, Fon: 1.5%, French: 0.5%, Vietnamese: 0.05%, Afrikaans: 0.05%
 

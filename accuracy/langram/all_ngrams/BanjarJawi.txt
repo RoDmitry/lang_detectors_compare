@@ -2,13 +2,13 @@
 
 >>> Accuracy on average: 91.4%
 
->> Detection of 11665 single words (average length: 7 chars)
-Accuracy: 81.48%
-Erroneously classified as AcehneseJawi: 13.09%, KurdishCentral: 1.19%, KanuriCentralAjami: 0.87%, ArabicEgyptian: 0.29%, ArabicMoroccan: 0.29%, PersianWestern: 0.28%, Sindhi: 0.27%, ArabicNorthLevantine: 0.24%, ArabicSouthernYemeni: 0.2%, Arabic: 0.18%, ArabicMesopotamian: 0.18%, PersianDari: 0.18%, AzerbaijaniSouth: 0.18%, PashtoSouthern: 0.17%, ArabicTunisian: 0.17%, Kashmiri: 0.16%, ArabicSouthLevantine: 0.15%, Uyghur: 0.12%, Urdu: 0.12%, ArabicNajdi: 0.12%
+>> Detection of 11701 single words (average length: 7 chars)
+Accuracy: 81.49%
+Erroneously classified as AcehneseJawi: 13.1%, KurdishCentral: 1.18%, KanuriCentralAjami: 0.87%, ArabicEgyptian: 0.29%, ArabicMoroccan: 0.29%, PersianWestern: 0.28%, Sindhi: 0.26%, ArabicNorthLevantine: 0.24%, ArabicSouthernYemeni: 0.2%, Arabic: 0.18%, ArabicMesopotamian: 0.18%, PersianDari: 0.17%, AzerbaijaniSouth: 0.17%, PashtoSouthern: 0.17%, ArabicTunisian: 0.17%, Kashmiri: 0.16%, ArabicSouthLevantine: 0.15%, Uyghur: 0.12%, Urdu: 0.11%, ArabicNajdi: 0.11%
 
->> Detection of 17423 word pairs (average length: 12 chars)
-Accuracy: 92.72%
-Erroneously classified as AcehneseJawi: 6.66%, KanuriCentralAjami: 0.17%, KurdishCentral: 0.1%, ArabicEgyptian: 0.05%, PersianWestern: 0.05%, PashtoSouthern: 0.04%, ArabicMoroccan: 0.03%, Sindhi: 0.02%, PersianDari: 0.01%, AzerbaijaniSouth: 0.01%, ArabicSouthernYemeni: 0.01%, Kashmiri: 0.01%, Urdu: 0.01%, ArabicSouthLevantine: 0.01%, ArabicNajdi: 0.01%, ArabicTunisian: 0%
+>> Detection of 17442 word pairs (average length: 12 chars)
+Accuracy: 92.71%
+Erroneously classified as AcehneseJawi: 6.68%, KanuriCentralAjami: 0.17%, KurdishCentral: 0.1%, ArabicEgyptian: 0.05%, PersianWestern: 0.05%, PashtoSouthern: 0.04%, ArabicMoroccan: 0.03%, Sindhi: 0.02%, PersianDari: 0.01%, AzerbaijaniSouth: 0.01%, ArabicSouthernYemeni: 0.01%, Kashmiri: 0.01%, Urdu: 0.01%, ArabicSouthLevantine: 0.01%, ArabicNajdi: 0.01%, ArabicTunisian: 0%
 
 >> Detection of 2000 sentences (average length: 128 chars)
 Accuracy: 100%
