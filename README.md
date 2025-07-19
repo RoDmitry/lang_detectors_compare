@@ -2,14 +2,14 @@
 
 Look inside the [`accuracy` folder](https://github.com/RoDmitry/lang_detectors_compare/tree/main/accuracy).
 
-### Speed
+### Detection Speed (Time)
 
-| Language count | Alphabet detector | Langram max trigrams  | Langram all ngrams | Lingua high | Whatlang | Whichlang |
+| Languages count | Alphabet detector | Langram max trigrams  | Langram all ngrams | Lingua high | Whatlang | Whichlang |
 | --------------- | ------- | -------- | -------- | -------- | ------- | ------- |
-|  16             |         |  0.497 s |  0.733 s |          |         | 0.026 s |
-|  69             |         |  4.566 s |  7.048 s |          | 8.219 s |
-|  74             |         |  7.870 s | 12.298 s | 58.387 s |
-| 201 (unlimited) | 1.901 s | 49.497 s | 71.874 s |
+|  16             |         |  0.47 s  |  0.733 s |          |         | 0.026 s |
+|  69             |         |  3.703 s |  6.952 s |          | 8.219 s |
+|  74             |         |  6.074 s | 11.932 s | 54.346 s |
+| 201 (unlimited) | 1.825 s | 34.963 s | 67.51 s  |
 
 > Note: 69 are different languages from 74, so they are fast detected by `alphabet_detector`.
 CPU: Intel 9700K.

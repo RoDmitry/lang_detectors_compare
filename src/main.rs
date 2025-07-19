@@ -325,6 +325,9 @@ fn main() {
         &langs_single_words,
     );
 
+    // force initialize
+    LazyLock::force(&LANGRAM_MODELS);
+
     let langram_max_trigrams_statistics = collect_statistics(
         "langram_max_trigrams",
         Some(
@@ -414,6 +417,9 @@ fn main() {
         .filter(|&l| l != ScriptLanguage::Latin)
         .collect();
 
+    // force initialize
+    LazyLock::force(&LINGUA_DETECTOR_HIGH_ACCURACY);
+
     let lingua_statistics = collect_statistics(
         "lingua",
         Some(accuracy_reports_directory.join("lingua")),
@@ -475,6 +481,9 @@ fn main() {
         .copied()
         .filter_map(map_whatlang)
         .collect();
+
+    // force initialize
+    LazyLock::force(&WHATLANG_DETECTOR);
 
     let whatlang_statistics = collect_statistics(
         "whatlang",
