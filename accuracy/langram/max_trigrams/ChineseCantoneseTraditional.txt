@@ -1,6 +1,6 @@
 ##### ChineseCantoneseTraditional #####
 
->>> Accuracy on average: 65.45%
+>>> Accuracy on average: 65.46%
 
 >> Detection of 3043 single words (average length: 1 chars)
 Accuracy: 30.59%
@@ -11,6 +11,6 @@ Accuracy: 66.81%
 Erroneously classified as ChineseMandarinTraditional: 16.98%, Japanese: 9.45%, ChineseMandarinSimplified: 5.23%, Korean: 1.51%
 
 >> Detection of 2000 sentences (average length: 39 chars)
-Accuracy: 98.95%
-Erroneously classified as Japanese: 0.3%, English: 0.25%, ChineseMandarinSimplified: 0.15%, Indonesian: 0.05%, German: 0.05%, Czech: 0.05%, Swedish: 0.05%, MalgasyPlateau: 0.05%, OromoWestCentral: 0.05%, Estonian: 0.05%
+Accuracy: 99%
+Erroneously classified as Japanese: 0.3%, English: 0.25%, ChineseMandarinSimplified: 0.15%, Indonesian: 0.05%, German: 0.05%, Czech: 0.05%, Swedish: 0.05%, OromoWestCentral: 0.05%, Estonian: 0.05%
 

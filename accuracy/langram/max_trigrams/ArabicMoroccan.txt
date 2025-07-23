@@ -1,6 +1,6 @@
 ##### ArabicMoroccan #####
 
->>> Accuracy on average: 68.76%
+>>> Accuracy on average: 68.89%
 
 >> Detection of 8897 single words (average length: 6 chars)
 Accuracy: 49.42%
@@ -11,6 +11,6 @@ Accuracy: 65.31%
 Erroneously classified as Arabic: 16.38%, ArabicEgyptian: 4.77%, ArabicTunisian: 3.52%, ArabicNajdi: 2.84%, ArabicMesopotamian: 1.92%, ArabicNorthLevantine: 1.6%, ArabicSouthernYemeni: 1.49%, ArabicSouthLevantine: 1.42%, KanuriCentralAjami: 0.16%, AcehneseJawi: 0.15%, PersianWestern: 0.1%, PersianDari: 0.1%, BanjarJawi: 0.06%, Sindhi: 0.05%, AzerbaijaniSouth: 0.02%, PashtoSouthern: 0.02%, Urdu: 0%, KurdishCentral: 0%
 
 >> Detection of 2000 sentences (average length: 61 chars)
-Accuracy: 91.55%
-Erroneously classified as Arabic: 4.35%, ArabicTunisian: 1.45%, ArabicNajdi: 0.8%, ArabicMesopotamian: 0.5%, ArabicSouthLevantine: 0.45%, ArabicEgyptian: 0.3%, ArabicNorthLevantine: 0.3%, ArabicSouthernYemeni: 0.2%, PersianWestern: 0.05%, KurdishCentral: 0.05%
+Accuracy: 91.95%
+Erroneously classified as Arabic: 4.05%, ArabicTunisian: 1.45%, ArabicNajdi: 0.8%, ArabicSouthLevantine: 0.45%, ArabicMesopotamian: 0.45%, ArabicNorthLevantine: 0.3%, ArabicEgyptian: 0.25%, ArabicSouthernYemeni: 0.2%, PersianWestern: 0.05%, KurdishCentral: 0.05%
 

@@ -1,6 +1,6 @@
 ##### ArabicMesopotamian #####
 
->>> Accuracy on average: 76.69%
+>>> Accuracy on average: 76.79%
 
 >> Detection of 3914 single words (average length: 5 chars)
 Accuracy: 54.62%
@@ -11,6 +11,6 @@ Accuracy: 78.51%
 Erroneously classified as ArabicSouthernYemeni: 8.33%, ArabicNajdi: 2.42%, ArabicNorthLevantine: 2.26%, ArabicSouthLevantine: 2.18%, Arabic: 1.7%, ArabicMoroccan: 1.69%, ArabicEgyptian: 1.39%, ArabicTunisian: 1.04%, Sindhi: 0.08%, BanjarJawi: 0.07%, KanuriCentralAjami: 0.06%, AcehneseJawi: 0.05%, AzerbaijaniSouth: 0.04%, PersianDari: 0.03%, PersianWestern: 0.02%, Urdu: 0.01%, PashtoSouthern: 0.01%, Kashmiri: 0.01%
 
 >> Detection of 2000 sentences (average length: 31 chars)
-Accuracy: 96.95%
-Erroneously classified as ArabicSouthernYemeni: 1.3%, ArabicNorthLevantine: 0.35%, ArabicNajdi: 0.35%, ArabicSouthLevantine: 0.3%, ArabicMoroccan: 0.3%, Arabic: 0.2%, ArabicEgyptian: 0.15%, PersianWestern: 0.05%, Sindhi: 0.05%
+Accuracy: 97.25%
+Erroneously classified as ArabicSouthernYemeni: 1.3%, ArabicNorthLevantine: 0.35%, ArabicNajdi: 0.3%, ArabicSouthLevantine: 0.25%, Arabic: 0.2%, ArabicEgyptian: 0.15%, ArabicMoroccan: 0.1%, PersianWestern: 0.05%, Sindhi: 0.05%
 

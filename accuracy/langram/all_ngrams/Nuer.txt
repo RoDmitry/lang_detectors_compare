@@ -1,6 +1,6 @@
 ##### Nuer #####
 
->>> Accuracy on average: 92.96%
+>>> Accuracy on average: 93.05%
 
 >> Detection of 7652 single words (average length: 7 chars)
 Accuracy: 82.78%
@@ -8,9 +8,9 @@ Erroneously classified as DinkaSouthwestern: 2.05%, English: 1.64%, Buginese: 0.
 
 >> Detection of 13801 word pairs (average length: 9 chars)
 Accuracy: 96.76%
-Erroneously classified as DinkaSouthwestern: 0.65%, Bambara: 0.34%, English: 0.27%, KanuriCentral: 0.15%, Fon: 0.12%, Dyula: 0.1%, Wolof: 0.08%, QuechuaAyacucho: 0.07%, Sardinian: 0.06%, Mizo: 0.06%, TamasheqLatin: 0.06%, Buginese: 0.05%, French: 0.05%, KurdishNorthern: 0.04%, Limburgish: 0.04%, Kabiye: 0.04%, Malay: 0.03%, Somali: 0.03%, Romanian: 0.03%, Sesotho: 0.03%, Catalan: 0.03%, TokPisin: 0.03%, Venetian: 0.03%, Sicilian: 0.02%, Esperanto: 0.02%, German: 0.02%, Hausa: 0.02%, Italian: 0.02%, Polish: 0.02%, Dutch: 0.02%, FulfuldeNigerian: 0.02%, Ewe: 0.02%, Dholuo: 0.02%, Acehnese: 0.02%, Occitan: 0.02%, Sango: 0.02%, Friulian: 0.02%, Maltese: 0.02%, Maori: 0.02%, Spanish: 0.01%, Mossi: 0.01%, Ilocano: 0.01%, Tsonga: 0.01%, Lombard: 0.01%, Twi: 0.01%, Pangasinan: 0.01%, AymaraCentral: 0.01%, Jingpho: 0.01%, Welsh: 0.01%, Asturian: 0.01%, Indonesian: 0%, Portuguese: 0%, Swahili: 0%, Turkish: 0%, UzbekNorthern: 0%, Afrikaans: 0%, Sepedi: 0%, Shona: 0%, Czech: 0%, Swedish: 0%, OromoWestCentral: 0%, Turkmen: 0%, Tumbuka: 0%, Umbundu: 0%, Kikuyu: 0%, Guarani: 0%, Minangkabau: 0%, Danish: 0%, Finnish: 0%, Bemba: 0%, Kabyle: 0%, AlbanianTosk: 0%, Irish: 0%, Kimbundu: 0%, Kabuverdianu: 0%, Fijian: 0%, Luxembourgish: 0%, Papiamento: 0%, GaelicScottish: 0%
+Erroneously classified as DinkaSouthwestern: 0.65%, Bambara: 0.34%, English: 0.27%, KanuriCentral: 0.15%, Fon: 0.12%, Dyula: 0.1%, Wolof: 0.08%, QuechuaAyacucho: 0.07%, Sardinian: 0.06%, Mizo: 0.06%, TamasheqLatin: 0.06%, French: 0.05%, Buginese: 0.05%, KurdishNorthern: 0.04%, Limburgish: 0.04%, Kabiye: 0.04%, Malay: 0.03%, Somali: 0.03%, Romanian: 0.03%, Sesotho: 0.03%, Catalan: 0.03%, TokPisin: 0.03%, Venetian: 0.03%, Sicilian: 0.02%, Esperanto: 0.02%, German: 0.02%, Hausa: 0.02%, Italian: 0.02%, Polish: 0.02%, Dutch: 0.02%, FulfuldeNigerian: 0.02%, Ewe: 0.02%, Dholuo: 0.02%, Acehnese: 0.02%, Occitan: 0.02%, Sango: 0.02%, Friulian: 0.02%, Maltese: 0.02%, Maori: 0.02%, Spanish: 0.01%, Mossi: 0.01%, Ilocano: 0.01%, Tsonga: 0.01%, Lombard: 0.01%, Twi: 0.01%, Pangasinan: 0.01%, AymaraCentral: 0.01%, Jingpho: 0.01%, Welsh: 0.01%, Asturian: 0.01%, Indonesian: 0%, Portuguese: 0%, Swahili: 0%, Turkish: 0%, UzbekNorthern: 0%, Afrikaans: 0%, Sepedi: 0%, Shona: 0%, Czech: 0%, Swedish: 0%, OromoWestCentral: 0%, Turkmen: 0%, Tumbuka: 0%, Umbundu: 0%, Kikuyu: 0%, Guarani: 0%, Minangkabau: 0%, Danish: 0%, Finnish: 0%, Bemba: 0%, Kabyle: 0%, AlbanianTosk: 0%, Irish: 0%, Kimbundu: 0%, Kabuverdianu: 0%, Fijian: 0%, Luxembourgish: 0%, Papiamento: 0%, GaelicScottish: 0%
 
 >> Detection of 2000 sentences (average length: 153 chars)
-Accuracy: 99.35%
-Erroneously classified as English: 0.3%, Bambara: 0.15%, French: 0.05%, Finnish: 0.05%, Limburgish: 0.05%, Luxembourgish: 0.05%
+Accuracy: 99.6%
+Erroneously classified as English: 0.25%, French: 0.05%, Bambara: 0.05%, Luxembourgish: 0.05%
 

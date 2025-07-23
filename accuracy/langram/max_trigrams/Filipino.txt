@@ -1,6 +1,6 @@
 ##### Filipino #####
 
->>> Accuracy on average: 85.09%
+>>> Accuracy on average: 85.15%
 
 >> Detection of 6785 single words (average length: 8 chars)
 Accuracy: 67.91%
@@ -11,6 +11,6 @@ Accuracy: 88.06%
 Erroneously classified as Cebuano: 4.31%, Pangasinan: 1.16%, Waray: 1.14%, English: 0.83%, Sardinian: 0.26%, Ilocano: 0.25%, Papiamento: 0.19%, Banjar: 0.16%, Swahili: 0.12%, Fijian: 0.12%, QuechuaAyacucho: 0.11%, Spanish: 0.09%, Sesotho: 0.09%, Galician: 0.09%, Samoan: 0.09%, NorwegianBokmal: 0.08%, Venetian: 0.08%, Hausa: 0.07%, Malay: 0.07%, CreoleHaitian: 0.07%, Sicilian: 0.07%, Asturian: 0.07%, Mizo: 0.06%, Occitan: 0.06%, Maori: 0.06%, Italian: 0.05%, Somali: 0.05%, Wolof: 0.05%, Sepedi: 0.05%, Tswana: 0.05%, Dholuo: 0.05%, Buginese: 0.05%, Luxembourgish: 0.05%, French: 0.05%, Portuguese: 0.05%, Dutch: 0.05%, Minangkabau: 0.05%, Esperanto: 0.05%, AymaraCentral: 0.05%, Sango: 0.05%, GaelicScottish: 0.05%, Lingala: 0.04%, Afrikaans: 0.04%, Bambara: 0.04%, Sundanese: 0.03%, Dyula: 0.03%, KanuriCentral: 0.03%, Acehnese: 0.03%, Limburgish: 0.03%, Indonesian: 0.02%, Javanese: 0.02%, Romanian: 0.02%, Kinyarwanda: 0.02%, Tsonga: 0.02%, Swati: 0.02%, NorwegianNynorsk: 0.02%, Lithuanian: 0.02%, Ligurian: 0.02%, UzbekNorthern: 0.02%, Xhosa: 0.02%, Catalan: 0.02%, Tumbuka: 0.02%, Kikuyu: 0.02%, Danish: 0.02%, Bemba: 0.02%, TokPisin: 0.02%, Kabyle: 0.02%, Twi: 0.02%, Irish: 0.02%, Basque: 0.02%, Welsh: 0.02%, Friulian: 0.02%, Faroese: 0.02%, Turkish: 0.01%, Polish: 0.01%, KikongoKituba: 0.01%, Shona: 0.01%, Swedish: 0.01%, Mossi: 0.01%, MalgasyPlateau: 0.01%, Slovak: 0.01%, Balinese: 0.01%, Bosnian: 0.01%, Slovene: 0.01%, Chokwe: 0.01%, AlbanianTosk: 0.01%, Kimbundu: 0.01%, Jingpho: 0.01%, TamasheqLatin: 0.01%, Igbo: 0%, FulfuldeNigerian: 0%, LubaKasai: 0%, Rundi: 0%, OromoWestCentral: 0%, Turkmen: 0%, Croatian: 0%, Kamba: 0%, Ewe: 0%, Lombard: 0%, Kabuverdianu: 0%, Maltese: 0%, TatarCrimean: 0%
 
 >> Detection of 2000 sentences (average length: 115 chars)
-Accuracy: 99.3%
-Erroneously classified as Cebuano: 0.2%, English: 0.15%, Lingala: 0.05%, Romanian: 0.05%, Guarani: 0.05%, Venetian: 0.05%, Waray: 0.05%, Pangasinan: 0.05%, Ligurian: 0.05%
+Accuracy: 99.5%
+Erroneously classified as English: 0.15%, Cebuano: 0.15%, Venetian: 0.05%, Waray: 0.05%, Pangasinan: 0.05%, Ligurian: 0.05%
 

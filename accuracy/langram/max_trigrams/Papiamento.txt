@@ -1,6 +1,6 @@
 ##### Papiamento #####
 
->>> Accuracy on average: 78.96%
+>>> Accuracy on average: 79%
 
 >> Detection of 4936 single words (average length: 7 chars)
 Accuracy: 55.49%
@@ -11,6 +11,6 @@ Accuracy: 83.31%
 Erroneously classified as Spanish: 1.57%, Kabuverdianu: 1.12%, Galician: 1.09%, Italian: 0.83%, Portuguese: 0.67%, Pangasinan: 0.53%, QuechuaAyacucho: 0.52%, Venetian: 0.45%, Occitan: 0.43%, Asturian: 0.43%, Sicilian: 0.42%, Hausa: 0.39%, Ilocano: 0.33%, Catalan: 0.28%, Sardinian: 0.27%, TokPisin: 0.26%, Maori: 0.26%, Friulian: 0.24%, Minangkabau: 0.23%, English: 0.2%, Bemba: 0.2%, Kimbundu: 0.2%, Fijian: 0.2%, CreoleHaitian: 0.18%, Sundanese: 0.16%, Banjar: 0.16%, Romanian: 0.15%, Dutch: 0.14%, Filipino: 0.13%, Waray: 0.13%, Indonesian: 0.12%, Cebuano: 0.12%, Tsonga: 0.12%, Basque: 0.12%, Samoan: 0.12%, NorwegianNynorsk: 0.12%, Sesotho: 0.11%, Lombard: 0.11%, Sango: 0.11%, Dyula: 0.1%, Limburgish: 0.1%, Mizo: 0.1%, Buginese: 0.09%, Swahili: 0.09%, Tswana: 0.09%, Guarani: 0.09%, Luxembourgish: 0.09%, Umbundu: 0.08%, Welsh: 0.08%, Ligurian: 0.08%, GaelicScottish: 0.07%, NorwegianBokmal: 0.06%, Esperanto: 0.06%, German: 0.06%, Javanese: 0.06%, KikongoKituba: 0.06%, Danish: 0.06%, Dholuo: 0.06%, Bosnian: 0.06%, Malay: 0.05%, Afrikaans: 0.05%, Bambara: 0.05%, Rundi: 0.05%, Acehnese: 0.05%, Twi: 0.05%, Chokwe: 0.05%, DinkaSouthwestern: 0.05%, Silesian: 0.05%, Yoruba: 0.04%, Ganda: 0.04%, AymaraCentral: 0.04%, Jingpho: 0.04%, TamasheqLatin: 0.04%, French: 0.03%, Lingala: 0.03%, Wolof: 0.03%, KurdishNorthern: 0.03%, Sepedi: 0.03%, LubaKasai: 0.03%, Nuer: 0.03%, Maltese: 0.03%, Xhosa: 0.03%, FulfuldeNigerian: 0.03%, Kinyarwanda: 0.03%, Swedish: 0.03%, KanuriCentral: 0.03%, Croatian: 0.03%, Ewe: 0.03%, Latgalian: 0.03%, UzbekNorthern: 0.02%, Somali: 0.02%, MalgasyPlateau: 0.02%, OromoWestCentral: 0.02%, Kikuyu: 0.02%, Kamba: 0.02%, Kabyle: 0.02%, Slovene: 0.02%, Latvian: 0.02%, Estonian: 0.02%, Turkish: 0.01%, Zulu: 0.01%, Shona: 0.01%, Mossi: 0.01%, Turkmen: 0.01%, Tumbuka: 0.01%, Nyanja: 0.01%, AlbanianTosk: 0.01%, Irish: 0.01%, Faroese: 0.01%, TatarCrimean: 0.01%, Polish: 0%, AzerbaijaniNorth: 0%, Balinese: 0%, Lithuanian: 0%
 
 >> Detection of 2000 sentences (average length: 92 chars)
-Accuracy: 98.1%
-Erroneously classified as Spanish: 0.2%, Dutch: 0.15%, Asturian: 0.15%, English: 0.1%, Portuguese: 0.1%, Venetian: 0.1%, Kabuverdianu: 0.1%, Silesian: 0.1%, Indonesian: 0.05%, Hausa: 0.05%, Polish: 0.05%, Malay: 0.05%, KurdishNorthern: 0.05%, Shona: 0.05%, Ilocano: 0.05%, Croatian: 0.05%, Sicilian: 0.05%, Dholuo: 0.05%, Buginese: 0.05%, Slovene: 0.05%, Galician: 0.05%, Esperanto: 0.05%, Pangasinan: 0.05%, Latvian: 0.05%, Sardinian: 0.05%, Luxembourgish: 0.05%
+Accuracy: 98.2%
+Erroneously classified as Spanish: 0.25%, Dutch: 0.15%, English: 0.1%, Kabuverdianu: 0.1%, Asturian: 0.1%, Silesian: 0.1%, Indonesian: 0.05%, Portuguese: 0.05%, Hausa: 0.05%, Polish: 0.05%, Malay: 0.05%, KurdishNorthern: 0.05%, Shona: 0.05%, Ilocano: 0.05%, Croatian: 0.05%, Sicilian: 0.05%, Dholuo: 0.05%, Buginese: 0.05%, Venetian: 0.05%, Slovene: 0.05%, Galician: 0.05%, Esperanto: 0.05%, Pangasinan: 0.05%, Latvian: 0.05%, Sardinian: 0.05%, Luxembourgish: 0.05%
 

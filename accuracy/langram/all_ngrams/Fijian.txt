@@ -1,6 +1,6 @@
 ##### Fijian #####
 
->>> Accuracy on average: 89.49%
+>>> Accuracy on average: 89.55%
 
 >> Detection of 2879 single words (average length: 7 chars)
 Accuracy: 76.2%
@@ -11,6 +11,6 @@ Accuracy: 93.42%
 Erroneously classified as Samoan: 0.67%, Maori: 0.61%, English: 0.38%, Tswana: 0.34%, Sango: 0.21%, Kimbundu: 0.15%, Jingpho: 0.14%, Hausa: 0.13%, Filipino: 0.13%, Sepedi: 0.13%, Galician: 0.13%, Sesotho: 0.12%, Venetian: 0.12%, KikongoKituba: 0.11%, Umbundu: 0.1%, Swahili: 0.09%, TokPisin: 0.09%, Sardinian: 0.09%, Cebuano: 0.08%, FulfuldeNigerian: 0.08%, Italian: 0.07%, Ewe: 0.07%, Igbo: 0.06%, Bambara: 0.06%, Dyula: 0.06%, CreoleHaitian: 0.06%, Luxembourgish: 0.06%, Indonesian: 0.05%, Romanian: 0.05%, Minangkabau: 0.05%, Sicilian: 0.05%, Bemba: 0.05%, Buginese: 0.05%, UzbekNorthern: 0.04%, Lingala: 0.04%, Afrikaans: 0.04%, Kinyarwanda: 0.04%, Catalan: 0.04%, Kamba: 0.04%, Swati: 0.04%, Dholuo: 0.04%, Esperanto: 0.04%, AlbanianTosk: 0.04%, Mizo: 0.04%, Asturian: 0.04%, Papiamento: 0.04%, GaelicScottish: 0.04%, French: 0.03%, Wolof: 0.03%, Shona: 0.03%, Tsonga: 0.03%, Acehnese: 0.03%, Bosnian: 0.03%, Pangasinan: 0.03%, Spanish: 0.02%, Sundanese: 0.02%, Ilocano: 0.02%, MalgasyPlateau: 0.02%, KanuriCentral: 0.02%, Tumbuka: 0.02%, Nyanja: 0.02%, NorwegianNynorsk: 0.02%, Twi: 0.02%, Slovene: 0.02%, Chokwe: 0.02%, DinkaSouthwestern: 0.02%, Latgalian: 0.02%, Malay: 0.01%, Czech: 0.01%, Ganda: 0.01%, Banjar: 0.01%, Croatian: 0.01%, Guarani: 0.01%, Finnish: 0.01%, Balinese: 0.01%, AymaraCentral: 0.01%, Limburgish: 0.01%, Occitan: 0.01%, Welsh: 0.01%, Ligurian: 0.01%, Portuguese: 0%, Turkish: 0%, Yoruba: 0%, Zulu: 0%, Dutch: 0%, KurdishNorthern: 0%, LubaKasai: 0%, Swedish: 0%, Mossi: 0%, OromoWestCentral: 0%, Slovak: 0%, Kikuyu: 0%, Danish: 0%, Lombard: 0%, Waray: 0%, Irish: 0%, Estonian: 0%, Basque: 0%, Maltese: 0%
 
 >> Detection of 2000 sentences (average length: 97 chars)
-Accuracy: 98.85%
-Erroneously classified as English: 0.25%, Shona: 0.1%, Swahili: 0.05%, Italian: 0.05%, Igbo: 0.05%, Malay: 0.05%, Cebuano: 0.05%, Wolof: 0.05%, Sepedi: 0.05%, Tswana: 0.05%, Slovak: 0.05%, TokPisin: 0.05%, Buginese: 0.05%, Venetian: 0.05%, Esperanto: 0.05%, AymaraCentral: 0.05%, Limburgish: 0.05%, Samoan: 0.05%
+Accuracy: 99.05%
+Erroneously classified as English: 0.15%, TokPisin: 0.15%, Indonesian: 0.05%, Italian: 0.05%, Igbo: 0.05%, Wolof: 0.05%, Sepedi: 0.05%, Shona: 0.05%, Ilocano: 0.05%, Tswana: 0.05%, Slovak: 0.05%, Esperanto: 0.05%, AymaraCentral: 0.05%, Limburgish: 0.05%, Samoan: 0.05%
 

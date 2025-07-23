@@ -1,6 +1,6 @@
 ##### Bemba #####
 
->>> Accuracy on average: 92.22%
+>>> Accuracy on average: 92.23%
 
 >> Detection of 6927 single words (average length: 8 chars)
 Accuracy: 83.54%
@@ -11,6 +11,6 @@ Accuracy: 93.26%
 Erroneously classified as Tumbuka: 0.7%, LubaKasai: 0.47%, Chokwe: 0.46%, English: 0.36%, Kinyarwanda: 0.32%, Swahili: 0.28%, Ganda: 0.27%, Nyanja: 0.27%, Lingala: 0.24%, Hausa: 0.21%, Rundi: 0.21%, KikongoKituba: 0.18%, Umbundu: 0.17%, Kimbundu: 0.16%, Tswana: 0.13%, Sepedi: 0.12%, Shona: 0.08%, Maori: 0.08%, Bambara: 0.07%, Tsonga: 0.07%, Sesotho: 0.06%, Twi: 0.06%, Samoan: 0.06%, Dholuo: 0.06%, Waray: 0.06%, Fijian: 0.06%, Kamba: 0.05%, Papiamento: 0.05%, Xhosa: 0.05%, Venetian: 0.05%, Pangasinan: 0.05%, Zulu: 0.04%, Buginese: 0.04%, Sardinian: 0.04%, Sango: 0.04%, Filipino: 0.03%, MalgasyPlateau: 0.03%, Sicilian: 0.03%, QuechuaAyacucho: 0.03%, Somali: 0.03%, Romanian: 0.03%, Wolof: 0.03%, KanuriCentral: 0.03%, Swati: 0.03%, Bosnian: 0.03%, Sundanese: 0.02%, Ilocano: 0.02%, Kikuyu: 0.02%, Ewe: 0.02%, Slovene: 0.02%, Asturian: 0.02%, Silesian: 0.02%, Polish: 0.01%, CreoleHaitian: 0.01%, OromoWestCentral: 0.01%, NorwegianBokmal: 0.01%, Lombard: 0.01%, Jingpho: 0.01%, French: 0.01%, Turkish: 0.01%, Italian: 0.01%, Igbo: 0.01%, Afrikaans: 0.01%, Dyula: 0.01%, Banjar: 0.01%, TokPisin: 0.01%, Galician: 0.01%, Estonian: 0.01%, Basque: 0.01%, Indonesian: 0%, Portuguese: 0%, Javanese: 0%, Cebuano: 0%, FulfuldeNigerian: 0%, Swedish: 0%, Catalan: 0%, Slovak: 0%, Guarani: 0%, Minangkabau: 0%, Balinese: 0%, Esperanto: 0%, DinkaSouthwestern: 0%, Irish: 0%, Nuer: 0%, AymaraCentral: 0%, Mizo: 0%, Kabuverdianu: 0%, Welsh: 0%, Friulian: 0%, Maltese: 0%, Latgalian: 0%, GaelicScottish: 0%
 
 >> Detection of 2000 sentences (average length: 94 chars)
-Accuracy: 99.85%
-Erroneously classified as Hausa: 0.05%, Lingala: 0.05%, Ganda: 0.05%
+Accuracy: 99.9%
+Erroneously classified as Hausa: 0.05%, Lingala: 0.05%
 

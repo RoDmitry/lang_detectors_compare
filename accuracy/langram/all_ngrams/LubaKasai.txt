@@ -1,6 +1,6 @@
 ##### LubaKasai #####
 
->>> Accuracy on average: 93.45%
+>>> Accuracy on average: 93.5%
 
 >> Detection of 5020 single words (average length: 8 chars)
 Accuracy: 85.03%
@@ -11,6 +11,6 @@ Accuracy: 96.57%
 Erroneously classified as KikongoKituba: 0.45%, Kimbundu: 0.35%, Bemba: 0.33%, Lingala: 0.15%, Chokwe: 0.14%, Tswana: 0.12%, Swahili: 0.1%, Umbundu: 0.1%, Twi: 0.1%, English: 0.08%, Dyula: 0.08%, Sepedi: 0.07%, Dholuo: 0.07%, French: 0.06%, Hausa: 0.06%, Rundi: 0.06%, Ganda: 0.06%, Tumbuka: 0.05%, Nyanja: 0.05%, Kinyarwanda: 0.04%, Tsonga: 0.04%, Papiamento: 0.03%, Maori: 0.03%, Filipino: 0.02%, Xhosa: 0.02%, Kamba: 0.02%, DinkaSouthwestern: 0.02%, Pangasinan: 0.02%, Kabuverdianu: 0.02%, Sundanese: 0.02%, Bambara: 0.02%, MalgasyPlateau: 0.02%, KanuriCentral: 0.02%, Ewe: 0.02%, Acehnese: 0.02%, Esperanto: 0.02%, Jingpho: 0.02%, Italian: 0.01%, Malay: 0.01%, Zulu: 0.01%, Wolof: 0.01%, Sesotho: 0.01%, Shona: 0.01%, CreoleHaitian: 0.01%, Mossi: 0.01%, Kikuyu: 0.01%, Swati: 0.01%, Slovene: 0.01%, Galician: 0.01%, Limburgish: 0.01%, Mizo: 0.01%, Sango: 0.01%, Polish: 0%, Romanian: 0%, Afrikaans: 0%, KurdishNorthern: 0%, FulfuldeNigerian: 0%, Ilocano: 0%, OromoWestCentral: 0%, Slovak: 0%, Croatian: 0%, Guarani: 0%, Minangkabau: 0%, Finnish: 0%, Buginese: 0%, NorwegianBokmal: 0%, Venetian: 0%, AymaraCentral: 0%, Sardinian: 0%, Fijian: 0%, Asturian: 0%, Samoan: 0%, Luxembourgish: 0%
 
 >> Detection of 2000 sentences (average length: 103 chars)
-Accuracy: 98.75%
-Erroneously classified as Bemba: 0.3%, French: 0.1%, Swahili: 0.1%, Turkish: 0.1%, Lingala: 0.1%, English: 0.05%, Filipino: 0.05%, Sundanese: 0.05%, Malay: 0.05%, Czech: 0.05%, Ganda: 0.05%, Ilocano: 0.05%, OromoWestCentral: 0.05%, Tumbuka: 0.05%, Chokwe: 0.05%, TamasheqLatin: 0.05%
+Accuracy: 98.9%
+Erroneously classified as Lingala: 0.15%, Bemba: 0.15%, French: 0.1%, Swahili: 0.1%, Tumbuka: 0.1%, Turkish: 0.05%, Filipino: 0.05%, Sundanese: 0.05%, Malay: 0.05%, Czech: 0.05%, Rundi: 0.05%, Ganda: 0.05%, OromoWestCentral: 0.05%, TamasheqLatin: 0.05%, TatarCrimean: 0.05%
 

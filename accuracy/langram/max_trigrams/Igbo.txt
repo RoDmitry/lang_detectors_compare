@@ -1,6 +1,6 @@
 ##### Igbo #####
 
->>> Accuracy on average: 87.95%
+>>> Accuracy on average: 87.97%
 
 >> Detection of 4783 single words (average length: 6 chars)
 Accuracy: 72.13%
@@ -11,6 +11,6 @@ Accuracy: 92.98%
 Erroneously classified as English: 0.51%, Hausa: 0.42%, Swahili: 0.39%, Fijian: 0.21%, Ewe: 0.19%, Sango: 0.19%, Twi: 0.18%, Pangasinan: 0.18%, Samoan: 0.18%, TokPisin: 0.16%, Tswana: 0.14%, Dholuo: 0.13%, Sepedi: 0.12%, Dyula: 0.12%, Jingpho: 0.11%, Sesotho: 0.11%, QuechuaAyacucho: 0.11%, Rundi: 0.09%, KanuriCentral: 0.09%, Kabuverdianu: 0.09%, Somali: 0.08%, Venetian: 0.08%, Lingala: 0.07%, OromoWestCentral: 0.07%, Sicilian: 0.07%, Papiamento: 0.07%, Indonesian: 0.07%, Filipino: 0.07%, KikongoKituba: 0.07%, Bambara: 0.07%, Waray: 0.07%, Bosnian: 0.07%, Wolof: 0.06%, FulfuldeNigerian: 0.06%, Umbundu: 0.06%, Kimbundu: 0.06%, Asturian: 0.06%, Friulian: 0.06%, GaelicScottish: 0.06%, Maori: 0.06%, French: 0.05%, Tumbuka: 0.05%, Minangkabau: 0.05%, Chokwe: 0.05%, UzbekNorthern: 0.04%, LubaKasai: 0.04%, MalgasyPlateau: 0.04%, Danish: 0.04%, Bemba: 0.04%, Buginese: 0.04%, NorwegianBokmal: 0.04%, Limburgish: 0.04%, Sardinian: 0.04%, Silesian: 0.04%, Javanese: 0.03%, Zulu: 0.03%, Xhosa: 0.03%, Kabiye: 0.03%, Italian: 0.03%, Yoruba: 0.03%, Malay: 0.03%, Kinyarwanda: 0.03%, Ganda: 0.03%, Banjar: 0.03%, Ilocano: 0.03%, Turkmen: 0.03%, Nyanja: 0.03%, Kamba: 0.03%, Balinese: 0.03%, Acehnese: 0.03%, Galician: 0.03%, DinkaSouthwestern: 0.03%, Turkish: 0.02%, Shona: 0.02%, Guarani: 0.02%, Lombard: 0.02%, Slovene: 0.02%, Luxembourgish: 0.02%, Faroese: 0.02%, Portuguese: 0.01%, German: 0.01%, Romanian: 0.01%, Afrikaans: 0.01%, KurdishNorthern: 0.01%, CreoleHaitian: 0.01%, Mossi: 0.01%, Tsonga: 0.01%, Croatian: 0.01%, Fon: 0.01%, AymaraCentral: 0.01%, Mizo: 0.01%, TamasheqLatin: 0.01%, Icelandic: 0.01%, Latgalian: 0.01%, Spanish: 0%, Polish: 0%, Sundanese: 0%, Cebuano: 0%, AzerbaijaniNorth: 0%, Catalan: 0%, Slovak: 0%, Swati: 0%, Esperanto: 0%, AlbanianTosk: 0%, Irish: 0%, Basque: 0%, Welsh: 0%
 
 >> Detection of 2000 sentences (average length: 97 chars)
-Accuracy: 98.75%
-Erroneously classified as Mizo: 0.45%, Vietnamese: 0.35%, Yoruba: 0.25%, Portuguese: 0.05%, Shona: 0.05%, Buginese: 0.05%, Sardinian: 0.05%
+Accuracy: 98.8%
+Erroneously classified as Mizo: 0.45%, Vietnamese: 0.35%, Yoruba: 0.25%, Shona: 0.05%, CreoleHaitian: 0.05%, Sardinian: 0.05%
 

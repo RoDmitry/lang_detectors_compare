@@ -1,6 +1,6 @@
 ##### KikongoKituba #####
 
->>> Accuracy on average: 87.37%
+>>> Accuracy on average: 87.39%
 
 >> Detection of 2544 single words (average length: 7 chars)
 Accuracy: 68.75%
@@ -11,6 +11,6 @@ Accuracy: 94.07%
 Erroneously classified as Lingala: 1.8%, Swahili: 0.33%, Sango: 0.32%, LubaKasai: 0.31%, Hausa: 0.2%, French: 0.15%, Kamba: 0.14%, Kimbundu: 0.14%, Bemba: 0.13%, Pangasinan: 0.11%, Tsonga: 0.1%, CreoleHaitian: 0.09%, Dholuo: 0.09%, Chokwe: 0.09%, Rundi: 0.08%, Umbundu: 0.08%, Ilocano: 0.07%, Sesotho: 0.06%, Tswana: 0.06%, Tumbuka: 0.06%, Buginese: 0.06%, Jingpho: 0.06%, Fijian: 0.06%, Sepedi: 0.05%, English: 0.04%, Filipino: 0.04%, Kinyarwanda: 0.04%, Twi: 0.04%, Papiamento: 0.04%, MalgasyPlateau: 0.03%, Nyanja: 0.03%, Ewe: 0.03%, Friulian: 0.03%, Maori: 0.03%, UzbekNorthern: 0.02%, KurdishNorthern: 0.02%, Czech: 0.02%, Ganda: 0.02%, Limburgish: 0.02%, Mizo: 0.02%, Occitan: 0.02%, Indonesian: 0.01%, Javanese: 0.01%, Malay: 0.01%, FulfuldeNigerian: 0.01%, Dyula: 0.01%, Mossi: 0.01%, KanuriCentral: 0.01%, Slovak: 0.01%, Bosnian: 0.01%, Sardinian: 0.01%, Asturian: 0.01%, Samoan: 0.01%, Spanish: 0%, Italian: 0%, Sundanese: 0%, Bambara: 0%, OromoWestCentral: 0%, Sicilian: 0%, Swati: 0%, TokPisin: 0%, Waray: 0%, Kabyle: 0%, Slovene: 0%, Galician: 0%, Esperanto: 0%, AlbanianTosk: 0%, DinkaSouthwestern: 0%, Irish: 0%, QuechuaAyacucho: 0%, Basque: 0%, Ligurian: 0%, Luxembourgish: 0%, TatarCrimean: 0%
 
 >> Detection of 2000 sentences (average length: 103 chars)
-Accuracy: 99.3%
-Erroneously classified as Luxembourgish: 0.15%, French: 0.1%, Lingala: 0.1%, Kimbundu: 0.1%, MalgasyPlateau: 0.05%, Slovak: 0.05%, Umbundu: 0.05%, Chokwe: 0.05%, Latvian: 0.05%
+Accuracy: 99.35%
+Erroneously classified as Lingala: 0.15%, Kimbundu: 0.1%, Luxembourgish: 0.1%, French: 0.05%, MalgasyPlateau: 0.05%, Slovak: 0.05%, Umbundu: 0.05%, Chokwe: 0.05%, Latvian: 0.05%
 

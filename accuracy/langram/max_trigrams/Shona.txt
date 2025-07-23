@@ -1,6 +1,6 @@
 ##### Shona #####
 
->>> Accuracy on average: 95.74%
+>>> Accuracy on average: 95.78%
 
 >> Detection of 9560 single words (average length: 9 chars)
 Accuracy: 89.87%
@@ -11,6 +11,6 @@ Accuracy: 98.02%
 Erroneously classified as English: 0.33%, Nyanja: 0.19%, Tumbuka: 0.18%, Swahili: 0.06%, Rundi: 0.06%, Kinyarwanda: 0.05%, Bemba: 0.05%, Hausa: 0.04%, Zulu: 0.04%, Sesotho: 0.03%, KanuriCentral: 0.03%, Swati: 0.03%, Sepedi: 0.03%, Maori: 0.03%, Ilocano: 0.02%, Umbundu: 0.02%, Chokwe: 0.02%, Pangasinan: 0.02%, Sardinian: 0.02%, French: 0.02%, Filipino: 0.02%, Malay: 0.02%, Xhosa: 0.02%, Kamba: 0.02%, Venetian: 0.02%, Occitan: 0.02%, Sango: 0.02%, German: 0.01%, Tsonga: 0.01%, Croatian: 0.01%, Dholuo: 0.01%, Buginese: 0.01%, Balinese: 0.01%, Twi: 0.01%, AymaraCentral: 0.01%, Samoan: 0.01%, Luxembourgish: 0.01%, Portuguese: 0.01%, Javanese: 0.01%, Lingala: 0.01%, Afrikaans: 0.01%, KikongoKituba: 0.01%, Czech: 0.01%, CreoleHaitian: 0.01%, Mossi: 0.01%, Guarani: 0.01%, Minangkabau: 0.01%, TokPisin: 0.01%, Galician: 0.01%, Esperanto: 0.01%, Mizo: 0.01%, TamasheqLatin: 0.01%, Papiamento: 0.01%, Indonesian: 0%, Turkish: 0%, Italian: 0%, Igbo: 0%, Polish: 0%, Sundanese: 0%, Bambara: 0%, Ganda: 0%, Banjar: 0%, Catalan: 0%, Tswana: 0%, Slovak: 0%, Finnish: 0%, NorwegianBokmal: 0%, Lombard: 0%, Kabyle: 0%, Bosnian: 0%, Kimbundu: 0%, Limburgish: 0%, Welsh: 0%, Asturian: 0%, Latgalian: 0%, GaelicScottish: 0%
 
 >> Detection of 2000 sentences (average length: 97 chars)
-Accuracy: 99.35%
-Erroneously classified as English: 0.2%, Dholuo: 0.2%, Xhosa: 0.05%, Sesotho: 0.05%, Ilocano: 0.05%, Tsonga: 0.05%, Sardinian: 0.05%
+Accuracy: 99.45%
+Erroneously classified as Dholuo: 0.2%, English: 0.1%, Xhosa: 0.05%, Sesotho: 0.05%, Ilocano: 0.05%, Tsonga: 0.05%, Sardinian: 0.05%
 

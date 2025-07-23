@@ -1,6 +1,6 @@
 ##### Lingala #####
 
->>> Accuracy on average: 90.81%
+>>> Accuracy on average: 90.84%
 
 >> Detection of 4296 single words (average length: 7 chars)
 Accuracy: 78.35%
@@ -11,6 +11,6 @@ Accuracy: 95.03%
 Erroneously classified as KikongoKituba: 1.16%, Swahili: 0.45%, French: 0.38%, English: 0.15%, Sango: 0.14%, Bemba: 0.14%, Pangasinan: 0.14%, Maori: 0.1%, Hausa: 0.09%, Fijian: 0.09%, Sepedi: 0.08%, Dholuo: 0.08%, Bambara: 0.07%, Twi: 0.07%, Sesotho: 0.06%, Venetian: 0.06%, CreoleHaitian: 0.05%, Tswana: 0.05%, Tumbuka: 0.05%, Nyanja: 0.05%, Filipino: 0.04%, Kamba: 0.04%, Swati: 0.04%, Fon: 0.04%, Igbo: 0.04%, Kinyarwanda: 0.04%, Buginese: 0.04%, Sardinian: 0.04%, Jingpho: 0.04%, TamasheqLatin: 0.04%, Afrikaans: 0.03%, LubaKasai: 0.03%, MalgasyPlateau: 0.03%, Umbundu: 0.03%, Occitan: 0.03%, Friulian: 0.03%, Samoan: 0.03%, Indonesian: 0.02%, Portuguese: 0.02%, Sundanese: 0.02%, Cebuano: 0.02%, Dyula: 0.02%, Rundi: 0.02%, Ganda: 0.02%, Ilocano: 0.02%, Tsonga: 0.02%, Ewe: 0.02%, Chokwe: 0.02%, Asturian: 0.02%, Papiamento: 0.02%, German: 0.01%, Turkish: 0.01%, KanuriCentral: 0.01%, TokPisin: 0.01%, Balinese: 0.01%, Irish: 0.01%, Limburgish: 0.01%, Mizo: 0.01%, Luxembourgish: 0.01%, TatarCrimean: 0.01%, Javanese: 0%, Zulu: 0%, Dutch: 0%, Somali: 0%, Xhosa: 0%, FulfuldeNigerian: 0%, Shona: 0%, Czech: 0%, Mossi: 0%, Banjar: 0%, OromoWestCentral: 0%, Catalan: 0%, Kikuyu: 0%, Minangkabau: 0%, Danish: 0%, Finnish: 0%, Slovene: 0%, Galician: 0%, Esperanto: 0%, AlbanianTosk: 0%, DinkaSouthwestern: 0%, Kimbundu: 0%, Kabiye: 0%, QuechuaAyacucho: 0%, Kabuverdianu: 0%, Welsh: 0%, Silesian: 0%, Faroese: 0%, GaelicScottish: 0%
 
 >> Detection of 2000 sentences (average length: 104 chars)
-Accuracy: 99.05%
-Erroneously classified as French: 0.2%, English: 0.1%, German: 0.1%, Swahili: 0.1%, Ilocano: 0.1%, Kabyle: 0.1%, Filipino: 0.05%, KikongoKituba: 0.05%, Swati: 0.05%, Balinese: 0.05%, Occitan: 0.05%
+Accuracy: 99.15%
+Erroneously classified as French: 0.2%, English: 0.1%, German: 0.1%, Swahili: 0.1%, Ilocano: 0.1%, Kabyle: 0.1%, Filipino: 0.05%, KikongoKituba: 0.05%, Swati: 0.05%
 
