@@ -1,16 +1,16 @@
 ##### Shona #####
 
->>> Accuracy on average: 76.71%
+>>> Accuracy on average: 76.69%
 
 >> Detection of 9560 single words (average length: 9 chars)
-Accuracy: 58.47%
-Erroneously classified as Zulu: 5.1%, Javanese: 4.23%, Filipino: 3.92%, Indonesian: 2.5%, UzbekNorthern: 1.91%, AkanTwi: 1.68%, Croatian: 1.55%, Italian: 1.52%, Estonian: 1.5%, Lithuanian: 1.38%, Turkish: 1.26%, Latin: 1.26%, Spanish: 0.99%, Finnish: 0.99%, English: 0.83%, Romanian: 0.82%, Portuguese: 0.81%, German: 0.8%, Turkmen: 0.8%, Catalan: 0.67%, Polish: 0.64%, Esperanto: 0.62%, Dutch: 0.58%, Latvian: 0.58%, Hungarian: 0.54%, Slovenian: 0.54%, Afrikaans: 0.46%, Danish: 0.46%, Swedish: 0.44%, French: 0.43%, Slovak: 0.41%, NorwegianBokmal: 0.35%, Czech: 0.33%, AzerbaijaniNorth: 0.29%, Vietnamese: 0.15%
+Accuracy: 58.44%
+Erroneously classified as Zulu: 5.09%, Javanese: 4.2%, Filipino: 3.88%, Indonesian: 2.47%, UzbekNorthern: 1.91%, AkanTwi: 1.67%, Croatian: 1.56%, Italian: 1.52%, Estonian: 1.5%, Lithuanian: 1.38%, Turkish: 1.26%, Latin: 1.24%, Finnish: 0.99%, Spanish: 0.97%, Romanian: 0.81%, Portuguese: 0.8%, English: 0.79%, German: 0.79%, Turkmen: 0.79%, Catalan: 0.66%, Polish: 0.63%, Esperanto: 0.62%, Dutch: 0.56%, Latvian: 0.55%, Slovenian: 0.54%, Hungarian: 0.53%, Danish: 0.46%, Afrikaans: 0.44%, French: 0.43%, Swedish: 0.43%, Slovak: 0.4%, Welsh: 0.39%, NorwegianBokmal: 0.35%, Czech: 0.32%, AzerbaijaniNorth: 0.29%, Vietnamese: 0.14%
 
 >> Detection of 18600 word pairs (average length: 16 chars)
-Accuracy: 75.62%
-Erroneously classified as Zulu: 3.43%, Javanese: 3.19%, Filipino: 2.29%, Indonesian: 1.49%, Croatian: 1.33%, Italian: 1.25%, Turkish: 1.1%, Lithuanian: 0.97%, AkanTwi: 0.95%, Estonian: 0.95%, UzbekNorthern: 0.84%, Slovenian: 0.67%, Latin: 0.6%, English: 0.51%, Slovak: 0.48%, Dutch: 0.35%, Finnish: 0.35%, Spanish: 0.33%, Afrikaans: 0.32%, Romanian: 0.32%, Esperanto: 0.26%, German: 0.24%, Turkmen: 0.22%, Latvian: 0.22%, Portuguese: 0.19%, Czech: 0.18%, Swedish: 0.17%, French: 0.17%, Catalan: 0.17%, NorwegianBokmal: 0.17%, Danish: 0.16%, Polish: 0.15%, Hungarian: 0.12%, AzerbaijaniNorth: 0.04%, Vietnamese: 0.01%
+Accuracy: 75.6%
+Erroneously classified as Zulu: 3.43%, Javanese: 3.19%, Filipino: 2.29%, Indonesian: 1.48%, Croatian: 1.33%, Italian: 1.24%, Turkish: 1.1%, Lithuanian: 0.97%, Estonian: 0.95%, AkanTwi: 0.94%, UzbekNorthern: 0.84%, Slovenian: 0.67%, Latin: 0.59%, English: 0.51%, Slovak: 0.48%, Dutch: 0.35%, Finnish: 0.34%, Spanish: 0.33%, Afrikaans: 0.32%, Romanian: 0.31%, Esperanto: 0.26%, German: 0.24%, Latvian: 0.22%, Turkmen: 0.2%, Portuguese: 0.19%, Czech: 0.18%, Swedish: 0.17%, French: 0.17%, NorwegianBokmal: 0.17%, Catalan: 0.16%, Danish: 0.16%, Polish: 0.15%, Hungarian: 0.12%, Welsh: 0.1%, AzerbaijaniNorth: 0.04%, Vietnamese: 0.01%
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 96.05%
-Erroneously classified as Zulu: 0.55%, Javanese: 0.5%, Filipino: 0.35%, Estonian: 0.35%, English: 0.3%, Turkish: 0.2%, Italian: 0.15%, UzbekNorthern: 0.15%, Dutch: 0.15%, Hungarian: 0.15%, Swedish: 0.15%, Croatian: 0.15%, Catalan: 0.1%, Lithuanian: 0.1%, Slovenian: 0.1%, Spanish: 0.05%, Indonesian: 0.05%, Portuguese: 0.05%, German: 0.05%, Vietnamese: 0.05%, Romanian: 0.05%, Turkmen: 0.05%, Slovak: 0.05%, AkanTwi: 0.05%, Finnish: 0.05%
+Erroneously classified as Zulu: 0.55%, Javanese: 0.45%, Filipino: 0.35%, Estonian: 0.35%, English: 0.3%, Turkish: 0.2%, Italian: 0.15%, UzbekNorthern: 0.15%, Dutch: 0.15%, Hungarian: 0.15%, Croatian: 0.15%, Swedish: 0.1%, Catalan: 0.1%, Lithuanian: 0.1%, Slovenian: 0.1%, Welsh: 0.1%, Spanish: 0.05%, Indonesian: 0.05%, Portuguese: 0.05%, German: 0.05%, Vietnamese: 0.05%, Romanian: 0.05%, Turkmen: 0.05%, Slovak: 0.05%, AkanTwi: 0.05%, Finnish: 0.05%
 

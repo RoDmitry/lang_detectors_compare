@@ -623,6 +623,7 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
         Cat => Some(ScriptLanguage::Catalan),
         Ces => Some(ScriptLanguage::Czech),
         Cmn => Some(ScriptLanguage::ChineseMandarinSimplified),
+        Cym => Some(ScriptLanguage::Welsh),
         Dan => Some(ScriptLanguage::Danish),
         Deu => Some(ScriptLanguage::German),
         Ell => Some(ScriptLanguage::Greek),
