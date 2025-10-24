@@ -1,4 +1,4 @@
-##### Guarani #####
+##### GuaraniParaguayan #####
 
 >>> Accuracy on average: 17.62%
 

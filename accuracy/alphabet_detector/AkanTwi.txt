@@ -1,4 +1,4 @@
-##### Twi #####
+##### AkanTwi #####
 
 >>> Accuracy on average: 0.29%
 

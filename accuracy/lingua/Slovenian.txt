@@ -1,4 +1,4 @@
-##### Slovene #####
+##### Slovenian #####
 
 >>> Accuracy on average: 73.88%
 

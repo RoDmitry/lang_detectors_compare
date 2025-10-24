@@ -613,6 +613,7 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
     use WhatlangLanguage::*;
     match language {
         Afr => Some(ScriptLanguage::Afrikaans),
+        Aka => Some(ScriptLanguage::AkanTwi),
         Amh => Some(ScriptLanguage::Amharic),
         Ara => Some(ScriptLanguage::Arabic),
         Aze => Some(ScriptLanguage::AzerbaijaniNorth),
@@ -654,7 +655,7 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
         Nep => Some(ScriptLanguage::Nepali),
         Nld => Some(ScriptLanguage::Dutch),
         Nob => Some(ScriptLanguage::NorwegianBokmal),
-        Ori => Some(ScriptLanguage::Odia),
+        Ori => Some(ScriptLanguage::OriyaOdia),
         Pan => Some(ScriptLanguage::PunjabiEastern),
         Pes => Some(ScriptLanguage::PersianWestern),
         Pol => Some(ScriptLanguage::Polish),
@@ -663,7 +664,7 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
         Rus => Some(ScriptLanguage::Russian),
         Sin => Some(ScriptLanguage::Sinhala),
         Slk => Some(ScriptLanguage::Slovak),
-        Slv => Some(ScriptLanguage::Slovene),
+        Slv => Some(ScriptLanguage::Slovenian),
         Sna => Some(ScriptLanguage::Shona),
         Spa => Some(ScriptLanguage::Spanish),
         Srp => Some(ScriptLanguage::Serbian),
@@ -680,7 +681,6 @@ fn map_whatlang(language: WhatlangLanguage) -> Option<ScriptLanguage> {
         Vie => Some(ScriptLanguage::Vietnamese),
         Yid => Some(ScriptLanguage::YiddishEastern),
         Zul => Some(ScriptLanguage::Zulu),
-        Aka => Some(ScriptLanguage::Akan),
     }
 }
 
@@ -764,7 +764,7 @@ fn map_lingua(language: LinguaLanguage) -> Option<ScriptLanguage> {
         Serbian => Some(ScriptLanguage::Serbian),
         Shona => Some(ScriptLanguage::Shona),
         Slovak => Some(ScriptLanguage::Slovak),
-        Slovene => Some(ScriptLanguage::Slovene),
+        Slovene => Some(ScriptLanguage::Slovenian),
         Somali => Some(ScriptLanguage::Somali),
         Sotho => Some(ScriptLanguage::Sesotho),
         Spanish => Some(ScriptLanguage::Spanish),
