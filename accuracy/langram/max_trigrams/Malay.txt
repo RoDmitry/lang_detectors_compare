@@ -12,5 +12,5 @@ Erroneously classified as Indonesian: 17.13%, Banjar: 4.88%, Minangkabau: 2.68%,
 
 >> Detection of 2000 sentences (average length: 125 chars)
 Accuracy: 97.45%
-Erroneously classified as Indonesian: 2.35%, Banjar: 0.1%, Turkish: 0.05%, Sundanese: 0.05%
+Erroneously classified as Indonesian: 2.35%, Banjar: 0.1%, Sundanese: 0.05%, Estonian: 0.05%
 

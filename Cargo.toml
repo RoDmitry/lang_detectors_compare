@@ -8,7 +8,7 @@ publish = false
 
 [dependencies]
 ahash = "0.8"
-alphabet_detector = { path = "../alphabet_detector", features = ["files_read"]}
+alphabet_detector = { path = "../alphabet_detector", features = ["files_read"] }
 fraction = "0.15"
 indoc = "2"
 itertools = "0.14"

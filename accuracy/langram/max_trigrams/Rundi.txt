@@ -12,5 +12,5 @@ Erroneously classified as Kinyarwanda: 21.72%, Swahili: 0.53%, Bemba: 0.49%, Gan
 
 >> Detection of 2000 sentences (average length: 105 chars)
 Accuracy: 97.55%
-Erroneously classified as Kinyarwanda: 2.25%, English: 0.05%, KikongoKituba: 0.05%, Sepedi: 0.05%, TamasheqLatin: 0.05%
+Erroneously classified as Kinyarwanda: 2.25%, English: 0.05%, Lingala: 0.05%, KikongoKituba: 0.05%, Sepedi: 0.05%
 

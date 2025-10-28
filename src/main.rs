@@ -24,9 +24,7 @@ mod statistic;
 use detector_statistics::DetectorStatistics;
 use statistic::Statistic;
 
-static LANGRAM_MODELS: LazyLock<ModelsStorage> = LazyLock::new(|| {
-    ModelsStorage::preloaded::<ahash::RandomState>(ScriptLanguage::all().collect())
-});
+static LANGRAM_MODELS: LazyLock<ModelsStorage> = LazyLock::new(|| ModelsStorage::new().unwrap());
 static LINGUA_DETECTOR_HIGH_ACCURACY: LazyLock<lingua::LanguageDetector> = LazyLock::new(|| {
     lingua::LanguageDetectorBuilder::from_all_spoken_languages()
         .with_preloaded_language_models()
@@ -59,7 +57,7 @@ fn langram_detect_max_trigrams(
     reorder: bool,
 ) -> Vec<Option<ScriptLanguage>> {
     let detector = LangramDetectorBuilder::new(&LANGRAM_MODELS)
-        .languages(languages.clone().into())
+        .languages(languages.clone())
         .max_trigrams()
         .build();
     texts
@@ -74,7 +72,7 @@ fn langram_detect_all_ngrams(
     reorder: bool,
 ) -> Vec<Option<ScriptLanguage>> {
     let detector = LangramDetectorBuilder::new(&LANGRAM_MODELS)
-        .languages(languages.clone().into())
+        .languages(languages.clone())
         .build();
     texts
         .par_iter()
