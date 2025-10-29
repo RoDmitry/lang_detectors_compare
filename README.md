@@ -9,7 +9,7 @@ Look inside the [`accuracy` folder](https://github.com/RoDmitry/lang_detectors_c
 |  16             |         |  0.657 s |  0.994 s |          |         | 0.026 s |
 |  70             |         |  3.367 s |  4.971 s |          | 5.123 s |
 |  74             |         |  4.337 s |  6.433 s | 53.73 s  |
-| 201 (unlimited) | 1.816 s | 14.445 s | 20.383 s |
+| 201 (unlimited) | 1.816 s | 14.345 s | 20.23 s  |
 
 > Note: 70 are different languages from 74, so they are fast detected by `alphabet_detector`.
 CPU: Intel 9700K.

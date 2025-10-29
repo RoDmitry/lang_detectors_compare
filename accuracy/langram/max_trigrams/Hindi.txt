@@ -3,8 +3,8 @@
 >>> Accuracy on average: 68.4%
 
 >> Detection of 7334 single words (average length: 6 chars)
-Accuracy: 45.63%
-Erroneously classified as Magahi: 8.19%, Bhojpuri: 6.72%, Awadhi: 6.5%, Nepali: 6.49%, Maithili: 5.97%, Marathi: 5.72%, Chhattisgarhi: 5.38%, KashmiriDevanagari: 5.3%, Sanskrit: 4.06%
+Accuracy: 45.62%
+Erroneously classified as Magahi: 8.19%, Bhojpuri: 6.72%, Awadhi: 6.5%, Nepali: 6.49%, Maithili: 5.97%, Marathi: 5.71%, Chhattisgarhi: 5.38%, KashmiriDevanagari: 5.3%, Sanskrit: 4.09%
 
 >> Detection of 16252 word pairs (average length: 10 chars)
 Accuracy: 69.09%

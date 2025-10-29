@@ -4,7 +4,7 @@
 
 >> Detection of 24392 single words (average length: 7 chars)
 Accuracy: 80.57%
-Erroneously classified as Maithili: 6.32%, Hindi: 2.36%, Marathi: 2.05%, Sanskrit: 1.89%, Awadhi: 1.66%, Magahi: 1.6%, Bhojpuri: 1.33%, KashmiriDevanagari: 1.25%, Chhattisgarhi: 0.92%
+Erroneously classified as Maithili: 6.32%, Hindi: 2.36%, Marathi: 2.04%, Sanskrit: 1.9%, Awadhi: 1.66%, Magahi: 1.6%, Bhojpuri: 1.33%, KashmiriDevanagari: 1.25%, Chhattisgarhi: 0.92%
 
 >> Detection of 18088 word pairs (average length: 13 chars)
 Accuracy: 93.01%
