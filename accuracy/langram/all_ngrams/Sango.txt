@@ -1,6 +1,6 @@
 ##### Sango #####
 
->>> Accuracy on average: 80.51%
+>>> Accuracy on average: 80.6%
 
 >> Detection of 1539 single words (average length: 5 chars)
 Accuracy: 52.63%
@@ -11,6 +11,6 @@ Accuracy: 91.72%
 Erroneously classified as Fijian: 0.46%, Ilocano: 0.43%, Pangasinan: 0.4%, KikongoKituba: 0.32%, Lingala: 0.3%, Tswana: 0.3%, French: 0.29%, Hausa: 0.22%, Ewe: 0.22%, Dholuo: 0.2%, Maori: 0.2%, Swahili: 0.19%, Kimbundu: 0.18%, Jingpho: 0.18%, Occitan: 0.16%, Samoan: 0.16%, Cebuano: 0.13%, Sepedi: 0.13%, Waray: 0.12%, Dyula: 0.11%, CreoleHaitian: 0.11%, AkanTwi: 0.11%, TokPisin: 0.11%, Mizo: 0.11%, Filipino: 0.09%, MalagasyPlateau: 0.09%, Tsonga: 0.09%, Sicilian: 0.09%, Friulian: 0.09%, Luxembourgish: 0.09%, English: 0.08%, Wolof: 0.08%, Ganda: 0.08%, Tumbuka: 0.08%, AymaraCentral: 0.08%, Papiamento: 0.08%, Bambara: 0.06%, KanuriCentral: 0.06%, Umbundu: 0.06%, Kikuyu: 0.06%, Venetian: 0.06%, Lombard: 0.06%, Chokwe: 0.06%, DinkaSouthwestern: 0.06%, KurdishNorthern: 0.05%, LubaKasai: 0.05%, Mossi: 0.05%, Catalan: 0.05%, Buginese: 0.05%, NorwegianNynorsk: 0.05%, QuechuaAyacucho: 0.05%, TamasheqLatin: 0.05%, Igbo: 0.04%, FulfuldeNigerian: 0.04%, Shona: 0.04%, Bemba: 0.04%, Bosnian: 0.04%, AlbanianTosk: 0.04%, Ligurian: 0.04%, German: 0.02%, Yoruba: 0.02%, Sundanese: 0.02%, Xhosa: 0.02%, Sesotho: 0.02%, OromoWestCentral: 0.02%, Kamba: 0.02%, Esperanto: 0.02%, Nuer: 0.02%, Estonian: 0.02%, Sardinian: 0.02%, Kabuverdianu: 0.02%, Basque: 0.02%, Asturian: 0.02%, GaelicScottish: 0.02%, Portuguese: 0.01%, Turkish: 0.01%, Italian: 0.01%, Afrikaans: 0.01%, Rundi: 0.01%, Banjar: 0.01%, Minangkabau: 0.01%, Danish: 0.01%, Swati: 0.01%, NorwegianBokmal: 0.01%, Balinese: 0.01%, Kabyle: 0.01%, Slovenian: 0.01%, Galician: 0.01%, Limburgish: 0.01%, Welsh: 0.01%
 
 >> Detection of 2000 sentences (average length: 100 chars)
-Accuracy: 97.2%
-Erroneously classified as French: 0.55%, Wolof: 0.2%, Bambara: 0.2%, Portuguese: 0.15%, Lingala: 0.15%, Zulu: 0.15%, CreoleHaitian: 0.15%, Basque: 0.15%, Xhosa: 0.1%, Shona: 0.1%, Ilocano: 0.1%, AlbanianTosk: 0.1%, Occitan: 0.1%, English: 0.05%, Swahili: 0.05%, Dutch: 0.05%, Afrikaans: 0.05%, Sepedi: 0.05%, Hungarian: 0.05%, Ewe: 0.05%, Dholuo: 0.05%, Fon: 0.05%, Pangasinan: 0.05%, Limburgish: 0.05%, Kabiye: 0.05%
+Accuracy: 97.45%
+Erroneously classified as French: 0.5%, Wolof: 0.2%, Bambara: 0.2%, Zulu: 0.15%, Xhosa: 0.15%, Dholuo: 0.15%, Portuguese: 0.1%, Lingala: 0.1%, Limburgish: 0.1%, Occitan: 0.1%, English: 0.05%, Igbo: 0.05%, Dutch: 0.05%, Sepedi: 0.05%, Shona: 0.05%, CreoleHaitian: 0.05%, Ilocano: 0.05%, Tsonga: 0.05%, GuaraniParaguayan: 0.05%, Ewe: 0.05%, NorwegianBokmal: 0.05%, AlbanianTosk: 0.05%, Pangasinan: 0.05%, Mizo: 0.05%, Basque: 0.05%, Papiamento: 0.05%
 

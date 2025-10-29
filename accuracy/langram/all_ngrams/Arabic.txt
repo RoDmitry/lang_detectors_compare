@@ -1,6 +1,6 @@
 ##### Arabic #####
 
->>> Accuracy on average: 82.93%
+>>> Accuracy on average: 82.97%
 
 >> Detection of 13644 single words (average length: 6 chars)
 Accuracy: 67.07%
@@ -11,6 +11,6 @@ Accuracy: 82.93%
 Erroneously classified as ArabicMoroccan: 7.55%, ArabicNajdi: 2.65%, ArabicEgyptian: 2.63%, ArabicTunisian: 1.36%, ArabicSouthernYemeni: 0.63%, ArabicSouthLevantine: 0.62%, ArabicNorthLevantine: 0.5%, ArabicMesopotamian: 0.5%, KurdishCentral: 0.16%, KanuriCentralAjami: 0.14%, PersianWestern: 0.08%, PersianDari: 0.08%, BanjarJawi: 0.02%, AcehneseJawi: 0.02%, Urdu: 0.01%, Sindhi: 0.01%, PashtoSouthern: 0.01%, AzerbaijaniSouth: 0%, Kashmiri: 0%
 
 >> Detection of 2000 sentences (average length: 157 chars)
-Accuracy: 98.8%
-Erroneously classified as ArabicNajdi: 0.35%, ArabicEgyptian: 0.25%, ArabicMoroccan: 0.2%, English: 0.1%, ArabicTunisian: 0.1%, German: 0.05%, Basque: 0.05%, ArabicNorthLevantine: 0.05%, ArabicMesopotamian: 0.05%
+Accuracy: 98.9%
+Erroneously classified as ArabicNajdi: 0.35%, ArabicEgyptian: 0.2%, ArabicMoroccan: 0.15%, English: 0.1%, ArabicTunisian: 0.1%, German: 0.05%, Lombard: 0.05%, ArabicNorthLevantine: 0.05%, ArabicMesopotamian: 0.05%
 

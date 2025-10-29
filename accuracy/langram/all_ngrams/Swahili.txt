@@ -1,6 +1,6 @@
 ##### Swahili #####
 
->>> Accuracy on average: 88.65%
+>>> Accuracy on average: 88.67%
 
 >> Detection of 9322 single words (average length: 8 chars)
 Accuracy: 74.2%
@@ -11,6 +11,6 @@ Accuracy: 92.62%
 Erroneously classified as English: 1.08%, Hausa: 0.4%, Nyanja: 0.29%, Swati: 0.29%, Bemba: 0.24%, Tumbuka: 0.22%, KikongoKituba: 0.2%, Sesotho: 0.2%, Rundi: 0.2%, Lingala: 0.16%, Indonesian: 0.15%, Shona: 0.13%, Venetian: 0.1%, Sango: 0.1%, Bambara: 0.1%, Umbundu: 0.1%, Galician: 0.1%, Ganda: 0.09%, Tswana: 0.09%, Filipino: 0.09%, Pangasinan: 0.09%, Sicilian: 0.08%, Fijian: 0.08%, Malay: 0.07%, KanuriCentral: 0.07%, Tsonga: 0.07%, Chokwe: 0.07%, Igbo: 0.07%, Sepedi: 0.07%, Buginese: 0.07%, French: 0.06%, Kikuyu: 0.06%, Maori: 0.06%, Spanish: 0.06%, Kinyarwanda: 0.06%, Limburgish: 0.06%, OromoWestCentral: 0.05%, Minangkabau: 0.05%, Dholuo: 0.05%, Sardinian: 0.05%, Jingpho: 0.05%, Occitan: 0.05%, Luxembourgish: 0.05%, Somali: 0.04%, QuechuaAyacucho: 0.04%, Asturian: 0.04%, GaelicScottish: 0.04%, Wolof: 0.04%, LubaKasai: 0.04%, Kamba: 0.04%, Slovenian: 0.04%, Acehnese: 0.03%, Bosnian: 0.03%, Kimbundu: 0.03%, AymaraCentral: 0.03%, Xhosa: 0.03%, Banjar: 0.03%, Ilocano: 0.03%, AkanTwi: 0.03%, TokPisin: 0.03%, NorwegianNynorsk: 0.03%, Irish: 0.03%, Mizo: 0.03%, Ligurian: 0.03%, Friulian: 0.03%, Silesian: 0.03%, Turkish: 0.02%, Sundanese: 0.02%, MalagasyPlateau: 0.02%, Catalan: 0.02%, Lombard: 0.02%, TamasheqLatin: 0.02%, Basque: 0.02%, Javanese: 0.01%, Italian: 0.01%, Yoruba: 0.01%, Polish: 0.01%, Romanian: 0.01%, Afrikaans: 0.01%, GuaraniParaguayan: 0.01%, Kabyle: 0.01%, Esperanto: 0.01%, TatarCrimean: 0.01%, Zulu: 0.01%, Dutch: 0.01%, Slovak: 0.01%, Croatian: 0.01%, Finnish: 0.01%, NorwegianBokmal: 0.01%, Waray: 0.01%, Welsh: 0.01%, Samoan: 0.01%, Portuguese: 0%, German: 0%, Hungarian: 0%, Czech: 0%, CreoleHaitian: 0%, Mossi: 0%, Ewe: 0%, Balinese: 0%, Fon: 0%, DinkaSouthwestern: 0%, Latvian: 0%, Maltese: 0%, Papiamento: 0%, Latgalian: 0%, Faroese: 0%
 
 >> Detection of 2000 sentences (average length: 121 chars)
-Accuracy: 99.15%
-Erroneously classified as English: 0.45%, Kinyarwanda: 0.15%, Polish: 0.05%, Swati: 0.05%, Balinese: 0.05%, Welsh: 0.05%, Friulian: 0.05%
+Accuracy: 99.2%
+Erroneously classified as English: 0.4%, Kinyarwanda: 0.15%, Polish: 0.05%, Swati: 0.05%, Balinese: 0.05%, Welsh: 0.05%, Friulian: 0.05%
 

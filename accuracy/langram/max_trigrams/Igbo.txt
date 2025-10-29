@@ -12,5 +12,5 @@ Erroneously classified as English: 0.51%, Hausa: 0.42%, Swahili: 0.39%, Fijian: 
 
 >> Detection of 2000 sentences (average length: 97 chars)
 Accuracy: 98.8%
-Erroneously classified as Mizo: 0.45%, Vietnamese: 0.35%, Yoruba: 0.25%, Shona: 0.05%, CreoleHaitian: 0.05%, Sardinian: 0.05%
+Erroneously classified as Mizo: 0.5%, Vietnamese: 0.3%, Yoruba: 0.25%, Shona: 0.05%, CreoleHaitian: 0.05%, Sardinian: 0.05%
 

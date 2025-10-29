@@ -1,6 +1,6 @@
 ##### FulfuldeNigerian #####
 
->>> Accuracy on average: 90.08%
+>>> Accuracy on average: 90.1%
 
 >> Detection of 8259 single words (average length: 7 chars)
 Accuracy: 78.52%
@@ -11,6 +11,6 @@ Accuracy: 93.63%
 Erroneously classified as English: 0.64%, KanuriCentral: 0.52%, Hausa: 0.3%, Bambara: 0.28%, Buginese: 0.22%, Pangasinan: 0.18%, Wolof: 0.17%, Venetian: 0.14%, TamasheqLatin: 0.14%, Maori: 0.14%, Dholuo: 0.12%, Galician: 0.12%, Sardinian: 0.11%, OromoWestCentral: 0.11%, Sesotho: 0.1%, Dyula: 0.1%, Papiamento: 0.09%, Limburgish: 0.08%, Waray: 0.07%, Silesian: 0.07%, Tswana: 0.07%, GuaraniParaguayan: 0.07%, French: 0.06%, Sepedi: 0.06%, Banjar: 0.06%, Balinese: 0.06%, Igbo: 0.06%, Friulian: 0.06%, Kinyarwanda: 0.05%, AkanTwi: 0.05%, Bemba: 0.05%, Basque: 0.05%, Luxembourgish: 0.05%, Malay: 0.04%, Somali: 0.04%, Cebuano: 0.04%, Afrikaans: 0.04%, QuechuaAyacucho: 0.04%, Sango: 0.04%, Spanish: 0.04%, Italian: 0.04%, Ilocano: 0.04%, Danish: 0.04%, Ewe: 0.04%, Acehnese: 0.04%, Occitan: 0.04%, Fijian: 0.04%, Ligurian: 0.04%, Samoan: 0.04%, Sundanese: 0.03%, KikongoKituba: 0.03%, LubaKasai: 0.03%, Lingala: 0.03%, Sicilian: 0.03%, TokPisin: 0.03%, NorwegianNynorsk: 0.03%, DinkaSouthwestern: 0.03%, GaelicScottish: 0.03%, Indonesian: 0.02%, Portuguese: 0.02%, Turkish: 0.02%, Ganda: 0.02%, Lombard: 0.02%, Swahili: 0.01%, UzbekNorthern: 0.01%, KurdishNorthern: 0.01%, Rundi: 0.01%, Tsonga: 0.01%, Umbundu: 0.01%, Bosnian: 0.01%, Slovenian: 0.01%, Chokwe: 0.01%, Fon: 0.01%, Kimbundu: 0.01%, Nuer: 0.01%, Estonian: 0.01%, Jingpho: 0.01%, Welsh: 0.01%, Faroese: 0.01%, TatarCrimean: 0.01%, German: 0.01%, Javanese: 0.01%, Polish: 0.01%, Zulu: 0.01%, Dutch: 0.01%, Romanian: 0.01%, Xhosa: 0.01%, Shona: 0.01%, CreoleHaitian: 0.01%, MalagasyPlateau: 0.01%, Catalan: 0.01%, Nyanja: 0.01%, Minangkabau: 0.01%, NorwegianBokmal: 0.01%, Lithuanian: 0.01%, AlbanianTosk: 0.01%, AymaraCentral: 0.01%, Mizo: 0.01%, Asturian: 0.01%, Mossi: 0%, AzerbaijaniNorth: 0%, Slovak: 0%, Croatian: 0%, Kamba: 0%, Finnish: 0%, Swati: 0%, Kabyle: 0%, Irish: 0%, Kabiye: 0%, Kabuverdianu: 0%, Latgalian: 0%
 
 >> Detection of 2000 sentences (average length: 96 chars)
-Accuracy: 98.1%
-Erroneously classified as NorwegianNynorsk: 0.4%, Bemba: 0.25%, TokPisin: 0.25%, Maltese: 0.15%, Lingala: 0.1%, Hungarian: 0.1%, Dholuo: 0.1%, English: 0.05%, UzbekNorthern: 0.05%, Somali: 0.05%, Wolof: 0.05%, Ilocano: 0.05%, KanuriCentral: 0.05%, Turkmen: 0.05%, Nyanja: 0.05%, GuaraniParaguayan: 0.05%, Sardinian: 0.05%, Silesian: 0.05%
+Accuracy: 98.15%
+Erroneously classified as NorwegianNynorsk: 0.4%, Bemba: 0.25%, TokPisin: 0.25%, Maltese: 0.15%, Lingala: 0.1%, Hungarian: 0.1%, KanuriCentral: 0.1%, Dholuo: 0.1%, UzbekNorthern: 0.05%, Somali: 0.05%, Wolof: 0.05%, Ilocano: 0.05%, Turkmen: 0.05%, Nyanja: 0.05%, GuaraniParaguayan: 0.05%, Silesian: 0.05%
 

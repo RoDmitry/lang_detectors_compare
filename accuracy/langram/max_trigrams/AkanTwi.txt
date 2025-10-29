@@ -12,5 +12,5 @@ Erroneously classified as Ewe: 0.41%, Hausa: 0.38%, English: 0.37%, LubaKasai: 0
 
 >> Detection of 2000 sentences (average length: 88 chars)
 Accuracy: 99.2%
-Erroneously classified as Bambara: 0.1%, Ilocano: 0.1%, Ewe: 0.1%, Kabiye: 0.1%, English: 0.05%, Filipino: 0.05%, Lingala: 0.05%, LubaKasai: 0.05%, Rundi: 0.05%, KanuriCentral: 0.05%, Tumbuka: 0.05%, Kabyle: 0.05%
+Erroneously classified as Bambara: 0.2%, Ilocano: 0.1%, Ewe: 0.1%, Filipino: 0.05%, Lingala: 0.05%, LubaKasai: 0.05%, Rundi: 0.05%, KanuriCentral: 0.05%, Tumbuka: 0.05%, Kabiye: 0.05%, Sardinian: 0.05%
 

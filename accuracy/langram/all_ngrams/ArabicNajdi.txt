@@ -1,6 +1,6 @@
 ##### ArabicNajdi #####
 
->>> Accuracy on average: 57.62%
+>>> Accuracy on average: 57.63%
 
 >> Detection of 8978 single words (average length: 5 chars)
 Accuracy: 38.07%
@@ -11,6 +11,6 @@ Accuracy: 50.14%
 Erroneously classified as Arabic: 10.89%, ArabicMesopotamian: 7.07%, ArabicSouthernYemeni: 6.47%, ArabicSouthLevantine: 6.04%, ArabicEgyptian: 5.43%, ArabicMoroccan: 4.61%, ArabicTunisian: 4.35%, ArabicNorthLevantine: 4.28%, PersianWestern: 0.15%, KanuriCentralAjami: 0.12%, Sindhi: 0.1%, PashtoSouthern: 0.08%, PersianDari: 0.06%, BanjarJawi: 0.05%, AcehneseJawi: 0.03%, Urdu: 0.02%, AzerbaijaniSouth: 0.02%, KurdishCentral: 0%
 
 >> Detection of 2000 sentences (average length: 59 chars)
-Accuracy: 84.65%
-Erroneously classified as ArabicMesopotamian: 5.9%, ArabicSouthernYemeni: 3.4%, Arabic: 1.2%, ArabicNorthLevantine: 1.15%, ArabicMoroccan: 1.05%, ArabicTunisian: 1.05%, ArabicEgyptian: 0.85%, ArabicSouthLevantine: 0.65%, PersianWestern: 0.05%, BanjarJawi: 0.05%
+Accuracy: 84.7%
+Erroneously classified as ArabicMesopotamian: 5.9%, ArabicSouthernYemeni: 3.4%, Arabic: 1.15%, ArabicNorthLevantine: 1.15%, ArabicMoroccan: 1.05%, ArabicTunisian: 1.05%, ArabicEgyptian: 0.85%, ArabicSouthLevantine: 0.65%, PersianWestern: 0.05%, BanjarJawi: 0.05%
 

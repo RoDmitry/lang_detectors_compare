@@ -12,5 +12,5 @@ Erroneously classified as Pangasinan: 0.02%, Maori: 0.02%, AkanTwi: 0.02%, Swahi
 
 >> Detection of 2000 sentences (average length: 120 chars)
 Accuracy: 99.6%
-Erroneously classified as Nyanja: 0.1%, Indonesian: 0.05%, Malay: 0.05%, Afrikaans: 0.05%, OromoWestCentral: 0.05%, Basque: 0.05%, Ligurian: 0.05%
+Erroneously classified as Nyanja: 0.1%, Indonesian: 0.05%, Malay: 0.05%, Afrikaans: 0.05%, OromoWestCentral: 0.05%, Asturian: 0.05%, Ligurian: 0.05%
 

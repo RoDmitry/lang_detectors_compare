@@ -1,6 +1,6 @@
 ##### KanuriCentral #####
 
->>> Accuracy on average: 91.18%
+>>> Accuracy on average: 91.24%
 
 >> Detection of 13017 single words (average length: 8 chars)
 Accuracy: 80.83%
@@ -11,6 +11,6 @@ Accuracy: 93.26%
 Erroneously classified as English: 1.4%, Hausa: 0.54%, Buginese: 0.33%, TamasheqLatin: 0.27%, Bambara: 0.25%, Balinese: 0.19%, Jingpho: 0.13%, FulfuldeNigerian: 0.11%, Limburgish: 0.11%, Sardinian: 0.11%, French: 0.1%, Asturian: 0.1%, Sesotho: 0.09%, Sango: 0.09%, Venetian: 0.08%, Fijian: 0.08%, Luxembourgish: 0.08%, Swahili: 0.07%, Romanian: 0.07%, Dyula: 0.07%, Javanese: 0.06%, Ilocano: 0.06%, AkanTwi: 0.06%, Ewe: 0.06%, Portuguese: 0.05%, Banjar: 0.05%, Minangkabau: 0.05%, Pangasinan: 0.05%, Ligurian: 0.05%, Dutch: 0.05%, Sicilian: 0.05%, Lombard: 0.05%, Galician: 0.05%, Occitan: 0.05%, Friulian: 0.05%, Italian: 0.04%, Bemba: 0.04%, DinkaSouthwestern: 0.04%, Filipino: 0.04%, Sundanese: 0.04%, Wolof: 0.04%, Sepedi: 0.04%, NorwegianBokmal: 0.04%, QuechuaAyacucho: 0.04%, Basque: 0.04%, Xhosa: 0.03%, OromoWestCentral: 0.03%, Tsonga: 0.03%, Tumbuka: 0.03%, GuaraniParaguayan: 0.03%, Ganda: 0.02%, Silesian: 0.02%, Spanish: 0.02%, Indonesian: 0.02%, German: 0.02%, UzbekNorthern: 0.02%, Malay: 0.02%, Cebuano: 0.02%, Catalan: 0.02%, Nyanja: 0.02%, Umbundu: 0.02%, Kabyle: 0.02%, Esperanto: 0.02%, Kimbundu: 0.02%, Mizo: 0.02%, Welsh: 0.02%, Samoan: 0.02%, Papiamento: 0.02%, Latgalian: 0.02%, TatarCrimean: 0.02%, Maori: 0.02%, Lingala: 0.01%, Somali: 0.01%, Kinyarwanda: 0.01%, Danish: 0.01%, Dholuo: 0.01%, Lithuanian: 0.01%, Acehnese: 0.01%, Chokwe: 0.01%, Faroese: 0.01%, Igbo: 0.01%, Zulu: 0.01%, KurdishNorthern: 0.01%, CreoleHaitian: 0.01%, Mossi: 0.01%, AzerbaijaniNorth: 0.01%, MalagasyPlateau: 0.01%, Slovak: 0.01%, Croatian: 0.01%, Waray: 0.01%, Slovenian: 0.01%, Irish: 0.01%, Nuer: 0.01%, AymaraCentral: 0.01%, Estonian: 0.01%, GaelicScottish: 0.01%, Turkish: 0%, Polish: 0%, Afrikaans: 0%, KikongoKituba: 0%, Shona: 0%, Hungarian: 0%, Tswana: 0%, Swati: 0%, NorwegianNynorsk: 0%, Kabuverdianu: 0%, Maltese: 0%
 
 >> Detection of 2000 sentences (average length: 134 chars)
-Accuracy: 99.45%
-Erroneously classified as English: 0.15%, Shona: 0.1%, Malay: 0.05%, Buginese: 0.05%, Lithuanian: 0.05%, Limburgish: 0.05%, Sardinian: 0.05%, TamasheqLatin: 0.05%
+Accuracy: 99.65%
+Erroneously classified as Shona: 0.1%, English: 0.05%, Malay: 0.05%, Buginese: 0.05%, Lithuanian: 0.05%, TamasheqLatin: 0.05%
 
