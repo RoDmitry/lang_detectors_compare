@@ -1,13 +1,13 @@
 language,whichlang_avg,whichlang_word,whichlang_2words,whichlang_text,langram_max_3grams_avg,langram_max_3grams_word,langram_max_3grams_2words,langram_max_3grams_text,langram_all_ngrams_avg,langram_all_ngrams_word,langram_all_ngrams_2words,langram_all_ngrams_text
 English, 69,33,75,99, 92,79,97,99, 92,81,97,99
-Spanish, 68,42,67,95, 89,76,91,99, 89,77,91,99
+Spanish, 68,42,67,95, 89,77,91,99, 89,78,91,99
 French, 69,39,70,99, 94,85,96,99, 94,86,97,99
-Portuguese, 67,40,66,96, 91,79,93,99, 91,80,93,99
-German, 77,51,79,99, 94,87,98,99, 95,87,97,99
+Portuguese, 67,40,66,96, 90,78,92,99, 91,80,93,99
+German, 77,51,79,99, 94,87,97,99, 95,87,97,99
 Vietnamese, 82,58,90,98, 94,84,99,99, 94,85,99,99
 Turkish, 89,80,90,98, 97,93,98,99, 97,94,98,99
 Italian, 81,63,82,98, 93,85,96,99, 93,84,96,99
-Dutch, 73,51,76,91, 93,84,96,99, 93,85,96,98
+Dutch, 73,51,76,91, 93,84,96,99, 93,85,96,99
 Swedish, 68,44,70,90, 94,88,97,98, 95,89,97,98
 ChineseMandarinSimplified, 97,92,98,100, 81,56,89,97, 81,56,89,97
 Japanese, 34,8,4,90, 82,58,89,99, 82,58,89,99

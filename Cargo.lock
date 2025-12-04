@@ -55,6 +55,7 @@ dependencies = [
  "concat_const",
  "debug_unsafe",
  "icu_normalizer",
+ "regex",
  "serde",
  "strum",
  "strum_macros",
