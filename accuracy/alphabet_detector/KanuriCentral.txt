@@ -12,5 +12,5 @@ Erroneously classified as Unknown: 89.83%
 
 >> Detection of 2000 sentences (average length: 134 chars)
 Accuracy: 38.05%
-Erroneously classified as Unknown: 57.5%, TamasheqLatin: 3.55%, AzerbaijaniNorth: 0.9%
+Erroneously classified as Unknown: 56.5%, TamasheqLatin: 3.55%, AzerbaijaniNorth: 1.9%
 

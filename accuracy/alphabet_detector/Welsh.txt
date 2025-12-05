@@ -12,5 +12,5 @@ Erroneously classified as Unknown: 99.55%
 
 >> Detection of 2000 sentences (average length: 102 chars)
 Accuracy: 4.4%
-Erroneously classified as Unknown: 95.45%, Portuguese: 0.05%, Turkish: 0.05%, Lingala: 0.05%
+Erroneously classified as Unknown: 95.4%, Portuguese: 0.05%, Turkish: 0.05%, Lingala: 0.05%, Minangkabau: 0.05%
 
