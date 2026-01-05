@@ -1,16 +1,16 @@
 ##### Mossi #####
 
->>> Accuracy on average: 29.56%
+>>> Accuracy on average: 29.15%
 
 >> Detection of 3058 single words (average length: 5 chars)
 Accuracy: 1.73%
 Erroneously classified as Unknown: 98.26%
 
 >> Detection of 10843 word pairs (average length: 8 chars)
-Accuracy: 6.46%
-Erroneously classified as Unknown: 93.53%
+Accuracy: 6.38%
+Erroneously classified as Unknown: 93.61%
 
 >> Detection of 2000 sentences (average length: 84 chars)
-Accuracy: 80.5%
-Erroneously classified as Unknown: 19.35%, Umbundu: 0.05%, Kabiye: 0.05%, Mizo: 0.05%
+Accuracy: 79.35%
+Erroneously classified as Unknown: 20.5%, Umbundu: 0.05%, Kabiye: 0.05%, Mizo: 0.05%
 

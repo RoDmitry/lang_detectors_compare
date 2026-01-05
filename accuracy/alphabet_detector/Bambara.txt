@@ -1,8 +1,8 @@
 ##### Bambara #####
 
->>> Accuracy on average: 0.83%
+>>> Accuracy on average: 0.69%
 
->> Detection of 9090 single words (average length: 7 chars)
+>> Detection of 9084 single words (average length: 7 chars)
 Accuracy: 0.02%
 Erroneously classified as Unknown: 99.97%
 
@@ -11,6 +11,6 @@ Accuracy: 0.07%
 Erroneously classified as Unknown: 99.92%
 
 >> Detection of 2000 sentences (average length: 109 chars)
-Accuracy: 2.4%
-Erroneously classified as Unknown: 94%, Dyula: 1.5%, Fon: 1.5%, French: 0.5%, Vietnamese: 0.05%, Afrikaans: 0.05%
+Accuracy: 2%
+Erroneously classified as Unknown: 94.4%, Dyula: 1.5%, Fon: 1.5%, French: 0.5%, Vietnamese: 0.05%, Afrikaans: 0.05%
 

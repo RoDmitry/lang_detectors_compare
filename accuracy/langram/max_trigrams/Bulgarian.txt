@@ -2,9 +2,9 @@
 
 >>> Accuracy on average: 88.27%
 
->> Detection of 9881 single words (average length: 8 chars)
-Accuracy: 76.67%
-Erroneously classified as Macedonian: 11.52%, Serbian: 4.55%, Russian: 3.69%, Belarusian: 0.86%, Ukrainian: 0.66%, Tajik: 0.61%, Kazakh: 0.57%, Kyrgyz: 0.34%, Bashkir: 0.18%, MongolianHalh: 0.15%, Tatar: 0.15%
+>> Detection of 9880 single words (average length: 8 chars)
+Accuracy: 76.68%
+Erroneously classified as Macedonian: 11.51%, Serbian: 4.55%, Russian: 3.69%, Belarusian: 0.86%, Ukrainian: 0.66%, Tajik: 0.61%, Kazakh: 0.57%, Kyrgyz: 0.34%, Bashkir: 0.18%, MongolianHalh: 0.15%, Tatar: 0.15%
 
 >> Detection of 16460 word pairs (average length: 13 chars)
 Accuracy: 88.85%

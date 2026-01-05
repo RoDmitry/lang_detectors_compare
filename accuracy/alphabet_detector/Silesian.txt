@@ -1,14 +1,14 @@
 ##### Silesian #####
 
->>> Accuracy on average: 34.34%
+>>> Accuracy on average: 34.35%
 
->> Detection of 11138 single words (average length: 8 chars)
+>> Detection of 11136 single words (average length: 8 chars)
 Accuracy: 10.5%
 Erroneously classified as Unknown: 89.49%
 
 >> Detection of 16496 word pairs (average length: 13 chars)
-Accuracy: 19.14%
-Erroneously classified as Unknown: 80.85%
+Accuracy: 19.15%
+Erroneously classified as Unknown: 80.84%
 
 >> Detection of 2000 sentences (average length: 96 chars)
 Accuracy: 73.4%

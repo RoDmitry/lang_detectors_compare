@@ -1,16 +1,16 @@
 ##### Wolof #####
 
->>> Accuracy on average: 7.97%
+>>> Accuracy on average: 12.1%
 
 >> Detection of 6087 single words (average length: 6 chars)
-Accuracy: 0.32%
-Erroneously classified as Unknown: 99.67%
+Accuracy: 0.67%
+Erroneously classified as Unknown: 99.32%
 
 >> Detection of 14985 word pairs (average length: 9 chars)
-Accuracy: 0.64%
-Erroneously classified as Unknown: 99.35%
+Accuracy: 1.74%
+Erroneously classified as Unknown: 98.25%
 
 >> Detection of 2000 sentences (average length: 103 chars)
-Accuracy: 22.95%
-Erroneously classified as Unknown: 75.3%, AymaraCentral: 1.15%, Esperanto: 0.2%, Catalan: 0.15%, Papiamento: 0.15%, French: 0.05%, Basque: 0.05%
+Accuracy: 33.9%
+Erroneously classified as Unknown: 64.7%, French: 0.75%, Papiamento: 0.25%, Esperanto: 0.2%, Limburgish: 0.15%, Basque: 0.05%
 

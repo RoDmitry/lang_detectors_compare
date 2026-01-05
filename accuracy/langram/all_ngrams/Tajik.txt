@@ -2,7 +2,7 @@
 
 >>> Accuracy on average: 97.91%
 
->> Detection of 7951 single words (average length: 7 chars)
+>> Detection of 7950 single words (average length: 7 chars)
 Accuracy: 94.89%
 Erroneously classified as Kazakh: 0.71%, Russian: 0.66%, Kyrgyz: 0.66%, Bulgarian: 0.61%, Serbian: 0.54%, Macedonian: 0.41%, Bashkir: 0.4%, Belarusian: 0.33%, Ukrainian: 0.32%, MongolianHalh: 0.21%, Tatar: 0.2%
 

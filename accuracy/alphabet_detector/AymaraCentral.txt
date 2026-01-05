@@ -1,16 +1,16 @@
 ##### AymaraCentral #####
 
->>> Accuracy on average: 21.62%
+>>> Accuracy on average: 21.47%
 
->> Detection of 8941 single words (average length: 10 chars)
-Accuracy: 4.32%
-Erroneously classified as Unknown: 95.67%
+>> Detection of 8924 single words (average length: 10 chars)
+Accuracy: 4.33%
+Erroneously classified as Unknown: 95.66%
 
->> Detection of 17866 word pairs (average length: 17 chars)
-Accuracy: 7.79%
-Erroneously classified as Unknown: 92.2%
+>> Detection of 17861 word pairs (average length: 17 chars)
+Accuracy: 7.78%
+Erroneously classified as Unknown: 92.21%
 
 >> Detection of 2000 sentences (average length: 91 chars)
-Accuracy: 52.75%
-Erroneously classified as Unknown: 47.25%
+Accuracy: 52.3%
+Erroneously classified as Unknown: 47.7%
 

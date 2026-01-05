@@ -1,16 +1,16 @@
 ##### Kabyle #####
 
->>> Accuracy on average: 15.32%
+>>> Accuracy on average: 16.18%
 
->> Detection of 7667 single words (average length: 7 chars)
-Accuracy: 3.46%
-Erroneously classified as Unknown: 96.53%
+>> Detection of 7669 single words (average length: 7 chars)
+Accuracy: 4.27%
+Erroneously classified as Unknown: 95.72%
 
 >> Detection of 15767 word pairs (average length: 11 chars)
-Accuracy: 5.51%
-Erroneously classified as Unknown: 94.48%
+Accuracy: 6.21%
+Erroneously classified as Unknown: 93.78%
 
 >> Detection of 2000 sentences (average length: 72 chars)
-Accuracy: 37%
-Erroneously classified as Unknown: 58.75%, Sicilian: 1.7%, TamasheqLatin: 1.35%, Kabiye: 0.75%, Romanian: 0.25%, Ewe: 0.1%, Fon: 0.05%, Silesian: 0.05%
+Accuracy: 38.05%
+Erroneously classified as Unknown: 57.95%, Sicilian: 1.65%, TamasheqLatin: 1.15%, Kabiye: 0.75%, Romanian: 0.25%, Ewe: 0.1%, Fon: 0.05%, Silesian: 0.05%
 

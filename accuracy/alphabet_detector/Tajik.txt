@@ -1,16 +1,16 @@
 ##### Tajik #####
 
->>> Accuracy on average: 48.24%
+>>> Accuracy on average: 41.85%
 
->> Detection of 7951 single words (average length: 7 chars)
-Accuracy: 25.22%
-Erroneously classified as Unknown: 74.77%
+>> Detection of 7950 single words (average length: 7 chars)
+Accuracy: 15.71%
+Erroneously classified as Unknown: 84.28%
 
 >> Detection of 16300 word pairs (average length: 12 chars)
-Accuracy: 34.11%
-Erroneously classified as Unknown: 65.88%
+Accuracy: 24.21%
+Erroneously classified as Unknown: 75.78%
 
 >> Detection of 2000 sentences (average length: 92 chars)
-Accuracy: 85.4%
-Erroneously classified as Unknown: 14.55%, Macedonian: 0.05%
+Accuracy: 85.65%
+Erroneously classified as Unknown: 14.3%, Macedonian: 0.05%
 

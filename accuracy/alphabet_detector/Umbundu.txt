@@ -1,6 +1,6 @@
 ##### Umbundu #####
 
->>> Accuracy on average: 4.78%
+>>> Accuracy on average: 4.68%
 
 >> Detection of 3964 single words (average length: 7 chars)
 Accuracy: 0%
@@ -11,6 +11,6 @@ Accuracy: 0%
 Erroneously classified as Unknown: 100%
 
 >> Detection of 2000 sentences (average length: 90 chars)
-Accuracy: 14.35%
-Erroneously classified as Unknown: 85.45%, Portuguese: 0.15%, Ewe: 0.05%
+Accuracy: 14.05%
+Erroneously classified as Unknown: 85.75%, Portuguese: 0.15%, Ewe: 0.05%
 

@@ -12,5 +12,5 @@ Erroneously classified as Unknown: 48.1%
 
 >> Detection of 2000 sentences (average length: 153 chars)
 Accuracy: 96.45%
-Erroneously classified as Unknown: 3.45%, Kabiye: 0.1%
+Erroneously classified as Unknown: 3.5%, Kabiye: 0.05%
 

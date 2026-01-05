@@ -273,7 +273,8 @@ fn main() {
                             };
                         }
 
-                        if filter_max(wld.langs_cnt).0.contains(&language) {
+                        if *wld.langs_cnt.get_safe_unchecked(language as usize) == wld.buf.len() as u32 {
+                            // if filter_max(wld.langs_cnt).0.contains(&language) {
                             Some(vec![wld.buf].into_iter())
                         } else {
                             None

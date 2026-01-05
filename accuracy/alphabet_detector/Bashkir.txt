@@ -1,14 +1,14 @@
 ##### Bashkir #####
 
->>> Accuracy on average: 51.98%
+>>> Accuracy on average: 51.99%
 
 >> Detection of 8047 single words (average length: 8 chars)
-Accuracy: 29.35%
-Erroneously classified as Unknown: 70.64%
+Accuracy: 29.37%
+Erroneously classified as Unknown: 70.62%
 
->> Detection of 17230 word pairs (average length: 14 chars)
-Accuracy: 43.24%
-Erroneously classified as Unknown: 56.75%
+>> Detection of 17219 word pairs (average length: 14 chars)
+Accuracy: 43.27%
+Erroneously classified as Unknown: 56.72%
 
 >> Detection of 2000 sentences (average length: 75 chars)
 Accuracy: 83.35%

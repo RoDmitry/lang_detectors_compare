@@ -1,16 +1,16 @@
 ##### TatarCrimean #####
 
->>> Accuracy on average: 24.79%
+>>> Accuracy on average: 24.97%
 
 >> Detection of 10121 single words (average length: 8 chars)
-Accuracy: 6.15%
-Erroneously classified as Unknown: 93.84%
+Accuracy: 6.31%
+Erroneously classified as Unknown: 93.68%
 
 >> Detection of 17586 word pairs (average length: 14 chars)
-Accuracy: 11.53%
-Erroneously classified as Unknown: 88.46%
+Accuracy: 11.85%
+Erroneously classified as Unknown: 88.14%
 
 >> Detection of 2000 sentences (average length: 97 chars)
-Accuracy: 56.7%
-Erroneously classified as Unknown: 42.35%, Turkish: 0.8%, Portuguese: 0.05%, Afrikaans: 0.05%, Czech: 0.05%
+Accuracy: 56.75%
+Erroneously classified as Unknown: 42.3%, Turkish: 0.8%, Portuguese: 0.05%, Afrikaans: 0.05%, Czech: 0.05%
 
