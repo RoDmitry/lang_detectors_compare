@@ -1,14 +1,14 @@
 ##### PashtoSouthern #####
 
->>> Accuracy on average: 53.8%
+>>> Accuracy on average: 53.73%
 
->> Detection of 18512 single words (average length: 5 chars)
-Accuracy: 24.87%
-Erroneously classified as Unknown: 75.12%
+>> Detection of 18703 single words (average length: 5 chars)
+Accuracy: 24.72%
+Erroneously classified as Unknown: 75.27%
 
->> Detection of 13686 word pairs (average length: 8 chars)
-Accuracy: 40.58%
-Erroneously classified as Unknown: 59.41%
+>> Detection of 13714 word pairs (average length: 9 chars)
+Accuracy: 40.53%
+Erroneously classified as Unknown: 59.46%
 
 >> Detection of 2000 sentences (average length: 529 chars)
 Accuracy: 95.95%

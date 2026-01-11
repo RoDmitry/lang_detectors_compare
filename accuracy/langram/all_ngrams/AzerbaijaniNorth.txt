@@ -1,6 +1,6 @@
 ##### AzerbaijaniNorth #####
 
->>> Accuracy on average: 92.6%
+>>> Accuracy on average: 92.62%
 
 >> Detection of 10432 single words (average length: 8 chars)
 Accuracy: 82.86%
@@ -11,6 +11,6 @@ Accuracy: 95.51%
 Erroneously classified as Turkish: 2.05%, TatarCrimean: 0.82%, UzbekNorthern: 0.19%, Turkmen: 0.14%, English: 0.12%, Indonesian: 0.07%, Hausa: 0.04%, KanuriCentral: 0.04%, French: 0.03%, Sundanese: 0.03%, NorwegianNynorsk: 0.03%, Faroese: 0.03%, Wolof: 0.02%, Bambara: 0.02%, Umbundu: 0.02%, Bemba: 0.02%, Galician: 0.02%, Filipino: 0.02%, Italian: 0.02%, Malay: 0.02%, Romanian: 0.02%, Rundi: 0.02%, Sicilian: 0.02%, Venetian: 0.02%, TamasheqLatin: 0.02%, Friulian: 0.02%, Maori: 0.02%, Portuguese: 0.01%, Swahili: 0.01%, Somali: 0.01%, Kinyarwanda: 0.01%, Ilocano: 0.01%, Esperanto: 0.01%, Pangasinan: 0.01%, QuechuaAyacucho: 0.01%, Kabuverdianu: 0.01%, Afrikaans: 0.01%, KikongoKituba: 0.01%, Shona: 0.01%, Banjar: 0.01%, Catalan: 0.01%, TokPisin: 0.01%, Buginese: 0.01%, NorwegianBokmal: 0.01%, Balinese: 0.01%, Acehnese: 0.01%, Bosnian: 0.01%, Slovenian: 0.01%, Mizo: 0.01%, Occitan: 0.01%, Basque: 0.01%, Fijian: 0.01%, Luxembourgish: 0.01%, GaelicScottish: 0.01%, German: 0%, Javanese: 0%, Lingala: 0%, KurdishNorthern: 0%, Sepedi: 0%, Czech: 0%, Dyula: 0%, CreoleHaitian: 0%, Ganda: 0%, Croatian: 0%, Minangkabau: 0%, Danish: 0%, Lombard: 0%, Kabyle: 0%, Lithuanian: 0%, Chokwe: 0%, Latvian: 0%, Limburgish: 0%, Estonian: 0%, Sardinian: 0%, Jingpho: 0%, Asturian: 0%, Ligurian: 0%, Maltese: 0%, Samoan: 0%, Papiamento: 0%
 
 >> Detection of 2000 sentences (average length: 99 chars)
-Accuracy: 99.45%
-Erroneously classified as Turkish: 0.15%, Mizo: 0.15%, Hausa: 0.05%, UzbekNorthern: 0.05%, KanuriCentral: 0.05%, Acehnese: 0.05%, Bosnian: 0.05%
+Accuracy: 99.5%
+Erroneously classified as Mizo: 0.15%, Turkish: 0.1%, Hausa: 0.05%, UzbekNorthern: 0.05%, KanuriCentral: 0.05%, Acehnese: 0.05%, Bosnian: 0.05%
 

@@ -2,8 +2,8 @@
 
 >>> Accuracy on average: 77%
 
->> Detection of 9514 single words (average length: 9 chars)
-Accuracy: 51.51%
+>> Detection of 9513 single words (average length: 9 chars)
+Accuracy: 51.5%
 Erroneously classified as Italian: 10.56%, Dutch: 9.7%, Turkish: 7.15%, Swedish: 6.74%, English: 4.58%, Portuguese: 3.96%, Spanish: 3.53%, French: 2.21%, Vietnamese: 0.02%
 
 >> Detection of 16355 word pairs (average length: 13 chars)

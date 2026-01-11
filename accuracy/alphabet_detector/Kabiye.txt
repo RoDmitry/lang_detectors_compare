@@ -1,14 +1,14 @@
 ##### Kabiye #####
 
->>> Accuracy on average: 57.22%
+>>> Accuracy on average: 57.23%
 
->> Detection of 6460 single words (average length: 6 chars)
-Accuracy: 32.13%
-Erroneously classified as Unknown: 67.86%
+>> Detection of 6452 single words (average length: 6 chars)
+Accuracy: 32.16%
+Erroneously classified as Unknown: 67.83%
 
->> Detection of 14542 word pairs (average length: 10 chars)
-Accuracy: 44.29%
-Erroneously classified as Unknown: 55.7%
+>> Detection of 14538 word pairs (average length: 10 chars)
+Accuracy: 44.28%
+Erroneously classified as Unknown: 55.71%
 
 >> Detection of 2000 sentences (average length: 90 chars)
 Accuracy: 95.25%

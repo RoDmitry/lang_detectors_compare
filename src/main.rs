@@ -7,7 +7,7 @@ use ::std::{
     time::Instant,
 };
 use ahash::{AHashMap, AHashSet};
-use alphabet_detector::{filter_max, ScriptLanguage, UcdScript};
+use alphabet_detector::{ScriptLanguage, UcdScript};
 use fraction::Decimal;
 use itertools::Itertools;
 use langram::{DetectorBuilder as LangramDetectorBuilder, ModelsStorage};
@@ -182,8 +182,11 @@ fn collect_statistics(
         {
             let single_word_results = detector_fn(single_words, languages);
             for (i, single_word) in single_words.iter().enumerate() {
-                statistics
-                    .add_single_word_counts(*single_word_results.get(i).unwrap(), single_word);
+                let l = *single_word_results.get(i).unwrap();
+                /* if *language == ScriptLanguage::Lao && l.is_none() {
+                    println!("word: {:?}", single_word);
+                } */
+                statistics.add_single_word_counts(l, single_word);
             }
         }
 
@@ -273,8 +276,9 @@ fn main() {
                             };
                         }
 
-                        if *wld.langs_cnt.get_safe_unchecked(language as usize) == wld.buf.len() as u32 {
-                            // if filter_max(wld.langs_cnt).0.contains(&language) {
+                        if unsafe { *wld.langs_cnt.get_unchecked(language as usize) }
+                            == wld.buf.chars().count() as u32
+                        {
                             Some(vec![wld.buf].into_iter())
                         } else {
                             None

@@ -19,3 +19,6 @@ strum = "0.27"
 titlecase = "3"
 whatlang = "0.18"
 whichlang = "0.1"
+
+[profile.dev]
+opt-level = 1

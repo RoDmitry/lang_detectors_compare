@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 51.48%
 
->> Detection of 7720 single words (average length: 7 chars)
+>> Detection of 7719 single words (average length: 7 chars)
 Accuracy: 20.27%
-Erroneously classified as Indonesian: 12.02%, Filipino: 11.63%, Latin: 2.91%, UzbekNorthern: 2.75%, French: 2.51%, Estonian: 2.46%, Afrikaans: 2.27%, Zulu: 2.25%, Shona: 2.25%, Italian: 2.15%, Lithuanian: 2.09%, Portuguese: 2.04%, Esperanto: 2.02%, Welsh: 1.99%, Finnish: 1.81%, Hungarian: 1.68%, English: 1.64%, Slovak: 1.63%, Spanish: 1.61%, German: 1.61%, Turkish: 1.61%, Romanian: 1.6%, Catalan: 1.51%, Slovenian: 1.41%, AkanTwi: 1.34%, Croatian: 1.32%, Turkmen: 1.15%, Polish: 1.1%, NorwegianBokmal: 1.07%, Latvian: 1.06%, Dutch: 1.03%, Czech: 0.98%, Danish: 0.91%, Swedish: 0.82%, AzerbaijaniNorth: 0.69%, Vietnamese: 0.63%
+Erroneously classified as Indonesian: 12.02%, Filipino: 11.63%, Latin: 2.91%, UzbekNorthern: 2.75%, French: 2.51%, Estonian: 2.46%, Afrikaans: 2.28%, Zulu: 2.25%, Shona: 2.25%, Italian: 2.15%, Lithuanian: 2.09%, Portuguese: 2.04%, Esperanto: 2.02%, Welsh: 1.99%, Finnish: 1.81%, Hungarian: 1.68%, English: 1.64%, Slovak: 1.63%, German: 1.61%, Turkish: 1.61%, Spanish: 1.6%, Romanian: 1.6%, Catalan: 1.51%, Slovenian: 1.41%, AkanTwi: 1.34%, Croatian: 1.32%, Turkmen: 1.15%, Polish: 1.1%, NorwegianBokmal: 1.07%, Latvian: 1.06%, Dutch: 1.03%, Czech: 0.98%, Danish: 0.91%, Swedish: 0.82%, AzerbaijaniNorth: 0.69%, Vietnamese: 0.63%
 
->> Detection of 16427 word pairs (average length: 13 chars)
+>> Detection of 16426 word pairs (average length: 13 chars)
 Accuracy: 45.23%
 Erroneously classified as Filipino: 12.96%, Indonesian: 9.87%, Afrikaans: 1.93%, Italian: 1.68%, UzbekNorthern: 1.63%, Estonian: 1.49%, Portuguese: 1.48%, Shona: 1.46%, Esperanto: 1.36%, Lithuanian: 1.31%, English: 1.27%, French: 1.26%, Dutch: 1.2%, Zulu: 1.17%, Swedish: 1.12%, Catalan: 1.07%, Finnish: 1%, German: 0.92%, Latin: 0.91%, Hungarian: 0.82%, AkanTwi: 0.77%, Welsh: 0.76%, Slovenian: 0.75%, Latvian: 0.75%, Slovak: 0.74%, Turkish: 0.66%, Croatian: 0.66%, Spanish: 0.65%, Romanian: 0.62%, NorwegianBokmal: 0.56%, Czech: 0.45%, Danish: 0.4%, Turkmen: 0.34%, Polish: 0.24%, Vietnamese: 0.2%, AzerbaijaniNorth: 0.12%
 

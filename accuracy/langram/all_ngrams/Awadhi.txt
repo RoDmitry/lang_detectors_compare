@@ -12,5 +12,5 @@ Erroneously classified as Hindi: 15.07%, Bhojpuri: 7.25%, Magahi: 5.67%, Maithil
 
 >> Detection of 2000 sentences (average length: 115 chars)
 Accuracy: 97.5%
-Erroneously classified as Hindi: 1.45%, Bhojpuri: 0.45%, Maithili: 0.2%, Magahi: 0.15%, English: 0.1%, Sanskrit: 0.1%, KashmiriDevanagari: 0.05%
+Erroneously classified as Hindi: 1.45%, Bhojpuri: 0.45%, Maithili: 0.2%, Magahi: 0.15%, Sanskrit: 0.1%, English: 0.05%, Faroese: 0.05%, KashmiriDevanagari: 0.05%
 

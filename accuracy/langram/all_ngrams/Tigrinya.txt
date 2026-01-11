@@ -12,5 +12,5 @@ Erroneously classified as Amharic: 1.24%
 
 >> Detection of 2000 sentences (average length: 93 chars)
 Accuracy: 99.05%
-Erroneously classified as Amharic: 0.9%, Buginese: 0.05%
+Erroneously classified as Amharic: 0.9%, Ilocano: 0.05%
 

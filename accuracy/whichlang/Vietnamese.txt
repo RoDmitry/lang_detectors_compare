@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 82.73%
 
->> Detection of 2971 single words (average length: 4 chars)
-Accuracy: 58.39%
-Erroneously classified as Portuguese: 10.4%, Italian: 7.3%, Turkish: 5.21%, Spanish: 5.14%, English: 4.57%, French: 3.56%, Dutch: 2.18%, German: 1.75%, Swedish: 1.41%, Arabic: 0.03%
+>> Detection of 2968 single words (average length: 4 chars)
+Accuracy: 58.38%
+Erroneously classified as Portuguese: 10.41%, Italian: 7.31%, Turkish: 5.18%, Spanish: 5.15%, English: 4.58%, French: 3.57%, Dutch: 2.19%, German: 1.75%, Swedish: 1.41%, Arabic: 0.03%
 
->> Detection of 13582 word pairs (average length: 8 chars)
+>> Detection of 13581 word pairs (average length: 8 chars)
 Accuracy: 90.85%
 Erroneously classified as Portuguese: 2.54%, Italian: 1.58%, Turkish: 1.17%, French: 0.98%, English: 0.93%, Spanish: 0.87%, Dutch: 0.36%, German: 0.34%, Swedish: 0.33%, Arabic: 0%
 

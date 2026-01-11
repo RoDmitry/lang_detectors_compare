@@ -8,7 +8,7 @@ Erroneously classified as Tatar: 7.17%, Kazakh: 3.51%, Russian: 1.98%, Kyrgyz: 1
 
 >> Detection of 17219 word pairs (average length: 14 chars)
 Accuracy: 94.32%
-Erroneously classified as Tatar: 3.94%, Kazakh: 0.62%, Russian: 0.48%, Kyrgyz: 0.15%, Bulgarian: 0.13%, Serbian: 0.09%, Tajik: 0.06%, Belarusian: 0.06%, Ukrainian: 0.04%, Macedonian: 0.02%, MongolianHalh: 0.01%
+Erroneously classified as Tatar: 3.95%, Kazakh: 0.62%, Russian: 0.48%, Kyrgyz: 0.15%, Bulgarian: 0.13%, Serbian: 0.09%, Belarusian: 0.06%, Tajik: 0.06%, Ukrainian: 0.04%, Macedonian: 0.02%, MongolianHalh: 0.01%
 
 >> Detection of 2000 sentences (average length: 75 chars)
 Accuracy: 99.25%

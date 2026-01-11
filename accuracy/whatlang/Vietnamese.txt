@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 86.09%
 
->> Detection of 2971 single words (average length: 4 chars)
+>> Detection of 2968 single words (average length: 4 chars)
 Accuracy: 65.56%
-Erroneously classified as Welsh: 9.08%, Filipino: 1.44%, Javanese: 1.38%, Portuguese: 1.31%, English: 1.24%, Spanish: 1.24%, Romanian: 1.11%, Hungarian: 1.11%, French: 1.04%, German: 1%, Slovak: 0.97%, Czech: 0.9%, Estonian: 0.84%, Italian: 0.77%, Shona: 0.77%, Latin: 0.77%, UzbekNorthern: 0.74%, Indonesian: 0.67%, Esperanto: 0.63%, Lithuanian: 0.57%, Zulu: 0.53%, Afrikaans: 0.53%, Dutch: 0.5%, AkanTwi: 0.5%, Croatian: 0.5%, Catalan: 0.47%, Turkmen: 0.47%, Finnish: 0.47%, Latvian: 0.47%, AzerbaijaniNorth: 0.4%, Danish: 0.4%, NorwegianBokmal: 0.37%, Polish: 0.33%, Slovenian: 0.3%, Turkish: 0.23%, Swedish: 0.23%
+Erroneously classified as Welsh: 9.09%, Filipino: 1.44%, Javanese: 1.38%, Portuguese: 1.31%, English: 1.24%, Spanish: 1.24%, Romanian: 1.11%, Hungarian: 1.11%, French: 1.04%, German: 1.01%, Slovak: 0.94%, Czech: 0.9%, Estonian: 0.84%, Italian: 0.77%, Shona: 0.77%, Latin: 0.77%, UzbekNorthern: 0.74%, Indonesian: 0.67%, Esperanto: 0.64%, Lithuanian: 0.57%, Zulu: 0.53%, Afrikaans: 0.53%, Dutch: 0.5%, AkanTwi: 0.5%, Croatian: 0.5%, Catalan: 0.47%, Turkmen: 0.47%, Finnish: 0.47%, Latvian: 0.47%, AzerbaijaniNorth: 0.4%, Danish: 0.4%, NorwegianBokmal: 0.37%, Polish: 0.33%, Slovenian: 0.3%, Turkish: 0.23%, Swedish: 0.23%
 
->> Detection of 13582 word pairs (average length: 8 chars)
+>> Detection of 13581 word pairs (average length: 8 chars)
 Accuracy: 93.26%
 Erroneously classified as Welsh: 1.37%, Portuguese: 1.22%, French: 0.5%, Filipino: 0.4%, Italian: 0.36%, Catalan: 0.3%, Dutch: 0.27%, Spanish: 0.26%, English: 0.22%, Javanese: 0.2%, Romanian: 0.19%, Slovak: 0.19%, Hungarian: 0.1%, Shona: 0.09%, Czech: 0.09%, Indonesian: 0.08%, Afrikaans: 0.08%, Croatian: 0.08%, Finnish: 0.08%, Lithuanian: 0.08%, AkanTwi: 0.07%, UzbekNorthern: 0.05%, Estonian: 0.05%, German: 0.04%, Zulu: 0.04%, Turkmen: 0.03%, Turkish: 0.02%, Danish: 0.02%, NorwegianBokmal: 0.02%, Slovenian: 0.02%, Esperanto: 0.02%, Polish: 0.01%, Swedish: 0.01%, Latin: 0.01%, Latvian: 0%
 
