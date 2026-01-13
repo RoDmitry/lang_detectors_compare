@@ -1,16 +1,16 @@
 ##### KurdishCentral #####
 
->>> Accuracy on average: 68.28%
+>>> Accuracy on average: 74.74%
 
->> Detection of 20570 single words (average length: 7 chars)
-Accuracy: 43.25%
-Erroneously classified as Unknown: 56.74%
+>> Detection of 19593 single words (average length: 7 chars)
+Accuracy: 53.51%
+Erroneously classified as Unknown: 46.48%
 
->> Detection of 17078 word pairs (average length: 12 chars)
-Accuracy: 64.06%
-Erroneously classified as Unknown: 35.93%
+>> Detection of 16908 word pairs (average length: 12 chars)
+Accuracy: 72.45%
+Erroneously classified as Unknown: 27.54%
 
 >> Detection of 2000 sentences (average length: 222 chars)
-Accuracy: 97.55%
-Erroneously classified as Unknown: 2.45%
+Accuracy: 98.25%
+Erroneously classified as Unknown: 1.75%
 

@@ -76,6 +76,8 @@ dependencies = [
 [[package]]
 name = "array_buf"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d979e2f48cc2e8ffbcf4aa5c84de8134cd4f0164383eb677a90cc6d901d30986"
 
 [[package]]
 name = "arraystring"

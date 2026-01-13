@@ -1,16 +1,16 @@
 ##### Kashmiri #####
 
->>> Accuracy on average: 5.1%
+>>> Accuracy on average: 55.23%
 
->> Detection of 11403 single words (average length: 5 chars)
-Accuracy: 0.34%
-Erroneously classified as Unknown: 99.65%
+>> Detection of 11397 single words (average length: 5 chars)
+Accuracy: 22.26%
+Erroneously classified as Unknown: 77.73%
 
->> Detection of 16491 word pairs (average length: 10 chars)
-Accuracy: 1.23%
-Erroneously classified as Unknown: 98.76%
+>> Detection of 16488 word pairs (average length: 10 chars)
+Accuracy: 44.93%
+Erroneously classified as Unknown: 55.06%
 
 >> Detection of 2000 sentences (average length: 133 chars)
-Accuracy: 13.75%
-Erroneously classified as Unknown: 86.25%
+Accuracy: 98.5%
+Erroneously classified as Unknown: 1.5%
 

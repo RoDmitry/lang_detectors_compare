@@ -2,7 +2,7 @@
 
 >>> Accuracy on average: 99.98%
 
->> Detection of 9582 single words (average length: 11 chars)
+>> Detection of 9570 single words (average length: 11 chars)
 Accuracy: 100%
 Erroneously classified as 
 

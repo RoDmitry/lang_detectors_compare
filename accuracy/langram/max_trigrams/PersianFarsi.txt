@@ -1,0 +1,16 @@
+##### PersianFarsi #####
+
+>>> Accuracy on average: 77.95%
+
+>> Detection of 9375 single words (average length: 5 chars)
+Accuracy: 61.84%
+Erroneously classified as PersianDari: 14.89%, AzerbaijaniSouth: 2.74%, PashtoSouthern: 2.36%, Urdu: 2.19%, Arabic: 1.83%, Sindhi: 1.81%, ArabicEgyptian: 1.65%, Kashmiri: 1.45%, KurdishCentral: 1.38%, ArabicSouthLevantine: 1.23%, ArabicNorthLevantine: 1.21%, ArabicTunisian: 0.94%, ArabicNajdi: 0.85%, BanjarJawi: 0.76%, AcehneseJawi: 0.74%, ArabicMesopotamian: 0.71%, ArabicMoroccan: 0.7%, ArabicSouthernYemeni: 0.55%, Uyghur: 0.07%
+
+>> Detection of 15526 word pairs (average length: 9 chars)
+Accuracy: 75.57%
+Erroneously classified as PersianDari: 19.89%, AzerbaijaniSouth: 0.81%, PashtoSouthern: 0.52%, ArabicEgyptian: 0.48%, Urdu: 0.39%, ArabicSouthLevantine: 0.29%, ArabicNorthLevantine: 0.28%, Arabic: 0.27%, Sindhi: 0.23%, Kashmiri: 0.22%, KurdishCentral: 0.18%, ArabicTunisian: 0.14%, ArabicSouthernYemeni: 0.14%, ArabicNajdi: 0.11%, ArabicMesopotamian: 0.11%, ArabicMoroccan: 0.1%, AcehneseJawi: 0.09%, BanjarJawi: 0.08%
+
+>> Detection of 2000 sentences (average length: 135 chars)
+Accuracy: 96.45%
+Erroneously classified as PersianDari: 2.3%, Sindhi: 0.25%, Arabic: 0.2%, ArabicNajdi: 0.15%, PashtoSouthern: 0.15%, Urdu: 0.1%, ArabicEgyptian: 0.1%, ArabicNorthLevantine: 0.1%, ArabicSouthLevantine: 0.1%, ArabicMoroccan: 0.05%, ArabicTunisian: 0.05%
+

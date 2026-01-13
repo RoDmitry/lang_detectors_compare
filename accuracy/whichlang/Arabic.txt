@@ -2,11 +2,11 @@
 
 >>> Accuracy on average: 99.96%
 
->> Detection of 13965 single words (average length: 6 chars)
-Accuracy: 99.98%
-Erroneously classified as Korean: 0.01%
+>> Detection of 13526 single words (average length: 6 chars)
+Accuracy: 100%
+Erroneously classified as 
 
->> Detection of 17388 word pairs (average length: 11 chars)
+>> Detection of 17271 word pairs (average length: 11 chars)
 Accuracy: 100%
 Erroneously classified as 
 

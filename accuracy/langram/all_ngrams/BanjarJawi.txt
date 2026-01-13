@@ -1,14 +1,14 @@
 ##### BanjarJawi #####
 
->>> Accuracy on average: 91.62%
+>>> Accuracy on average: 91.89%
 
->> Detection of 11701 single words (average length: 7 chars)
-Accuracy: 82.03%
-Erroneously classified as AcehneseJawi: 13.27%, KurdishCentral: 1.19%, PersianWestern: 0.33%, ArabicEgyptian: 0.3%, Sindhi: 0.29%, ArabicNorthLevantine: 0.27%, ArabicMoroccan: 0.24%, ArabicMesopotamian: 0.23%, Arabic: 0.19%, ArabicTunisian: 0.19%, PersianDari: 0.18%, ArabicSouthernYemeni: 0.18%, PashtoSouthern: 0.17%, AzerbaijaniSouth: 0.17%, ArabicSouthLevantine: 0.16%, Kashmiri: 0.16%, Uyghur: 0.12%, ArabicNajdi: 0.11%, Urdu: 0.11%
+>> Detection of 11287 single words (average length: 7 chars)
+Accuracy: 82.65%
+Erroneously classified as AcehneseJawi: 13.64%, PersianFarsi: 0.34%, ArabicEgyptian: 0.31%, Sindhi: 0.31%, ArabicNorthLevantine: 0.28%, ArabicMoroccan: 0.25%, ArabicMesopotamian: 0.23%, Arabic: 0.2%, PashtoSouthern: 0.19%, ArabicTunisian: 0.19%, ArabicSouthernYemeni: 0.19%, PersianDari: 0.18%, AzerbaijaniSouth: 0.17%, ArabicSouthLevantine: 0.16%, Kashmiri: 0.16%, Uyghur: 0.13%, Urdu: 0.11%, ArabicNajdi: 0.11%, KurdishCentral: 0.09%
 
->> Detection of 17442 word pairs (average length: 12 chars)
-Accuracy: 92.85%
-Erroneously classified as AcehneseJawi: 6.7%, KurdishCentral: 0.1%, ArabicEgyptian: 0.05%, PersianWestern: 0.05%, PashtoSouthern: 0.04%, ArabicMoroccan: 0.03%, AzerbaijaniSouth: 0.02%, Sindhi: 0.02%, PersianDari: 0.01%, ArabicSouthernYemeni: 0.01%, Kashmiri: 0.01%, Urdu: 0.01%, ArabicSouthLevantine: 0.01%, ArabicNajdi: 0.01%, ArabicNorthLevantine: 0%, ArabicTunisian: 0%
+>> Detection of 17360 word pairs (average length: 12 chars)
+Accuracy: 93.02%
+Erroneously classified as AcehneseJawi: 6.63%, ArabicEgyptian: 0.05%, PersianFarsi: 0.05%, PashtoSouthern: 0.04%, ArabicMoroccan: 0.03%, AzerbaijaniSouth: 0.02%, Sindhi: 0.02%, PersianDari: 0.01%, Kashmiri: 0.01%, Urdu: 0.01%, ArabicSouthLevantine: 0.01%, ArabicNajdi: 0.01%, ArabicSouthernYemeni: 0.01%, Arabic: 0%, ArabicNorthLevantine: 0%, ArabicTunisian: 0%
 
 >> Detection of 2000 sentences (average length: 128 chars)
 Accuracy: 100%

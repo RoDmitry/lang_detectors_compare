@@ -1,16 +1,16 @@
 ##### BanjarJawi #####
 
->>> Accuracy on average: 0.19%
+>>> Accuracy on average: 0.21%
 
->> Detection of 11701 single words (average length: 7 chars)
+>> Detection of 11287 single words (average length: 7 chars)
 Accuracy: 0%
 Erroneously classified as Unknown: 100%
 
->> Detection of 17442 word pairs (average length: 12 chars)
-Accuracy: 0.02%
-Erroneously classified as Unknown: 99.97%
+>> Detection of 17360 word pairs (average length: 12 chars)
+Accuracy: 0.03%
+Erroneously classified as Unknown: 99.96%
 
 >> Detection of 2000 sentences (average length: 128 chars)
-Accuracy: 0.55%
-Erroneously classified as Unknown: 99.45%
+Accuracy: 0.6%
+Erroneously classified as Unknown: 99.25%, AcehneseJawi: 0.15%
 
