@@ -109,7 +109,7 @@ impl DetectorStatistics {
             .get(&language)
             .map(|&accuracy| {
                 if accuracy > Decimal::zero() {
-                    accuracy.to_string()
+                    accuracy.round().to_string()
                 } else {
                     "0".to_owned()
                 }
@@ -120,21 +120,21 @@ impl DetectorStatistics {
             .single_word_statistic
             .language_accuracies
             .get(&Some(language))
-            .map(|v| v.to_string())
+            .map(|a| a.round().to_string())
             .unwrap_or("-".to_owned());
 
         let word_pairs_accuracy_column = self
             .two_words_statistic
             .language_accuracies
             .get(&Some(language))
-            .map(|v| v.to_string())
+            .map(|a| format!("{a:.1}"))
             .unwrap_or("-".to_owned());
 
         let sentences_accuracy_column = self
             .text_statistic
             .language_accuracies
             .get(&Some(language))
-            .map(|v| v.to_string())
+            .map(|a| format!("{a:.1}"))
             .unwrap_or("-".to_owned());
 
         let mut res = average_accuracy_column;
