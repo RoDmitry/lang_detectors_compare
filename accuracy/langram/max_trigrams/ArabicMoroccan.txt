@@ -4,7 +4,7 @@
 
 >> Detection of 8941 single words (average length: 6 chars)
 Accuracy: 49.83%
-Erroneously classified as Arabic: 18.97%, ArabicEgyptian: 6.43%, ArabicTunisian: 5.03%, ArabicNajdi: 3.62%, ArabicMesopotamian: 3.55%, ArabicSouthernYemeni: 2.82%, ArabicNorthLevantine: 2.8%, ArabicSouthLevantine: 2.78%, PersianDari: 0.85%, AcehneseJawi: 0.79%, BanjarJawi: 0.74%, PersianFarsi: 0.67%, Sindhi: 0.3%, PashtoSouthern: 0.21%, AzerbaijaniSouth: 0.2%, Kashmiri: 0.17%, Urdu: 0.07%, KurdishCentral: 0.05%, Uyghur: 0.02%
+Erroneously classified as Arabic: 18.99%, ArabicEgyptian: 6.43%, ArabicTunisian: 5.03%, ArabicNajdi: 3.61%, ArabicMesopotamian: 3.55%, ArabicSouthernYemeni: 2.82%, ArabicNorthLevantine: 2.8%, ArabicSouthLevantine: 2.78%, PersianDari: 0.85%, AcehneseJawi: 0.79%, BanjarJawi: 0.74%, PersianFarsi: 0.67%, Sindhi: 0.3%, PashtoSouthern: 0.21%, AzerbaijaniSouth: 0.2%, Kashmiri: 0.17%, Urdu: 0.07%, KurdishCentral: 0.05%, Uyghur: 0.02%
 
 >> Detection of 17793 word pairs (average length: 10 chars)
 Accuracy: 65.36%
