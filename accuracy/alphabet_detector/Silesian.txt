@@ -4,13 +4,13 @@
 
 >> Detection of 11130 single words (average length: 8 chars)
 Accuracy: 10.51%
-Erroneously classified as Unknown: 89.48%
+Erroneously classified as Unknown (multiple): 89.48%
 
 >> Detection of 16497 word pairs (average length: 13 chars)
 Accuracy: 19.14%
-Erroneously classified as Unknown: 80.85%
+Erroneously classified as Unknown (multiple): 80.85%
 
 >> Detection of 2000 sentences (average length: 96 chars)
 Accuracy: 73.4%
-Erroneously classified as Unknown: 24.25%, Czech: 0.9%, Polish: 0.55%, Sicilian: 0.45%, Latin: 0.3%, Swedish: 0.15%
+Erroneously classified as Unknown (multiple): 24.25%, Czech: 0.9%, Polish: 0.55%, Sicilian: 0.45%, Latin: 0.3%, Swedish: 0.15%
 

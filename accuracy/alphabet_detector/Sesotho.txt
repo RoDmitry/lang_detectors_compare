@@ -4,13 +4,13 @@
 
 >> Detection of 4646 single words (average length: 7 chars)
 Accuracy: 0%
-Erroneously classified as Unknown: 100%
+Erroneously classified as Unknown (multiple): 100%
 
 >> Detection of 10066 word pairs (average length: 11 chars)
 Accuracy: 0%
-Erroneously classified as Unknown: 100%
+Erroneously classified as Unknown (multiple): 100%
 
 >> Detection of 2000 sentences (average length: 111 chars)
 Accuracy: 0.8%
-Erroneously classified as Unknown: 97.85%, Polish: 0.55%, Sicilian: 0.25%, Romanian: 0.15%, Portuguese: 0.1%, KanuriCentral: 0.1%, Fon: 0.1%, Silesian: 0.1%
+Erroneously classified as Unknown (multiple): 97.85%, Polish: 0.55%, Sicilian: 0.25%, Romanian: 0.15%, Portuguese: 0.1%, KanuriCentral: 0.1%, Fon: 0.1%, Silesian: 0.1%
 

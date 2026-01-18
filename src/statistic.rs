@@ -90,7 +90,7 @@ impl Statistic {
                 let formatted_lang = if lang.is_some() {
                     format!("{:?}", lang.as_ref().unwrap())
                 } else {
-                    "Unknown".to_owned()
+                    "Unknown (multiple)".to_owned()
                 };
                 format!("{formatted_lang}: {accuracy:.2}%")
             })

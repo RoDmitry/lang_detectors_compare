@@ -4,13 +4,13 @@
 
 >> Detection of 15934 single words (average length: 9 chars)
 Accuracy: 29.79%
-Erroneously classified as Unknown: 70.2%
+Erroneously classified as Unknown (multiple): 70.2%
 
 >> Detection of 17911 word pairs (average length: 15 chars)
 Accuracy: 46.9%
-Erroneously classified as Unknown: 53.09%
+Erroneously classified as Unknown (multiple): 53.09%
 
 >> Detection of 2000 sentences (average length: 151 chars)
 Accuracy: 98.75%
-Erroneously classified as Unknown: 1.25%
+Erroneously classified as Unknown (multiple): 1.25%
 

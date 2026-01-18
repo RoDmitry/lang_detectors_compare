@@ -4,13 +4,13 @@
 
 >> Detection of 9334 single words (average length: 8 chars)
 Accuracy: 3.19%
-Erroneously classified as Unknown: 96.8%
+Erroneously classified as Unknown (multiple): 96.8%
 
 >> Detection of 16003 word pairs (average length: 12 chars)
 Accuracy: 5.48%
-Erroneously classified as Unknown: 94.51%
+Erroneously classified as Unknown (multiple): 94.51%
 
 >> Detection of 2000 sentences (average length: 116 chars)
 Accuracy: 35.35%
-Erroneously classified as Unknown: 64.6%, Serbian: 0.05%
+Erroneously classified as Unknown (multiple): 64.6%, Serbian: 0.05%
 

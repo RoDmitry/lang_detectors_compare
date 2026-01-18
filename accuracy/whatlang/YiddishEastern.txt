@@ -4,7 +4,7 @@
 
 >> Detection of 1508 single words (average length: 6 chars)
 Accuracy: 65.64%
-Erroneously classified as Hebrew: 34.28%, Unknown: 0.06%
+Erroneously classified as Hebrew: 34.28%, Unknown (multiple): 0.06%
 
 >> Detection of 5031 word pairs (average length: 10 chars)
 Accuracy: 87.06%

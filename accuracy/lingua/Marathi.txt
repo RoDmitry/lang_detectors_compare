@@ -4,13 +4,13 @@
 
 >> Detection of 9087 single words (average length: 7 chars)
 Accuracy: 66.41%
-Erroneously classified as Hindi: 32.84%, Unknown: 0.73%
+Erroneously classified as Hindi: 32.84%, Unknown (multiple): 0.73%
 
 >> Detection of 18529 word pairs (average length: 12 chars)
 Accuracy: 77.82%
-Erroneously classified as Hindi: 21.73%, Unknown: 0.43%
+Erroneously classified as Hindi: 21.73%, Unknown (multiple): 0.43%
 
 >> Detection of 2000 sentences (average length: 75 chars)
 Accuracy: 95.4%
-Erroneously classified as Hindi: 4.15%, Unknown: 0.35%, English: 0.1%
+Erroneously classified as Hindi: 4.15%, Unknown (multiple): 0.35%, English: 0.1%
 

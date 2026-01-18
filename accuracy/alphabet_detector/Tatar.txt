@@ -4,13 +4,13 @@
 
 >> Detection of 8068 single words (average length: 8 chars)
 Accuracy: 3.37%
-Erroneously classified as Unknown: 96.62%
+Erroneously classified as Unknown (multiple): 96.62%
 
 >> Detection of 17975 word pairs (average length: 13 chars)
 Accuracy: 4.63%
-Erroneously classified as Unknown: 95.36%
+Erroneously classified as Unknown (multiple): 95.36%
 
 >> Detection of 2000 sentences (average length: 84 chars)
 Accuracy: 21.4%
-Erroneously classified as Unknown: 78.5%, Kazakh: 0.1%
+Erroneously classified as Unknown (multiple): 78.5%, Kazakh: 0.1%
 
