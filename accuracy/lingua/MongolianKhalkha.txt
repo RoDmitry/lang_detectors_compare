@@ -1,4 +1,4 @@
-##### MongolianHalh #####
+##### MongolianKhalkha #####
 
 >>> Accuracy on average: 96.7%
 

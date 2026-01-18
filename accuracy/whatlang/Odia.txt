@@ -1,4 +1,4 @@
-##### OriyaOdia #####
+##### Odia #####
 
 >>> Accuracy on average: 100%
 
