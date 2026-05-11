@@ -10,10 +10,9 @@ use ahash::{AHashMap, AHashSet};
 use alphabet_detector::{ScriptLanguage, UcdScript};
 use fraction::Decimal;
 use itertools::Itertools;
-use langram::{DetectorBuilder as LangramDetectorBuilder, ModelsStorage};
+use langram::{DetectorBuilder as LangramDetectorBuilder, IntoEnumIterator, ModelsStorage};
 use lingua::Language as LinguaLanguage;
 use rayon::iter::{IntoParallelRefIterator, ParallelIterator};
-use strum::IntoEnumIterator;
 use titlecase::titlecase;
 use whatlang::{Detector as WhatlangDetector, Lang as WhatlangLanguage};
 use whichlang::Lang as WhichlangLanguage;
@@ -413,7 +412,7 @@ fn main() {
     );
 
     // Lingua vs Langram
-    let languages: AHashSet<_> = LinguaLanguage::iter()
+    let languages: AHashSet<_> = <LinguaLanguage as strum::IntoEnumIterator>::iter()
         .filter_map(map_lingua)
         .filter(|&l| l != ScriptLanguage::Latin)
         .collect();
